@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.10.10",
+    "typescript": "^5.7.3"
+  },
+  "name": "crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@prismicio/client": "^7.15.1",
+    "@prismicio/helpers": "^2.3.9",
+    "@prismicio/migrate": "^0.0.2",
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "fast-xml-parser": "^5.0.8",
+    "fs": "^0.0.1-security",
+    "lodash.deburr": "^4.1.0",
+    "rehype-parse": "^9.0.1",
+    "rehype-stringify": "^10.0.1",
+    "remark-parse": "^11.0.0",
+    "remark-stringify": "^11.0.0",
+    "tsx": "^4.19.2"
+  }
+}
