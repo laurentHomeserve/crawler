@@ -1,0 +1,32 @@
+{
+  "name": "Concept Habitat Normandie",
+  "description": "",
+  "map_url": "https://goo.gl/maps/BV3vHHiVztoriNaD7",
+  "website_url": "https://www.concept-habitat-normandie.fr",
+  "phone": "(33 2)35052524",
+  "streetAddress": "46 Cours Carnot",
+  "addressLocality": "Elbeuf, France",
+  "postalCode": "F-76500",
+  "addressCountry": "France",
+  "geo": {
+    "lat": "49.28706359863281",
+    "lng": "1.0141807794570923"
+  },
+  "favicon": "https://www.concept-habitat-normandie.fr/asset/CHN/favicon/favicon-32x32.png",
+  "logo": "https://www.concept-habitat-normandie.fr/build/images/logo_concept-habitat-normandie.e7480fc9.png",
+  "image": "",
+  "avis_verifies": "",
+  "piwik_token": "c14b4ca8-1c70-4809-b5cf-f5b397e70f83",
+  "opening_hours": [
+    "Mo, Tu, We, Th, Fr 09:00-17:00"
+  ],
+  "footer_links": [],
+  "socials": [],
+  "sameAs": [
+    "https://www.pagesjaunes.fr/pros/55088961",
+    "https://www.facebook.com/people/Concept-Habitat-Normandie/100057058405484/?locale=fr_CA",
+    "https://www.cylex-locale.fr/entreprises/concept-habitat-normandie-h-m-habitat-11014703.html",
+    "https://fr.mappy.com/poi/52d1df45e4b026bfb8399d25",
+    "https://www.societe.com/etablissement/conviflamme-concept-habitat-normandie-lesage-reseau-energies-ph-energies-50004082900011.html"
+  ]
+}

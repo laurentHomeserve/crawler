@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Qui sommes nous",
+  "seo": {
+    "title": "Qui sommes-nous - Concept Habitat Normandie",
+    "description": "Concept Habitat Normandie est le spécialiste des pompes à chaleur et des systèmes de chauffage et de climatisation. Nous intervenons à Elbeuf et à 25 km alentour.",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Qui sommes-nous - Concept Habitat Normandie",
+      "description": "Concept Habitat Normandie est le spécialiste des pompes à chaleur et des systèmes de chauffage et de climatisation. Nous intervenons à Elbeuf et à 25 km alentour.",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-qui-sommes-nous-456x334.18b8a1a6.jpg",
+        "alt": "Concept Habitat Normandie - votre expert chauffagiste et frigoriste à Elbeuf près de Rouen et Evreux"
+      }
+    }
+  },
+  "hero": {
+    "title": "Concept Habitat Normandie : spécialiste des pompes à chaleur et des chauffe-eaux thermodynamiques et membre du réseau HomeServe",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/concept-habitat-normandie-qui-sommes-nous-456x334.18b8a1a6.jpg",
+      "alt": "Concept Habitat Normandie - votre expert chauffagiste et frigoriste à Elbeuf près de Rouen et Evreux"
+    },
+    "text": "<p>Depuis 2013, Concept Habitat Normandie conçoit, installe et entretient vos installations de chauffage, de production d'eau chaude sanitaire et de climatisation. Notre entreprise assure aussi le dépannage de vos équipements. Implantée à Elbeuf en Seine-Maritime, notre société propose des prestations clés en main et un accompagnement complet, du devis gratuit à la maintenance.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Une expertise : la pompe à chaleur; Un savoir-faire : le chauffage et la climatisation",
+      "text": "<p>Experte en systèmes énergétiques bas carbone, Concept Habitat Normandie vous aide notamment à concrétiser vos projets incluant des pompes à chaleur et des chauffe-eaux thermodynamiques.</p> <p>En 2020, notre entreprise a racheté la société de chauffage Glachant, enrichissant ainsi son offre de services. Cet acteur historique, situé à Elbeuf, affiche un savoir-faire de 50 ans dans la pose et la maintenance de chaudières.&nbsp;Ce qui nous permet aujourd'hui de proposer un large choix d'équipements : chaudières, pompes à chaleur, planchers chauffants, poêles, chauffe-eaux, systèmes solaires thermiques et photovoltaïques et climatisations.&nbsp;</p> <p>Notre équipe sélectionne avec soin les appareils et les matériaux auprès des meilleurs fabricants pour répondre à vos exigences de qualité et de confort.</p>"
+    },
+    {
+      "title": "Membre du réseau HomeServe",
+      "text": "<p>En 2022, Concept Habitat Normandie a rejoint le groupe HomeServe, spécialiste des réparations, des travaux et de l'entretien des équipements de la maison. Avec l'optique d'accompagner nos clients dans la rénovation énergétique de leur logement et de devenir une entreprise de référence en Haute-Normandie.</p> <p><i></i> <span class=\"obflink obflink-text\" data-o=\"L25vdXMtY29udGFjdGVy\">Contactez-nous pour tout renseignement</span></p>"
+    }
+  ]
+}

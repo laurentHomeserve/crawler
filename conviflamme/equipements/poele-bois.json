@@ -1,0 +1,44 @@
+{
+  "breadcrumb": "Poele bois",
+  "seo": {
+    "title": "Poêles à bois écologiques à Caen, Evreux et Rouen",
+    "description": "Découvrez nos nombreux modèles de poêles à bois à Caen, Rouen et Evreux. Nos experts vous conseillent dans le choix de vos équipements de chauffage au bois",
+    "opengraph": {
+      "site_name": "ConviFlamme",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Poêles à bois écologiques à Caen, Evreux et Rouen",
+      "description": "Découvrez nos nombreux modèles de poêles à bois à Caen, Rouen et Evreux. Nos experts vous conseillent dans le choix de vos équipements de chauffage au bois",
+      "image": {
+        "src": "https://www.conviflamme.fr/build/images/conviflamme-equipement-poele-a-bois-456x334.2cdd4da9.jpg",
+        "alt": "Poêle à bois ConviFlamme"
+      }
+    }
+  },
+  "hero": {
+    "title": "Tout savoir sur les poêles à bois",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.conviflamme.fr/build/images/conviflamme-equipement-poele-a-bois-456x334.2cdd4da9.jpg",
+      "alt": "Poêle à bois ConviFlamme"
+    },
+    "text": "<p>Le bois est une énergie renouvelable qui connaît un succès croissant. De nouvelles gammes de poêles écologiques sont apparues sur le marché : ces poêles à bois sont plus performants et rejettent moins de particules, ce qui en fait un équipement idéal soit en chauffage principal, soit en chauffage d'appoint. Vous recherchez un magasin de poêle à bois à <a href=\"https://www.conviflamme.fr/chauffage-caen\" title=\"Chauffage Caen\">Caen</a>, <a href=\"https://www.conviflamme.fr/chauffage-rouen\" title=\"Chauffage Rouen\">Rouen</a> ou Évreux ? ConviFlamme vous accueille dans ses locaux, pour vous présenter les nouveaux modèles. N'hésitez pas à venir rencontrer nos experts.</p>"
+  },
+  "contents": [
+    {
+      "title": "Les avantages du poêle à bois",
+      "text": "<p>On est loin aujourd'hui des anciens poêles au rendement médiocre et qui polluaient beaucoup, sans vraiment chauffer. Les poêles à bois actuels séduisent d'une part par leurs lignes vintage ou design, mais aussi par leurs performances. Dans une maison bien isolée, il est parfaitement possible de se chauffer au bois, à condition de faire installer le modèle de poêle à bois qu'il vous faut.</p> <p>Dans les logements plus anciens, ou moins bien isolés, vous vous servirez plutôt de ce type de poêle comme chauffage d'appoint, par exemple aux intersaisons où il ne fait pas très froid dans la région d'Évreux ou de Caen. Aujourd'hui, vous aurez la possibilité d'opter pour un poêle à bois qui, si celui-ci est programmable, fonctionnera de manière autonome et sécurisée.</p> <p>Vous cherchez un poêle à bois à Barentin ? Contactez ConviFlamme pour l'installation, le dépannage ou l'entretien.</p>"
+    },
+    {
+      "title": "Les différents modèles proposés par votre magasin de chauffage au bois à Rouen ou Caen",
+      "text": "<p>Les poêles à bois vintage sont très appréciés et il n'est pas rare que nos clients nous les réclament dans nos magasins de Caen, de Rouen ou d'Évreux. Ces poêles adoptent des lignes anciennes et classiques, qui conviennent idéalement à des logements de style, tout en vous offrant des performances contemporaines, pour une chaleur agréable et modulable. Sur le créneau des poêles à bois 360 pivotants, aux lignes design, nous pourrons vous proposer plusieurs modèles dans nos magasins de chauffage au bois de Rouen ou de Caen.</p> <p>Pensez à venir les admirer dans notre espace d'exposition ConviFlamme. Vous cherchez une couleur particulière ? Pourquoi pas un poêle à bois blanc qui s'harmonisera avec votre intérieur ? Nous pourrons aussi vous proposer un poêle Ofen 7, un poêle Dovre Astroline 2, un Dovre Sense 403, un Dovre 350 CB, ou encore le superbe poêle aux lignes vintage Maria Luigia de Sergio Leoni.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  },
+  "url": "https://www.conviflamme.fr/equipements/poele-bois"
+}

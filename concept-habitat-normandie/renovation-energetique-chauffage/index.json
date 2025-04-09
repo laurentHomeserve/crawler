@@ -1,0 +1,30 @@
+{
+  "breadcrumb": "Renovation energetique chauffage",
+  "seo": {
+    "title": "Rénovation énergétique : travaux et aides - Concept Habitat Normandie",
+    "description": "Gain de confort, économies d'énergie, patrimoine valorisé... Concept Habitat Normandie vous aide dans vos travaux de rénovation énergétique (chauffage, ventilation...).",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "hero": {
+    "title": "",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "",
+      "alt": ""
+    },
+    "text": ""
+  },
+  "teasers": []
+}

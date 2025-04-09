@@ -1,0 +1,76 @@
+{
+  "breadcrumb": "Installation",
+  "seo": {
+    "title": "Installation de vos systèmes de chauffage au bois",
+    "description": "Vous souhaitez installer un système de chauffage au bois dans l'Eure, en Seine-Maritime et dans le Calvados ? Faites confiance aux experts de Conviflamme.",
+    "opengraph": {
+      "site_name": "ConviFlamme",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Installation de vos systèmes de chauffage au bois",
+      "description": "Vous souhaitez installer un système de chauffage au bois dans l'Eure, en Seine-Maritime et dans le Calvados ? Faites confiance aux experts de Conviflamme.",
+      "image": {
+        "src": "https://www.conviflamme.fr/build/images/conviflamme-installation-456x334.6655cee7.jpg",
+        "alt": "installation d'un chauffage au bois par ConviFlamme"
+      }
+    }
+  },
+  "hero": {
+    "title": "Expert des équipements fonctionnant au bois, nous assurons l'installation de votre chauffage en Normandie",
+    "subtitle": "Comptez sur la qualité des services d'installation de votre chauffagiste dans l'Eure, la Seine-Maritime et le Calvados"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.conviflamme.fr/build/images/conviflamme-installation-456x334.6655cee7.jpg",
+      "alt": "installation d'un chauffage au bois par ConviFlamme"
+    },
+    "text": "<p>Vous avez pour projet de faire installer un système de chauffage à bois (poêle à granulés, cheminée, insert, chaudière…) en Normandie ? Faites appel aux experts ConviFlamme ! Notre entreprise, basée dans le Calvados, en Seine-Maritime et dans l'Eure, est spécialisée dans les chauffages qui fonctionnent aux énergies renouvelables bois Experts en chauffage à bois, nos équipes interviennent dans les 3 départements et étudient vos besoins pour vous offrir la meilleure solution de chauffage.</p><p>Vous pouvez ainsi compter sur notre expérience et notre savoir-faire pour l'intégration de votre système de chauffage à bois ou à granulés dans votre habitation.<br><br>&nbsp;</p>"
+  },
+  "teasers": [
+    {
+      "title": "Une installation soignée et adaptée à vos besoins",
+      "text": "<p>VQu'il s'agisse de la mise en place d'une chaudière à granulés ou d'un poêle à bois dans une maison ou tout autre type d'habitation, nos techniciens vous proposent un plan d'installation conforme à vos exigences et aux contraintes architecturales. L'installation de votre poêle à pellets ou cheminée à insert doit être effectuée de manière à optimiser la restitution de la chaleur sur un maximum de surface habitable.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Quel type de chauffage bois installer en Normandie ?",
+      "text": "<p>Spécialiste du chauffage bois, notre entreprise ConviFlamme vous propose un service d'installation des systèmes suivants :</p><ul style=\"padding: 0.8em;\"><li style=\"padding: 0.2em;\">poêle à granulés (à convection naturelle ou forcée) ;</li><li style=\"padding: 0.2em;\">poêle à bois ;</li><li style=\"padding: 0.2em;\">cheminée à foyer ouvert à granulés ou bois ;</li><li style=\"padding: 0.2em;\">cheminée à insert à granulés ou bois ;</li><li style=\"padding: 0.2em;\">chaudière à granulés.</li></ul>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Achetez et faites installer votre chauffage bois avec ConviFlamme",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Une installation de poêle, cheminée, chaudière et insert en Normandie",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Ce que nos clients pensent de nos prestations d'installation",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"1\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/b6ae26a7-4bd5-0694-b121-1abb7f599ca0/a5b9d96e-603b-428c-8ed3-b085698513a6.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

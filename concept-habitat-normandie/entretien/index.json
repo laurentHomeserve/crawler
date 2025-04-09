@@ -1,0 +1,112 @@
+{
+  "breadcrumb": "Entretien",
+  "seo": {
+    "title": "Entretien chauffage et climatisation - Concept Habitat Normandie",
+    "description": "Profitez pleinement et longtemps de vos installations. Confiez-nous l'entretien de votre chauffage, de votre chauffe-eau et de votre climatisation.",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Entretien chauffage et climatisation - Concept Habitat Normandie",
+      "description": "Profitez pleinement et longtemps de vos installations. Confiez-nous l'entretien de votre chauffage, de votre chauffe-eau et de votre climatisation.",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-entretien-456x334.2734e64d.jpg",
+        "alt": "entretien vos appareils de chauffage et climatisation dans la Seine Maritime (76)"
+      }
+    }
+  },
+  "hero": {
+    "title": "Pour concilier efficacité et longévité, pensez à l'entretien de vos installations de chauffage, de chauffe-eau et de climatisation",
+    "subtitle": "Concept Habitat Normandie à votre service pour assurer l'entretien de vos systèmes de chauffage et climatisation"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-entretien-456x334.2734e64d.jpg",
+      "alt": "entretien vos appareils de chauffage et climatisation dans la Seine Maritime (76)"
+    },
+    "text": "<p>Réaliser une maintenance régulière de vos équipements est indispensable pour garantir leur fonctionnement et leurs performances. Cela permet aussi de limiter les pannes, d'allonger leur durée de vie et d'assurer la sécurité du logement et de ses occupants (réduction des risques d'intoxication au monoxyde de carbone). Depuis 2009, l'entretien est une obligation légale pour certains appareils, comme les chaudières et les pompes à chaleur (PAC), dont la puissance est comprise entre 4 et 400 kW. Il doit être effectué par un technicien chauffagiste.</p><p>Ce professionnel connaît les caractéristiques de chaque équipement et les opérations à réaliser. Pour assurer l'entretien de votre chauffage, de votre chauffe-eau ou de votre climatisation, faites appel à Concept Habitat Normandie. Nous proposons des prestations forfaitaires pour une intervention ponctuelle et des contrats de maintenance annuels.</p>"
+  },
+  "teasers": [
+    {
+      "title": "Entretien d'une chaudière à gaz",
+      "text": "<p>Une chaudière à gaz doit être contrôlée chaque année. Cela permet de vérifier l'état de l'équipement, de le nettoyer, de le vidanger si nécessaire et d'ajuster les réglages. Le technicien spécialisé mesure également le taux de monoxyde de carbone. Une attestation de conformité est fournie à l'issue de la visite d'entretien. Elle récapitule les opérations de contrôle réalisées et peut mentionner des conseils sur l'usage ou sur les améliorations à apporter à l'installation.</p>",
+      "link": {
+        "href": "/entretien/chaudieres-gaz",
+        "text": "Entretien d'une chaudière à gaz",
+        "title": "entretien de votre chaudière gaz dans le 76"
+      }
+    },
+    {
+      "title": "Entretien d'une chaudière au fioul",
+      "text": "<p>De la même manière, il est obligatoire de faire examiner tous les ans par un chauffagiste une chaudière au fioul. Cette intervention a pour but de contrôler le fonctionnement, les performances et la sécurité de votre appareil.</p>",
+      "link": {
+        "href": "/entretien/chaudieres-fioul",
+        "text": "Entretien d'une chaudière au fioul",
+        "title": "faite entretenir votre chaudière fioul à Elbeuf"
+      }
+    },
+    {
+      "title": "Entretien d'une chaudière au bois",
+      "text": "<p>La maintenance sur une chaudière au bois bûches, granulés ou biomasse comprend un nettoyage complet de l'équipement et une vérification minutieuse des paramètres. Elle permet de mesurer les émissions de polluants et d'optimiser le rendement de l'appareil, ainsi que sa longévité.</p>",
+      "link": {
+        "href": "/entretien/chaudieres-biomasse",
+        "text": "Entretien d'une chaudière au bois",
+        "title": "maintenance de votre chaudière granulés, bois dans le 76"
+      }
+    },
+    {
+      "title": "Entretien d'une pompe à chaleur",
+      "text": "<p>Depuis juillet 2020, il est obligatoire de faire contrôler toute pompe à chaleur affichant une puissance de 4 à 70 kW. L'examen doit être effectué au maximum tous les deux ans. Toutefois, il est fortement conseillé de procéder à un contrôle annuel. Seule solution pour vérifier l'étanchéité du circuit du fluide caloporteur et maintenir les performances énergétiques.</p><p>Notre entreprise peut prendre en charge la maintenance de votre PAC air-eau ou de votre PAC hybride.</p>",
+      "link": {
+        "href": "/entretien/pompes-a-chaleur",
+        "text": "Entretien d'une pompe à chaleur",
+        "title": "entretien de votre pompe à chaleur à Rouen"
+      }
+    },
+    {
+      "title": "Entretien des planchers chauffants",
+      "text": "<p>Un plancher chauffant hydraulique se doit d'être vérifié 5 ans après la création, puis tous les 5 à 10 ans. L'intervention consiste à un désembouage du circuit d'eau et des radiateurs à eau chaude.</p>",
+      "link": {
+        "href": "/entretien/planchers-chauffants",
+        "text": "Entretien d'un plancher chauffant",
+        "title": "entretenir votre plancher chauffant"
+      }
+    },
+    {
+      "title": "Entretien des poêles",
+      "text": "<p>Pour éviter l'encrassement et la surconsommation de combustible, il est essentiel de nettoyer et de contrôler un poêle à granulés ou au bois. L'opération permet aussi de garantir le bon fonctionnement de l'appareil et la sécurité des personnes.</p><p>Deux ramonages par an sont indispensables. Ils font partie des obligations réglementaires fixées par arrêté préfectoral ou municipal.</p>",
+      "link": {
+        "href": "/entretien/poeles-granules-bois",
+        "text": "Entretien d'un poêle",
+        "title": "maintenance des poeles dans le 76 et le 27, agence à Elbeuf"
+      }
+    },
+    {
+      "title": "Entretien du chauffe-eau",
+      "text": "<p>Entretenir un chauffe-eau est incontournable pour maximiser son temps de chauffe et réduire sa consommation d'énergie. Qu'il fonctionne au gaz, à l'électricité ou à l'énergie solaire, cet appareil requiert une maintenance régulière (détartrage, contrôle d'étanchéité...).</p>",
+      "link": {
+        "href": "/entretien/chauffe-eaux-chauffe-bains",
+        "text": "Entretien d'un chauffe-eau",
+        "title": "penser à entretenir votre chauffe-eau"
+      }
+    },
+    {
+      "title": "Entretien de la climatisation",
+      "text": "<p>Pour profiter pleinement de votre installation et d'une qualité d'air optimale, il est préconisé de réaliser un examen régulier de la climatisation. Celui-ci est obligatoire dès lors que l'appareil présente une puissance supérieure à 12 kW et doit s'effectuer tous les deux ans.</p><p>Nous intervenons pour la maintenance de votre PAC air- air, de votre climatisation split ou de votre climatisation gainable.</p>",
+      "link": {
+        "href": "/entretien/climatisations",
+        "text": "Entretien d'une climatisation",
+        "title": "maintenance de votre climatisation à Elbeuf (76)"
+      }
+    },
+    {
+      "title": "Nos clients donnent leur avis sur nos prestations d'entretien",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/6ff8d04c-e330-99f4-1130-6220f2dd4bd6/f453e047-e826-4da9-8018-65c0d68965c8.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

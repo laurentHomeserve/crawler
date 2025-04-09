@@ -1,0 +1,47 @@
+{
+  "breadcrumb": "Conviflamme evreux",
+  "seo": {
+    "title": "Spécialiste du chauffage au bois à Evreux | Conviflamme",
+    "description": "Vous souhaitez concrétiser un projet de chauffage au bois dans le secteur d'Evreux ? Ne cherchez plus, votre agence ConviFlamme de Normanville est à votre écoute !",
+    "opengraph": {
+      "site_name": "ConviFlamme",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Spécialiste du chauffage au bois à Evreux | Conviflamme",
+      "description": "Vous souhaitez concrétiser un projet de chauffage au bois dans le secteur d'Evreux ? Ne cherchez plus, votre agence ConviFlamme de Normanville est à votre écoute !",
+      "image": {
+        "src": "https://www.conviflamme.fr/build/images/conviflamme-agence-evreux-456x334.a2b63ae4.jpg",
+        "alt": "ConviFlamme - Evreux"
+      }
+    }
+  },
+  "hero": {
+    "title": "Votre agence ConviFlamme à Évreux : le bois, notre spécialité !",
+    "subtitle": "Vente, installation, entretien ou dépannage de votre installation de chauffage au bois : nous sommes à votre écoute !"
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/conviflamme-agence-evreux-456x334.a2b63ae4.jpg",
+      "alt": "ConviFlamme - Evreux"
+    },
+    "text": "<p>Vous recherchez une entreprise qualifiée pour faire poser un poêle à bois ou une chaudière à pellets dans le secteur d'<a href=\"https://www.conviflamme.fr/chauffage-evreux\" title=\"Chauffage Evreux\">Evreux</a> ? Ne cherchez plus, votre agence ConviFlamme de Normanville est à votre écoute !</p>"
+  },
+  "contents": [
+    {
+      "title": "Les produits proposés par votre chauffagiste à Évreux",
+      "text": "<p>En tant que spécialiste du chauffage au bois dans tout le département de l'Eure, nous vous proposons ce qu'il se fait de mieux dans ce domaine. Ce n'est pas pour rien que de nombreuses entreprises et de nombreux particuliers nous ont fait confiance pour la réalisation de leurs travaux de rénovation et d'amélioration énergétique !</p> <p>Afin de toujours plus vous satisfaire, nous vous proposons un grand choix de produits. Qu'il s'agisse de choisir un poêle à bois ou à granulés, une chaudière à granulés, un insert bois ou granulés ou encore une cheminée à bois ou à granulés, votre chauffagiste d'Évreux dispose de l'offre de vos rêves !</p> <p>Avec ConviFlamme, il n'y a pas de compromis entre le rapport qualité/prix et le style ! C'est pourquoi nous travaillons seulement avec les plus grands fabricants de ce type de solutions de chauffage.</p> <p>Quel que soit votre projet (installation, remplacement ou rénovation), nous saurons répondre présent. N'hésitez pas à nous contacter ou à venir nous rencontrer dans notre espace d'Evreux afin que nous étudions ensemble votre souhait.</p>"
+    },
+    {
+      "title": "Notre expertise sur le chauffage au bois",
+      "text": "<p>À Évreux, le bois c'est l'avenir avec ConviFlamme ! C'est pourquoi, nous sommes en mesure d'intervenir pour tous vos besoins dans le domaine du chauffage au bois. Nous vendons, installons, remplaçons, entretenons et dépannons les poêles à bois, les chaudières bois, les inserts et les cheminées à Éveux.</p> <p>Nos collaborateurs sont expérimentés et régulièrement formés afin d'intervenir sur toutes les marques et les modèles de chauffage au bois. Nous nous engageons à vous offrir une prestation de qualité, rapide, efficace et soignée.</p> <p>Par exemple, en cas de panne sur votre chaudière à granulés, nous intervenons sous 24 à 48 heures ; le cas échéant, en raison de nos partenariats avec les plus grandes marques, nous pouvons assurer le remplacement de pièces défectueuses ou abîmées par celles d'origine.</p> <p>De même, à l'instar des autres systèmes de chauffage, les installations de chauffage bois requièrent un entretien régulier. Cette maintenance n'est pas seulement une obligation légale, elle permet aussi de prolonger la durée de vie de votre installation et de lui assurer un rendement optimal. C'est pourquoi, nous vous proposons aussi des forfaits entretien tout inclus. Le moment venu, nous vous contacterons pour prendre rendez-vous et nous interviendrons chez vous pour vérifier et nettoyer scrupuleusement votre installation. Vous n'avez à vous soucier de rien !</p>"
+    },
+    {
+      "title": "Visite virtuelle de notre showroom à Evreux",
+      "text": "<p style=\"text-align: center;\"><iframe style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sfr!4v1491235631611!6m8!1m7!1s4thUI0rqIe4AAAQ3gDoobQ!2m2!1d49.05808605220902!2d1.168550352354714!3f340!4f0!5f0.7820865974627469\" width=\"800\" height=\"600\"></iframe></p>"
+    },
+    {
+      "title": "Nos secteurs d'intervention dans l'Eure (département 27)",
+      "text": "<p>ConviFlamme à Normanville est à votre service pour assurer la pose de la cheminée à Évreux de vos rêves, le dépannage de votre chaudière à granulés à Vernon ou encore l'installation de votre insert à <a href=\"https://www.conviflamme.fr/chauffage-louviers\" title=\"Chauffage Louviers\">Louviers</a>. Nous intervenons également sur les villes de <a href=\"https://www.conviflamme.fr/chauffage-val-de-reuil\" title=\"Chauffage Val De Reuil\">Val-de-Reuil</a>, Gisors, Pont-Audemer et Bernay.</p> <p>Pour les projets situés en Seine-Maritime, contactez notre agence du Havre, et pour ceux dans le Calvados, notre agence de <a href=\"https://www.conviflamme.fr/chauffage-caen\" title=\"Chauffage Caen\">Caen</a> est vouée à votre service.</p>"
+    }
+  ]
+}

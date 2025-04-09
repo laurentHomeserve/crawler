@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Zones intervention",
+  "seo": {
+    "title": "Nos zones d'intervention - Concept Habitat Normandie",
+    "description": "Spécialistes des pompes à chaleur, nous intervenons sur Elbeuf et dans un rayon de 25 km autour dans les communes du Neubourg, d'Évreux ou de Louviers.",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Nos zones d'intervention - Concept Habitat Normandie",
+      "description": "Spécialistes des pompes à chaleur, nous intervenons sur Elbeuf et dans un rayon de 25 km autour dans les communes du Neubourg, d'Évreux ou de Louviers.",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-zone-intervention-456x334.6354aeff.jpg",
+        "alt": "Zone d'intervention dans la Normandie - Concept Habitat Normandie"
+      }
+    }
+  },
+  "hero": {
+    "title": "Zones d'intervention de Concept Habitat Normandie",
+    "subtitle": "Nous intervevons dans un rayon de plus de 25 km autour de Elbeuf"
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/concept-habitat-normandie-zone-intervention-456x334.6354aeff.jpg",
+      "alt": "Zone d'intervention dans la Normandie - Concept Habitat Normandie"
+    },
+    "text": "<p>L'expert en pompe à chaleur Concept Habitat Normandie assure des travaux d'installation, d'entretien et de dépannage sur Elbeuf et les communes avoisinantes. Notre entreprise locale peut ainsi intervenir pour la pose de chaudière, de chauffe-eau ou d'équipement solaire thermique à Évreux, à Tourville-la-Rivière ou encore au Neubourg.</p> <p>Nous présentons aussi au sein de notre showroom quelques-uns de nos équipements-phares sélectionnés chez des fabricants de renom. Tels que Viessmann, Atlantic, Hitachi, Saunier Duval ou encore Thermor.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Un rayon d'action de 25 km autour de Elbeuf",
+      "text": "<p>Pour l'installation, la maintenance et le dépannage de vos équipements de chauffage, de production d'eau chaude sanitaire et de climatisation, vous pouvez compter sur nos techniciens. Nous intervenons sur Elbeuf et dans un rayon de 25 km autour dans les communes suivantes : Le Neubourg, Bourgtheroulde-Infreville, Louviers, Bourg-Achard, Pont-de-l'Arche, Grand-Couronne, Oissel, La Londe, Évreux, Pacy-sur-Eure...</p> <p>Votre ville ne figure pas dans cette liste ? N'hésitez pas à nous appeler pour savoir si nos équipes se déplacent dans votre localité.</p> <hr>"
+    },
+    {
+      "title": "Un acteur de proximité et qualifié implanté à Elbeuf",
+      "text": "<p>Notre équipe administrative vous accueille dans nos locaux situés à Elbeuf du lundi au vendredi. Informations, conseils, prise de rendez-vous... Elle veille à répondre à toutes vos demandes.</p> <p id=\"map\" style=\"height:500px; margin-top:30px; margin-bottom:30px;\"></p> <p><i></i> <span class=\"obflink obflink-text\" data-o=\"L25vdXMtY29udGFjdGVy\">Contactez-nous pour plus de renseignements</span></p>"
+    }
+  ]
+}

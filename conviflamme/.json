@@ -1,0 +1,35 @@
+{
+  "breadcrumb": "",
+  "seo": {
+    "title": "ConviFlamme - Votre expert en chauffage à bois et granulés en Normandie",
+    "description": "Conviflamme votre expert en chauffage à bois et granulés vous accompagne dans la mise en place de vos installations de chauffage à Evreux, Rouen, Caen et dans toute la Normandie",
+    "opengraph": {
+      "site_name": "ConviFlamme",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "ConviFlamme - Votre expert en chauffage à bois et granulés en Normandie",
+      "description": "Conviflamme votre expert en chauffage à bois et granulés vous accompagne dans la mise en place de vos installations de chauffage à Evreux, Rouen, Caen et dans toute la Normandie",
+      "image": {
+        "src": "https://www.conviflamme.fr/asset/img/organisation/corporate/conviflamme/chauffagiste-conviflamme.jpg",
+        "alt": ""
+      }
+    }
+  },
+  "hero": {
+    "title": "",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "",
+      "alt": ""
+    },
+    "text": ""
+  },
+  "contents": [],
+  "related": {
+    "title": "",
+    "links": []
+  },
+  "url": "https://www.conviflamme.fr/"
+}

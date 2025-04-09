@@ -71,7 +71,7 @@ export interface Presentation {
 
 export interface Menu {
     link: Link;
-    subMenu: Array<Link>;
+    categories: Array<Category>;
 }
 
 export interface Homepage {
@@ -192,4 +192,10 @@ export interface Brand {
     footer_links: Array<Link>;
     socials: Array<Link>;
     sameAs: Array<string>;
+}
+
+export interface Category {
+    title: string;
+    link: Link|null;
+    subLinks: Array<Link>;
 }

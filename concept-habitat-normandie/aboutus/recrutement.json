@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Recrutement",
+  "seo": {
+    "title": "Recrutement - Concept Habitat Normandie",
+    "description": "Concept Habitat Normandie, spécialiste du chauffage et de la climatisation, recrute ! Rejoignez une entreprise dynamique en pleine évolution. ",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Recrutement - Concept Habitat Normandie",
+      "description": "Concept Habitat Normandie, spécialiste du chauffage et de la climatisation, recrute ! Rejoignez une entreprise dynamique en pleine évolution. ",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-recrutement-456x334.0c7264c3.jpg",
+        "alt": "Nos offres plombier chauffagiste et frigoriste dans la métropole Rouennaise"
+      }
+    }
+  },
+  "hero": {
+    "title": "Concept Habitat Normandie recrute",
+    "subtitle": "Sens de l'équipe et du collectif sont vos valeurs ? Ce sont les nôtres aussi ! Rejoignez-nous !"
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/concept-habitat-normandie-recrutement-456x334.0c7264c3.jpg",
+      "alt": "Nos offres plombier chauffagiste et frigoriste dans la métropole Rouennaise"
+    },
+    "text": "<p>Vous êtes technicien ou plombier de maintenance ? Frigoriste, plombier chauffagiste ou encore poseur de poêle ? Rejoignez Concept Habitat Normandie ! Notre entreprise, experte dans les solutions de chauffage et dans les climatisations, recherche en permanence des professionnels en CDI ou CDD pour soutenir son activité et son développement.&nbsp;</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Les métiers que nous recherchons",
+      "text": "<p>Concept Habitat Normandie, implantée à Elbeuf, recrute en priorité les profils suivants :</p> <ul> <li>des techniciens chauffagistes</li> <li>des plombiers chauffagistes</li> <li>des frigoristes</li> <li>des poseurs de poêles,</li> <li>des ramoneurs</li> <li>des techniciens de maintenance...</li> </ul> <p>Nous publions régulièrement des offres d'emploi en fonction de nos besoins et de l'évolution de notre activité. Toutefois, vous pouvez à tout moment nous adresser directement votre candidature spontanée.</p> <hr>"
+    },
+    {
+      "title": "Une entreprise en pleine évolution",
+      "text": "<p>Vous êtes à la recherche d'un emploi stable dans le domaine des solutions de chauffage et de climatisation ? Rejoignez une entreprise en pleine croissance et au savoir-faire reconnu.</p> <p>Notre société est notamment experte dans l'installation et l'entretien des systèmes énergétiques bas carbone du type pompes à chaleur et chauffe-eaux thermodynamiques. Elle intervient aussi dans la pose d'équipements traditionnels (chaudière à gaz, plancher chauffant, poêle à bois et à granulés...). Elle assure également des prestations d'assistance et de dépannage.</p>"
+    }
+  ]
+}

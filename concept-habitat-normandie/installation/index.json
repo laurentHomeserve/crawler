@@ -1,0 +1,112 @@
+{
+  "breadcrumb": "Installation",
+  "seo": {
+    "title": "Installation de chauffage et de climatisation - Concept Habitat Normandie",
+    "description": "Pour réaliser vos installations de chauffage à Elbeuf et aux alentours, de chauffe-eau et de climatisation, adressez–vous à Concept Habitat Normandie.",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Installation de chauffage et de climatisation - Concept Habitat Normandie",
+      "description": "Pour réaliser vos installations de chauffage à Elbeuf et aux alentours, de chauffe-eau et de climatisation, adressez–vous à Concept Habitat Normandie.",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-installation-456x334.4c722e28.jpg",
+        "alt": "Etude et installation d'un système de chauffage à Elbeuf - 27"
+      }
+    }
+  },
+  "hero": {
+    "title": "Concept Habitat Normandie réalise vos installations de chauffage, de chauffe-eau et de climatisation",
+    "subtitle": "Les experts de Concept Habitat Normandie vous accompagnent dans votre projet de chauffage et de climatisation "
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-installation-456x334.4c722e28.jpg",
+      "alt": "Etude et installation d'un système de chauffage à Elbeuf - 27"
+    },
+    "text": "<p>Équiper votre maison neuve, effectuer des travaux de rénovation énergétique, améliorer votre confort thermique, remplacer un équipement défaillant... Nous nous activons à vos côtés pour concrétiser votre projet, quel qu'il soit. Attentifs à vos attentes, nous élaborons des solutions de chauffage, de production d'eau chaude sanitaire et/ou de climatisation sur mesure et personnalisées. Nous dimensionnons les installations selon la surface du logement et les besoins de votre foyer.</p><p>Nous vous accompagnons aussi dans le choix des équipements (pompe à chaleur, chaudière, chauffe-eau...) en respectant vos envies (pilotage à distance, rendements énergétiques élevés, énergie renouvelable..). Nous vous guidons enfin dans vos demandes d'aides financières (CEE, MaPrimeRénov', éco-prêt à taux zéro...).</p>"
+  },
+  "teasers": [
+    {
+      "title": "Installation d'une chaudière gaz",
+      "text": "<p>Les chaudières à gaz de dernière génération du type basse température ou à condensation assurent une chaleur homogène et un bon rendement énergétique. Nous installons des équipements des marques Saunier Duval et Viessmann reconnus pour leurs performances.</p>",
+      "link": {
+        "href": "/installation/chaudieres-gaz",
+        "text": "Installation d'une chaudière à gaz",
+        "title": "installer une chaudière gaz à Elbeuf"
+      }
+    },
+    {
+      "title": "Installation d'une chaudière biomasse",
+      "text": "<p>Les chaudières biomasses sont efficaces, écologiques et économiques car elles utilisent du bois et des granulés, l'énergie la moins chère actuellement. Elles s'appuient sur un réseau hydraulique (existant ou à créer) pour chauffer l'ensemble de l'habitation.</p>",
+      "link": {
+        "href": "/installation/chaudieres-biomasses",
+        "text": "Installation d'une chaudière biomasse",
+        "title": "installer une chaudière gaz à Elbeuf"
+      }
+    },
+    {
+      "title": "Installation d'une pompe à chaleur",
+      "text": "<p>Les pompes à chaleur air-eau se servent d'une énergie renouvelable et disponible partout (les calories présentes dans l'air) pour alimenter le circuit de chauffage du logement. Les pompes à chaleur (PAC) hybrides rassemblent deux technologies performantes : la pompe à chaleur et la chaudière gaz à condensation. Nous sélectionnons des équipements de qualité parmi les fabricants Atlantic, Mitsubishi et Hitachi.</p>",
+      "link": {
+        "href": "/installation/pompes-a-chaleur",
+        "text": "Installation d'une pompe à chaleur",
+        "title": "installer une chaudière gaz à Elbeuf"
+      }
+    },
+    {
+      "title": "Installation des planchers chauffants",
+      "text": "<p>Nous proposons des solutions de chauffage complètes intégrant l'appareil producteur de chaleur (chaudière, pompe à chaleur...) et les émetteurs. Pour vos projets de construction ou de rénovation globale, nous pouvons créer un plancher chauffant hydraulique sur mesure. Ce dernier a l'avantage de garantir une chaleur douce, constante et uniforme.</p>",
+      "link": {
+        "href": "/entretien/planchers-chauffants",
+        "text": "Installation d'un plancher chauffant",
+        "title": "installer une chaudière gaz à Elbeuf"
+      }
+    },
+    {
+      "title": "Installation d'un poêle à granulés",
+      "text": "<p>Écologiques, les poêles à granulés assurent de réelles économies d'énergie. Ils s'installent généralement en complément du chauffage central de l'habitation. Nous vous réservons les modèles à hauts rendements du fabricant&nbsp;MCZ.</p>",
+      "link": {
+        "href": "/installation/poeles-granules",
+        "text": "Installation d'un poêle à granulés",
+        "title": "installer un poêle à granulés à Elbeuf"
+      }
+    },
+    {
+      "title": "Installation d'un poêle à bois",
+      "text": "<p>Pratiques, performants et agréables à utiliser, les poêles à bois font partie des modes de chauffage les plus populaires. Ils permettent de réduire la facture énergétique, tout en améliorant le confort thermique.&nbsp;Notre catalogue comprend les appareils des marques LORFLAM, Dovre Fire, STORCH, SAEY et Denia.</p>",
+      "link": {
+        "href": "/installation/poeles-bois",
+        "text": "Installation d'un poêle à bois",
+        "title": "installer un poêle à bois à Elbeuf dans le 76"
+      }
+    },
+    {
+      "title": "Installation d'un chauffe-eau",
+      "text": "<p>Pour répondre à vos besoins en eau chaude sanitaire, nous nous chargeons de la pose de votre chauffe-eau. Nous pouvons vous guider vers l'équipement le plus adapté à vos attentes et à votre logement.</p><ul><li>Le chauffe-bain au gaz est intéressant si vous êtes relié au réseau de distribution du gaz.</li><li>Le chauffe-eau électrique standard est l'appareil le plus répandu.&nbsp;</li><li>Le chauffe-eau thermodynamique intègre une pompe à chaleur et une résistance électrique.&nbsp; &nbsp;</li><li>Le chauffe-eau solaire comprend des capteurs solaires thermiques qui chauffent l'eau du cumulus.</li></ul>",
+      "link": {
+        "href": "/entretien/chauffe-eaux-chauffe-bains",
+        "text": "Installation d'un chauffe-eau",
+        "title": "installer un chauffe eau à Elbeuf près Rouen"
+      }
+    },
+    {
+      "title": "Installation d'une climatisation",
+      "text": "<p>Pour évoluer dans un logement frais en été, plusieurs options s'offrent à vous. Nous pouvons installer une pompe à chaleur air-air ou bien un système de climatisation split (avec une unité extérieure reliée à un ou plusieurs blocs intérieurs) ou gainable.</p>",
+      "link": {
+        "href": "/installation/climatisations",
+        "text": "Installation d'une climatisation",
+        "title": "installer un système de climatisation à Elbeuf"
+      }
+    },
+    {
+      "title": "Nos clients donnent leur avis sur nos prestations d'installation",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/6ff8d04c-e330-99f4-1130-6220f2dd4bd6/f453e047-e826-4da9-8018-65c0d68965c8.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

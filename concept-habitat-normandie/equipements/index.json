@@ -1,0 +1,112 @@
+{
+  "breadcrumb": "Equipements",
+  "seo": {
+    "title": "Équipements chauffage et climatisation - Concept Habitat Normandie",
+    "description": "Pour vos équipements de chauffage et de climatisation, reposez-vous sur le spécialiste Concept Habitat Normandie. Conseils, installation et entretien.",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Équipements chauffage et climatisation - Concept Habitat Normandie",
+      "description": "Pour vos équipements de chauffage et de climatisation, reposez-vous sur le spécialiste Concept Habitat Normandie. Conseils, installation et entretien.",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-equipement-456x334.919c5743.jpg",
+        "alt": "Equipements de chauffage et de climatisation toutes les solutions de Concept Habitat Normandie à Elbeuf"
+      }
+    }
+  },
+  "hero": {
+    "title": "Les différents équipements de chauffage et de climatisation proposés par votre spécialiste Concept Habitat Normandie",
+    "subtitle": "Conseil, installation, entretien et dépannage de tous les systèmes de chauffage et climatisation à Elbeuf, Le Neubourg, Louviers, Rouen ..."
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-equipement-456x334.919c5743.jpg",
+      "alt": "Equipements de chauffage et de climatisation toutes les solutions de Concept Habitat Normandie à Elbeuf"
+    },
+    "text": ""
+  },
+  "teasers": [
+    {
+      "title": "Chaudières gaz fioul",
+      "text": "<p>Les chaudières à gaz ou au fioul sont des appareils de chauffage par combustion. Elles brûlent du gaz ou du fioul pour produire de la chaleur.&nbsp;Ces chaudières sont reliées au réseau d'eau de chauffage (voire d'eau chaude sanitaire) de l'habitation. Elles peuvent alimenter ensuite deux types d'émetteurs : des radiateurs à eau ou un plancher chauffant hydraulique.</p>  <hr>",
+      "link": {
+        "href": "/equipements/chaudieres-gaz-fioul",
+        "text": "Découvrez nos chaudières gaz",
+        "title": "equipements chaudieres gaz et fioul"
+      }
+    },
+    {
+      "title": "Chaudières biomasses",
+      "text": "<p>Les chaudières biomasses fonctionnent avec des matières organiques végétales, le plus souvent de bois sous différentes formes : bûches, granulés, écorces... Ces chaudières dépendent aussi d'un réseau de chauffage hydraulique, existant ou à créer.</p>  <a href=\"/equipements/chaudieres-biomasse\" title=\"equipements chaudieres biomasse\">Découvrez nos chaudières biomasse</a> <hr>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Pompes à chaleur",
+      "text": "<p>Les pompes à chaleur (PAC) retiennent les calories présentes naturellement dans l'air extérieur (modèles aérothermiques) ou bien dans le sol ou l'eau (systèmes géothermiques).</p> <p>Nous installons :</p> <ul> <li>la PAC air-eau : elle puise les calories à l'extérieur et les réinjecte après les avoir compressées dans le circuit d'eau du chauffage. Elle peut alimenter un plancher chauffant hydraulique, des radiateurs à eau, des ventilo-convecteurs à eau et un ballon d'eau chaude sanitaire.&nbsp;</li> <li>la PAC hybride : elle combine deux équipements (pompe à chaleur air-eau et chaudière à gaz) et utilise deux énergies pour assurer le chauffage.</li> </ul>  <hr>",
+      "link": {
+        "href": "/equipements/pompes-a-chaleur",
+        "text": "Découvrez nos pompes à chaleur",
+        "title": "nos différentes pompe à chaleur"
+      }
+    },
+    {
+      "title": "Planchers chauffants",
+      "text": "<p>Les planchers chauffants assurent une chaleur par rayonnement. Ils peuvent utiliser l'eau comme liquide caloporteur ou fonctionner à partir d'une résistance électrique.&nbsp;Nous posons uniquement des chauffages au sol hydrauliques.</p>  <hr>",
+      "link": {
+        "href": "/equipements/planchers-chauffants",
+        "text": "Consultez nos solutions pour un plancher chauffant",
+        "title": "equipement planchers chauffants"
+      }
+    },
+    {
+      "title": "Poêles à granulés",
+      "text": "<p>Les poêles à granulés ou à pellets créent de la chaleur à partir d'un combustible renouvelable. Les granulés sont fabriqués avec des résidus de bois, à savoir des sciures et des copeaux.</p>  <hr>",
+      "link": {
+        "href": "/equipements/poeles-granules",
+        "text": "Découvrez nos poêles à granulés",
+        "title": "tout sur les poêles à granulés, pellets"
+      }
+    },
+    {
+      "title": "Poêles à bois",
+      "text": "<p>Plus traditionnels, les poêles à bois fonctionnent avec des bûches.</p> <p> </p>  <hr>",
+      "link": {
+        "href": "/equipements/poeles-bois",
+        "text": "Parcourez nos poêles à bois",
+        "title": "tout sur les poêles à bois"
+      }
+    },
+    {
+      "title": "Chauffe-eaux",
+      "text": "<p>Il existe plusieurs solutions pour la production d'eau chaude sanitaire d'un foyer. Voici les chauffe-eaux que nous vous réservons :</p> <ul> <li>le chauffe-bain au gaz : il se sert de la combustion du gaz pour chauffer l'eau ;</li> <li>le cumulus électrique : il est doté d'une résistance électrique qui porte à température l'eau ;</li> <li>le chauffe-eau thermique solaire : il est couplé à des capteurs solaires thermiques posés en toiture. Ceux-ci retiennent les calories de l'énergie solaire grâce au fluide caloporteur. Le liquide chaud circule ensuite dans le ballon et réchauffe l'eau.</li> </ul>  <hr>",
+      "link": {
+        "href": "/equipements/chauffe-eaux-chauffe-bains",
+        "text": "Attardez-vous sur nos modèles de chauffe-eau",
+        "title": "les différents chauffe-eaux"
+      }
+    },
+    {
+      "title": "Solaire thermique et photovoltaïque",
+      "text": "<p>Nous proposons plusieurs équipements solaires thermiques et photovoltaïques.</p> <ul> <li>Les panneaux solaires thermiques produisent de la chaleur via les calories générées par le soleil. Ils peuvent être utilisés pour le chauffage et/ou pour la production d'eau chaude sanitaire.</li> <li>Les panneaux photovoltaïques, quant à eux, procurent de l'électricité grâce au rayonnement du soleil.</li> </ul>  <hr>",
+      "link": {
+        "href": "/equipements/panneaux-solaires-thermiques-photovoltaiques",
+        "text": "Passez en revue nos équipements solaires thermiques et photovoltaïques.",
+        "title": "nos solutions de panneaux solaires"
+      }
+    },
+    {
+      "title": "Climatisations (pac air-air)",
+      "text": "<p>Nos solutions de climatisation servent à rafraîchir l'habitat en été et à améliorer le confort.</p> <ul> <li>Les PAC air-air réversibles capturent la chaleur intérieure et la rejettent à l'extérieur, servant ainsi de climatisation. Elles s'utilisent en hiver comme moyen de chauffage, en inversant le système.</li> <li>La climatisation split comprend au minimum deux unités (une à l'extérieur et une ou plusieurs à l'intérieur. C'est ce qu'on appelle monosplit ou multisplit).</li> <li>La climatisation gainable repose sur un réseau de gaines, installé dans les combles, dans les murs ou dans un faux-plafond, et sur des bouches d'aération.</li> </ul> ",
+      "link": {
+        "href": "/equipements/climatisations",
+        "text": "Découvrez nos climatisations réversibles",
+        "title": "nos solutions de climatisations"
+      }
+    }
+  ]
+}

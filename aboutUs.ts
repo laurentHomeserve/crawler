@@ -9,8 +9,8 @@ export function getAboutUsMenu(content: string): Array<Link>  {
     let links: Array<Link> = [];
     
     $('ul.nav li#dropdown-right').toArray().map((el) => {
-        
-        if ($(el).find('p').text() === 'Qui sommes-nous ?') {
+        if ($(el).find('p').first().text() === 'Qui sommes-nous ?') {
+            
             $(el).find('li a').toArray().map((elem) => {
                 links.push({
                     text: $(elem).text(),

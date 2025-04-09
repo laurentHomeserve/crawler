@@ -1,0 +1,145 @@
+{
+  "breadcrumb": "",
+  "seo": {
+    "title": "Un chauffagiste expert à Elbeuf - Concept Habitat Normandie",
+    "description": "Pour l'installation, l'entretien ou le dépannage de votre chauffage ou de votre climatisation, appuyez-vous sur un expert local à Elbeuf : Concept Habitat Normandie.",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Un chauffagiste expert à Elbeuf - Concept Habitat Normandie",
+      "description": "Pour l'installation, l'entretien ou le dépannage de votre chauffage ou de votre climatisation, appuyez-vous sur un expert local à Elbeuf : Concept Habitat Normandie.",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/asset/img/organisation/corporate/cdn/chauffagiste-concept-habitat-normandie.jpg",
+        "alt": ""
+      }
+    }
+  },
+  "hero": {
+    "title": "Concept Habitat Normandie : expert chauffage et climatisation, pompe à chaleur et énergies renouvelables en Seine-Maritime",
+    "subtitle": "Nous conseillons, installons, entretenons et réparons votre installation de chauffage et de climatisation à Elbeuf (76) et ses alentours"
+  },
+  "expertises": [
+    {
+      "linked": "/installation",
+      "sticker": "Installer & Remplacer",
+      "title": "Installation de votre chauffage, de votre chauffe-eau ou de votre climatisation.",
+      "img": {
+        "src": "/build/images/concept-habitat-normandie-accueil-installation-remplacement-456x334.62d65684.jpg",
+        "alt": "Installer & Remplacer"
+      },
+      "content": "Vous envisagez d'équiper votre appartement ou votre maison d'un système de chauffage plus performant et pratique ? Vous voulez remplacer votre ballon d'eau chaude ou faire poser un climatiseur ? Nos techniciens sont à votre disposition pour élaborer une solution adaptée à vos besoins et à votre budget.",
+      "button": {
+        "text": "Installation et Remplacement",
+        "title": "Demander un devis gratuit pour installer ou remplacer un équipement de chauffage"
+      }
+    },
+    {
+      "linked": "/entretien",
+      "sticker": "Maintenir & Entretenir",
+      "title": "Dépannage de vos équipements de chauffage et de climatisation ou de votre chauffe-eau.",
+      "img": {
+        "src": "/build/images/concept-habitat-normandie-accueil-maintenance-entretien-456x334.8511d751.jpg",
+        "alt": "Maintenir & Entretenir"
+      },
+      "content": "Votre chaudière, votre pompe à chaleur ou votre poêle à granulés dysfonctionne ? Votre climatisation est en panne ? Votre chauffe-eau refuse de s'enclencher ou fuit ? Nous intervenons dans les meilleurs délais pour diagnostiquer votre installation et procéder aux réparations à Elbeuf et ses alentours",
+      "button": {
+        "text": "Entretien et Maintenance",
+        "title": "Contrat d'entretien ou de maintenance pour vos équipements de chauffage"
+      }
+    },
+    {
+      "linked": "/depannage",
+      "sticker": "Réparer & Dépanner",
+      "title": "Entretien de votre chauffage, de votre climatisation et de votre chauffe-eau.",
+      "img": {
+        "src": "/build/images/concept-habitat-normandie-accueil-depannage-reparation-456x334.f154a7e1.jpg",
+        "alt": "Réparer & Dépanner"
+      },
+      "content": "Pour maintenir les performances de vos équipements, assurer la sécurité de votre foyer et limiter les soucis techniques, l'entretien est une étape essentielle. Nous réalisons la maintenance de vos équipements (chaudière, poêle, pompe à chaleur, plancher chauffant, chauffe-eau et climatisation) sous contrat annuel ou prestation forfaitaire.",
+      "button": {
+        "text": "Réparation et Dépannage",
+        "title": "Dépanner un équipement de chauffage ou climatisation"
+      }
+    }
+  ],
+  "certification": {
+    "title": "Nos certifications : un gage de qualité",
+    "content": "De la pose à la maintenance, notre entreprise est spécialisée dans les solutions de chauffage et de climatisation. Et&nbsp;plus particulièrement dans les pompes à chaleur et les chauffe-eaux thermodynamiques : notre activité principale.<br><br> Nous sommes notamment certifiés QualiPAC (label RGE (reconnu garant de l'environnement) destiné aux installateurs de pompes à chaleur). Nous disposons aussi de l'attestation réglementaire de manipulation des fluides frigorigènes indispensable pour les PAC et les climatisations. Professionnels du gaz, nous sommes également habilités à poser des chaudières fonctionnant au gaz.<br><br> Nos équipes possèdent les connaissances et les certifications nécessaires à la réussite de vos travaux.",
+    "logos": [
+      {
+        "src": "/build/images/synerciel.7e176cb2.png",
+        "alt": "Synerciel - Professionnel Rénovation"
+      },
+      {
+        "src": "/build/images/rge-qualipac.d1ee25c4.png",
+        "alt": "Frigoriste QualiPac RGE"
+      },
+      {
+        "src": "/build/images/capeb.3bda1e9c.png",
+        "alt": "Confédération Artisanat Petites Entreprises Batiment"
+      },
+      {
+        "src": "/build/images/professionnel-du-gaz.a8248034.png",
+        "alt": "Professionnel du gaz"
+      },
+      {
+        "src": "/build/images/partenaire-habitat-edf.b12c21f2.png",
+        "alt": "Partenaire habitat EDF"
+      }
+    ]
+  },
+  "partner": {
+    "title": "Nos partenaires fabricants",
+    "content": "Pour que vos installations de chauffage ou de climatisation combinent qualité, efficacité et design, Concept Habitat Normandie sélectionne ses équipements et son matériel auprès de marques de renom.",
+    "logos": [
+      {
+        "src": "/build/images/mitsubishi-electric-partner.4a0a55b1.jpg",
+        "alt": "Mitsubishi Electric"
+      },
+      {
+        "src": "/build/images/hitachi.477f6b1d.png",
+        "alt": "Hitachi"
+      },
+      {
+        "src": "/build/images/mcz.19af4f8d.jpg",
+        "alt": "MCZ"
+      },
+      {
+        "src": "/build/images/atlantic_v2.2245d704.jpg",
+        "alt": "Atlantic"
+      },
+      {
+        "src": "/build/images/viessmann_v3.368300d7.png",
+        "alt": "Viessmann"
+      },
+      {
+        "src": "/build/images/saunier-duval_v2.b1dba340.png",
+        "alt": "Saunier Duval"
+      },
+      {
+        "src": "/build/images/dovre.8a556191.jpg",
+        "alt": "Dovre Fire"
+      },
+      {
+        "src": "/build/images/thermor.ebca3d3f.jpg",
+        "alt": "Thermor"
+      }
+    ]
+  },
+  "map": {
+    "title": "Notre périmètre d'intervention",
+    "content": "Située au 46 Cours Carnot à Elbeuf, notre entreprise Concept Habitat Normandie intervient sur la commune et dans un rayon de 25 km autour : Évreux, Louviers, le Neubourg, Bourgtheroulde, Tourville-la-Rivière, Bourg-Achard, le Pont-de-l'Arche, Grand-Couronne, Oissel, La Londe... N'hésitez pas à nous contacter pour savoir si nous nous déplaçons jusqu'à chez vous.<br>&nbsp;",
+    "map": {
+      "lat": 49.28706359863281,
+      "lng": 1.0141807794570923,
+      "zoom": 11,
+      "title": "Concept Habitat Normandie",
+      "content": "<h3 style=\"font-size:1.1em\">Concept Habitat Normandie</h3><p>46 Cours Carnot,<br/>76500 Elbeuf (Métropole Rouen Normandie)</p><p>Adresse email : contact@concept-habitat-normandie.fr</p><p>Téléphone : 02 35 05 25 24</p>"
+    }
+  },
+  "presentation": {
+    "title": "Un chauffagiste à Elbeuf et ses alentours (Rouen, Evreux, Louviers ...)",
+    "content": "Pour l'installation, l'entretien ou le dépannage de vos équipements de chauffage et de climatisation, vous pouvez compter sur une entreprise locale réactive et expérimentée.<p></p> <p>Concept Habitat Normandie, dirigée par Antoine Maillard,&nbsp;est spécialisée dans les énergies renouvelables et les systèmes bas carbone (pompes à chaleur, chauffe-eau thermodynamique et solaire thermique...). Elle se charge aussi de la pose et de la maintenance de chaudières gaz, de cumulus électriques et de climatisations.</p> <p>Concept Habitat Normandie met à disposition de vos projets ses 18 salariés, dont 12 techniciens poseurs à l'expérience confirmée.</p> <h3>Installation de chauffage, de chauffe-eau et de climatisation</h3> <p>Nos équipes vous conseillent le dispositif le plus adapté à votre logement et à vos attentes. Elles élaborent un devis sur mesure et complet intégrant la fourniture et la pose. Elles&nbsp;vous accompagnent dans toutes les étapes de vos travaux, des demandes d'aides financières à la rénovation énergétique jusqu'à la&nbsp;pose des équipements.</p> <h3>Entretien et dépannage de chauffage, de chauffe-eau et de climatisation</h3> <p>Nous vous proposons différentes formules pour entretenir vos systèmes de chauffage et de climatisation ou encore votre chauffe-eau. Nos techniciens chauffagistes restent aussi à votre service pour dépanner vos appareils.</p> <p>Consultez nos conseils et nos dernières actualités pour en savoir plus sur notre activité ou sur les aides de l'État, si vous souhaitez bénéficier d'une prime.</p>"
+  }
+}

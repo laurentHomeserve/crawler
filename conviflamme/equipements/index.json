@@ -1,0 +1,67 @@
+{
+  "breadcrumb": "Equipements",
+  "seo": {
+    "title": "Conviflamme | Vos équipements de chauffage au bois",
+    "description": "Vous souhaitez investir dans un équipement de chauffage fiable et économique ? Faites confiance à Conviflamme : chaudières à granulés, poêles à bois, inserts...",
+    "opengraph": {
+      "site_name": "ConviFlamme",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Conviflamme | Vos équipements de chauffage au bois",
+      "description": "Vous souhaitez investir dans un équipement de chauffage fiable et économique ? Faites confiance à Conviflamme : chaudières à granulés, poêles à bois, inserts...",
+      "image": {
+        "src": "https://www.conviflamme.fr/build/images/conviflamme-equipement-456x334.a16069e5.jpg",
+        "alt": "les équipements de chauffage - ConviFlamme"
+      }
+    }
+  },
+  "hero": {
+    "title": "Nos équipements de chauffage au bois",
+    "subtitle": "Les experts de ConviFlamme vous conseillent dans le choix de vos équipements "
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.conviflamme.fr/build/images/conviflamme-equipement-456x334.a16069e5.jpg",
+      "alt": "les équipements de chauffage - ConviFlamme"
+    },
+    "text": " <p>Le bois connaît un succès croissant depuis déjà quelques années. Ce succès est dû pour une grande part à la variété des équipements de chauffage proposés par les fabricants. ConviFlamme sélectionne des chaudières à granulés, des poêles à bois ou des inserts en fonction de leur fiabilité et du confort qu'ils apportent à nos clients.</p> <p>Cette connaissance approfondie, ajoutée à notre ancrage régional (Évreux, <a href=\"https://www.conviflamme.fr/chauffage-louviers\" title=\"Chauffage Louviers\">Louviers</a>, Gisors, Le Havre, <a href=\"https://www.conviflamme.fr/chauffage-rouen\" title=\"Chauffage Rouen\">Rouen</a>, Dieppe, <a href=\"https://www.conviflamme.fr/chauffage-caen\" title=\"Chauffage Caen\">Caen</a>, <a href=\"https://www.conviflamme.fr/chauffage-bayeux\" title=\"Chauffage Bayeux\">Bayeux</a>, Lisieux...), nous permet aujourd'hui de vous conseiller et de vous orienter vers les solutions les plus adaptées.<br><br><br>&nbsp;</p> "
+  },
+  "teasers": [
+    {
+      "title": "Les chaudières à granulés",
+      "text": "  <p>Le moment est venu pour vous de remplacer une chaudière au fioul ou au gaz devenue obsolète ? Pourquoi ne pas choisir le meilleur du chauffage au bois en optant pour l'une des chaudières à granulés proposées par ConviFlamme ? Nos experts chauffagistes sont à votre disposition pour vous conseiller les modèles les mieux adaptés à votre logement et à sa configuration.</p> <p>Les chaudières à granulés de bois présentent de nombreux avantages. Elles sont économiques et vous permettent de réduire vos factures d'énergie jusqu'à 30 %. Le combustible, constitué de granulés ou de pellets, a un faible coût. Mais surtout, vous allez pouvoir retrouver la simplicité de fonctionnement d'une chaudière classique, comme les chaudières au fioul.</p>  ",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Les poêles à granulés et les poêles à bois",
+      "text": "  <p>Vous ne disposez pas d'un réseau de radiateurs à eau qui peuvent être alimentés par une chaudière à granulés ? Ou bien votre logement est de petite surface ? Vous pouvez opter pour un poêle à granulés ou encore pour un poêle à bois. Ces poêles sont particulièrement performants dans les logements disposant d'une bonne isolation et dans les grands espaces ouverts. Ils servent aussi de chauffages d'appoint.</p> <p>Le poêle à bois utilise des bûches ou plaquettes de bois en tant que combustible. Ils sont très appréciés pour leur caractère traditionnel et chaleureux. Les modèles actuels, soigneusement sélectionnés par les experts de ConviFlamme, vous offrent de plus un très bon rendement.</p>  ",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Les inserts à bois ou granulés : les préférer aux cheminées ou pas ?",
+      "text": "  <p>Les inserts à granulés, tout comme les <a href=\"/equipements/insert-bois\">inserts à bois</a>, présentent une évolution intéressante des poêles traditionnels. Ils offrent un plus en termes de rendement, surtout par rapport aux cheminées à foyer ouvert. Ces cheminées sont très appréciées pour leur aspect décoratif, surtout dans les demeures rustiques ou les appartements de prestige. La différence réside dans leur foyer ouvert : cette caractéristique est appréciable en termes d'authenticité, mais offre des performances légèrement inférieures à celle de l'insert.</p>  ",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Les cuisinières ",
+      "text": "  ",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

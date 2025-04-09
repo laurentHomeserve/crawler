@@ -1,0 +1,67 @@
+{
+  "breadcrumb": "Entretien",
+  "seo": {
+    "title": "Entretien de chauffage au bois en Normandie | Conviflamme",
+    "description": "Leader du chauffage bois en Normandie, Conviflamme s'occupe de l'entretien de votre système de chauffage à bois à Evreux, Le Havre, Rouen et Caen.",
+    "opengraph": {
+      "site_name": "ConviFlamme",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Entretien de chauffage au bois en Normandie | Conviflamme",
+      "description": "Leader du chauffage bois en Normandie, Conviflamme s'occupe de l'entretien de votre système de chauffage à bois à Evreux, Le Havre, Rouen et Caen.",
+      "image": {
+        "src": "https://www.conviflamme.fr/build/images/conviflamme-entretien-456x334.572cd96c.jpg",
+        "alt": "Entretien de votre chauffage au bois par ConviFlamme"
+      }
+    }
+  },
+  "hero": {
+    "title": "Choisir ConviFlamme pour réaliser l'entretien de vos systèmes de chauffage au bois en Normandie",
+    "subtitle": "Expert en énergies renouvelables, nous entretenons votre installation de chauffage bois sur Évreux, Caen et Rouen"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.conviflamme.fr/build/images/conviflamme-entretien-456x334.572cd96c.jpg",
+      "alt": "Entretien de votre chauffage au bois par ConviFlamme"
+    },
+    "text": "<p>Pour prolonger leur durée de vie, assurer votre sécurité ainsi qu'un rendement optimal, il est important d'entretenir régulièrement votre installation. D'ailleurs, cette visite annuelle d'entretien est une obligation légale.</p><p>C'est pourquoi, ConviFlamme vous propose des contrats d'entretien tout-inclus. Nous intervenons dans les secteurs d'Évreux, de <a href=\"https://www.conviflamme.fr/chauffage-caen\" title=\"Chauffage Caen\">Caen</a>, du Havre, de <a href=\"https://www.conviflamme.fr/chauffage-rouen\" title=\"Chauffage Rouen\">Rouen</a>, de Lisieux et de <a href=\"https://www.conviflamme.fr/chauffage-bayeux\" title=\"Chauffage Bayeux\">Bayeux</a> pour faire en sorte que votre système fonctionne au mieux. N'attendez pas pour nous contacter : l'ensemble de nos équipes sont mobilisées pour maintenir et nettoyer vos installations de chauffage bois.</p><p>Nous sommes là pour préserver votre matériel ainsi que votre budget.<br>&nbsp;</p>"
+  },
+  "teasers": [
+    {
+      "title": "Pourquoi opter pour un contrat d'entretien pour votre chauffage bois ?",
+      "text": "<p>La maintenance et l'entretien de votre poêle, chaudière, insert et cheminée est primordial pour que votre installation fonctionne correctement. En tant que spécialistes des énergies renouvelables bois, les collaborateurs ConviFlamme assurent une prestation de qualité très soignée.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Quelles sont les prestations proposées par ConviFlamme ?",
+      "text": "<p>ConviFlamme assure l'entretien de vos différents équipements de chauffage au bois. En raison de notre expérience en ce domaine, de notre connaissance précise des différents systèmes de chauffage au bois ou à granulés et de notre position leader en Normandie, nous vous proposons des solutions d'entretien entièrement adaptées à vos besoins, votre installation et votre budget.</p><h3>L'entretien annuel</h3><ul style=\"padding: 0.8em;\"><li style=\"padding: 0.2em;\">L'entretien de votre chaudière à granulés ;</li><li style=\"padding: 0.2em;\">L'entretien de votre poêle à bois ou à granulés ;</li><li style=\"padding: 0.2em;\">L'entretien de votre insert ;</li><li style=\"padding: 0.2em;\">L'entretien de votre cheminée.</li></ul><p>Cette maintenance peut être réalisée ponctuellement ou annuellement grâce à nos forfaits spécifiques. N'hésitez pas à nous contacter pour nous demander un devis gratuit. Nous vous répondrons dans les plus brefs délais.</p><h3>Le ramonage</h3><p>Le ramonage est un élément indispensable pour assurer le bon fonctionnement de votre installation et garantir votre sécurité. Le ramonage d'une chaudière à bois, d'une cheminée ou encore d'un poêle est même une obligation légale. Elle doit être réalisée par un professionnel agréé et expérimenté.</p><p>Il est prévu de réaliser deux ramonages par an, dont au moins un durant la période de chauffe. D'ailleurs, en cas de sinistre, votre assureur est en droit de vous demander les factures d'entretien et de ramonage.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Les raisons de confier la maintenance de votre chaudière, poêle et cheminée à ConviFlamme",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Ce que nos clients pensent de nos prestations d'entretien",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"1\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/b6ae26a7-4bd5-0694-b121-1abb7f599ca0/a5b9d96e-603b-428c-8ed3-b085698513a6.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

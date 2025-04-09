@@ -1,5 +1,5 @@
 import * as cheerio from 'cheerio';
-import {Menu, Link, Homepage, Expertise, Hero, Gmaps, Brand} from './models';
+import {Menu, Link, Homepage, Expertise, Hero, Gmaps, Brand, Category} from './models';
 import { get } from 'http';
 import { getSeo } from './getSEO';
 
@@ -65,18 +65,54 @@ export function getMenu(html: string): Array<Menu> {
         } 
     
         let subLinks: Array<Link> = []
-        $(el).find('ul li a').each(function(i, el) {
-            subLinks.push({
-                text: $(el).text()?.trim(),
-                href: $(el).attr('href') ?? '',
-                title: $(el).attr('title') ?? ''  
-            })
+        let categories: Array<Category> = [];
+        let currentCategory = null;
+
+        $(el).find('ul li').toArray().forEach((el) => {
+            if ($(el).find('img').length > 0) {
+                if (currentCategory !== null) {
+                    categories.push(currentCategory);
+                    currentCategory = null;
+                }
+                
+                currentCategory = { title: $(el).text().trim() };
+
+                if ($(el).find('a').length > 0) {
+                    const a = $(el).find('a').first();
+                    const link: Link = {
+                        text: a.text()?.trim(),
+                        href: a.attr('href') ?? '',
+                        title: a.attr('title') ?? ''
+                    }
+                    const categoryWithLink = { ...currentCategory, link}
+                    currentCategory = categoryWithLink;
+                }
+                subLinks = [];
+            } else {
+                const a = $(el).find('a').first();
+
+                subLinks.push({
+                    text: a.text()?.trim(),
+                    href: a.attr('href') ?? '',
+                    title: a.attr('title') ?? ''  
+                })
+
+                const categoryWithSubMenu = { ...currentCategory, subLinks}
+                currentCategory = categoryWithSubMenu;
+            }
         });
 
-        mainMenu.push({
-            link: link,
-            subMenu: subLinks
-        });
+        if (null !== currentCategory) {
+            categories.push(currentCategory);
+        }
+        
+
+        if (!!link.href) {
+            mainMenu.push({
+                link: link,
+                categories: categories
+            });
+        }
     })
 
     return mainMenu;

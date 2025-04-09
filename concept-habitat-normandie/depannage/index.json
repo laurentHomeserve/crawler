@@ -1,0 +1,94 @@
+{
+  "breadcrumb": "Depannage",
+  "seo": {
+    "title": "Dépannage chauffage et climatisation - Concept Normandie Habitat",
+    "description": "Faites appel à un expert qualifié et réactif pour le dépannage de vos installations de chauffage, de chauffe-eau et de climatisation sur Elbeuf et alentour.",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Dépannage chauffage et climatisation - Concept Normandie Habitat",
+      "description": "Faites appel à un expert qualifié et réactif pour le dépannage de vos installations de chauffage, de chauffe-eau et de climatisation sur Elbeuf et alentour.",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-depannage-456x334.4e5ad853.jpg",
+        "alt": "depannage de chauffage dans la Seine Maritime près de Elbeuf et Louviers"
+      }
+    }
+  },
+  "hero": {
+    "title": "Un spécialiste qualifié pour le dépannage et la réparation de vos installations de chauffage, de chauffe-eau et de climatisation",
+    "subtitle": "Concept Habitat Normandie : l'expert à contacter pour dépanner vos solutions de chauffage et de climatisation "
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-depannage-456x334.4e5ad853.jpg",
+      "alt": "depannage de chauffage dans la Seine Maritime près de Elbeuf et Louviers"
+    },
+    "text": "<p>Concept Habitat Normandie, entreprise spécialisée dans le chauffage et la climatisation à Elbeuf, assure un&nbsp;dépannage rapide de vos installations, ainsi que de votre chauffe-eau. Elle diagnostique et effectue les réparations indispensables au fonctionnement de vos équipements. Y compris ceux non posés par nos équipes. Nos techniciens interviennent dans les meilleurs délais sur Elbeuf et dans un périmètre de 25 km alentour. Ils vous remettent un devis gratuit.</p><p>Vous avez un contrat d'entretien chez nous ? Vous bénéficiez d'une heure de main d'œuvre et de&nbsp;dépannage gratuite dans l'année.&nbsp;À tout moment, vos équipements peuvent montrer des défaillances ou tomber en panne. En faisant appel à un spécialiste réactif et expérimenté, vous disposez d'une solution efficace et adaptée.</p>"
+  },
+  "teasers": [
+    {
+      "title": "Dépannage d'une chaudière gaz, fioul, granulés ou biomasse",
+      "text": "<p>Quel que soit le modèle de votre chaudière (gaz, fioul, granulés ou biomasse), nos spécialistes qualifiés identifient l'origine du problème. Ils procèdent si besoin au remplacement des pièces, au réglage et à la remise en route.</p>",
+      "link": {
+        "href": "/depannage/chaudieres",
+        "text": "Dépannage d'une chaudière",
+        "title": ""
+      }
+    },
+    {
+      "title": "Dépannage d'une pompe à chaleur air-eau ou hybride",
+      "text": "<p>Votre pompe à chaleur refuse de s'allumer ? Elle émet un bruit anormal en fonctionnement ou elle semble ne plus chauffer ? Tournez-vous vers votre spécialiste pour diagnostiquer votre&nbsp;pompe à chaleur air-eau ou hybride et effectuer les réparations.</p>",
+      "link": {
+        "href": "/depannage/pompes-a-chaleur",
+        "text": "Dépannage d'une pompe à chaleur",
+        "title": ""
+      }
+    },
+    {
+      "title": "Dépannage d'un plancher chauffant hydraulique",
+      "text": "<p>Un chauffage au sol, qu'il soit relié à une pompe à chaleur ou une chaudière, peut s'avérer moins performant au fil du temps. Plusieurs causes sont possibles, comme une fuite d'eau dans le circuit, la présence de boue dans les tuyaux ou encore un problème de pression. Nos équipes font un état des lieux précis et assurent la remise en route de votre plancher chauffant.</p>",
+      "link": {
+        "href": "/depannage/chaudieres",
+        "text": "Dépannage d'un plancher chauffant",
+        "title": ""
+      }
+    },
+    {
+      "title": "Dépannage d'un poêle à granulés ou à bûches",
+      "text": "<p>Il arrive que le conduit d'un poêle à granulés ou à bois évacue mal ou plus la fumée. Il se peut aussi que l'appareil chauffe moins bien ou trop à cause d'un dérèglement du thermostat. Faites appel à votre chauffagiste pour trouver le problème de votre poêle à granulés ou à bois et le résoudre.</p>",
+      "link": {
+        "href": "/depannage/poeles-granules-bois",
+        "text": "Dépannage d'un poêle",
+        "title": ""
+      }
+    },
+    {
+      "title": "Dépannage d'un chauffe-eau électrique, gaz, thermodynamique ou solaire",
+      "text": "<p>Eau froide malgré le robinet ouvert au maximum, fuite au niveau de l'appareil, températures irrégulières... Un ballon d'eau peut être déréglé, encrassé ou tout simplement tomber en panne. Pour que vous retrouviez de l'eau chaude sanitaire rapidement, nous intervenons au plus vite. Nous décelons la cause du dysfonctionnement et nous réparons votre chauffe-eau au gaz, électrique ou thermique solaire. Ou bien nous le remplaçons à votre demande.</p>",
+      "link": {
+        "href": "/depannage/chauffe-eaux-chauffe-bains",
+        "text": "Dépannage d'un chauffe-eau",
+        "title": ""
+      }
+    },
+    {
+      "title": "Dépannage d'une climatisation (PAC air-air, split ou gainable)",
+      "text": "<p>Impossible de remettre en route votre climatisation ou de la régler correctement ? Pour réactiver votre installation, nos techniciens procèdent avec méthode. Ils contrôlent l'état de l'équipement producteur et des émetteurs. Ils vérifient les paramètres, s'assurent des bons réglages et contrôlent l'étanchéité du circuit du fluide frigorigène. Appuyez-vous sur leur savoir-faire pour réparer votre climatisation du type PAC air-air ou de votre système split ou gainable.</p>",
+      "link": {
+        "href": "/depannage/climatisations",
+        "text": "Dépannage d'une climatisation",
+        "title": ""
+      }
+    },
+    {
+      "title": "Nos clients donnent leur avis sur nos prestations de dépannage",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/6ff8d04c-e330-99f4-1130-6220f2dd4bd6/f453e047-e826-4da9-8018-65c0d68965c8.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

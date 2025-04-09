@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Glachant",
+  "seo": {
+    "title": "Glachant : un savoir-faire reconnu - Concept Habitat Normandie",
+    "description": "L'entreprise Glachant a rejoint en 2020 Concept Habitat Normandie. Découvrez l'expertise de ce plombier chauffagiste reconnu à Elbeuf et aux alentours. ",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Glachant : un savoir-faire reconnu - Concept Habitat Normandie",
+      "description": "L'entreprise Glachant a rejoint en 2020 Concept Habitat Normandie. Découvrez l'expertise de ce plombier chauffagiste reconnu à Elbeuf et aux alentours. ",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-glachant-456x334.8246d6a1.jpg",
+        "alt": "Glachant, rejoint Concept Habitat Normandie"
+      }
+    }
+  },
+  "hero": {
+    "title": "Glachant SARL, un spécialiste du chauffage à votre service depuis 50 ans, rejoint Concept Habitat Normandie",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/concept-habitat-normandie-glachant-456x334.8246d6a1.jpg",
+      "alt": "Glachant, rejoint Concept Habitat Normandie"
+    },
+    "text": "<p>Pour développer son offre de services, Concept Habitat Normandie a racheté en 2020 l'entreprise Glachant, spécialisée dans les chaudières. Nos équipes peuvent ainsi vous accompagner dans vos projets de création, de rénovation ou de réparation liés au chauffage, au chauffe-eau et à la climatisation.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Une expérience : 50 ans dans la pose et l'entretien des chaudières",
+      "text": "<p>La SARL Glachant, implantée à Elbeuf, était spécialisée dans les travaux de plomberie et de chauffage. Elle réalisait l'installation, la distribution et la maintenance des équipements et intervenait plus particulièrement sur les chaudières (fioul, gaz...).</p> <p>Riche d'un savoir-faire de 50 ans et de techniciens qualifiés, Glachant apporte son expertise reconnue à Concept Habitat Normandie. Cette dernière, spécialisée dans les pompes à chaleur et les chauffe-eaux thermodynamiques, complète son activité et ses prestations de services.</p> <hr>"
+    },
+    {
+      "title": "Un objectif : vous accompagner dans vos travaux de rénovation énergétique",
+      "text": "<p>Notre entreprise s'active à vos côtés pour concrétiser vos projets de construction, de rénovation et d'amélioration de logement. Elle vous assure un accompagnement global, allant des conseils personnalisés à la maintenance et au dépannage de vos appareils. Elle vous épaule aussi dans la constitution des dossiers d'aides financières (MaPrimeRénov', CEE...).</p>"
+    }
+  ]
+}

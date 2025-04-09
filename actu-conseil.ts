@@ -1,6 +1,7 @@
 import * as cheerio from 'cheerio';
 import { ActuIntro, News, ActuPage, Image } from './models';
 import { getSeo } from './getSEO';
+import { getTextIntro, getContents, getHero, getBreadcrumb } from './pageParser';
 
 export function getMenuActu(content: string): ActuIntro {
     const $ = cheerio.load(content);
@@ -20,7 +21,7 @@ export function getMenuActu(content: string): ActuIntro {
                 title: $(el).find('.info a').attr('title') ?? '',
                 text: 'no text'
             },
-            type: $(el).find(".tag_actualite, .tag_conseil").text() ?? '',
+            type: $(el).find(".tag_actualite, .tag_conseil").text() as "conseils" | "actualités" ?? 'actualités',
             date: new Date(year, month - 1, day),
             image: {
                 src: $(el).find('img').attr('src') ?? '',
@@ -32,7 +33,8 @@ export function getMenuActu(content: string): ActuIntro {
     });
 
     return {
-        breadcrumb: $('ul.breadcrumb li.active').text().trim() ?? '',
+        breadcrumb: getBreadcrumb($),
+        seo: getSeo($('head').html() ?? ''),
         title,
         subtitle,
         content: text,
@@ -42,52 +44,11 @@ export function getMenuActu(content: string): ActuIntro {
 
 export function getActuPage(content: string): ActuPage {
     const $ = cheerio.load(content);
-
-    let intro = $('div.pull-left.image').next('section').first().find('p').toArray().map((el) => {
-        return $.html(el);
-    }).join(' ');
-
-
-    if (intro === "") {
-        intro = $('div.pull-left.image').nextUntil('h2').toArray().map((el) => {
-            if (el.tagName == 'section') {
-                return $(el).children().toArray().map((_el) => {
-                    return $.html(_el);
-                });
-            }
-            return $.html(el);
-        }).join(' ');
-    }
-
-    
-
-    const hasSection = $('div.pull-left.image').parent().find('section').length > 0;
-
-    let paragraphs = [];
-
-    if (hasSection) {
-        paragraphs = $('div.pull-left.image').parent().find('section:has(h2)').toArray().map((el) => {
-            
-            return {
-                title: $(el).find('h2').text(),
-                text: $(el).find(':not(h2)').toArray().map((el) => {
-                    return $.html(el)
-                }).join(' ')
-            };
-        });
-    } else {
-        paragraphs = $('div.pull-left.image').parent().find('h2').toArray().map((el) => {
-            return {
-                title: $(el).text(),
-                text: $(el).nextUntil('h2').toArray().map((_el) => {
-                    return $.html(_el)
-                }).join(' ')
-            };
-        })
-    }
+    const textIntro = getTextIntro($);
+    const contents = getContents($);
 
     return {
-        breadcrumb: $('ul.breadcrumb li.active').text().trim() ?? '',
+        breadcrumb: getBreadcrumb($),
         seo: getSeo($('head').html()??''),
         title: $('h1.title').text().replace(/\s+/g, " "),
         chapo: $('h2.subtitle').text(),
@@ -95,7 +56,7 @@ export function getActuPage(content: string): ActuPage {
             src: $('div.image img').attr('src') ?? '',
             alt: $('div.image img').attr('alt') ?? ''
         },
-        intro,
-        paragraphs
+        intro: textIntro,
+        paragraphs: contents as [{ title: string; text: string }]
     }
 }

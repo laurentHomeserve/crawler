@@ -1,0 +1,48 @@
+{
+  "breadcrumb": "Solaires thermiques",
+  "seo": {
+    "title": "Focus sur les solutions solaires thermiques en Seine-Maritime et dans l'Eure",
+    "description": "Pour installer chez vous un dispositif solaire thermique, comme un chauffe-eau solaire individuel, sollicitez Concept Habitat Normandie. Nos experts vous accompagnent dans votre transition énergétique.",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Focus sur les solutions solaires thermiques en Seine-Maritime et dans l'Eure",
+      "description": "Pour installer chez vous un dispositif solaire thermique, comme un chauffe-eau solaire individuel, sollicitez Concept Habitat Normandie. Nos experts vous accompagnent dans votre transition énergétique.",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-equipement-solaire-thermique-photovoltaique-456x334.ef3fba06.jpg",
+        "alt": "Découvrez les panneaux solaires thermiques, par Concept Habitat Normandie"
+      }
+    }
+  },
+  "hero": {
+    "title": "Focus sur le solaire thermique en Seine-Maritime et dans l'Eure",
+    "subtitle": "Les dispositifs solaires thermiques pour le chauffage et la production d'eau chaude"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-equipement-solaire-thermique-photovoltaique-456x334.ef3fba06.jpg",
+      "alt": "Découvrez les panneaux solaires thermiques, par Concept Habitat Normandie"
+    },
+    "text": "<p>Le soleil permet aujourd'hui d'alimenter des systèmes de production de chaleur ou d'électricité. Accessible partout en France et en toute saison, cette source d'énergie est aussi gratuite, renouvelable et non polluante. Pour limiter votre impact sur l'environnement et diminuer vos factures, sans rogner sur votre bien-être, vous pouvez opter pour le solaire thermique ou le solaire photovoltaïque.</p> <p>Le premier sert au chauffage et à l'eau chaude sanitaire, le second permet d'obtenir de l'électricité. Focus sur l<strong>es dispositifs solaires thermiques.</strong></p>"
+  },
+  "contents": [
+    {
+      "title": "Les solutions solaires thermiques",
+      "text": "<p>Les capteurs solaires thermiques collectent les calories du soleil grâce à un circuit de fluide caloporteur. Celui-ci passe dans un ballon d'eau, installé sous la toiture ou placé séparément dans une pièce, pour assurer l'eau chaude sanitaire.</p> <h3>Le chauffe-eau solaire individuel</h3> <p>Selon l'Ademe (Agence de l'environnement et de la maîtrise de l'énergie), un chauffe-eau solaire est en mesure de couvrir entre 40 et 80 % des besoins moyens annuels en eau chaude sanitaire. L'écart dans le rendement est fonction de la région d'implantation (peu ou très ensoleillée). Le CESI (chauffe-eau solaire individuel) contient une résistance électrique qui assure le chauffage de l'eau quand le taux d'ensoleillement est bas.</p> <p>Pour l'installation d'un chauffe-eau solaire individuel, vous pouvez vous appuyer sur Concept Habitat Normandie. Nous sélectionnons des appareils de qualité conçus par de grandes marques reconnues.</p> <h3>Le système solaire combiné</h3> <p>Les panneaux&nbsp;thermiques peuvent aussi être utilisés pour chauffer la maison grâce à la technologie du système solaire combiné (SSC). Ce dispositif a une double fonctionnalité (production d'eau chaude et chauffage). Il monte à température l'eau d'un réseau hydraulique qui alimente un plancher chauffant ou des radiateurs à eau chaude.</p> <p>Pour mener à bien votre projet de construction ou de rénovation, adressez-vous à Concept Habitat Normandie. Notre entreprise est spécialisée dans les systèmes énergétiques bas carbone.</p>"
+    },
+    {
+      "title": "Les systèmes photovoltaïques",
+      "text": "<p>Les <a href=\"https://www.concept-habitat-normandie.fr/equipements/panneaux-photovoltaiques\" title=\"Nos équipements photovoltaïques autour d'Elbeuf\">panneaux solaires photovoltaïques</a> transforment, quant à eux, le rayonnement solaire en électricité. Ils fonctionnent quel que soit le temps (pluvieux, ensoleillé, nuageux). L'électricité fabriquée peut ensuite être utilisée en autoconsommation pour les différents besoins du logement (usage standard, chauffage, chauffe-eau, piscine...) ou être revendue au fournisseur.</p> <section id=\"section1\" aria-label=\"Les dispositifs solaires thermiques pour le chauffage et la production d'eau chaude\"><p>Le soleil permet aujourd'hui d'alimenter des systèmes de production de chaleur ou d'électricité. Accessible partout en France et en toute saison, cette source d'énergie est aussi gratuite, renouvelable et non polluante. Pour limiter votre impact sur l'environnement et diminuer vos factures, sans rogner sur votre bien-être, vous pouvez opter pour le solaire thermique ou le solaire photovoltaïque.</p><p>Le premier sert au chauffage et à l'eau chaude sanitaire, le second permet d'obtenir de l'électricité. Focus sur l<strong>es dispositifs solaires thermiques.</strong></p></section>"
+    },
+    {
+      "title": "Concept Habitat Normandie : un spécialiste à Elbeuf pour vous accompagner dans votre projet",
+      "text": "<p>Vous projetez de remplacer votre ballon d'eau par un CESI ? Faites appel à un expert qualifié pour procéder à la pose et l'entretien de votre chauffe-eau solaire. Notre entreprise se déplace sur Elbeuf et dans un rayon de 25 km alentour (Évreux, Tourville-la-Rivière, Le Neubourg, Louviers...).</p> <p>Un souci de fonctionnement ou de chauffe ? Contactez notre équipe pour un&nbsp;dépannage de votre chauffe-eau thermique solaire rapide.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  },
+  "url": "https://www.concept-habitat-normandie.fr/equipements/solaires-thermiques"
+}

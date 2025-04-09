@@ -1,0 +1,211 @@
+[
+  {
+    "link": {
+      "text": "équipements",
+      "href": "https://www.concept-habitat-normandie.fr/equipements",
+      "title": "Nos équipement de chauffage et climatisation dans la Seine-Maritime"
+    },
+    "subMenu": [
+      {
+        "text": "Pompes à Chaleur (PAC)",
+        "href": "https://www.concept-habitat-normandie.fr/equipements/pompes-a-chaleur",
+        "title": "Pompes à chaleur - PAC air/eau"
+      },
+      {
+        "text": "Chaudières Gaz, Fioul",
+        "href": "https://www.concept-habitat-normandie.fr/equipements/chaudieres-gaz-fioul",
+        "title": "nos chaudières gaz et chaudières fioul"
+      },
+      {
+        "text": "Chaudières Biomasse (Bois et Granulés)",
+        "href": "https://www.concept-habitat-normandie.fr/equipements/chaudieres-biomasse",
+        "title": "nos chaudières bois et chaudières granulés"
+      },
+      {
+        "text": "Climatisations",
+        "href": "https://www.concept-habitat-normandie.fr/equipements/climatisations",
+        "title": "Tout savoir sur les climatisations - PAC Air/Air"
+      },
+      {
+        "text": "Poêles à granulés",
+        "href": "https://www.concept-habitat-normandie.fr/equipements/poeles-granules",
+        "title": "nos poêles à granulés"
+      },
+      {
+        "text": "Poêles à bois",
+        "href": "https://www.concept-habitat-normandie.fr/equipements/poeles-bois",
+        "title": "nos poêles à bois"
+      },
+      {
+        "text": "Chauffe-eaux, Chauffe-bains",
+        "href": "https://www.concept-habitat-normandie.fr/equipements/chauffe-eaux-chauffe-bains",
+        "title": "équipement chauffe-eaux et chauffe-bains"
+      },
+      {
+        "text": "Planchers Chauffants",
+        "href": "https://www.concept-habitat-normandie.fr/equipements/planchers-chauffants",
+        "title": "équipement planchers chauffants"
+      },
+      {
+        "text": "Solaire Thermique",
+        "href": "https://www.concept-habitat-normandie.fr/equipements/solaires-thermiques",
+        "title": ""
+      },
+      {
+        "text": "Solaire Photovoltaïque",
+        "href": "https://www.concept-habitat-normandie.fr/equipements/panneaux-photovoltaiques",
+        "title": ""
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Installation",
+      "href": "https://www.concept-habitat-normandie.fr/installation",
+      "title": "installation chauffage et climatisation"
+    },
+    "subMenu": [
+      {
+        "text": "Installer une Pompe à Chaleur",
+        "href": "https://www.concept-habitat-normandie.fr/installation/pompes-a-chaleur",
+        "title": "installation pompe à chaleur"
+      },
+      {
+        "text": "Installer une Chaudière Gaz",
+        "href": "https://www.concept-habitat-normandie.fr/installation/chaudieres-gaz",
+        "title": "installation chaudière gaz"
+      },
+      {
+        "text": "Installer une Chaudière Biomasse",
+        "href": "https://www.concept-habitat-normandie.fr/installation/chaudieres-biomasses",
+        "title": "installation chaudière biomasse"
+      },
+      {
+        "text": "Installer une Climatisation",
+        "href": "https://www.concept-habitat-normandie.fr/installation/climatisations",
+        "title": "installation climatisation"
+      },
+      {
+        "text": "Installer un Poêle à Granulés",
+        "href": "https://www.concept-habitat-normandie.fr/installation/poeles-granules",
+        "title": "installation poêle"
+      },
+      {
+        "text": "Installer un Poêle à Bois",
+        "href": "https://www.concept-habitat-normandie.fr/installation/poeles-bois",
+        "title": "installation insert"
+      },
+      {
+        "text": "Installer un Chauffe-eau",
+        "href": "https://www.concept-habitat-normandie.fr/installation/chauffe-eaux-chauffe-bains",
+        "title": "installation chauffe-eau"
+      },
+      {
+        "text": "Installer un Plancher Chauffant",
+        "href": "https://www.concept-habitat-normandie.fr/installation/planchers-chauffants",
+        "title": "installation plancher chauffant"
+      },
+      {
+        "text": "Installer des panneaux Photovoltaïques",
+        "href": "https://www.concept-habitat-normandie.fr/installation/panneaux-photovoltaiques",
+        "title": ""
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Entretien",
+      "href": "https://www.concept-habitat-normandie.fr/entretien",
+      "title": "contrat d'entretien et de maintenance"
+    },
+    "subMenu": [
+      {
+        "text": "Entretenir votre Pompe à Chaleur",
+        "href": "https://www.concept-habitat-normandie.fr/entretien/pompes-a-chaleur",
+        "title": "entretien pompe à chaleur"
+      },
+      {
+        "text": "Entretenir votre Chaudière Gaz",
+        "href": "https://www.concept-habitat-normandie.fr/entretien/chaudieres-gaz",
+        "title": "entretien chaudière gaz"
+      },
+      {
+        "text": "Entretenir votre Chaudière Fioul",
+        "href": "https://www.concept-habitat-normandie.fr/entretien/chaudieres-fioul",
+        "title": "entretien chaudière fioul"
+      },
+      {
+        "text": "Entretenir votre Chaudière Biomasse",
+        "href": "https://www.concept-habitat-normandie.fr/entretien/chaudieres-biomasse",
+        "title": "entretien chaudière biomasse"
+      },
+      {
+        "text": "Entretenir votre Climatisation",
+        "href": "https://www.concept-habitat-normandie.fr/entretien/climatisations",
+        "title": "entretien climatisation"
+      },
+      {
+        "text": "Entretenir un Poêle à Granulés, Bois",
+        "href": "https://www.concept-habitat-normandie.fr/entretien/poeles-granules-bois",
+        "title": "entretien poele"
+      },
+      {
+        "text": "Entretenir votre Chauffe-eau",
+        "href": "https://www.concept-habitat-normandie.fr/entretien/chauffe-eaux-chauffe-bains",
+        "title": "entretien chauffe-eau"
+      },
+      {
+        "text": "Entretenir votre Plancher Chauffant",
+        "href": "https://www.concept-habitat-normandie.fr/entretien/planchers-chauffants",
+        "title": "entretien plancher chauffant"
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Dépannage",
+      "href": "https://www.concept-habitat-normandie.fr/depannage",
+      "title": "dépannage et réparation chauffage et climatisation"
+    },
+    "subMenu": [
+      {
+        "text": "Dépanner votre Pompe à Chaleur",
+        "href": "https://www.concept-habitat-normandie.fr/depannage/pompes-a-chaleur",
+        "title": "depannage et réparation pompe à chaleur"
+      },
+      {
+        "text": "Dépanner votre Chaudière",
+        "href": "https://www.concept-habitat-normandie.fr/depannage/chaudieres",
+        "title": "depannage et réparation chaudière"
+      },
+      {
+        "text": "Dépanner votre Climatisation",
+        "href": "https://www.concept-habitat-normandie.fr/depannage/climatisations",
+        "title": "depannage et réparation climatisation"
+      },
+      {
+        "text": "Dépanner un Poêle à Granulés, Bois",
+        "href": "https://www.concept-habitat-normandie.fr/depannage/poeles-granules-bois",
+        "title": "depannage et réparation poêle"
+      },
+      {
+        "text": "Dépanner votre Chauffe-eau",
+        "href": "https://www.concept-habitat-normandie.fr/depannage/chauffe-eaux-chauffe-bains",
+        "title": "depannage et réparation chauffe-eau"
+      },
+      {
+        "text": "Dépanner votre Plancher Chauffant",
+        "href": "https://www.concept-habitat-normandie.fr/depannage/planchers-chauffants",
+        "title": "depannage et réparation plancher chauffant"
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Rénovation énergétique",
+      "href": "https://www.concept-habitat-normandie.fr/renovation-energetique-chauffage",
+      "title": "rénovation énergétique à Rouen, Evreux, Elbeuf"
+    },
+    "subMenu": []
+  }
+]

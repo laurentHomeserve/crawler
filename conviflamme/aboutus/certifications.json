@@ -1,0 +1,55 @@
+{
+  "breadcrumb": "Certifications",
+  "seo": {
+    "title": "Nos certifications | Conviflammes",
+    "description": "Découvrez les nombreuses certifications de Conviflamme : RGE QualiBois, RGE Qualibat, RGE ECO artisan...",
+    "opengraph": {
+      "site_name": "ConviFlamme",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Nos certifications | Conviflammes",
+      "description": "Découvrez les nombreuses certifications de Conviflamme : RGE QualiBois, RGE Qualibat, RGE ECO artisan...",
+      "image": {
+        "src": "https://www.conviflamme.fr/build/images/conviflamme-certifications-456x334.959fa119.jpg",
+        "alt": "Certifications ConviFlamme"
+      }
+    }
+  },
+  "hero": {
+    "title": "Une expertise garantie grâce à des certifications et des labels qualité",
+    "subtitle": "Forts de notre expérience et de notre professionnalisme, nous sommes agréés et certifiés par les plus grandes marques"
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/conviflamme-certifications-456x334.959fa119.jpg",
+      "alt": "Certifications ConviFlamme"
+    },
+    "text": "<p>ConviFlamme est votre expert en matière de chauffage écologique fonctionnant au bois en région Normandie. Des milliers de foyers et d'entreprises nous ont fait confiance pour installer leurs systèmes de chauffage. Nous sommes engagés à vous proposer aussi bien des produits que des prestations de qualité, c'est pourquoi nous disposons de plusieurs agréments et certifications attestant de notre savoir-faire et de nos engagements.</p>"
+  },
+  "contents": [
+    {
+      "title": "Faire appel à un professionnel agréé et certifié RGE",
+      "text": "<p>Nos collaborateurs sont régulièrement formés pour être au fait des dernières évolutions de la profession. Constamment engagés à vous offrir des prestations de qualité et grande fiabilité, ils ont aussi à coeur de vous proposer les produits les plus adaptés à vos besoins et les plus respectueux de l'environnement. Cet attachement aux choses bien faites se traduit notamment par l'obtention de trois labels RGE (Reconnu Garant de l'environnement) : Qualibois, Qualibat et ECO artisan.</p> <p>Ces certifications sont un réel gage de notre professionnalisme. Elles attestent du haut niveau d'exigences et de compétences caractérisant notre entreprise. Elles sont aussi un gage d'accompagnement. Enfin, si vous êtes un particulier, vous pouvez profiter dans certains cas d'aides émanant de l'État pour financer votre projet énergétique. En tant que spécialistes de la question, nous vous conseillons et nous vous aiderons à remplir votre dossier pour bénéficier de l'ensemble des aides auxquelles vous avez droit.</p> <h3>RGE QualiBois</h3> <p>Sous ce sigle sont rassemblés en France les professionnels qualifiés pour installer des systèmes de chauffage au bois dans un habitat individuel. En faisant appel à un professionnel disposant de cette qualification vous serez certain de profiter de vrais et de bons conseils pour avoir chez vous une installation conforme à vos attentes et à la configuration de votre habitation.</p> <p>En effet, cet expert a suivi des formations spécifiques et justifie d'une belle expérience en ce domaine. De même, la certification RGE QualiBois atteste également que ce professionnel dispose de toutes les attestations et assurances obligatoires (assurance décennale et responsabilité civile générale).</p> <h3>RGE Qualibat</h3> <p>À l'instar de QualiBois, QualiBat est aussi une certification délivrée par l'État français. Ce label prouve que notre entreprise travaille avec sérieux et qu'elle est digne de confiance. Cet engagement constant vaut aussi bien pour les conseils et l'écoute que nous vous apportons que pour la réalisation des travaux réalisés. En somme, nous vous offrons une solution globale et clé en main.</p>"
+    },
+    {
+      "title": "Professionnel Rénovation - SynerCiel",
+      "text": "<p>Par ailleurs, l'excellence de nos pratiques a aussi fait l'objet d'une certification SynerCiel. Cette fondation réunit l'ensemble des professionnels engagés dans un processus d'aide à la réduction des dépenses énergétiques. Les entreprises, comme ConviFlamme, membres de ce réseau sont reconnues pour leur compétence et leur expertise dans les domaines de la rénovation.</p> <p>Il s'agit là encore d'un réel atout pour le consommateur, car nous sommes en mesure de vous faire bénéficier :</p> <ul style=\"padding: 0.8em;\"> <li style=\"padding: 0.2em;\"> des aides proposées par l'État,</li> <li style=\"padding: 0.2em;\"> des avantages proposés par EDF,</li> <li style=\"padding: 0.2em;\"> et bien sûr de nos conseils avisés.</li> </ul> <li style=\"padding: 0.2em;\"> des aides proposées par l'État,</li> <li style=\"padding: 0.2em;\"> des avantages proposés par EDF,</li> <li style=\"padding: 0.2em;\"> et bien sûr de nos conseils avisés.</li>"
+    },
+    {
+      "title": "Partenaire Solutions Habitat d'EDF",
+      "text": "<p>Soucieux d'améliorer votre confort en vous proposant une solution de chauffage fiable et écologique tout en contribuant à réduire drastiquement vos factures énergétiques, nous avons noué des partenariats avec les plus grandes marques ainsi qu'avec EDF. En tant que Partenaire Solutions Habitat d'EDF, nous pouvons vous faire bénéficier de la prime Certificat d'Économies d'Énergie d'EDF (elle est directement déduite du montant des travaux que nous effectuons chez vous).</p> <p>Comme toujours, notre spécialiste étudie avec vous vos souhaits et les solutions techniques envisageables pour vous proposer les aides convenant le mieux à votre projet de rénovation énergétique.</p>"
+    },
+    {
+      "title": "Flamme Verte - Chauffage Bois",
+      "text": "<p>Le label a été créé en 2000. Il est à l'initiative de l'ADEME (Agence de l'Environnement et de la Maîtrise de l'Énergie) et des fabricants d'appareils domestiques. Son but est d'assurer la promotion et la mise en valeur de solutions de chauffage au bois répondant à un cahier des charges strict (conception qualitative, exigences en termes de rendement énergétique, faibles émissions polluantes…). Ce label concerne les chaudières domestiques à bois ou à granulés, les poêles à granulés ou à bois, ainsi que les foyers fermés et les inserts.</p>"
+    },
+    {
+      "title": "Écodesign 2022",
+      "text": "<p>Le but de ce label européen est la promotion de l'écoconception des matériels de chauffage. C'est pourquoi la norme Écodesign a vu le jour en 2015 : elle avait pour objectif d'interdire la vente de solutions de chauffage ayant des performances trop basses. À la suite de quoi cette norme s'est enrichie d'un système de marquage afin de permettre aux consommateurs de comparer plus facilement un produit par rapport à un autre.</p> <p>Naturellement, chez ConviFlamme, nous vous proposons des chaudières et des poêles à granulés et à bois reconnus pour leur performance ! Nos collaborateurs connaissent chacun des produits que nous vendons et installons afin de vous offrir une solution de chauffage en accord avec votre projet.</p>"
+    },
+    {
+      "title": "Une preuve de l'expertise ConviFlamme",
+      "text": "<p>Nos certifications attestent de notre volonté de vous procurer la meilleure prestation qui soit. Pour vous, c'est surtout un gage de tranquillité et de sérénité : en nous confiant les rênes de votre projet de chauffage au bois, vous êtes certain que le travail sera bien fait.</p> <p>Nos collaborateurs vous accompagnent et vous apportent leur expertise pour vous proposer une solution entièrement personnalisée car chaque projet est unique ! Une fois le devis accepté, nous intervenons rapidement et réalisons les travaux avec sérieux en prenant le soin de laisser les lieux propres. Par la suite, nous serons aussi à vos côtés pour l'entretien, la maintenance ou le dépannage de votre système de chauffage.</p> <p>Vous avez un projet d'installation d'un système de chauffage au bois ? Vous avez besoin de renseignements ? Vous recherchez un professionnel compétent pour dépanner ou entretenir votre cheminée, votre chaudière ou votre poêle ? ConviFlamme est là pour vous !</p>"
+    }
+  ]
+}

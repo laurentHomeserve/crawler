@@ -1,0 +1,85 @@
+{
+  "breadcrumb": "Depannage",
+  "seo": {
+    "title": "Dépannage de votre chauffage au bois | Conviflamme",
+    "description": "Votre système de chauffage au bois est en panne ? Profitez d'un dépannage rapide et professionnel à Evreux, Le Havre, Rouen et Caen.",
+    "opengraph": {
+      "site_name": "ConviFlamme",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Dépannage de votre chauffage au bois | Conviflamme",
+      "description": "Votre système de chauffage au bois est en panne ? Profitez d'un dépannage rapide et professionnel à Evreux, Le Havre, Rouen et Caen.",
+      "image": {
+        "src": "https://www.conviflamme.fr/build/images/conviflamme-depannage-456x334.cb791cfa.jpg",
+        "alt": "Dépannage équipement de chauffage bois - ConviFlamme"
+      }
+    }
+  },
+  "hero": {
+    "title": "ConviFlamme est à vos côté pour assurer le dépannage de votre chauffage au bois dans toute la Normandie",
+    "subtitle": "Nous intervenons dans l'Eure, le Calvados et la Seine-Maritime pour réparer votre installation de chauffage bois."
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.conviflamme.fr/build/images/conviflamme-depannage-456x334.cb791cfa.jpg",
+      "alt": "Dépannage équipement de chauffage bois - ConviFlamme"
+    },
+    "text": "<p>Vous avez fait le choix d'un système de chauffage au bois ou aux granulés pour ses nombreux avantages (écologiques, économiques et pratiques) ? L'équipe de ConviFlamme vous accompagne, même en cas de problème ! Ne restez pas sans chauffage : nos techniciens interviennent rapidement sur place, quelle que soit la raison de la panne.</p><p>Conviflamme est votre interlocuteur privilégié pour l'ensemble de vos installations de chauffage au bois en Normandie. Afin d'être au plus près de nos clients et de leurs attentes, nous disposons de trois agences idéalement situées à <a href=\"https://www.conviflamme.fr/chauffage-caen\" title=\"Chauffage Caen\">Caen</a>, <a href=\"https://www.conviflamme.fr/chauffage-rouen\" title=\"Chauffage Rouen\">Rouen</a> et Évreux.<br><br><br>&nbsp;</p>"
+  },
+  "teasers": [
+    {
+      "title": "Un dépannage rapide et professionnel en Normandie",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Faites dépanner votre pôele avec ConviFlamme",
+      "text": "<p>Votre poêle à bois ou à granulés ne fonctionne plus ? Une panne inexpliquée a mis à l'arrêt votre système de chauffage ? N'hésitez pas à faire appel à notre équipe de dépannage spécialisée dans les poêles. Nos techniciens se déplacent entre 24 et 48h après votre appel, selon le type de panne.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Maintenez votre chaudière à bois au top de ses performances",
+      "text": "<p>Garante du maintien de l'eau à bonne température, votre chaudière à granulés est indispensable à votre confort. C'est pourquoi il est essentiel d'assurer son bon fonctionnement tout au long de l'année. Afin d'éviter la panne, les techniciens ConviFlamme réalisent la maintenance et l'entretien de votre chaudière à granulés en Seine-Maritime, dans l'Eure et sur toute la Normandie.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Un service de dépannage dédié aux inserts bois et granulés en Normandie",
+      "text": "<p>Doté d'une grande autonomie, d'un bon rendement et d'une installation facilitée grâce à son système d'intégration, votre insert à bois présente de nombreux atouts. Pour optimiser ses performances et rentabiliser votre investissement, il est essentiel de réaliser une maintenance régulière via des professionnels compétents.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Une intervention rapide sur votre cheminée en Normandie",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Ce que nos clients pensent de nos prestations de dépannage",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"1\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/b6ae26a7-4bd5-0694-b121-1abb7f599ca0/a5b9d96e-603b-428c-8ed3-b085698513a6.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

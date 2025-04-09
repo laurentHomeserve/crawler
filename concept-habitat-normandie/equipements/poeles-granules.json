@@ -1,0 +1,64 @@
+{
+  "breadcrumb": "Poeles granules",
+  "seo": {
+    "title": "Optez pour un poêle à granulés - Concept Habitat Normandie",
+    "description": "Pour faire des économies de chauffage, choisissez un poêle à granulés. Adressez-vous à votre spécialiste Concept Habitat Normandie pour l'installation.",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Optez pour un poêle à granulés - Concept Habitat Normandie",
+      "description": "Pour faire des économies de chauffage, choisissez un poêle à granulés. Adressez-vous à votre spécialiste Concept Habitat Normandie pour l'installation.",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-equipement-poele-a-granules-456x334.4eab5301.jpg",
+        "alt": "Découvrez les poêles à granulés et à bois dans la Seine-Maritime avec Concept Habitat Normandie"
+      }
+    }
+  },
+  "hero": {
+    "title": "Les poêles à granulés : une solution écologique et économique pour baisser sa facture de chauffage",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-equipement-poele-a-granules-456x334.4eab5301.jpg",
+      "alt": "Découvrez les poêles à granulés et à bois dans la Seine-Maritime avec Concept Habitat Normandie"
+    },
+    "text": "<p>Soucieux de réduire vos dépenses de chauffage, vous vous intéressez au poêle à pellets ? Cet appareil pratique et performant permet de préserver votre confort thermique et de baisser votre facture principale d'énergie. Il complète le système central (radiateurs électriques, chauffage gaz, pompe à chaleur...), en utilisant une source d'énergie écologique et abordable : les granulés bois. Le chauffage central est ainsi moins sollicité, ce qui entraîne des économies.&nbsp;Adressez-vous à Concept Habitat Normandie pour vous accompagner dans votre projet poêle à pellets, pour poser, dépanner et entretenir votre appareil.&nbsp;</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Comment fonctionnent les poêles à pellets ?",
+      "text": "<p>Ces équipements produisent de la chaleur à partir de granulés de bois aussi appelés pellets. Ce combustible est fabriqué avec de la sciure, un matériau renouvelable et écologique.</p> <p>Les poêles à granulés disposent d'un réservoir interne qui dose selon les paramètres l'arrivée des granulés via une vis sans fin et d'un programmateur électronique. Ce système sert à gérer et à programmer le poêle (réglage de température, définition de plages horaires de chauffe...).</p> <p>Le stockage offre une autonomie de chauffage de plusieurs jours selon les modèles, contrairement au poêle à bois bûches qu'il convient de recharger régulièrement.</p> <p>Le poêle à granulés présente un rendement intéressant d'environ 85 % et un faible taux d'émission de polluants. Il est nécessaire d'adapter la puissance de l'appareil aux besoins en chauffage de la maison pour profiter d'un fonctionnement optimal.</p> <hr>"
+    },
+    {
+      "title": "Un mode de chauffage complémentaire",
+      "text": "<p>Les poêles à granulés diffusent la chaleur par convection essentiellement dans la pièce dans laquelle ils sont installés. Sauf si le modèle intègre un système de ventilation qui pulse l'air chaud et qui est couplé avec un réseau de gaines.</p> <p>Ils peuvent servir en chauffage principal dans les petits logements. Mais ils sont majoritairement plébiscités en complément d'un chauffage central. Ils servent durant les mi-saisons, ce qui permet d'allumer plus tard l'installation principale, ou pendant les périodes de grand froid en soutien de la pompe à chaleur ou de la chaudière à gaz.</p> <p>Comment bien chosiir son poêle à granulés en Normandie ? Contactez nos experts ou consultez <a href=\"../../conseils-et-actualites/8-criteres-choix-poele-granules-normandie\" title=\"Guide choix poêle à granulés\">notre guide pour choisir le meilleur poêle à pellet dans le Cotentin</a> !</p> <hr>"
+    },
+    {
+      "title": "S'équiper d'un poêle à granulés",
+      "text": "<p>Concept Habitat Normandie vous propose des poêles à pellets de la marque MCZ, qui combinent efficacité, praticité et design. Que vous résidiez à Elbeuf, à Évreux, à Louviers, au Neubourg ou à Tourville-la-Rivière, vous pouvez compter sur notre entreprise spécialisée dans les systèmes de chauffage. Nous vous accompagnons dans le choix d'un appareil adapté et dans la pose.</p> <p>Pour disposer d'un chauffage performant et assurer la sécurité de votre foyer, il est essentiel de procéder à un&nbsp;entretien du poêle (à granulés ou à bois) régulier. Deux ramonages par an sont obligatoires.</p> <p>Écart de température, problème d'allumage...&nbsp;Nos techniciens qualifiés interviennent aussi dans les meilleurs délais pour assurer le dépannage des poêles à granulés.</p> <p><i></i> <a href=\"../../conseils-et-actualites/comparatif-poele-bois-granules-maison-elbeuf\" title=\"Poêle à bois vs poêle à granulés\">À lire aussi&nbsp; - Les différences entre poêle à bois et poêle à granulés</a></p> <hr>"
+    }
+  ],
+  "related": {
+    "title": "En savoir plus sur le poêle à granulés",
+    "links": [
+      {
+        "text": "Dépannage d'un poêle à granulés",
+        "href": "/depannage/poeles-granules-bois",
+        "title": ""
+      },
+      {
+        "text": "Entretien de votre poêle à granulés",
+        "href": "/entretien/poeles-granules-bois",
+        "title": ""
+      },
+      {
+        "text": "Installation d'un poêle à granulés",
+        "href": "/installation/poeles-granules",
+        "title": ""
+      }
+    ]
+  },
+  "url": "https://www.concept-habitat-normandie.fr/equipements/poeles-granules"
+}

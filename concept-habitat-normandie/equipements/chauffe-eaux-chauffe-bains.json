@@ -1,0 +1,64 @@
+{
+  "breadcrumb": "Chauffe eaux chauffe bains",
+  "seo": {
+    "title": "Quel chauffe-eau choisir - Concept Habitat Normandie",
+    "description": "Vous voulez remplacer votre ballon d'eau chaude ou en installer un dans votre logement neuf ? Comptez sur les techniciens de Concept Habitat Normandie.",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Quel chauffe-eau choisir - Concept Habitat Normandie",
+      "description": "Vous voulez remplacer votre ballon d'eau chaude ou en installer un dans votre logement neuf ? Comptez sur les techniciens de Concept Habitat Normandie.",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-equipement-chauffe-eau-456x334.d574f30e.jpg",
+        "alt": "Equipements chauffe-eau thermodynamique, electrique, chauffe bains gaz et cumulus - Concept Habitat Normandie"
+      }
+    }
+  },
+  "hero": {
+    "title": "Le chauffe-eau : un équipement-clé du logement",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-equipement-chauffe-eau-456x334.d574f30e.jpg",
+      "alt": "Equipements chauffe-eau thermodynamique, electrique, chauffe bains gaz et cumulus - Concept Habitat Normandie"
+    },
+    "text": "<p>Essentiel pour disposer d'eau chaude à toute heure, le chauffe-eau fait partie des appareils domestiques indispensables. Électrique, au gaz, thermodynamique ou solaire, il fonctionne indépendamment du mode de chauffage ou au contraire il y est associé.</p> <p>Pour concilier confort et consommation d'énergie, il convient d'opter pour un appareil adapté aux besoins et aux attentes du ménage. Il est aussi important de le poser en respectant les normes techniques.</p> <p>Intervenant sur Elbeuf et les localités avoisinantes, Concept Habitat Normandie se charge à votre demande d'installer un chauffe-eau ou de remplacer l'existant, défaillant ou en panne.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Les différents modèles de chauffe-eaux",
+      "text": "<p>Il existe plusieurs types de chauffe-eaux. Ils se distinguent par :</p> <ul> <li>leur système de production d'eau chaude : instantané (dépourvus de cuve de stockage, ils chauffent uniquement lorsqu'ils sont sollicités) ou à accumulation (ils stockent l'eau chauffée dans une cuve) ;&nbsp;</li> <li>la source d'énergie utilisée : électricité, gaz, soleil...</li> </ul> <h3>Le chauffe-eau électrique</h3> <p>Le cumulus électrique est le dispositif de production d'eau chaude sanitaire (ECS) le plus répandu. Il intègre une résistance (blindée ou stéatite) qui monte à température l'eau.</p> <h3>Le chauffe-eau au gaz</h3> <p>Aussi appelé chauffe-bain, il est raccordé à une installation au gaz (elle-même reliée à un réseau de ville ou à une cuve de stockage...).</p> <h3>Le chauffe-eau thermodynamique</h3> <p>Cet équipement comprend une pompe à chaleur air-eau qui utilise les calories de l'air intérieur ou extérieur pour chauffer un liquide caloporteur. Celui-ci circule dans un serpentin placé dans l'eau et la chauffe à la température souhaitée. Le chauffe-eau thermodynamique inclut aussi une résistance électrique qui prend le relais durant les périodes de froid.</p> <h3>Le chauffe-eau solaire</h3> <p>Le chauffe-eau solaire individuel (CESI) rassemble des capteurs solaires thermiques et un ballon de stockage. Les panneaux se servent des calories du soleil pour chauffer le fluide caloporteur puis l'eau comme pour la version thermodynamique.&nbsp;</p> <hr>"
+    },
+    {
+      "title": "Les critères à prendre en compte pour choisir votre appareil",
+      "text": "<p>Pour équiper un logement neuf ou en rénovation, il convient de s'attarder sur plusieurs paramètres afin de sélectionner la meilleure solution&nbsp;:&nbsp;</p> <ul> <li>un système indépendant ou relié au chauffage ;</li> <li>l'énergie disponible (gaz, électrique, solaire...) ;</li> <li>la capacité du ballon d'eau : elle varie de 10 litres pour les modèles posés au-dessus ou au-dessous d'un évier à 300 litres ;</li> <li>la fixation (verticale ou horizontale) qui dépend de l'espace accessible.</li> </ul> <h3>Bon à savoir :</h3> <p>La production d'eau chaude sanitaire représente un poste de dépenses important pouvant atteindre jusqu'à 20 % de la consommation d'énergie d'un foyer d'après l'Ademe (Agence de l'environnement et de la maîtrise de l'énergie).</p> <p>Pour éviter les surconsommations et les frais superflus, l'Ademe recommande :&nbsp;</p> <ul> <li>d'adapter le volume du ballon au plus près des besoins ;</li> <li>de changer les équipements datant de plus de 20 ans, plus énergivores que les récents ;</li> <li>de réaliser un <a href=\"/entretien/chauffe-eaux-chauffe-bains\" title=\"contrat entretien chauffe-eau\">entretien du chauffe-eau</a> régulier (détartrage, vérification de l'étanchéité et de la pression du groupe de sécurité et des raccords...).</li> </ul> <hr>"
+    },
+    {
+      "title": "Un projet d'installation ou de remplacement de chauffe-eau ?",
+      "text": "<p>Votre ballon d'eau chauffe moins bien depuis quelque temps ? Vous désirez <a href=\"/entretien/chauffe-eaux-chauffe-bains\" title=\"devis gratuit chauffe-eau\">installer un chauffe-eau</a> performant dans votre maison ou dans votre appartement ? Rapprochez-vous d'un professionnel. Concept Habitat Normandie est à votre service pour vous renseigner et vous conseiller, comme pour réaliser la pose. Nos équipes assurent également la maintenance et le dépannage de votre chauffe-eau.</p> <p>Notre entreprise située à Elbeuf vous propose des équipements de qualité des marques Atlantic, Hitachi ou Thermor. Elle se déplace dans les communes alentour :&nbsp;Évreux, Le Neubourg, Louviers, Tourville-la-Rivière...</p> <hr>"
+    }
+  ],
+  "related": {
+    "title": "Consultez nos services liés au chauffe-eau",
+    "links": [
+      {
+        "text": "Dépannage ou réparation de votre chauffe-eau",
+        "href": "/depannage/chauffe-eaux-chauffe-bains",
+        "title": "depanner chauffe-eau solaire ou thermodynamique"
+      },
+      {
+        "text": "Entretien ou maintenance de votre chauffe-eau",
+        "href": "/entretien/chauffe-eaux-chauffe-bains",
+        "title": "contrat entretien chauffe-eau"
+      },
+      {
+        "text": "Installation ou remplacement de votre chauffe-eau",
+        "href": "/entretien/chauffe-eaux-chauffe-bains",
+        "title": "devis gratuit chauffe-eau"
+      }
+    ]
+  },
+  "url": "https://www.concept-habitat-normandie.fr/equipements/chauffe-eaux-chauffe-bains"
+}

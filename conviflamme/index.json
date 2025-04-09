@@ -1,0 +1,133 @@
+{
+  "breadcrumb": "",
+  "seo": {
+    "title": "ConviFlamme - Votre expert en chauffage à bois et granulés en Normandie",
+    "description": "Conviflamme votre expert en chauffage à bois et granulés vous accompagne dans la mise en place de vos installations de chauffage à Evreux, Rouen, Caen et dans toute la Normandie",
+    "opengraph": {
+      "site_name": "ConviFlamme",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "ConviFlamme - Votre expert en chauffage à bois et granulés en Normandie",
+      "description": "Conviflamme votre expert en chauffage à bois et granulés vous accompagne dans la mise en place de vos installations de chauffage à Evreux, Rouen, Caen et dans toute la Normandie",
+      "image": {
+        "src": "https://www.conviflamme.fr/asset/img/organisation/corporate/conviflamme/chauffagiste-conviflamme.jpg",
+        "alt": ""
+      }
+    }
+  },
+  "hero": {
+    "title": "Conviflamme : toute notre expertise du chauffage bois en Normandie",
+    "subtitle": "Entretenir, dépanner et installer vos appareils de chauffage à granulés ou bois à Évreux, Caen et Rouen c'est notre métier !"
+  },
+  "expertises": [
+    {
+      "linked": "/installation",
+      "sticker": "Installer un chauffage au bois",
+      "title": "Installation ou remplacement de vos équipements de chauffage bois",
+      "img": {
+        "src": "/build/images/conviflamme-accueil-installation-remplacement-456x334.bdf41343.jpg",
+        "alt": "Installer un chauffage au bois"
+      },
+      "content": "Vous envisagez de faire installer un chauffage au bois ou de remplacer votre ancien système ? Notre équipe intervient en Normandie pour vous proposer un projet adapté.",
+      "button": {
+        "text": "Installer ou remplacer",
+        "title": "Installation et équipement de chauffage"
+      }
+    },
+    {
+      "linked": "/entretien",
+      "sticker": "Entretenir un chauffage au bois",
+      "title": "Réparation et dépannage de vos appareils au bois",
+      "img": {
+        "src": "/build/images/conviflamme-accueil-maintenance-entretien-456x334.14b23525.jpg",
+        "alt": "Entretenir un chauffage au bois"
+      },
+      "content": "Votre chauffage bois est tombé en panne ? N'attendez-pas pour nous contacter : nos collaborateurs interviennent sous 24 à 48 heures.",
+      "button": {
+        "text": "Entretenir un équipement",
+        "title": "Entretenir un équipement de chauffage"
+      }
+    },
+    {
+      "linked": "/depannage",
+      "sticker": "Dépanner un chauffage au bois",
+      "title": "Entretien et maintenance de votre installation au bois",
+      "img": {
+        "src": "/build/images/conviflamme-accueil-depannage-reparation-456x334.35b2588c.jpg",
+        "alt": "Dépanner un chauffage au bois"
+      },
+      "content": "En tant que spécialiste des énergies renouvelables bois en Normandie nous assurons aussi l'entretien et la maintenance de vos installations.",
+      "button": {
+        "text": "Dépanner une installation",
+        "title": "Dépanner un équipement de chauffage"
+      }
+    }
+  ],
+  "certification": {
+    "title": "Nos certifications pour installer, entretenir et dépanner votre chauffage bois en Normandie",
+    "content": "Nous sommes reconnus pour notre expertise et notre savoir-faire dans les domaines du chauffage bois. C'est pourquoi, afin de vous proposer des prestations de qualité, nous disposons de plusieurs certifications attestant de notre professionnalisme. Nous sommes certifiés et agréés RGE Quali'Bois, RGE Qualibat, Flamme Verte, SynerCiel. Nous sommes aussi partenaire Solutions Habitat d'EDF. <a href=\"/qui-sommes-nous/certifications\" title=\"Les certifications bois de ConviFlamme\">En savoir plus sur nos certifications</a>",
+    "logos": [
+      {
+        "src": "/build/images/partenaire-habitat-edf.b12c21f2.png",
+        "alt": "Partenaire habitat EDF"
+      },
+      {
+        "src": "/build/images/synerciel.7e176cb2.png",
+        "alt": "Synerciel - Professionnel Rénovation"
+      },
+      {
+        "src": "/build/images/rge-qualibois.a53eb2c4.png",
+        "alt": "QualiBois RGE"
+      },
+      {
+        "src": "/build/images/flamme-verte.29d5563b.png",
+        "alt": "Flamme Verte - Chauffage Bois"
+      },
+      {
+        "src": "/build/images/qualibat-rge.5c690eba.jpg",
+        "alt": "Qualibat RGE"
+      }
+    ]
+  },
+  "partner": {
+    "title": "Nous travaillons en Normandie avec les plus grandes marques du chauffage au bois",
+    "content": "Nos collaborateurs sont formés pour intervenir sur tout type de matériel et toutes les marques de chauffage au bois. En plus, en tant que chauffagiste spécialisé dans le bois dans toute la Normandie reconnu, nous travaillons avec les meilleures marques : <a href=\"/qui-sommes-nous/marques/ofen\" title=\"Conviflamme partenaire de OFEN\">OFEN</a>, <a href=\"/qui-sommes-nous/marques/mcz\" title=\"Conviflamme partenaire de MCZ\">MCZ</a>, <a href=\"/qui-sommes-nous/marques/dovre\" title=\"Conviflamme partenaire de DOVRE\">DOVRE</a>, <a href=\"/qui-sommes-nous/marques/arco\" title=\"Conviflamme partenaire de ARCO\">ARCO</a>, <a href=\"/qui-sommes-nous/marques/sergio-leoni\" title=\"Conviflamme partenaire de SERGIO LEONI\">SERGIO LEONI</a>, .... Ces partenariats solides et durables, nous permettent d'intervenir rapidement en procédant, si besoin, au remplacement des pièces défectueuses ou vétustes par des pièces d'origine.<br><br>Conviflamme <a href=\"https://www.conviflamme.fr/chauffage-evreux\" title=\"Chauffage Evreux\">Evreux</a> et <a href=\"https://www.conviflamme.fr/chauffage-rouen\" title=\"Chauffage Rouen\">Rouen</a> vous recommandent chaudement l'entreprise <a href=\"/qui-sommes-nous/marques#gruchy\" title=\"Conviflamme partenaire de GRUCHY\">GRUCHY</a>, une entreprise familiale réputée pour l'achat de vos granulés et de votre bois de chauffage.<br>&nbsp;",
+    "logos": [
+      {
+        "src": "/build/images/ofen.9dbaa338.jpg",
+        "alt": "Often"
+      },
+      {
+        "src": "/build/images/mcz.19af4f8d.jpg",
+        "alt": "MCZ"
+      },
+      {
+        "src": "/build/images/dovre.8a556191.jpg",
+        "alt": "Dovre"
+      },
+      {
+        "src": "/build/images/arco.25193849.jpg",
+        "alt": "Arco Heating"
+      },
+      {
+        "src": "/build/images/sergioleoni.646221e9.jpg",
+        "alt": "Sergio Leoni"
+      }
+    ]
+  },
+  "map": {
+    "title": "Depuis Caen, Rouen et Evreux nous couvrons le Calvados, l'Orne, l'Eure et la Seine-Maritime",
+    "content": "<p style=\"padding-bottom: 20px;\">Avec trois agences normandes situées à <a href=\"https://www.conviflamme.fr/chauffage-caen\" title=\"Chauffage Caen\">Caen</a>, Évreux et <a href=\"https://www.conviflamme.fr/chauffage-rouen\" title=\"Chauffage Rouen\">Rouen</a>, l'entreprise ConviFlamme vous propose son expertise en Normandie depuis de nombreuses années. Nous avons déjà effectué plus de 4000 installations, aussi bien auprès d'une clientèle de professionnels que de particuliers. Nous intervenons dans l'Eure, la Seine-Maritime et le Calvados. <a href=\"/qui-sommes-nous/zones-intervention\" title=\"Zone d'intervention: dépannage, entretien et installation chauffage\">Toutes nos zones d'intervention</a></p>",
+    "map": {
+      "lat": null,
+      "lng": null,
+      "zoom": 9,
+      "title": "ConviFlamme - Caen",
+      "content": "<h3 style=\"font-size:1.1em\">ConviFlamme à Caen</h3><p>Chemin des Carrières,<br/>14123 Fleury-sur-Orne</p><p>Adresse email : contact@conviflamme.fr</p><p>Téléphone : 02 31 43 68 14</p>"
+    }
+  },
+  "presentation": {
+    "title": "Faites confiance à un expert des énergies renouvelables bois",
+    "content": "<p>Que vous habitiez Dieppe, Hérouville-Saint-Clair, Le Havre, <a href=\"https://www.conviflamme.fr/chauffage-bayeux\" title=\"Chauffage Bayeux\">Bayeux</a>, Gisors ou encore Pont-l'Évêque, vous avez de bonnes raisons de préférer le chauffage au bois.</p> <p>ConviFlamme est votre chauffagiste spécialisé en énergies renouvelables bois. Faites nous confiance pour installer chez vous ou dans votre entreprise un poêle à granulés, une chaudière à bois, une cheminée ou un insert. L'énergie bois est à la fois durable et économique. Elle permet de délivrer un chauffage confortable et respectueux de l'environnement.</p> <p>Dans les secteurs de <a href=\"https://www.conviflamme.fr/chauffage-rouen\" title=\"Chauffage Rouen\">Rouen</a>, d'Évreux ou de <a href=\"https://www.conviflamme.fr/chauffage-caen\" title=\"Chauffage Caen\">Caen</a>, nos techniciens vous apportent leurs différentes solutions techniques et esthétiques. Profondément attachés à vous satisfaire, ils vous accompagnent et vous offrent des conseils entièrement personnalisés.</p> <p>La qualité de service, la réponse aux contraintes budgétaires, la performance, la diversité des produits proposés et l'expérience acquise au travers de nos très nombreuses réalisations nous permettent de trouver à coup sûr la meilleure solution pour chauffer votre logement ou votre société. <a href=\"/qui-sommes-nous\" title=\"Qui sommes-nous ?\">Cliquez ici pour en savoir plus sur ConviFlamme</a></p>"
+  }
+}

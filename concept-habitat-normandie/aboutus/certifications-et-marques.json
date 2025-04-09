@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Certifications et marques",
+  "seo": {
+    "title": "Certifications et marques - Concept Habitat Normandie",
+    "description": "QualiPAC, professionnel du gaz, partenaire Synerciel et EDF... Découvrez toutes les qualifications professionnelles de Concept Habitat Normandie. ",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Certifications et marques - Concept Habitat Normandie",
+      "description": "QualiPAC, professionnel du gaz, partenaire Synerciel et EDF... Découvrez toutes les qualifications professionnelles de Concept Habitat Normandie. ",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-certification-marques-456x334.733a07b4.jpg",
+        "alt": "Nos certifications et marques de chauffage et climatisation - Concept Habitat Normandie"
+      }
+    }
+  },
+  "hero": {
+    "title": "Appuyez-vous sur nos certifications et sur nos marques de renom pour vos solutions de chauffage et de climatisation",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/concept-habitat-normandie-certification-marques-456x334.733a07b4.jpg",
+      "alt": "Nos certifications et marques de chauffage et climatisation - Concept Habitat Normandie"
+    },
+    "text": "<p>Concept Habitat Normandie vous guide et vous épaule dans vos projets de construction, de rénovation et d'amélioration de l'habitat. Vous envisagez d'installer une pompe à chaleur, une chaudière ou un chauffe-eau thermodynamique à Elbeuf ou aux alentours ? Adressez-vous à un spécialiste implanté localement et disponible. Notre entreprise concilie savoir-faire et certifications professionnelles. Elle privilégie des équipements qualitatifs et performants de marques reconnues (Hitachi, Mitsubishi, Viessmann...).</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Nos certifications",
+      "text": "<p>Concept Habitat Normandie affiche de nombreuses qualifications dans le domaine des installations de chauffage, des systèmes solaires thermiques et des climatisations.</p> <p>À savoir :</p> <ul> <li>Professionnel du gaz</li> <li>QualiPAC : certification RGE (reconnu garant de l'environnement) dédiée aux professionnels des pompes à chaleur</li> <li>attestation de manipulation des fluides</li> <li>certification CAPEB</li> <li>partenaire EDF</li> <li>partenaire Synerciel : réseau de professionnels experts de la rénovation durable</li> <li>Domofinance : spécialiste des financements des travaux de rénovation énergétique</li> </ul> <hr>"
+    },
+    {
+      "title": "Nos marques et nos fabricants",
+      "text": "<p>Pour assurer le confort et l'efficacité de votre logement, Concept Habitat Normandie choisit ses équipements et son matériel parmi les plus grands fabricants :</p> <ul> <li>pour les pompes à chaleur air-eau, air-air et hybrides : Mitsubishi, Hitachi, Atlantic</li> <li>pour les chaudières à gaz et à granulés : Saunier Duval, Viessmann</li> <li>pour les poêles à bois et à granulés : LORFLAM, Dovre Fire, STORCH, SAEY, Denia, MCZ</li> <li>pour les chauffe-eaux électriques, thermodynamiques et solaires : Atlantic, Thermor, Hitachi</li> </ul> <p><i></i> <span class=\"obflink obflink-text\" data-o=\"L25vdXMtY29udGFjdGVy\">Contactez-nous pour plus de renseignements</span></p>"
+    }
+  ]
+}

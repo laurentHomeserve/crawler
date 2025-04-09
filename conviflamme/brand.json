@@ -1,0 +1,35 @@
+{
+  "name": "ConviFlamme",
+  "description": "",
+  "map_url": "https://g.page/Conviflamme",
+  "website_url": "https://www.conviflamme.fr",
+  "phone": "(33 2)31436814",
+  "streetAddress": "Chemin des Carrières",
+  "addressLocality": "Fleury-sur-Orne, France",
+  "postalCode": "F-14123",
+  "addressCountry": "France",
+  "geo": {
+    "lat": "49.14341079467033",
+    "lng": "-0.37503385397458916"
+  },
+  "favicon": "https://www.conviflamme.fr/asset/CONVIFLAMME/favicon/favicon-32x32.png",
+  "logo": "https://www.conviflamme.fr/asset/img/organisation/logo/conviflamme/logo-conviflamme.jpg",
+  "image": "https://www.conviflamme.fr/asset/img/organisation/corporate/conviflamme/chauffagiste-conviflamme.jpg",
+  "avis_verifies": "",
+  "piwik_token": "4ac61127-2432-40a5-8b41-d80b3fa49b96",
+  "opening_hours": [
+    "Mo, Tu, We, Th, Fr, Sa 09:00-18:00"
+  ],
+  "footer_links": [],
+  "socials": [],
+  "sameAs": [
+    "https://www.societe.com/societe/conviflamme-535289789.html",
+    "https://fr-fr.facebook.com/Conviflamme/",
+    "https://www.instagram.com/conviflamme/",
+    "https://www.pagesjaunes.fr/pros/53631322",
+    "https://www.eldotravo.fr/enseignes/conviflamme",
+    "https://www.conviflamme-rouen.fr/",
+    "https://www.conviflamme-caen.fr/",
+    "https://www.conviflamme-evreux.fr/"
+  ]
+}

@@ -1,0 +1,199 @@
+[
+  {
+    "link": {
+      "text": "équipements",
+      "href": "https://www.conviflamme.fr/equipements",
+      "title": ""
+    },
+    "categories": [
+      {
+        "title": "Poêles, Inserts et Cheminées",
+        "subLinks": [
+          {
+            "text": "Poêle à granulés, pellets",
+            "href": "https://www.conviflamme.fr/equipements/poele-granules-pellets",
+            "title": "Poêles granulés et poêles pellets | ConviFlamme "
+          },
+          {
+            "text": "Poêle à bois",
+            "href": "https://www.conviflamme.fr/equipements/poele-bois",
+            "title": "Poêles bois | ConviFlamme"
+          },
+          {
+            "text": "Insert à granulés, pellets",
+            "href": "https://www.conviflamme.fr/equipements/insert-granules-pellets",
+            "title": "Inserts granulés et pellets | ConviFlamme"
+          },
+          {
+            "text": "Insert à bois",
+            "href": "https://www.conviflamme.fr/equipements/insert-bois",
+            "title": "Inserts bois | ConviFlamme"
+          },
+          {
+            "text": "Cheminée à granulés, pellets",
+            "href": "https://www.conviflamme.fr/equipements/cheminee-granules-pellets",
+            "title": "Cheminée granulés et pellets | ConviFlamme"
+          },
+          {
+            "text": "Cheminée à bois",
+            "href": "https://www.conviflamme.fr/equipements/cheminee-bois",
+            "title": "Cheminée bois | ConviFlamme"
+          }
+        ]
+      },
+      {
+        "title": "Chaudières à granulés, pellets",
+        "link": {
+          "text": "Chaudières à granulés, pellets",
+          "href": "https://www.conviflamme.fr/equipements/chaudiere-granules-pellets",
+          "title": "Chaudière granulés et chaudiere pellets par ConviFlamme"
+        }
+      },
+      {
+        "title": "Cuisinières à bois et granulés",
+        "link": {
+          "text": "Cuisinières à bois et granulés",
+          "href": "https://www.conviflamme.fr/equipements/cuisiniere",
+          "title": "Cuisinières à granulés"
+        }
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Installation",
+      "href": "https://www.conviflamme.fr/installation",
+      "title": ""
+    },
+    "categories": [
+      {
+        "title": "Poêles, Inserts et Cheminées",
+        "subLinks": [
+          {
+            "text": "Installer un Poêle à granulés, pellets",
+            "href": "https://www.conviflamme.fr/installation/poele-granules-pellets",
+            "title": "Installation ou remplacement poêle à granulés dans l'Eure, la Seine-Maritime et le Calvados"
+          },
+          {
+            "text": "Installer un Poêle à bois",
+            "href": "https://www.conviflamme.fr/installation/poele-bois",
+            "title": "Installer un poêle à bois dans la Seine-Maritime, l'Eure et le Calvados"
+          },
+          {
+            "text": "Installer un Insert à granulés, pellets ou bois",
+            "href": "https://www.conviflamme.fr/installation/insert-granules-pellets-bois",
+            "title": "Installation insert dans le Calvados, l'Eure et la Seine-Maritime"
+          },
+          {
+            "text": "Installer une Cheminée à granulés, pellets ou bois",
+            "href": "https://www.conviflamme.fr/installation/cheminee-granules-pellets-bois",
+            "title": "Installation cheminées en Normandie"
+          }
+        ]
+      },
+      {
+        "title": "Chaudière à granulés, pellets",
+        "subLinks": [
+          {
+            "text": "Installer une Chaudière à granulés, pellets",
+            "href": "https://www.conviflamme.fr/installation/chaudiere-granules-pellets",
+            "title": "Installation ou remplacement chaudière granulés et pellets en Normandie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Entretien",
+      "href": "https://www.conviflamme.fr/entretien",
+      "title": ""
+    },
+    "categories": [
+      {
+        "title": "Poêles, Inserts et Cheminées",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Poêle à granulés, pellets",
+            "href": "https://www.conviflamme.fr/entretien/poele-granules-pellets",
+            "title": "Entretien poêle à granulés et pellets dans le Calvados, l'Eure et la Seine-Maritime"
+          },
+          {
+            "text": "Entretenir votre Poêle à bois",
+            "href": "https://www.conviflamme.fr/entretien/poele-bois",
+            "title": "Entretien poêle à bois dans l'Eure, la Seine-Maritime et le Calvados"
+          },
+          {
+            "text": "Entretenir votre Insert à bois, granulés ou pellets",
+            "href": "https://www.conviflamme.fr/entretien/insert-granules-pellets-bois",
+            "title": "Entretien insert à bois, granulés ou pellets par ConviFlamme"
+          },
+          {
+            "text": "Entretenir votre Cheminée à bois, granulés ou pellets",
+            "href": "https://www.conviflamme.fr/entretien/cheminee-granules-pellets-bois",
+            "title": "Entretien cheminée à granulés, pellets ou bois dans l'Eure, la Seine-Maritime et le Calvados"
+          },
+          {
+            "text": "Ramoner votre Chauffage au bois",
+            "href": "https://www.conviflamme.fr/entretien/ramonage-cheminee-poele-insert-chaudiere",
+            "title": "Ramonage poêle, insert, cheminée et chaudière en Normandie"
+          }
+        ]
+      },
+      {
+        "title": "Chaudières à granulés, pellets",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Chaudière à granulés, pellets",
+            "href": "https://www.conviflamme.fr/entretien/chaudiere-granules-pellets",
+            "title": "Entretien chaudière granulés et pellets dans l'Eure, la Seine-Maritime et le Calvados"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Dépannage",
+      "href": "https://www.conviflamme.fr/depannage",
+      "title": ""
+    },
+    "categories": [
+      {
+        "title": "Poêles, Inserts et Cheminées",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Poêle à granulés, pellets",
+            "href": "https://www.conviflamme.fr/depannage/poele-granules-pellets",
+            "title": "Dépannage poêle à granulés"
+          },
+          {
+            "text": "Dépanner votre Poêle à bois",
+            "href": "https://www.conviflamme.fr/depannage/poele-bois",
+            "title": "Dépannage poêle à bois"
+          },
+          {
+            "text": "Dépanner votre Insert à bois, granulés ou pellets",
+            "href": "https://www.conviflamme.fr/depannage/insert-granules-pellets-bois",
+            "title": "Dépannage insert à bois, granulés ou pellets par ConviFlamme"
+          },
+          {
+            "text": "Dépanner votre Cheminée à bois, granulés ou pellets",
+            "href": "https://www.conviflamme.fr/depannage/cheminee-granules-pellets-bois",
+            "title": "Dépannage cheminée à granulés, pellets ou bois dans l'Eure, la Seine-Maritime et le Calvados"
+          }
+        ]
+      },
+      {
+        "title": "Chaudières à granulés, pellets",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Chaudière à granulés, pellets",
+            "href": "https://www.conviflamme.fr/depannage/chaudiere-granules-pellets",
+            "title": "Dépanner chaudière granulés pellets"
+          }
+        ]
+      }
+    ]
+  }
+]

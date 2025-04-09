@@ -1,0 +1,60 @@
+{
+  "breadcrumb": "Pompes a chaleur",
+  "seo": {
+    "title": "Pompes à chaleur air-eau et hybride - Concept Habitat Normandie",
+    "description": "Envie de profiter des performances d'une pompe à chaleur air-eau ou hybride ? Faites appel à Concept Habitat Normandie, un spécialiste local reconnu.",
+    "opengraph": {
+      "site_name": "Concept Habitat Normandie",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Pompes à chaleur air-eau et hybride - Concept Habitat Normandie",
+      "description": "Envie de profiter des performances d'une pompe à chaleur air-eau ou hybride ? Faites appel à Concept Habitat Normandie, un spécialiste local reconnu.",
+      "image": {
+        "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-equipement-pompe-a-chaleur-456x334.a225fef7.jpg",
+        "alt": "Tout savoir sur les pompes a chaleur dans le 76 et le 27 dans la Normandie"
+      }
+    }
+  },
+  "hero": {
+    "title": "Les pompes à chaleur : un dispositif alliant performance, confort et économies",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.concept-habitat-normandie.fr/build/images/concept-habitat-normandie-equipement-pompe-a-chaleur-456x334.a225fef7.jpg",
+      "alt": "Tout savoir sur les pompes a chaleur dans le 76 et le 27 dans la Normandie"
+    },
+    "text": "<p>Ingénieuses, les pompes à chaleur récupèrent les calories disponibles gratuitement dans l'air, dans le sol ou dans l'eau. Elles les utilisent pour chauffer un logement et/ou produire l'eau chaude. Ce système performant permet de réduire sa facture d'énergie et de bénéficier d'un confort thermique intéressant. Il peut se déployer dans les constructions neuves comme dans les maisons en rénovation.</p> <p>&nbsp;Si vous prévoyez d'installer une pompe à chaleur air-eau ou hybride à Elbeuf, à Évreux ou à Louviers, tournez-vous vers votre expert Concept Habitat Normandie. Notre entreprise est spécialisée dans les&nbsp;systèmes énergétiques bas carbone, dont les pompes à chaleur.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Caractéristiques, fonctionnement et avantages",
+      "text": "<h3>Les différents modèles existants</h3> <p>La pompe à chaleur (PAC) décline sa technologie innovante à partir de diverses sources de prélèvement (air, sol ou eau) et dans plusieurs modes de distribution (air, eau...). C'est pourquoi on parle de pompe à chaleur air-air, air-eau, eau-eau ou encore&nbsp;sol-eau.</p> <p>Le principe reste le même : l'équipement puise des calories à l'extérieur dans un milieu naturel et les transfère au fluide frigorigène à l'état liquide ou gazeux. Il les compresse pour augmenter la chaleur. Une fois que le fluide frigorigène a atteint la température souhaitée, il restitue cette chaleur à l'eau du réseau hydraulique du chauffage, au ballon d'eau sanitaire ou directement dans l'air (via des ventilo-convecteurs à détente directe).</p> <p>Les pompes à chaleur peuvent être couplées à :</p> <ul> <li>des radiateurs à eau chaude ;</li> <li>un plancher chauffant hydraulique ;</li> <li>des ventilo-convecteurs à eau ;</li> <li>des ventilo-convecteurs à détente directe.</li> </ul> <p>Il existe des PAC réversibles qui servent de chauffage en hiver et rafraîchissent en été.</p> <p>Concept Habitat Normandie installe uniquement des pompes à chaleur air-eau et hybrides. Ces dernières rassemblent deux technologies (PAC air-eau et chaudière au gaz) en un seul appareil.</p> <h3>Les avantages</h3> <p>Les atouts de ces modes de chauffage sont nombreux. En effet, les PAC mobilisent une énergie renouvelable, inépuisable, gratuite et disponible partout. Pour fonctionner, elles utilisent peu d'électricité. Une pompe à chaleur air-eau présente un coefficient de performance (COP) élevé. Elle produit en moyenne 4 à 5 kW de chaleur pour 1 kWh d'électricité consommé*.</p> <p>Les PAC affichent une longévité comprise entre 15 et 20 ans, si elles sont entretenues régulièrement.&nbsp;Enfin, les travaux ouvrent droit à des aides financières de l'État et/ou des collectivités territoriales.</p> <hr>"
+    },
+    {
+      "title": "La pose de pompe à chaleur : notre expertise",
+      "text": "<p>Spécialisés dans l'installation, l'entretien et le dépannage des pompes à chaleur à Elbeuf, au Neubourg ou à Bourgtheroulde-Infreville,&nbsp;nous vous accompagnons dans votre projet de chauffage. Et ce, que vous vous lanciez dans une construction neuve ou dans des travaux de rénovation énergétique près d'Elbeuf : Bourg-Achard, Pont-de-L'Arche, Évreux...</p> <p>Nos équipes vous aident à sélectionner et à dimensionner votre installation. Elles se chargent de la pose et du paramétrage.&nbsp;Pour profiter d'une installation performante et économe en énergie, pensez à l'entretien de votre pompe à chaleur. Un contrôle annuel est préconisé.</p> <em>*Ces données proviennent de l'article “La pompe à chaleur air-eau“ publié par l'Afpac (association française pour les pompes à chaleur).</em> <hr>"
+    }
+  ],
+  "related": {
+    "title": "Consultez nos services liés à la pompe à chaleur",
+    "links": [
+      {
+        "text": "Dépannage de votre pompe à chaleur",
+        "href": "/depannage/pompes-a-chaleur",
+        "title": "depanner pac"
+      },
+      {
+        "text": "Entretien de votre pompe à chaleur",
+        "href": "/entretien/pompes-a-chaleur",
+        "title": "entretien pac"
+      },
+      {
+        "text": "Installation d'une pompe à chaleur",
+        "href": "/installation/pompes-a-chaleur",
+        "title": "installer pac"
+      }
+    ]
+  },
+  "url": "https://www.concept-habitat-normandie.fr/equipements/pompes-a-chaleur"
+}

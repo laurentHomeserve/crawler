@@ -1,0 +1,35 @@
+{
+  "breadcrumb": "Recrutement",
+  "seo": {
+    "title": "Recrutement : rejoignez nous | Conviflamme",
+    "description": "Vous êtes à la recherche d'un emploi stable dans un secteur en pleine expansion, au sein d'une entreprise reconnue localement ? Rejoignez Conviflamme !",
+    "opengraph": {
+      "site_name": "ConviFlamme",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Recrutement : rejoignez nous | Conviflamme",
+      "description": "Vous êtes à la recherche d'un emploi stable dans un secteur en pleine expansion, au sein d'une entreprise reconnue localement ? Rejoignez Conviflamme !",
+      "image": {
+        "src": "https://www.conviflamme.fr/build/images/conviflamme-recrutement-456x334.2de58176.jpg",
+        "alt": "recrutement ConviFlamme"
+      }
+    }
+  },
+  "hero": {
+    "title": "Conviflamme recrute : rejoignez-nous !",
+    "subtitle": "Rejoignez une équipe dynamique et experte dans les énergies renouvelables en Normandie"
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/conviflamme-recrutement-456x334.2de58176.jpg",
+      "alt": "recrutement ConviFlamme"
+    },
+    "text": "<p>Vous êtes à la recherche d'un emploi stable dans un secteur en pleine expansion, au sein d'une entreprise reconnue localement ? Présente sur 3 agences de Normandie près d'<a href=\"https://www.conviflamme.fr/chauffage-evreux\" title=\"Chauffage Evreux\">Evreux</a>, <a href=\"https://www.conviflamme.fr/chauffage-caen\" title=\"Chauffage Caen\">Caen</a> et <a href=\"https://www.conviflamme.fr/chauffage-rouen\" title=\"Chauffage Rouen\">Rouen</a>, Conviflamme est une société experte dans les solutions de chauffage écologique. Avec une large zone d'intervention, nous sommes sans cesse en quête de nouveaux profils.</p> <p>Nos professionnels sont formés aux dernières technologies du marché, dans les équipements de chauffage bois. Conscients des enjeux environnementaux, notre démarche vise à offrir à nos clients des solutions à la fois rentables et respectueuses de la planète. Rejoignez une équipe ambitieuse offrant des solutions innovantes et gagnez en compétences et en expérience.</p>"
+  },
+  "contents": [
+    {
+      "title": "Quels métiers chez Conviflamme ?",
+      "text": "<p>Nos agences Conflamme en Normandie accompagnent les particuliers et professionnels dans leurs projets de rénovation énergétique. De la vente au dépannage, nous sommes à l'écoute des besoins de nos clients et proposons des solutions personnalisées au plus près de leurs exigences. Nos équipes se chargent de la vente, l'installation, l'entretien et le dépannage des équipements de chauffage. Nous proposons des offres d'emploi de vendeurs, chauffagistes, techniciens et ramoneurs. Afin d'offrir à nos clients des services de qualité en toute circonstance, nous sommes à la recherche de professionnels qualifiés, réactifs et responsables.</p> <p>Vous disposez de connaissances techniques dans le secteur du chauffage, du commerce ou de l'accueil et souhaitez rejoindre une société dynamique en Normandie ? N'hésitez pas à nous envoyer votre candidature spontanée. Restez attentif : nous publions régulièrement des offres d'emploi en fonction de nos besoins et de l'évolution de notre entreprise.</p>"
+    }
+  ]
+}
