@@ -1,0 +1,260 @@
+[
+  {
+    "link": {
+      "text": "équipements",
+      "href": "https://www.egs-energies.fr/equipements",
+      "title": "Equipements : chaudières, climatisation, chauffe-bains, chauffe-eaux, vmc"
+    },
+    "categories": [
+      {
+        "title": "Chaudières",
+        "link": {
+          "text": "Chaudières",
+          "href": "https://www.egs-energies.fr/equipements/chaudieres",
+          "title": "Appareils : Chaudières gaz, chaudières fioul ou chaudières bois"
+        },
+        "subLinks": [
+          {
+            "text": "Chaudière Gaz",
+            "href": "https://www.egs-energies.fr/equipements/chaudieres/chaudiere-gaz",
+            "title": "Chaudières gaz"
+          },
+          {
+            "text": "Chaudière Fioul",
+            "href": "https://www.egs-energies.fr/equipements/chaudieres/chaudiere-fioul",
+            "title": "Chaudières fioul"
+          },
+          {
+            "text": "Chaudière Bois",
+            "href": "https://www.egs-energies.fr/equipements/chaudieres/chaudiere-bois",
+            "title": "Chaudières bois"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eaux et Chauffe-bains",
+        "link": {
+          "text": "Chauffe-eaux et Chauffe-bains",
+          "href": "https://www.egs-energies.fr/equipements/chauffe-eau",
+          "title": "Appareils : Chauffe-eaux et Chauffe-bains"
+        }
+      },
+      {
+        "title": "Solutions à énergies renouvelables",
+        "link": {
+          "text": "Solutions à énergies renouvelables",
+          "href": "https://www.egs-energies.fr/equipements/energie-renouvelable",
+          "title": "Appareils et équipement: Energies renouvelables"
+        },
+        "subLinks": [
+          {
+            "text": "Pompe à Chaleur (PAC)",
+            "href": "https://www.egs-energies.fr/equipements/energie-renouvelable/pompe-a-chaleur",
+            "title": "Pompe à Chaleur ou PAC"
+          },
+          {
+            "text": "Poêle à Granulés",
+            "href": "https://www.egs-energies.fr/equipements/energie-renouvelable/poele-a-granules",
+            "title": "Poêle à Granulés"
+          },
+          {
+            "text": "Chauffe-eau Solaire",
+            "href": "https://www.egs-energies.fr/equipements/energie-renouvelable/chauffe-eau-solaire",
+            "title": "Chauffe-eau Solaire"
+          },
+          {
+            "text": "Chauffe-eau Thermodynamique",
+            "href": "https://www.egs-energies.fr/equipements/energie-renouvelable/chauffe-eau-thermodynamique",
+            "title": "Chauffe-eau Thermodynamique"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "link": {
+          "text": "Climatisations",
+          "href": "https://www.egs-energies.fr/equipements/climatisation",
+          "title": ""
+        }
+      },
+      {
+        "title": "Ventilations",
+        "link": {
+          "text": "Ventilations",
+          "href": "https://www.egs-energies.fr/equipements/ventilation-mecanique-controlee",
+          "title": ""
+        }
+      },
+      {
+        "title": "Solaire Photovoltaïque",
+        "link": {
+          "text": "Solaire Photovoltaïque",
+          "href": "https://www.egs-energies.fr/equipements/panneaux-photovoltaiques",
+          "title": "Solaire photovoltaïque"
+        }
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Dépannage",
+      "href": "https://www.egs-energies.fr/depannage",
+      "title": "Dépannages chauffage et climatisation à Nice (Alpes-Maritimes)"
+    },
+    "categories": [
+      {
+        "title": "Chaudières Gaz et Fioul",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Chaudière",
+            "href": "https://www.egs-energies.fr/depannage/chaudiere",
+            "title": "Dépanner et réparer chaudière gaz"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eaux et Chauffe-bains",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Chauffe-eau Gaz",
+            "href": "https://www.egs-energies.fr/depannage/chauffe-eau-gaz",
+            "title": "Dépannage chauffe-eau gaz"
+          },
+          {
+            "text": "Dépanner votre Chauffe-eau Electrique",
+            "href": "https://www.egs-energies.fr/depannage/chauffe-eau-electrique-et-thermodynamique",
+            "title": "Dépannage chauffe-eau électrique"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Climatisation",
+            "href": "https://www.egs-energies.fr/depannage/climatisation",
+            "title": "Dépanner et réparer votre climatisation"
+          }
+        ]
+      },
+      {
+        "title": "Pompes à Chaleur (PAC)",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Pompe à Chaleur",
+            "href": "https://www.egs-energies.fr/depannage/pompe-a-chaleur",
+            "title": "Dépanner et réparer votre PAC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Entretien",
+      "href": "https://www.egs-energies.fr/entretien",
+      "title": "Entretenir vos équipements de chauffage"
+    },
+    "categories": [
+      {
+        "title": "Chaudières",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Chaudière Gaz",
+            "href": "https://www.egs-energies.fr/entretien/chaudiere-gaz",
+            "title": "Nos solutions d'entretien pour votre chaudière gaz"
+          },
+          {
+            "text": "Entretenir votre Chaudière Fioul",
+            "href": "https://www.egs-energies.fr/entretien/chaudiere-fioul",
+            "title": "Nos solutions d'entretien pour votre chaudière fioul"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eaux",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Chauffe-eau Gaz",
+            "href": "https://www.egs-energies.fr/entretien/chauffe-eau-gaz",
+            "title": "Nos solutions d'entretien pour votre chauffe-eau gaz"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations et PAC",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Climatisation ou PAC",
+            "href": "https://www.egs-energies.fr/entretien/climatisation-pompe-a-chaleur",
+            "title": "Nos solutions d'entretien pour votre Climatisation et PAC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Installation",
+      "href": "https://www.egs-energies.fr/installation",
+      "title": "Etude et installation d'un nouvel équipement de chauffage ou d'eau chaude"
+    },
+    "categories": [
+      {
+        "title": "Chaudières",
+        "subLinks": [
+          {
+            "text": "Installer une Chaudière",
+            "href": "https://www.egs-energies.fr/installation/chaudiere",
+            "title": "Une nouvelle installation de chauffage gaz ? Demandez un devis gratuit"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eaux et Chauffe-bains",
+        "subLinks": [
+          {
+            "text": "Installer un Chauffe-eau Gaz",
+            "href": "https://www.egs-energies.fr/installation/chauffe-eau-gaz",
+            "title": "installation chauffe-eau au gaz"
+          },
+          {
+            "text": "Installer un Chauffe-eau Electrique",
+            "href": "https://www.egs-energies.fr/installation/chauffe-eau-electrique-et-thermodynamique",
+            "title": "installation d'un ballon électrique ou thermodynamique"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Installer une Climatisation",
+            "href": "https://www.egs-energies.fr/installation/climatisation",
+            "title": "Installation Climatisation : Devis gratuits"
+          }
+        ]
+      },
+      {
+        "title": "Pompes à Chaleur (PAC)",
+        "subLinks": [
+          {
+            "text": "Installer une Pompe à Chaleur",
+            "href": "https://www.egs-energies.fr/installation/pompe-a-chaleur",
+            "title": "Installation VMC : étude et devis gratuits"
+          }
+        ]
+      },
+      {
+        "title": "Solutions Solaires",
+        "subLinks": [
+          {
+            "text": "Installer des Panneaux Photovoltaïques",
+            "href": "https://www.egs-energies.fr/installation/panneaux-photovoltaiques",
+            "title": "devis panneaux solaires photovoltaïques dans la métropole lilloise"
+          }
+        ]
+      }
+    ]
+  }
+]

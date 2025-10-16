@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Certifications et marques",
+  "seo": {
+    "title": "Nos certifications, qualifications et marques | PH Energies",
+    "description": "Pourquoi faire confiance à PH Energies, entreprise de plomberie et chauffage à Caen ? Découvrez les certifications, qualifications et marques proposées.",
+    "opengraph": {
+      "site_name": "PH Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Nos certifications, qualifications et marques | PH Energies",
+      "description": "Pourquoi faire confiance à PH Energies, entreprise de plomberie et chauffage à Caen ? Découvrez les certifications, qualifications et marques proposées.",
+      "image": {
+        "src": "https://www.ph-energies.fr/build/images/ph-energies-marques-partenaires-456x334.e71b0001.jpg",
+        "alt": "certifications et marques plomberie chauffage"
+      }
+    }
+  },
+  "hero": {
+    "title": "PH Energies, un chauffagiste certifié et partenaire des plus grandes marques de chauffage et de climatisation",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/ph-energies-marques-partenaires-456x334.e71b0001.jpg",
+      "alt": "certifications et marques plomberie chauffage"
+    },
+    "text": "<p>Choisir un professionnel, qu'il soit chauffagiste, frigoriste ou plombier, peut paraître compliqué. Pour prendre une décision, concentrez-vous sur les certifications et qualifications reçues. </p> <p>Les certificats délivrés par des organismes indépendants indiquent le niveau d'expertise de l'entreprise et sa capacité à réaliser un travail soigné et de qualité. Sont notamment établis la conformité des produits et des services, le respect des normes et des réglementations en vigueur.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Votre chauffagiste RGE dans le Calvados et l'Orne",
+      "text": "<p>PH Energies dispose de plusieurs certifications :</p> <ul> <li><b>QualiPAC et Attestation de manipulation des fluides</b> : permettent de poser, dépanner et entretenir les pompes à chaleur aérothermiques, géothermiques et hybrides</li> <li><b>Professionnel du gaz</b> : les normes sont respectées pour les raccordements et vérifications liées au réseau gaz ;</li> <li><b>RGE Qualibat</b> : concerne les appareils au gaz, cette qualification permet d'assurer que la société est Reconnue Garant de l'Environnement et que le dimensionnement du chauffage a été réalisé dans les règles de l'art. </li> <li><b>CAPEB</b> : Ce syndicat regroupe les professionnels du Bâtiment et a pour objectif de favoriser le rassemblement et l'unité, défendre le statut social et économique des entreprises artisanales et veiller à la stricte égalité des chances entre les entreprises artisanales et les autres entreprises.</li> <li><b>Synerciel</b> : l'appellation représente les entreprises qui appliquent des procédures reconnues lors de l'installation des systèmes de rénovation énergétique.</li> <li><b>Partenaire EDF</b></li> <li><b>Domofinance</b> : Domofinance est un organisme financier spécialisé dans le crédit à la consommation. Crédit conso, crédit auto, prêt travaux ou encore prêt personnel (entreprise agréé AREAS N°13007922).</li> </ul> <hr>"
+    },
+    {
+      "title": "Nos marques et nos agréments pour la pose d'équipements de chauffage de dernière génération",
+      "text": "<p><a href=\"https://www.ph-energies.fr\" title=\"PH Energies, votre plombier chauffagiste expert pompes à chaleur, climatisations, chaudières, ...\">PH Energies</a> travaille avec de grandes marques connues et reconnues à l'international, parmi elles :</p> <ul> <li><b>Saunier Duval</b> : ce fabricant français conçoit des systèmes de chauffage et de production d'eau chaude sanitaire (ECS). Il est notamment à l'origine de la chaudière à mini-accumulation ;</li> <li><b>Frisquet</b> : les chaudières et pompes à chaleur de cette marque sont 100 % fabriquées en France ;</li> <li><b>Viessmann</b> : fondée il y a plus de 100 ans, cette marque de chaudières, chauffe-eaux, pompes à chaleur et stations techniques innove régulièrement en appliquant une politique liée au développement durable ;</li> <li><b>Vaillant</b> : ce fabricant allemand crée des appareils de chauffage qui correspondent aux exigences les plus pointues ;</li> <li><b>Mitsubishi</b> : leader mondial en matière de pompes à chaleur et de climatisation, cette société applique un processus de fabrication unique qui garantit la longévité du matériel. PH Energies est agréé par Mitsubishi Electric ;</li> <li><b>Hitachi</b> : les équipements de chauffage, d'ECS et de climatisation élaborés par la marque japonaise sont haut de gamme et adaptés à tous les espaces ;</li> <li><b>Atlantic</b> : depuis 1968, cette marque française met au point des systèmes novateurs pour le chauffage et la production d'eau chaude sanitaire ;</li> <li><b>Alliantz</b> : la société se concentre sur la conception de panneaux thermiques solaires et photovoltaïques, de systèmes à énergies renouvelables ;</li> <li><b>TMS</b> : la marque de l'isolant sol universel pour planchers chauffants ;</li> <li><b>ACOME</b> : cette marque met à disposition des planchers chauffants haute-qualité.</li> </ul> <h3>Les critères de choix PH Energies</h3> <p>Les marques que nous proposons sont des enseignes qui existent depuis de nombreuses années et qui sont leaders dans leur domaine. Nous privilégions toujours la qualité et le meilleur rapport qualité/prix pour que notre clientèle puisse profiter à la fois d'un confort supérieur et d'économies d'énergie substantielles été comme hiver. En effet, <a href=\"/conseils-et-actualites\" title=\"Actualité chauffage dans la région de l'Orne et du Calvados\">l'innovation est notre coeur de métier</a>, aussi nous suivons de près les évolutions techniques et technologiques des chaudières, des ballons d'eau chaude, des climatisations, des pompes à chaleur ou encore des systèmes thermodynamiques afin de vous proposer ce qu'il y a de mieux.</p>"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "breadcrumb": "Chauffage Avon",
+  "hero": {
+    "title": "Aujard, votre expert chauffage et climatisation à Avon",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/aujard-qui-sommes-nous-456x334.e911da09.jpg",
+      "alt": "Aujard, votre expert chauffage et climatisation à Avon"
+    },
+    "text": "<p>Les équipes d'Aujard interviennent à Avon et ses alentours pour prendre en charge vos équipements de chauffage et de climatisation.</p> <p>Nos collaborateurs se déplacent chez vous pour installer, entretenir et réparer :</p> <ul>\n<li><a title=\"Equipement pompe à chaleur\" href=\"/equipements/energie-renouvelable/pompe-a-chaleur\">les pompes à chaleur</a></li>\n<li><a title=\"Equipement climatisation\" href=\"/equipements/climatisation\">les climatisations</a></li>\n<li><a title=\"Equipement chauffe-eau\" href=\"/equipements/energie-renouvelable/chauffe-eau-thermodynamique\">les chauffe-eaux</a></li>\n<li><a title=\"Equipement poêle\" href=\"/equipements/energie-renouvelable/poele\">les poêles</a></li>\n<li><a title=\"Equipement chaudière\" href=\"/equipements/chaudieres\">les chaudières</a></li>\n</ul> <p>Alors n'hésitez pas et téléphonez nous au 01 64 23 67 93, nous vous proposerons un devis gratuit et personnalisé pour chacun de vos projets.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Faire le choix d'une pompe à chaleur à Avon",
+      "text": "<p>La pompe à la chaleur est une solution écologique et économique qui permet de chauffer son logement en hiver et de le rafraîchir en été. Avec un seul équipement, vous pouvez ainsi profiter d'un confort thermique tout au long de l'année.</p> <p>Les équipes d'Aujard interviennent chez vous à Avon pour installer, dépanner mais aussi <a title=\"Entretien pompe à chaleur\" href=\"/entretien/pompe-a-chaleur\">entretenir votre pompe à chaleur</a>. Notre objectif est ainsi de devenir votre interlocuteur privilégié pour chacun de vos projets.</p> <hr>"
+    },
+    {
+      "title": "Envie d'un nouveau chauffe-eau en Seine-et-Marne ?",
+      "text": "<p>Pour pouvoir profiter d'une eau chaude sanitaire constante en toutes saisons, avoir un chauffe-eau performant est essentiel. C'est pourquoi nos techniciens se sont formés pour installer votre nouvel appareil à votre domicile.</p> <p>Une fois votre équipement installé, nous vous recommandons de souscrire à l'un de <a title=\"Entretien chauffe-eau\" href=\"/entretien/chauffe-eau-thermodynamique\">nos contrats d'entretien chauffe-eau</a>. En effet, réaliser une maintenance régulière de son appareil est nécessaire pour éviter de nombreuses pannes et conserver sa performance. Vous augmenterez ainsi la durée de vie de votre appareil.</p> <hr>"
+    },
+    {
+      "title": "Les experts de la chaudière gaz, bois et fioul à Avon",
+      "text": "<p>Vous souhaitez faire <a title=\"Installation chaudière\" href=\"/installation/chaudiere\">installer une chaudière</a> en remplacement d'un ancien modèle ou dans un logement neuf ? Vous recherchez un professionnel pour réaliser l'entretien de votre appareil ? Votre chaudière est en panne ?</p> <p>Contactez-nous au 01 64 23 67 93. Nous prendrons le temps de découvrir votre projet afin de vous conseiller au mieux selon votre budget et vos envies. Profitez-en également pour nous poser toutes vos questions.</p> <hr>"
+    },
+    {
+      "title": "À Avon, tous les avantages de la climatisation",
+      "text": "<p>Vous souffrez fréquemment des chaleurs estivales ? <a title=\"Installation climatisation\" href=\"/installation/climatisation\">Faites installer une climatisation</a>. En plus de vous faire gagner en confort thermique en été, les derniers modèles sont réversibles et peuvent se substituer à votre chauffage en hiver.</p> <p>Les équipes Aujard interviennent également chez tous ceux qui possèdent déjà une climatisation, afin de procéder à l'entretien ou au dépannage de votre appareil. Vous savez ainsi que, peu importe votre besoin, vous pouvez faire appel à nos services.</p> <hr>"
+    },
+    {
+      "title": "Profiter de son poêle en toute sérénité à Avon",
+      "text": "<p><a title=\"Installation poêle\" href=\"/installation/poele\">Faire installer un poêle à bois ou poêle à granulés</a> chez soi permet de profiter d'un système de chauffage chaleureux et écologique. Vous pouvez suivre de prêt votre consommation de combustible (bois ou granulés) en utilisant uniquement ce dont vous avez besoin.</p> <p>Vous possédez un poêle à votre domicile ? Faire réaliser l'entretien et le ramonage de votre appareil est essentiel aussi bien en termes de sécurité que de performance de votre appareil. Alors n'attendez plus et faites appel à nos services pour réaliser la révision de votre équipement.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  }
+}

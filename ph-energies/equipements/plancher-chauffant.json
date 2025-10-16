@@ -1,0 +1,64 @@
+{
+  "breadcrumb": "Plancher chauffant",
+  "seo": {
+    "title": "Plancher Chauffant et Chauffage au Sol à Caen | PH Energies",
+    "description": "Vous voulez bénéficiez de tous les avantages d'un chauffage au sol dans la région de Caen ? Contactez PH Energies",
+    "opengraph": {
+      "site_name": "PH Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Plancher Chauffant et Chauffage au Sol à Caen | PH Energies",
+      "description": "Vous voulez bénéficiez de tous les avantages d'un chauffage au sol dans la région de Caen ? Contactez PH Energies",
+      "image": {
+        "src": "https://www.ph-energies.fr/build/images/ph-energies-equipement-plancher-chauffant-456x334.45c1091b.jpg",
+        "alt": "equipements de plancher chauffant"
+      }
+    }
+  },
+  "hero": {
+    "title": "Pose et maintenance d'un plancher chauffant à Caen et ses environs",
+    "subtitle": "PH Energies s'occupe de l'installation de votre chauffage au sol"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.ph-energies.fr/build/images/ph-energies-equipement-plancher-chauffant-456x334.45c1091b.jpg",
+      "alt": "equipements de plancher chauffant"
+    },
+    "text": "<p>Le plancher chauffant présente de multiples avantages : gain d'espace au sol et aux murs, répartition homogène de la température, confort optimal, économies d'énergies, facile à poser dans la construction.</p> <p>Intégré dans le sol de votre maison, le plancher chauffant est un émetteur «réparti» (contrairement au radiateur, qui est un émetteur «localisé ») : il chauffe l'intégralité des pièces de votre habitat, de manière homogène. </p> <p>Avec le plancher chauffant, la surface de votre sol se comporte comme un grand radiateur, qui diffuse la chaleur par rayonnement, en tous points de votre logement.</p> <p>Pour réaliser un maximum d'économies d'énergie et bénéficier d'un confort de chauffe optimum, tout en préservant l'environnement, associez votre plancher chauffant à des équipements éco-performants ou utilisant des sources d'énergies renouvelables :<br><br>• <a href=\"/equipements/chaudieres\" title=\"Chaudières gaz, Chaudière fioul, Chaudière à bois, Chaudière à granulés\">Chaudière à condensation</a>,<br>• <a href=\"/equipements/chaudieres\" title=\"Chaudières gaz, Chaudière fioul, Chaudière à bois, Chaudière à granulés\">Chaudière basse température</a>,<br>• <a href=\"/equipements/pompe-a-chaleur\" title=\"Pompe à chaleur air/eau, PAC\">Pompe à chaleur</a>...</p>"
+  },
+  "contents": [
+    {
+      "title": "Le plancher chauffant hydraulique",
+      "text": "<p>Le plancher chauffant hydraulique est le meilleur système de diffusion sur le marché à l'heure actuelle et offre un large choix d'énergie à utiliser (bois, gaz, fioul...). Il s'agit   aussi d'un des systèmes les plus économiques au quotidien, car de plus en plus de modèles fonctionnent à basse température.</p>"
+    },
+    {
+      "title": "Fonctionnement",
+      "text": "<p>PH Energies installe des planchers chauffants en collaboration avec TMS® de la marque EFISOL.</p> <p>Ce sont des panneaux isolants en mousse rigide de polyuréthane destinés à l'isolation sous chape flottante ou dallage. Support idéal des systèmes de chauffage intégrés dans le sol.</p> <ul> <li>Conductivité thermique : 0,025 W/(m.K) pour l'épaisseur 25 mm</li> <li>Conductivité thermique : 0,023 W/(m.K) pour les épaisseurs 30 mm</li> <li>Conductivité thermique : 0,022 W/(m.K) pour les épaisseurs 40, 48, 52, 56, 68.</li></ul> <li>Conductivité thermique : 0,025 W/(m.K) pour l'épaisseur 25 mm</li> <li>Conductivité thermique : 0,023 W/(m.K) pour les épaisseurs 30 mm</li> <li>Conductivité thermique : 0,022 W/(m.K) pour les épaisseurs 40, 48, 52, 56, 68.</li>"
+    },
+    {
+      "title": "Des règles de fonctionnement strictes",
+      "text": "<p>Les planchers chauffants sont soumis à des règles très strictes de fonctionnement et de régulation. Ainsi, la norme française (NF) DTU 65.14 impose que la température du fluide circulant dans le plancher chauffant doit être limitée à 50°C et la surface au sol en contact avec les habitants doit être inférieure à 28°C maximum. Le plancher chauffant fonctionne donc en basse température. </p> <p>Par ailleurs, plus la surface d'échange de l'émetteur est importante et plus la température du fluide est faible.</p>"
+    }
+  ],
+  "related": {
+    "title": "Consultez nos services liés à la climatisation",
+    "links": [
+      {
+        "text": "Dépannage d'un plancher chauffant",
+        "href": "/depannage/plancher-chauffant",
+        "title": "Dépanner et réparer un plancher chauffant"
+      },
+      {
+        "text": "Entretien d'un plancher chauffant",
+        "href": "/entretien/plancher-chauffant",
+        "title": "Entretien et maintenance plancher chauffant"
+      },
+      {
+        "text": "Installation d'un plancher chauffant",
+        "href": "/installation/plancher-chauffant",
+        "title": "Devis gratuit et installation plancher chauffant"
+      }
+    ]
+  },
+  "url": "https://www.ph-energies.fr/equipements/plancher-chauffant"
+}

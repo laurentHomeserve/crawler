@@ -1,0 +1,56 @@
+{
+  "breadcrumb": "Climatisation",
+  "seo": {
+    "title": "Votre climatisation à Lyon installée par Mure Energies",
+    "description": "Mure Energies, spécialiste des systèmes de climatisation, vous aide à retrouver la fraîcheur grâce aux splits et PAC réversibles. Contactez notre service client.",
+    "opengraph": {
+      "site_name": "Mure Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Votre climatisation à Lyon installée par Mure Energies",
+      "description": "Mure Energies, spécialiste des systèmes de climatisation, vous aide à retrouver la fraîcheur grâce aux splits et PAC réversibles. Contactez notre service client.",
+      "image": {
+        "src": "https://www.mure-energies.fr/build/images/mure-energies-equipements-climatisation-456x334.ec31bcc1.jpg",
+        "alt": "Découvrez notre gamme de climatiseurs dans le 42"
+      }
+    }
+  },
+  "hero": {
+    "title": "Mure Energies installe votre climatisation en région lyonnaise",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.mure-energies.fr/build/images/mure-energies-equipements-climatisation-456x334.ec31bcc1.jpg",
+      "alt": "Découvrez notre gamme de climatiseurs dans le 42"
+    },
+    "text": "<p>Mure Energies, <a href=\"/qui-sommes-nous/certifications-et-marques\" title=\"Nos certifications\">plombier chauffagiste RGE</a>, vous propose son expertise pour l'installation de votre système de climatisation à <a href=\"https://www.mure-energies.fr/chauffage-lyon\" title=\"Chauffage Lyon\">Lyon</a> et dans la région lyonnaise. Difficile de se passer de fraîcheur lorsque le thermomètre grimpe.</p> <p>Grâce à une climatisation adaptée à la taille de votre logement et à vos besoins en rafraîchissement, vous retrouvez des nuits tranquilles. Vous aimeriez savoir quel système est fait pour vous ? Mure Energies se déplace chez vous pour un devis climatisation à Lyon rapide et gratuit.</p>"
+  },
+  "contents": [
+    {
+      "title": "Comment choisir une climatisation à Lyon ?",
+      "text": "<p>Il existe différents types de climatisations. Pour un système efficace, qui vous donne toute satisfaction, il convient de choisir une climatisation à Lyon bien adaptée à la configuration de votre logement. Mure Energies se déplace chez vous pour analyser les contraintes du chantier et pouvoir vous proposer le meilleur modèle de climatiseur.</p> <h3>Le climatiseur monobloc</h3> <p>Vous pouvez tout d'abord choisir une <b>climatisation monobloc</b>. Ce système est constitué d'une seule unité, ressemblant à un gros radiateur que l'on installe à l'intérieur du logement. Le bloc de climatisation comporte tous les éléments utiles, le compresseur, le système de condensation, l'évaporateur. Le <b>climatiseur monobloc</b> est la solution la plus simple pour rafraîchir le logement. Certains modèles peuvent aussi produire de la chaleur en hiver, ce qui permet de les utiliser comme chauffage d'appoint. Ce sont les climatiseurs réversibles. La portée du climatiseur monobloc est limitée, c'est pourquoi Mure Energies vous conseille plutôt les systèmes splits.</p> <b>climatisation monobloc</b> <b>climatiseur monobloc</b> <h3>Les climatiseurs splits</h3> <p>Un <b>système de climatisation split</b> se compose toujours d'une ou plusieurs unités intérieures et d'une unité extérieure. L'unité intérieure d'un climatiseur split filtre, refroidit et déshumidifie l'air ambiant en utilisant un réfrigérant neutre pour l'environnement. En absorbant l'excès de chaleur de la pièce, le réfrigérant s'évapore et est acheminé par un tuyau vers l'unité extérieure du climatiseur split, où il est porté à une température élevée par le compresseur afin que la chaleur puisse être libérée dans l'air extérieur. Les systèmes de climatisation split à Lyon vous offrent une température agréable dans l'ensemble des pièces équipées.</p> <b>système de climatisation split</b> <h3>Les pompes à chaleur air / air réversibles</h3> <p>Mure Energies vous propose aussi les <b>PAC air / air réversibles</b>. Il s'agit de pompes à chaleur qui produisent du frais en été et peuvent réchauffer le logement à la saison froide. Ces systèmes double fonction sont parfaits pour les personnes qui recherchent un chauffage d'appoint, ou encore pour équiper une maison ancienne qui ne dispose pas de chauffage. Les <b>pompes à chaleur air / air</b> à Lyon constituent un très bon choix en rénovation.</p> <b>PAC air / air réversibles</b> <b>pompes à chaleur air / air</b>"
+    }
+  ],
+  "related": {
+    "title": "Pourquoi confier l'installation de sa climatisation à Mure Energies ?",
+    "links": [
+      {
+        "text": "Installation ou remplacement d'une climatisation",
+        "href": "https://www.mure-energies.fr/installation/climatisation",
+        "title": "Installation d'une clim"
+      },
+      {
+        "text": "Contrat d'entretien et maintenance du climatiseur",
+        "href": "https://www.mure-energies.fr/entretien/climatisation",
+        "title": "Entretien d'une clim"
+      },
+      {
+        "text": "Dépannage / réparation de votre climatisation",
+        "href": "https://www.mure-energies.fr/depannage/climatisation",
+        "title": "Dépannage climatisation à Lyon"
+      }
+    ]
+  },
+  "url": "https://www.mure-energies.fr/equipements/climatisation"
+}

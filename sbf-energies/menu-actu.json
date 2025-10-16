@@ -1,0 +1,698 @@
+{
+  "breadcrumb": "Conseils et actualites",
+  "seo": {
+    "title": "L'actualité de l'énergie et du chauffage en Savoie | SBF Energies",
+    "description": "Découvrez toute l'actualité du chauffage, de l'énergie, de la climatisation en Savoie et apprenez comment fonctionne vos équipements de chauffage. Conseils, astuces et cas pratiques.",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "title": "Astuces, conseils, cas pratiques et actualité de SBF Énergies",
+  "subtitle": "Suivez notre actualité, profitez des meilleurs conseils",
+  "content": "<p>L'entreprise SBF Energies vous partage son actualité afin de vivre ensemble les temps forts de l'entreprise. C'est également un moyen pour nous de vous partager les meilleures astuces et conseils au quotidien. Ici, vous trouverez : de l'aide, des astuces, conseils et autres cas pratiques qui répondront à de nombreuses questions et problématiques concernant votre chauffe-eau, votre climatisation et votre pompe à chaleur.</p> <p>Fort de son expérience, SBF Énergies étudie la problématique propre à votre habitat, et vous permettra de vous sentir bien chez vous aussi bien au cœur de l'hiver glacial que pendant les chaudes journées d'été. De plus, SBF vous accompagne dans votre projet, vous informant de façon précise et documentée pour faciliter votre prise de décision, tant avec les particuliers qu'avec les professionnels.</p>",
+  "news": [
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/cee-pompe-a-chaleur-nouveautes",
+        "title": "CEE 2025 & PAC air-eau, ce qui change au 1er octobre 2025",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-10-06T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/aide-cee-pac-air-eau-changements-f67fe055b9.jpg",
+        "alt": "CEE 2025 & PAC air-eau, ce qui change au 1er octobre 2025"
+      },
+      "title": "CEE 2025 & PAC air-eau, ce qui change au 1er octobre 2025",
+      "text": "Au 1er oct. 2025, les CEE évoluent : SBF Energies vous aide à estimer vos aides CEE pour l'installation dune pompe à chaleur air-eau."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/suspension-maprimerenov-2025",
+        "title": "Suspension de MaPrimeRenov' 2025 : quelles alternatives ?",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-06-05T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/sbf-energies-article-suspension-maprimerenov-20252-dcecb4c5c4.jpg",
+        "alt": "Suspension de MaPrimeRenov' 2025 : quelles alternatives ?"
+      },
+      "title": "Suspension de MaPrimeRenov' 2025 : quelles alternatives ?",
+      "text": "MaPrimeRénov 2025 : le pilier de la rénovation énergétique se met en pause"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/climatisation-seniors-confort-ete-conseils",
+        "title": "Climatisation pour seniors en Savoie : confort et sécurité",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-05-26T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/sbf-energies-article-autonomie-personne-agee-climatisation-fabf4b8cd7.jpg",
+        "alt": "Climatisation pour seniors en Savoie : confort et sécurité"
+      },
+      "title": "Climatisation pour seniors en Savoie : confort et sécurité",
+      "text": "Bien vieillir chez soi, c’est aussi savoir se protéger des fortes chaleurs. Grâce à la climatisation adaptée, votre logement reste un lieu de confort et de sérénité"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/climatisation-gwp-fluides-frigorigene",
+        "title": "Fluide frigorigène et climatisation : tout savoir",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-05-22T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/sbf-energies-article-fluides-frigorigenes1-74056cbdb0.jpg",
+        "alt": "Fluide frigorigène et climatisation : tout savoir"
+      },
+      "title": "Fluide frigorigène et climatisation : tout savoir",
+      "text": "Pourquoi s'intéresser au GWP quand on choisit sa climatisation ? On décrypte les indicateurs et la législation pour vous !"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/comment-lire-etiquette-energie-climatisation-seer-scop",
+        "title": "Comprendre le SEER et le SCOP d'une climatisation",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-05-12T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/sbf-energies-article-climatisation-etiquette-energie-162537472d.jpg",
+        "alt": "Comprendre le SEER et le SCOP d'une climatisation"
+      },
+      "title": "Comprendre le SEER et le SCOP d'une climatisation",
+      "text": "L’étiquette énergie : votre meilleur allié pour choisir la bonne climatisation. Comment la déchiffrer ?"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/climatisation-en-appartement-regles",
+        "title": "Climatisation en appartement : tout ce qu'il faut savoir",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-05-04T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/sbf-energies-article-climatisation-appartement-regles-e232f5cf9a.jpg",
+        "alt": "Climatisation en appartement : tout ce qu'il faut savoir"
+      },
+      "title": "Climatisation en appartement : tout ce qu'il faut savoir",
+      "text": "Climatisation en appartement : que dit la loi, et comment s’équiper sans stress ?"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/journees-portes-ouvertes-mai-2025",
+        "title": "Journées Portes Ouvertes à Chambéry chez SBF Energies",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-04-28T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/journees-portes-ouvertes-mai-2025-b232ba9a66.jpg",
+        "alt": "Journées Portes Ouvertes à Chambéry chez SBF Energies"
+      },
+      "title": "Journées Portes Ouvertes à Chambéry chez SBF Energies",
+      "text": "Avancez dans votre projet énergétique avec SBF Energies lors des Journées Portes Ouvertes près de Chambéry"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/offre-climatisation-2025",
+        "title": "Climatisation Mitsubishi à partir de 1800€ en Savoie !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-04-17T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/sbf-energies-article-offre-climatisation-2025-456x334-cd0d009fef.jpg",
+        "alt": "Climatisation Mitsubishi à partir de 1800€ en Savoie !"
+      },
+      "title": "Climatisation Mitsubishi à partir de 1800€ en Savoie !",
+      "text": "Equipez-vous à moindre coût avec nos climatiseurs Mitsubishi à Chambéry, Aix-les-Bains, Annecy\n"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/climatisation-reversible-mitsubishi-guide",
+        "title": "Climatisation réversible Mitsubishi : Guide des gammes MSZ, MUZ, MXZ",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-11-12T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/sbf-energies-article-climatisations-mitsubishi-15c996a93b.jpg",
+        "alt": "Climatisation réversible Mitsubishi : Guide des gammes MSZ, MUZ, MXZ"
+      },
+      "title": "Climatisation réversible Mitsubishi : Guide des gammes MSZ, MUZ, MXZ",
+      "text": "Pour climatiser une chambre ou un salon, découvrez la gamme Mitsubishi Electric. Modèles MSZ, MUZ et MXZ"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/journees-portes-ouvertes-novembre-2024",
+        "title": "SBF Energies : jusqu'à 2500€ de remises sur le chauffage et la clim",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-11-06T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/sbf-energies-article-journees-portes-ouvertes-novembre-2024-d84d3dc077.jpg",
+        "alt": "SBF Energies : jusqu'à 2500€ de remises sur le chauffage et la clim"
+      },
+      "title": "SBF Energies : jusqu'à 2500€ de remises sur le chauffage et la clim",
+      "text": "Les Journées Portes Ouvertes SBF Energies : le rendez-vous efficacité et économies d’énergie les 22 et 23 novembre"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/pompe-a-chaleur-coup-de-pouce-chauffage",
+        "title": "Jusqu’à 6 350 € pour Votre Pompe à Chaleur avec le Coup de Pouce",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-09-29T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/sbf-energies-article-coup-de-pouce-pac-2024-2b5815d702.jpg",
+        "alt": "Jusqu’à 6 350 € pour Votre Pompe à Chaleur avec le Coup de Pouce"
+      },
+      "title": "Jusqu’à 6 350 € pour Votre Pompe à Chaleur avec le Coup de Pouce",
+      "text": "Jusqu’à 6 350 € de Prime pour votre pompe à chaleur avec le Coup de Pouce Chauffage jusqu'à fin 2024"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/panneaux-solaires-facteurs-rentabilite",
+        "title": "Panneaux solaires : les 7 facteurs qui affectent leur rentabilité",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-06-19T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/sbf-energies-article-rentabilite-photovoltaique-456x334-1c94ccc108.jpg",
+        "alt": "Panneaux solaires : les 7 facteurs qui affectent leur rentabilité"
+      },
+      "title": "Panneaux solaires : les 7 facteurs qui affectent leur rentabilité",
+      "text": "Ensoleillement, consommation, technologies, ... : qu'est-ce qui augmente la rentabilité des panneaux photovoltaïque ?"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/journees-portes-ouvertes-bonnes-affaires-savoie",
+        "title": "Journée portes ouvertes : des bonnes affaires en Savoie avec SBF !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-05-05T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/sbf-jpo-456x334-23cdf551ae.jpg",
+        "alt": "Journée portes ouvertes : des bonnes affaires en Savoie avec SBF !"
+      },
+      "title": "Journée portes ouvertes : des bonnes affaires en Savoie avec SBF !",
+      "text": "Découvrez nos offres spéciales sur la climatisation, les pompes à chaleur et le photovoltaïque"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/pompe-chaleur-air-air-savoie-offre-speciale",
+        "title": "Pompe à chaleur air-air en Savoie : notre offre spéciale !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-04-23T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/sbf-energies-offre-climatisation-2024-456x334-76ac0dac2b.jpg",
+        "alt": "Pompe à chaleur air-air en Savoie : notre offre spéciale !"
+      },
+      "title": "Pompe à chaleur air-air en Savoie : notre offre spéciale !",
+      "text": "Profitez de notre offre spéciale : installation de votre climatisation dès 45 € TTC par mois."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/arret-de-linstallation-des-chaudieres-fioul-explications",
+        "title": "Arrêt de l’installation des chaudières fioul : explications",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2022-09-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/Visuel_Fioul_456x334–2-b8d0bfee9b.png",
+        "alt": "Arrêt de l’installation des chaudières fioul : explications"
+      },
+      "title": "Arrêt de l’installation des chaudières fioul : explications",
+      "text": "Cadre légal, explications et exceptions : SBF Energies vous détaille ce nouveau décret relatif aux chaudières fioul."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/tout-savoir-sur-maprimerenov",
+        "title": "Tout savoir sur MaPrimeRenov",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2021-12-15T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/61bb1d723f19c883047491.jpg",
+        "alt": "Tout savoir sur MaPrimeRenov"
+      },
+      "title": "Tout savoir sur MaPrimeRenov",
+      "text": "Une aide maintenue en 2023 pour des logements de plus de 15 ans et un parcours accompagné par SBF Energies !"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/journees-portes-ouvertes-sbf-energies-du-30-09-au-02-10-21",
+        "title": "Journées Portes Ouvertes du 30/09/21 au 02/10/21",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2021-09-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/6152f54be2879709187296.jpg",
+        "alt": "Journées Portes Ouvertes du 30/09/21 au 02/10/21"
+      },
+      "title": "Journées Portes Ouvertes du 30/09/21 au 02/10/21",
+      "text": "Journées portes-ouvertes du 30 septembre au 2 octobre 2021 au 401 rue des Champagnes à 73290 - La Motte Servolex"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/climatisation-reversible-ou-chauffage-electrique",
+        "title": "Comment choisir entre une clim réversible et un chauffage électrique ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2021-08-02T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/610953cc21128548508964.jpg",
+        "alt": "Comment choisir entre une clim réversible et un chauffage électrique ?"
+      },
+      "title": "Comment choisir entre une clim réversible et un chauffage électrique ?",
+      "text": "SBF vous aide à choisir le système de chauffage adapté à votre intérieur."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/meilleurs-voeux-pour-2021",
+        "title": "Meilleurs voeux pour 2021",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2021-01-05T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5ff5eaa937a47022400220.jpg",
+        "alt": "Meilleurs voeux pour 2021"
+      },
+      "title": "Meilleurs voeux pour 2021",
+      "text": "Votre équipe SBF Energies vous accompagne vers une chaleur plus verte pour 2021."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/pourquoi-changer-sa-chaudiere-fioul-par-une-pompe-a-chaleur",
+        "title": "Changer sa chaudière fioul par une PAC ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-12-15T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5fda07f16d5bd693341400.jpg",
+        "alt": "Changer sa chaudière fioul par une PAC ?"
+      },
+      "title": "Changer sa chaudière fioul par une PAC ?",
+      "text": "Découvrez les économies que votre PAC vous fera réaliser !"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/un-chauffe-eau-thermodynamique-est-il-bruyant",
+        "title": "Minimiser le bruit de votre chauffe-eau",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-12-09T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5fd1f1ee79ae2881100016.jpg",
+        "alt": "Minimiser le bruit de votre chauffe-eau"
+      },
+      "title": "Minimiser le bruit de votre chauffe-eau",
+      "text": "Il est important de faire entretenir régulièrement votre chauffe-eau thermodynamique."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/quelle-est-la-difference-entre-une-clim-reversible-et-une-pompe-a-chaleur",
+        "title": "Quelles différences entre une clim et une PAC ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-12-02T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5fc8d4c9cf312729627537.jpg",
+        "alt": "Quelles différences entre une clim et une PAC ?"
+      },
+      "title": "Quelles différences entre une clim et une PAC ?",
+      "text": "Votre équipe SBF Energies vous conseille sur ces différentes installations."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/mon-climatiseur-ne-fait-plus-dair-froid-ou-chaud",
+        "title": "Mon climatiseur ne fait plus d'air froid ou chaud",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-11-25T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5fbf8a9475fa2859828514.jpg",
+        "alt": "Mon climatiseur ne fait plus d'air froid ou chaud"
+      },
+      "title": "Mon climatiseur ne fait plus d'air froid ou chaud",
+      "text": "Nous revenons sur les causes de la panne de votre climatiseur."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/les-avantages-de-la-pompe-a-chaleur",
+        "title": "Quel entretien pour ma pompe à chaleur ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-11-18T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5fb69d0122115543666329.jpg",
+        "alt": "Quel entretien pour ma pompe à chaleur ?"
+      },
+      "title": "Quel entretien pour ma pompe à chaleur ?",
+      "text": "Découvrez la nouvelle réglementation et nos conseils pour l’entretien de votre pompe à chaleur."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/quels-sont-les-differents-types-de-climatiseurs-fixes-qui-existent",
+        "title": "Les différents types de climatiseurs fixes",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-11-04T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/sbf-energies-article-offre-climatisation-2025-456x334-cd0d009fef.jpg",
+        "alt": "Les différents types de climatiseurs fixes"
+      },
+      "title": "Les différents types de climatiseurs fixes",
+      "text": "Il existe différents types de climatiseurs fixes sur le marché. SBF vous aide à faire votre choix."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/quel-est-le-prix-de-lentretien-annuel-dune-pompe-a-chaleur",
+        "title": "Prix de l'entretien annuel d'une pompe à chaleur ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-10-27T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5f998bac35714931585207.jpg",
+        "alt": "Prix de l'entretien annuel d'une pompe à chaleur ?"
+      },
+      "title": "Prix de l'entretien annuel d'une pompe à chaleur ?",
+      "text": "SBF Energies revient sur les frais liés à l'entretien annuel de votre PAC."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/maprimerenov-laide-a-la-renovation-energetique",
+        "title": "MaPrimeRenov' et la rénovation énergétique",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2020-10-25T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5f969cde23e1f509685958.jpg",
+        "alt": "MaPrimeRenov' et la rénovation énergétique"
+      },
+      "title": "MaPrimeRenov' et la rénovation énergétique",
+      "text": "SBF revient sur le dispositif MaPrimeRenov', l'aide de l'Anah."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/comment-fonctionne-une-climatisation",
+        "title": "Comment fonctionne une climatisation ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-10-18T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5f8d468bdda36463266557.jpg",
+        "alt": "Comment fonctionne une climatisation ?"
+      },
+      "title": "Comment fonctionne une climatisation ?",
+      "text": "Votre équipe SBF Energies rafraichît votre habitat."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/les-pompes-a-chaleur-notre-comparatif-pour-choisir-la-meilleure",
+        "title": "Comparatif pour choisir une pompe à chaleur",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-09-30T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5f75f2a88476c880072976.jpg",
+        "alt": "Comparatif pour choisir une pompe à chaleur"
+      },
+      "title": "Comparatif pour choisir une pompe à chaleur",
+      "text": "SBF Energies vous aide à choisir la meilleure pompe à chaleur."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/une-pompe-a-chaleur-est-elle-ecologique",
+        "title": "Pompe à chaleur et écologie",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2020-07-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5f201be6c2bc5512994989.jpg",
+        "alt": "Pompe à chaleur et écologie"
+      },
+      "title": "Pompe à chaleur et écologie",
+      "text": "Une pompe à chaleur est-elle aussi écologique qu'on le dit ?"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/le-genie-climatique-quest-ce-que-cest",
+        "title": "Le génie climatique, qu'est-ce que c'est ?",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2020-07-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5f2019018bbf9813223368.jpg",
+        "alt": "Le génie climatique, qu'est-ce que c'est ?"
+      },
+      "title": "Le génie climatique, qu'est-ce que c'est ?",
+      "text": "Pourquoi faire appel à SBF Energies ?"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/comment-entretenir-votre-climatisation-les-conseils-de-sbf-energies",
+        "title": "Comment entretenir votre climatisation ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-07-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5f1fee201ad65166907499.jpg",
+        "alt": "Comment entretenir votre climatisation ?"
+      },
+      "title": "Comment entretenir votre climatisation ?",
+      "text": "A quelle fréquence faut-il entretenir sa climatisation ?"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/les-questions-a-poser-a-votre-installateur-de-climatisation",
+        "title": "Installer une climatisation : les questions à se poser !",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-07-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5f1fea9aa472c899594380.jpg",
+        "alt": "Installer une climatisation : les questions à se poser !"
+      },
+      "title": "Installer une climatisation : les questions à se poser !",
+      "text": "Le bon climatiseur est celui qui répond à vos besoins."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/coronavirus-information",
+        "title": "Dernières informations sur le Coronavirus",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2020-05-14T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5ebe5f2b6eb27965798985.jpg",
+        "alt": "Dernières informations sur le Coronavirus"
+      },
+      "title": "Dernières informations sur le Coronavirus",
+      "text": "SBF Energies reprend l'ensemble de ses activités."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/coup-de-pouce-economies-denergie",
+        "title": "Coup de pouce économies d'énergie",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2020-05-13T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5ebd91753074a677001820.jpg",
+        "alt": "Coup de pouce économies d'énergie"
+      },
+      "title": "Coup de pouce économies d'énergie",
+      "text": "Quels travaux peuvent profiter de cette prime ?"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/choisir-une-installation-de-chauffage-reversible-adaptee-a-ses-besoins",
+        "title": "Un chauffage réversible adapté à ses besoins",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-05-13T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5ebd4f1e0a26a151022765.jpg",
+        "alt": "Un chauffage réversible adapté à ses besoins"
+      },
+      "title": "Un chauffage réversible adapté à ses besoins",
+      "text": "SBF Energies propose un large éventail de possibilités."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/sbf-votre-expert-en-climatisation-et-chauffage-reversible",
+        "title": "Expert en climatisation et chauffage réversible",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-05-12T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5ebd3b1c64e6e615623135.jpg",
+        "alt": "Expert en climatisation et chauffage réversible"
+      },
+      "title": "Expert en climatisation et chauffage réversible",
+      "text": "L'assurance d’être accompagné dans son achat."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/faire-le-choix-dun-constructeur-repute-pour-votre-chauffage-reversible",
+        "title": "Faire le choix d'un constructeur réputé",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-05-12T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5ebd3b3138dc8723669814.jpg",
+        "alt": "Faire le choix d'un constructeur réputé"
+      },
+      "title": "Faire le choix d'un constructeur réputé",
+      "text": "La garantie d’investir dans un système fiable et performant."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/filtration-des-chauffages-reversibles",
+        "title": "Filtration des chauffages réversibles",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-05-12T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5ebd3b5db06aa202805942.jpg",
+        "alt": "Filtration des chauffages réversibles"
+      },
+      "title": "Filtration des chauffages réversibles",
+      "text": "Choisir une technologie adaptée pour un intérieur sain."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/performance-energetique-dun-climatiseur",
+        "title": "Etiquette énergie : Performance et confort",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-05-12T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5ebd3b750556e608936118.jpg",
+        "alt": "Etiquette énergie : Performance et confort"
+      },
+      "title": "Etiquette énergie : Performance et confort",
+      "text": "Très utile pour comparer les différentes consommations."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/la-performance-acoustique-du-chauffage-reversible",
+        "title": "Chauffage réversible et performance acoustique",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-05-12T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5ebd3b8320ca1494772800.jpg",
+        "alt": "Chauffage réversible et performance acoustique"
+      },
+      "title": "Chauffage réversible et performance acoustique",
+      "text": "Le niveau sonore ne doit pas impacter votre confort."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/chauffages-reversibles-et-design",
+        "title": "Chauffages réversibles et design",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-05-06T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5ebd3b9441db7807124859.jpg",
+        "alt": "Chauffages réversibles et design"
+      },
+      "title": "Chauffages réversibles et design",
+      "text": "Entre progrès techniques et évolution esthétique."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/comment-bien-choisir-son-chauffage-reversible",
+        "title": "Bien choisir son chauffage réversible ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-05-06T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5ebd3bac065eb644142812.jpg",
+        "alt": "Bien choisir son chauffage réversible ?"
+      },
+      "title": "Bien choisir son chauffage réversible ?",
+      "text": "Maîtriser la température de votre intérieur tout au long de l’année !"
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/les-avantages-du-chauffage-reversible",
+        "title": "Les avantages du chauffage réversible",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-05-06T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5ebd3bc84cd48140454798.jpg",
+        "alt": "Les avantages du chauffage réversible"
+      },
+      "title": "Les avantages du chauffage réversible",
+      "text": "Des performances énergétiques inégalées avec un seul appareil."
+    },
+    {
+      "url": {
+        "href": "https://www.sbf-energies.com/conseils-et-actualites/tout-savoir-sur-la-climatisation-pour-pouvoir-en-profiter-au-maximum",
+        "title": "Anticipez l'été : Installez une climatisation",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-05-06T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/climatisation_2022-4ce7e5e42b.jpg",
+        "alt": "Anticipez l'été : Installez une climatisation"
+      },
+      "title": "Anticipez l'été : Installez une climatisation",
+      "text": "SBF Energies vous accompagne dans l'installation de votre nouvelle climatisation."
+    }
+  ]
+}

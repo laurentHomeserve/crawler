@@ -1,0 +1,60 @@
+{
+  "breadcrumb": "Chauffe eau",
+  "seo": {
+    "title": "Installez, dépannez et entretenez votre chauffe-eau avec Roussin Energies",
+    "description": "Pour installer, dépanner ou entretenir un chauffe-eau dans la région de Grenoble, adressez-vous à des experts en la matière ! Roussin Energies et ses techniciens sont là pour répondre à toutes vos exigences.",
+    "opengraph": {
+      "site_name": "Roussin Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Installez, dépannez et entretenez votre chauffe-eau avec Roussin Energies",
+      "description": "Pour installer, dépanner ou entretenir un chauffe-eau dans la région de Grenoble, adressez-vous à des experts en la matière ! Roussin Energies et ses techniciens sont là pour répondre à toutes vos exigences.",
+      "image": {
+        "src": "https://www.roussin-energies.fr/build/images/roussin-energies-equipement-chauffe-eau-456x334.97935306.jpg",
+        "alt": "Equipements pour chauffe-eau"
+      }
+    }
+  },
+  "hero": {
+    "title": "Toutes nos solutions de production d'eau chaude sanitaire à grenoble : Cumulus, Chauffe-bains, Chauffe-eaux thermodynamiques, ...",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.roussin-energies.fr/build/images/roussin-energies-equipement-chauffe-eau-456x334.97935306.jpg",
+      "alt": "Equipements pour chauffe-eau"
+    },
+    "text": "<p>Vous rénovez entièrement votre système de chauffage de l'eau ou vous souhaitez remplacer votre ancien chauffe-eau par <b>un appareil neuf, performant et peu gourmand en énergie</b> ?</p> <p>Véritable garantie de savoir-faire, Roussin Energies est une entreprise spécialisée dans le secteur du chauffage et de la plomberie depuis 1969. Vous pouvez avoir confiance en l'expertise de nos intervenants, du simple conseil pour vous aider à choisir entre <b>un chauffe-eau électrique (cumulus), un chauffe-eau thermodynamique ou gaz</b>, à l'installation et l'entretien du modèle le plus adapté à vos exigences. Nous intervenons également en cas de panne de votre chauffe-eau à Seyssinet, <a href=\"https://www.roussin-energies.fr/chauffage-seyssins\" title=\"Chauffage Seyssins\">Seyssins</a>, <a href=\"https://www.roussin-energies.fr/chauffage-saint-ismier\" title=\"Chauffage Saint Ismier\">Saint-Ismier</a>, ... et dans toute l'agglomeration grenobloise.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Bien choisir son chauffe-eau en fonction de ses besoins",
+      "text": "<p>Pour bien choisir votre chauffe-eau, vous devez d'abord tenir compte du type d'alimentation. Chez Roussin Energies, les spécialistes sont en mesure de traiter aussi bien les chauffe-eau alimentés à l'électricité que les chauffe-bains au gaz. Ensuite, déterminez le fonctionnement souhaité.</p> <p>Vous pouvez opter pour un modèle électrique classique, muni d'une résistance qui porte l'eau à la température souhaitée. Moins énergivore, le <b>chauffe-eau thermodynamique</b> fonctionne lui aussi à l'électricité, mais il utilise l'énergie calorifique contenue dans l'air du local pour monter en puissance (comme une pompe à chaleur). Il vous permettra de réduire considérablement votre facture annuelle.</p> <p>Qu'il soit 100% électrique ou thermodynamique, misez sur un ballon suffisamment spacieux pour combler les besoins de la maisonnée en eau sanitaire : de 100 litres pour un couple à 300 litres pour une famille nombreuse. Enfin, le <b>chauffe-bain à gaz</b> présente l'avantage de pouvoir fournir une production instantanée d'eau chaude mais pour une courte durée.</p> <h3>Quelques informations techniques à connaître avant de choisir son chauffe-eau</h3> <ul> <li>Les modèles électriques, qui requièrent un <b>simple raccord à une prise de courant</b> et un positionnement à moins de 8 mètres du point d'eau principal, conviennent à toutes les habitations.</li> <li>Pour pouvoir installer un chauffe-eau thermodynamique, vous devez disposer d'un sol capable de supporter un poids de 400 kg et d'une <b>surface non chauffée</b> d'au moins 20 m3. Si ce n'est pas le cas, nos techniciens peuvent raccorder le chauffe-eau à l'extérieur à l'aide d'une gaine. </li> <li>Quant au chauffe-bain au gaz, il nécessite une alimentation en gaz de ville et la disposition d'un <b>local ventilé</b> qui ne soit ni un salon ni une chambre.</li> </ul> <hr>"
+    },
+    {
+      "title": "Pourquoi choisir Roussin Energies pour installer, entretenir et dépanner votre chauffe-eau ?",
+      "text": "<p>Vous pouvez compter sur Roussin Energies pour l'installation, l'entretien et le dépannage de votre chauffe-eau électrique, thermodynamique ou gaz. Nous proposons les produits des marques les plus reconnues dans le domaine de la production d'eau chaude sanitaire comme Thermor, Atlantic et Saunier Duval. Notre expertise nous permet également d'intervenir sur des équipements d'autres marques.</p> <p>Pour assurer le bon fonctionnement de votre chauffe-eau toute l'année, n'hésitez pas à souscrire un contrat d'entretien avec Roussin Energies. En cas de panne (à cause du calcaire par exemple), vous ne resterez pas longtemps sans eau chaude : que vous habitiez à <a href=\"https://www.roussin-energies.fr/chauffage-meylan\" title=\"Chauffage Meylan\">Meylan</a>, <a href=\"https://www.roussin-energies.fr/chauffage-voiron\" title=\"Chauffage Voiron\">Voiron</a>, Coublevie, <a href=\"https://www.roussin-energies.fr/chauffage-fontaine\" title=\"Chauffage Fontaine\">Fontaine</a>, ... nos techniciens sont réputés pour <b>leurs interventions rapides dans la région de <a href=\"https://www.roussin-energies.fr/chauffage-grenoble\" title=\"Chauffage Grenoble\">Grenoble</a></b>.</p> <hr>"
+    }
+  ],
+  "related": {
+    "title": "Toutes nos prestations pour les chauffe-eaux",
+    "links": [
+      {
+        "text": "Dépannage du chauffe-eau",
+        "href": "/depannage/chauffe-eau",
+        "title": ""
+      },
+      {
+        "text": "Entretien du chauffe-eau",
+        "href": "/entretien/chauffe-eau",
+        "title": ""
+      },
+      {
+        "text": "Installation du chauffe-eau",
+        "href": "/installation/chauffe-eau",
+        "title": ""
+      }
+    ]
+  },
+  "url": "https://www.roussin-energies.fr/equipements/chauffe-eau"
+}

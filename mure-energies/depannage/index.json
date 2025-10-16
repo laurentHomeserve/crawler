@@ -1,0 +1,85 @@
+{
+  "breadcrumb": "Depannage",
+  "seo": {
+    "title": "Dépannage de chauffage autour de Lyon | Mure Energies",
+    "description": "Spécialiste de la rénovation énergétique, l'entreprise Mure Energies réalise le dépannage de votre chauffage à Lyon, Tassin et Dardilly sous 24 à 48h.",
+    "opengraph": {
+      "site_name": "Mure Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Dépannage de chauffage autour de Lyon | Mure Energies",
+      "description": "Spécialiste de la rénovation énergétique, l'entreprise Mure Energies réalise le dépannage de votre chauffage à Lyon, Tassin et Dardilly sous 24 à 48h.",
+      "image": {
+        "src": "https://www.mure-energies.fr/build/images/mure-energies-depannage-456x334.cb9dc87b.jpg",
+        "alt": "Dépannage du chauffage à Lyon par les chauffagistes Mure Energies"
+      }
+    }
+  },
+  "hero": {
+    "title": "Réparation et dépannage de votre chauffage à Lyon",
+    "subtitle": "Mure Energies, votre réparateur de chauffage dans l'Ouest lyonnais"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.mure-energies.fr/build/images/mure-energies-depannage-456x334.cb9dc87b.jpg",
+      "alt": "Dépannage du chauffage à Lyon par les chauffagistes Mure Energies"
+    },
+    "text": "<p>Rien de plus pénible que de manquer d'eau chaude en hiver ou de tomber en panne de climatisation en plein été ! Pour pallier ce type de problème et vous permettre de retrouver rapidement votre niveau de confort, nos équipes de <a href=\"/qui-sommes-nous\">plombiers chauffagistes</a> assurent un service de dépannage de chauffage à <a href=\"https://www.mure-energies.fr/chauffage-lyon\" title=\"Chauffage Lyon\">Lyon</a> sous 24 à 48h.</p><p>Cette <b>prestation d'urgence</b> concerne tous les équipements que nous installons, mais aussi les autres marques de chauffage du marché. Ainsi, vous pouvez compter sur Mure Energies pour réparer votre <b>chaudière à gaz, votre pompe à chaleur ou encore votre chauffe-eau thermodynamique</b>.</p><p>Nos techniciens remplaceront la pièce défaillante et remettront rapidement en service vos équipements. Votre climatiseur montre-t-il des premiers signes de faiblesse ? N'attendez pas et prenez rendez-vous avec votre réparateur de chauffage sur Lyon Ouest.</p>"
+  },
+  "teasers": [
+    {
+      "title": "Dépannage de votre chaudière à Lyon",
+      "text": "<p>La chaudière ne produit pas seulement l'eau chaude sanitaire de la maison, il s'agit également d'un chauffage central qui alimente les radiateurs de toutes vos pièces. En cas de panne, votre foyer est donc privé d'eau chaude et ne peut profiter du chauffage. Dès que les températures baissent, un tel incident devient vite problématique. Ne perdez pas de temps : nos équipes sont mobilisées pour intervenir dans les plus brefs délais à <a href=\"https://www.mure-energies.fr/chauffage-dardilly\" title=\"Chauffage Dardilly\">Dardilly</a>, Charbonnières ou <a href=\"https://www.mure-energies.fr/chauffage-craponne\" title=\"Chauffage Craponne\">Craponne</a> sur des chaudières à gaz ou à fioul.</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/depannage/chaudiere",
+        "text": "En savoir plus sur nos prestations de dépannage pour chaudières gaz et fioul",
+        "title": "Mure Energies - dépannage chaudière à Lyon"
+      }
+    },
+    {
+      "title": "Mure Energies répare votre pompe à chaleur à Lyon",
+      "text": "<p>Qu'il s'agisse d'une <b>pompe à chaleur eau/eau ou air/eau</b>, une pièce défectueuse sur une <b>PAC</b> entraîne rapidement l'arrêt de son fonctionnement. C'est alors tout le système de chauffage qui tombe en panne. Dans certains cas, lorsque la PAC fonctionne avec un cumulus thermodynamique par exemple, la production d'eau chaude s'interrompt également. Dès les premiers signes de détérioration, appelez immédiatement votre réparateur de chauffage à Lyon. Nos techniciens se déplaceront sous 48h maximum pour dépanner votre pompe à chaleur, quel que soit le modèle concerné.</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/depannage/pompe-a-chaleur",
+        "text": "En savoir plus sur nos prestations de dépannage pour pompe à chaleur",
+        "title": "dépannage de pompe à chaleur à Lyon"
+      }
+    },
+    {
+      "title": "Votre réparateur de chauffage à Lyon dépanne votre climatiseur",
+      "text": "<p>Les températures remontent et votre climatiseur ne remplit plus sa mission ou fonctionne mal ? Avant son arrêt complet, prenez rendez-vous avec un technicien Mure Energies ! Nos spécialistes trouveront rapidement la cause de la panne, qu'il s'agisse d'une climatisation split ou d'une PAC air/air réversible. Dans ce cas, vous pouvez également rencontrer un souci de chauffage avec votre climatiseur. De la même manière que pour l'air frais, nos chauffagistes établiront un diagnostic pour dépanner rapidement votre matériel : vous pourrez remettre le chauffage sans tarder !</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/depannage/climatisation",
+        "text": "En savoir plus sur nos prestations de dépannage de climatisation",
+        "title": "dépannage de clim Lyon"
+      }
+    },
+    {
+      "title": "La réparation de votre chauffe-eau autour de Lyon, Mâcon, Villefranche-sur-Saône",
+      "text": "<p>Vous avez besoin d'une réparation de chauffage à Lyon, <a href=\"https://www.mure-energies.fr/chauffage-givors\" title=\"Chauffage Givors\">Givors</a>, Meyzieu, <a href=\"https://www.mure-energies.fr/chauffage-bron\" title=\"Chauffage Bron\">Bron</a>, Genas, Ecullly et cela concerne votre eau chaude ? Nos experts plombiers chauffagistes sont habilités à remettre en service votre cumulus, qu'il s'agisse d'un chauffe-eau électrique, thermodynamique ou à gaz. Prenez rendez-vous avec un technicien pour un dépannage de chauffage à <a href=\"https://www.mure-energies.fr/chauffage-oullins\" title=\"Chauffage Oullins\">Oullins</a>, Saint-Genis-les-Ollières, Tarare ou <a href=\"https://www.mure-energies.fr/chauffage-brignais\" title=\"Chauffage Brignais\">Brignais</a>. Votre chauffe-eau peut également être réparé si vous habitez à <a href=\"https://www.mure-energies.fr/chauffage-tassin-la-demi-lune\" title=\"Chauffage Tassin La Demi Lune\">Tassin-la-Demi-Lune</a>, à <a href=\"https://www.mure-energies.fr/chauffage-chaponost\" title=\"Chauffage Chaponost\">Chaponost</a> ou à Beynost.</p>",
+      "link": {
+        "href": "/depannage/chauffe-eau",
+        "text": "En savoir plus sur nos prestations de dépannage de chauffe-eau",
+        "title": "dépannage du chauffe eau à Lyon"
+      }
+    },
+    {
+      "title": "Dépannage et réparation de poêles à granulés et de poêles à bois autour de Lyon",
+      "text": "<p>Votrepoêle à pellet ou votre poêle à bûches est en panne ? Mure Energies est votre spécialiste des poêles à bois près de Lyon. Nos techniciens certifiés interviennent rapidement dans le bassin luonnais pour réparer votre poêle. Ils se déplacent autour de Lyon, à <a href=\"https://www.mure-energies.fr/chauffage-decines-charpieu\" title=\"Chauffage Decines Charpieu\">Décines-Charpieu</a>, <a href=\"https://www.mure-energies.fr/chauffage-venissieux\" title=\"Chauffage Venissieux\">Vénissieux</a>, Jonage, Tarare, <a href=\"https://www.mure-energies.fr/chauffage-sainte-foy-les-lyon\" title=\"Chauffage Sainte Foy Les Lyon\">Sainte-Foy-lès-Lyon</a> ou encore Tassin-la-Demi-Lune. Contactez nos experts du poêle à bois et granulés sur Lyon pour un dépannage rapide !</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/depannage/poeles-granules-bois",
+        "text": "En savoir plus sur nos prestations de dépannage de poêle biomasse",
+        "title": "Réparation de poêle biomasse à Lyon"
+      }
+    },
+    {
+      "title": "Ce que nos clients pensent de nos prestations de dépannage",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/cc78892a-ea21-e714-7910-897ad2529b60/a52b8f74-8830-4367-90f6-93b3c121db91.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

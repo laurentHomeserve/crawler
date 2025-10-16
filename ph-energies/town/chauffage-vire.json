@@ -1,0 +1,40 @@
+{
+  "breadcrumb": "Chauffage Vire",
+  "hero": {
+    "title": "Installation, entretien et dépannage de chauffage à Vire",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/ph-energies-qui-sommes-nous-456x334.3c2112b3.jpg",
+      "alt": "Installation, entretien et dépannage de chauffage à Vire"
+    },
+    "text": "<p>À Vire, nos techniciens sont formés pour installer, entretenir et réparer vos équipements de chauffage et de climatisation.</p> <p>Nos équipes interviennent à votre domicile pour prendre en charge :</p> <ul>\n<li><a title=\"Equipement pompe à chaleur\" href=\"/equipements/pompe-a-chaleur\">les pompes à chaleur</a></li>\n<li><a title=\"Equipement climatisation\" href=\"/equipements/climatisation\">les climatisations</a></li>\n<li><a title=\"Equipement chauffage au sol\" href=\"/equipements/plancher-chauffant\">les planchers chauffants</a></li>\n<li><a title=\"Equipement chauffe-eau\" href=\"/equipements/chauffe-eau\">les chauffe-eaux</a></li>\n<li><a title=\"Equipement chaudière\" href=\"/equipements/chaudieres\">les chaudières</a></li>\n</ul> <p>Pour en savoir plus, contactez-nous au 02 31 82 69 33. Nous prendrons le temps de découvrir votre projet afin de vous proposer un devis gratuit et personnalisé.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Les experts de la pompe à chaleur à Vire",
+      "text": "<p>Vous êtes à la recherche d'un même équipement qui pourra chauffer votre logement en hiver et le rafraîchir en été ? <a title=\"Installation pompe à chaleur\" href=\"/installation/pompe-a-chaleur\">Faites installer une pompe à chaleur</a> ! Ce type d'équipement écologique puise les calories de l'environnement (eau, sol, air), ce qui vous permet par ailleurs de réduire vos factures d'énergie.</p> <p>Les équipes PH Energies interviennent à votre domicile pour procéder à l'installation, mais aussi à l'entretien et au dépannage de votre PAC.</p> <hr>"
+    },
+    {
+      "title": "Installation, maintenance et réparation de chaudière à Vire",
+      "text": "<p>La chaudière est l'un des équipements de chauffage le plus répandu en France, que ce soit en version gaz, fioul ou bois. Alors si vous aussi souhaitez profiter d'une chaudière performante et adaptée à vos besoins, faites confiance à nos experts.</p> <p>Nous vous accompagnons de la découverte de votre projet jusqu'à l'<a title=\"Installation chaudière\" href=\"/installation/chaudiere\">installation de votre nouvelle chaudière</a>. Vous pouvez également faire appel à nous pour procéder à l'entretien ou à la réparation de votre appareil.</p> <hr>"
+    },
+    {
+      "title": "À Vire, profitez de votre climatisation en toute sérénité",
+      "text": "<p>Choisir d'<a title=\"Installation climatisation\" href=\"/installation/climatisation\">installer une climatisation</a> permet non seulement de gagner en confort thermique au sein de votre logement en été, mais également d'assainir votre intérieur grâce à un système de filtration et de déshumidification.</p> <p>Vous possédez déjà une climatisation chez vous ? Nous vous recommandons de souscrire à l'un de nos contrats d'entretien. Vous bénéficierez ainsi d'une visite de maintenance réalisée par l'un de nos experts. En plus de vous permettre d'anticiper de nombreuses pannes et dysfonctionnements, vous augmenterez également la durée de vie de votre appareil.</p> <hr>"
+    },
+    {
+      "title": "Tout pour le chauffe-eau à Vire",
+      "text": "<p>Vous souhaitez faire <a title=\"Installation chauffe-eau\" href=\"/installation/chauffe-eau\">installer un nouveau chauffe-eau</a> en remplacement de votre ancien appareil ? Votre équipement est en panne et vous recherchez un professionnel pour le réparer ? Vous voulez faire réaliser la maintenance annuelle de votre chauffe-eau ?</p> <p>Les experts PH Energies mettent leur expérience et leur savoir-faire au service de chacun de vos projets. Notre objectif est ainsi de devenir votre interlocuteur privilégie pour chacun de vos projets.</p> <hr>"
+    },
+    {
+      "title": "À Vire et dans le Calvados, faites confiance à PH Energies pour votre plancher chauffant",
+      "text": "<p>Vous souhaitez mettre en place un mode de chauffage caché à la vue qui permette de répandre la chaleur dans toutes les pièces de votre logement de manière homogène ? Nous vous recommandons de <a title=\"Installation plancher chauffant\" href=\"/installation/plancher-chauffant\">faire installer un chauffage au sol</a>.</p> <p>Fonctionnant à basse température, en complément d'une pompe à chaleur par exemple, il s'agit d'un équipement performant et économe en énergie. Nos équipes interviennent chez vous pour installer, entretenir et réparer votre chauffage au sol. Contactez-nous au 02 31 82 69 33 pour en savoir plus.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  }
+}

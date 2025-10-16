@@ -1,0 +1,64 @@
+{
+  "breadcrumb": "Chaudieres",
+  "seo": {
+    "title": "Pour l'installation de votre chaudière à Grenoble et ses alentours : contactez Roussin Energies",
+    "description": "Vente, installation et dépannage de chaudière, rien ne résiste à Roussin Energies, votre plombier chauffagiste de référence. Pour toute intervention, contactez-nous.",
+    "opengraph": {
+      "site_name": "Roussin Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Pour l'installation de votre chaudière à Grenoble et ses alentours : contactez Roussin Energies",
+      "description": "Vente, installation et dépannage de chaudière, rien ne résiste à Roussin Energies, votre plombier chauffagiste de référence. Pour toute intervention, contactez-nous.",
+      "image": {
+        "src": "https://www.roussin-energies.fr/build/images/roussin-energies-equipement-chaudiere-456x334.8bf5640f.jpg",
+        "alt": "Equipements pour chaudière"
+      }
+    }
+  },
+  "hero": {
+    "title": "Toute notre expertise sur les chaudières gaz, fioul, bois et granulés dans l'agglomération Grenobloise et ses environs",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.roussin-energies.fr/build/images/roussin-energies-equipement-chaudiere-456x334.8bf5640f.jpg",
+      "alt": "Equipements pour chaudière"
+    },
+    "text": "<p>Vous habitez dans la région de <a href=\"https://www.roussin-energies.fr/chauffage-grenoble\" title=\"Chauffage Grenoble\">Grenoble</a> et vous souhaitez remplacer ou installer une chaudière, <a href=\"/entretien/chaudiere\">entretenir une chaudière</a> ou <a href=\"/depannage/chaudiere\">dépanner une chaudière</a> ?</p> <p>Les chauffagistes expérimentés de Roussin Energies sont les interlocuteurs qu'il vous faut. Non seulement ils répondront à toutes vos questions concernant la transition énergétique et les réductions mises en place par l'Etat pour l'installation d'un système de chauffage respectueux de l'environnement, mais ils mettront également leur expertise de techniciens chauffagistes à votre service, en intervenant directement à votre domicile dans l'agglomération Grenobloise : <a href=\"https://www.roussin-energies.fr/chauffage-fontaine\" title=\"Chauffage Fontaine\">Fontaine</a>, <a href=\"https://www.roussin-energies.fr/chauffage-seyssins\" title=\"Chauffage Seyssins\">Seyssins</a>, <a href=\"https://www.roussin-energies.fr/chauffage-meylan\" title=\"Chauffage Meylan\">Meylan</a>, Montbonnot, Saint Ismier, <a href=\"https://www.roussin-energies.fr/chauffage-voiron\" title=\"Chauffage Voiron\">Voiron</a>, Coublevie...</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Choisir la bonne chaudière : gaz, bois, granulés ...",
+      "text": "<p>Que vous souhaitiez installer un système de chauffage entièrement neuf ou remplacer votre vieille chaudière à fioul, vous pouvez compter sur l'expertise Roussin Energies pour vous conseiller sur le type de chaudière le plus approprié à votre habitation. À basse température ou à condensation, notre gamme de modèles répond aussi bien aux normes énergétiques en vigueur qu'aux exigences de chacun.</p> <p>Les <b>chaudières à basse température</b>, qui chauffent l'eau du réseau à un maximum de 40 degrés sont optimales pour alimenter les radiateurs d'un appartement. Si vous habitez une maison, mieux vaut opter pour une <b>chaudière à condensation</b>, dont le prix de départ plus élevé est compensé à moyen terme par un rendement supérieur à 100%.</p> <p>Bon à savoir : l'installation d'une chaudière gaz à condensation ou granulés peut vous valoir une aide financière de l'ANAH ou encore une prime énergie.</p> <hr>"
+    },
+    {
+      "title": "Quel combustible pour votre chaudière ?",
+      "text": "<p>Du point de vue du combustible, misez sur une <b>énergie renouvelable</b>. Le <b>bois</b> est peu coûteux mais requiert un vaste espace de stockage. Les <b>granulés</b> ont un grand pouvoir calorifique. Le <b>gaz</b> convient si vous habitez en ville. Enfin, le <b>fioul bio</b>, à base de colza, est recommandé si vous vivez dans un climat rigoureux. En effet, ce biocarburant offre une excellente résistance au froid, tout en émettant moins de CO2 que le fioul classique.</p> <p>Chauffagiste expérimenté à Grenoble et dans sa région, Roussin Energies est une entreprise RGE, Reconnue Garante de l'Environnement. Faites appel à nos techniciens pour le choix et l'installation de votre chaudière Frisquet, Saunier Duval, De Dietrich ou Froling !</p> <hr>"
+    },
+    {
+      "title": "À qui s'adresser pour le dépannage, l'entretien et l'installation de chaudière dans la région de Grenoble ?",
+      "text": "<p>Une chaudière en panne, et vous voilà privé de chauffage, voire d'eau chaude si votre chaudière fait aussi office de chauffe-eau... Pour résoudre votre problème au plus vite, faites appel aux experts RGE de Roussin Energies. Vous y gagnerez sur tous les tableaux. En effet, nos chauffagistes interviendront non seulement rapidement mais aussi efficacement !</p> <p>Du diagnostic au dépannage, vous pouvez compter <b>sur leur réactivité et sur leur expertise</b> pour trouver le bon état de marche de votre chaudière dans de très brefs délais. Pour vous entourer d'un maximum de garanties, vous pouvez également souscrire un <a href=\"/entretien/chaudiere\" title=\"Contrat d'entretien et de maintenance pour votre chaudière\">contrat d'entretien à l'année pour votre chaudière gaz ou fioul</a>.</p> <hr>"
+    }
+  ],
+  "related": {
+    "title": "Tous nos services pour votre chaudière",
+    "links": [
+      {
+        "text": "Dépanner une chaudière",
+        "href": "/depannage/chaudiere",
+        "title": ""
+      },
+      {
+        "text": "Entretenir ma chaudière",
+        "href": "/entretien/chaudiere",
+        "title": ""
+      },
+      {
+        "text": "Installer une chaudière",
+        "href": "/installation/chaudiere",
+        "title": ""
+      }
+    ]
+  },
+  "url": "https://www.roussin-energies.fr//equipements/chaudieres"
+}

@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Recrutement",
+  "seo": {
+    "title": "Recrutement de chauffagistes et plombiers dans le Calvados et l'Orne | PH Energies",
+    "description": "Quelle est la politique de recrutement appliquée par PH Energies ? Retrouvez ici les postes à pourvoir et les différentes procédures pour postuler.",
+    "opengraph": {
+      "site_name": "PH Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Recrutement de chauffagistes et plombiers dans le Calvados et l'Orne | PH Energies",
+      "description": "Quelle est la politique de recrutement appliquée par PH Energies ? Retrouvez ici les postes à pourvoir et les différentes procédures pour postuler.",
+      "image": {
+        "src": "https://www.ph-energies.fr/build/images/ph-energies-recrutement-456x334.5d1d02fc.jpg",
+        "alt": "recrutement plombier chauffagiste"
+      }
+    }
+  },
+  "hero": {
+    "title": "Nos offres d'emploi : plombier chauffagiste, technicien de maintenance, poseurs, commerciaux ...",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/ph-energies-recrutement-456x334.5d1d02fc.jpg",
+      "alt": "recrutement plombier chauffagiste"
+    },
+    "text": "<p>PH Energies propose régulièrement des postes afin d'accompagner la croissance de la société. Profil terrain et techique ou profil administratif, le sens du service client est au coeur de nos critères de recrutement. Rejoignez une équipe dynamique de techniciens, poseurs, commerciaux ainsi que des chargés d'administration. Nos employés reçoivent une formation continue et disposent de nombreux avantages.</p> <p><i></i> <a href=\"https://www.energies-services.homeserve.fr/recrutement-homeservehes\" title=\"HomeServe Energies Services - Offres d'emploi chauffage\" target=\"_blank\">Découvrir toutes nos offres d'emploi sur HomeServe Energies Services</a></p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Que demandons-nous à nos salariés ?",
+      "text": "<p>Pour rejoindre l'équipe et agrandir la <a href=\"/qui-sommes-nous\" title=\"PH Energies, votre chauffagiste à Caen\">famille PH Energies</a>, vous devez bien entendu avoir des compétences particulières en plomberie et/ou en chauffage mais aussi d'autres qualités humaines. </p> <p>Nous cherchons toujours le meilleur pour nos clients et souhaitons leur apporter la réactivité et le dynamisme qu'ils sont en droit d'attendre de la part d'un prestataire de services local. Si vous êtes rigoureux dans votre travail, que avez le sens de l'initiative, de l'écoute et le sourire en toute circonstance, alors n'hésitez pas à nous présenter votre candidature.</p> <p>Nous vous invitons d'ores-et-déjà à découvrir nos valeurs et notre politique.</p> <hr>"
+    },
+    {
+      "title": "Ce que nous souhaitons montrer à nos clients",
+      "text": "<p>Notre entreprise est à taille humaine pour fournir les meilleurs rapports qualité/prix, garantir le respect de l'environnement et être disponible pour le plus grand nombre. Nous recherchons donc des techniciens, des plombiers et chauffagistes capables d'apporter des conseils techniques et de délivrer un savoir-faire expert.</p> <p>Vous devez être en mesure de rassurer grâce à vos connaissances et votre expérience. Vous êtes réfléchi et disposez des méthodes pour effectuer un diagnostic sur un appareil défaillant, rechercher les fuites, déterminer la cause de la panne et engager les actions nécessaires à la réparation.</p> <p>Intéressé ? <a href=\"/nous-contacter\" title=\"Contacter PH Energies, votre plombier chauffagiste à Caen\">Envoyez-nous votre CV et une lettre de motivation</a>. Nous examinerons rapidement votre candidature.</p>"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "breadcrumb": "Equipements",
+  "seo": {
+    "title": "Equipement de chauffage dans la Seine-et-Marne | Aujard",
+    "description": "Vous souhaitez investir dans un équipement de chauffage économique, écologique, durable et robuste ? Aujard a sélectionné pour vous des cheminées, poêles à bois, poêles de masse, chaudières etc.",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Equipement de chauffage dans la Seine-et-Marne | Aujard",
+      "description": "Vous souhaitez investir dans un équipement de chauffage économique, écologique, durable et robuste ? Aujard a sélectionné pour vous des cheminées, poêles à bois, poêles de masse, chaudières etc.",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-chaudiere-456x334.04af30c9.jpg",
+        "alt": "Les équipements Aujard - votre expert en chauffage et climatisation"
+      }
+    }
+  },
+  "hero": {
+    "title": "Les équipements Aujard : performances et fonctionnalité",
+    "subtitle": "Faîtes appel à Aujard pour le choix de votre chauffage et climatisation"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.aujard.fr/build/images/aujard-chaudiere-456x334.04af30c9.jpg",
+      "alt": "Les équipements Aujard - votre expert en chauffage et climatisation"
+    },
+    "text": ""
+  },
+  "teasers": [
+    {
+      "title": "Confiez votre projet à des spécialistes du chauffage et climatisation",
+      "text": "<p>Nous mettons à disposition de nos clients <b>des chaudières fonctionnant au gaz, au fioul ou au bois</b>. Bien plus <b>économiques</b> et présentant un <b>meilleur rendement</b> que les anciens systèmes, les chaudières à énergie fossile sont aussi plus respectueuses de l'environnement. Chaque équipement de chauffage proposé apporte un confort immédiat et bénéficie des <b>garanties des grandes marques</b>.</p> <p><a href=\"https://www.aujard.fr/equipements/energie-renouvelable\" title=\"Equipements de chauffage et climatisation EnR\">Nos solutions à énergies renouvelables</a> : PAC air/eau, chauffe-eau thermodynamique, chauffage solaire ou/et photovoltaïque, poêles de chauffage à bois, à granulés ou de masse respectent <b>les normes énergétiques et environnementales</b> les plus strictes.</p> <p>Pour l'installation de votre système de chauffage éco-durable, préférez <b>l'expertise d'un artisan qualifié RGE</b> comme nos professionnels <b>Aujard</b>. Nos chauffagistes spécialisés vous aideront à effectuer les différentes démarches pour obtenir les <b>aides de l'État</b>, de <b>l'Anah</b> ou encore des fournisseurs d'énergie.</p> <hr>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Aujard pose et entretient votre équipement de chauffage et de climatisation",
+      "text": "<p><b>Poser un système de chauffage</b>, notamment avec raccordement gaz ou fluide frigorigène, demande <b>une expertise particulière</b>. Pour votre sécurité, il est préférable de faire appel à un professionnel agréé comme Aujard. Une <b>étude personnalisée</b> et un <b>devis gratuit</b> vous sont réservés sans que vous ayez à vous engager d'une quelconque manière. Faites évaluer le coût de votre futur équipement de chauffage et définissez vos priorité avec nos experts!</p> <p>Chaque système de chauffage a ses spécificités. S'il s'agit d'une solution de <a href=\"https://www.aujard.fr/equipements/climatisation\" title=\"Pompe à chaleur air-air en Seine-et-Marne\">climatisation réversible</a>, une <b>étude thermique</b> aide à déterminer la puissance nécessaire et les dépenses électriques annuelles. En faisant appel à notre équipe Aujard, vous bénéficiez de conseils avisés sur le choix de votre climatisation simple ou Inverter. Indispensable lors des canicules, cet équipement s'adapte à la configuration de votre intérieur. Plusieurs unités peuvent être positionnées pour améliorer l'efficacité du système.</p> <p>Rendez-vous en Seine-et-Marne dans notre showroom ! Les équipements et systèmes de chauffage Aujard vous accompagnent de longues années. Pour profiter au mieux de tous nos services, prenez rendez-vous avec l'un de nos experts. Vous recevrez rapidement un devis.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

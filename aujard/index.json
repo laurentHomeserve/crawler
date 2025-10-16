@@ -1,0 +1,157 @@
+{
+  "breadcrumb": "",
+  "seo": {
+    "title": "Aujard | Chauffagiste RGE en Seine et Marne (77)",
+    "description": "Chauffagistes et frigoristes RGE en Seine-et-Marne. Aujard vous accompagne depuis + de 30 ans dans le 77 pour vos installations de chauffage, clim et bien-être.",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Aujard | Chauffagiste RGE en Seine et Marne (77)",
+      "description": "Chauffagistes et frigoristes RGE en Seine-et-Marne. Aujard vous accompagne depuis + de 30 ans dans le 77 pour vos installations de chauffage, clim et bien-être.",
+      "image": {
+        "src": "https://www.aujard.fr/asset/img/organisation/corporate/aujard/chauffagiste-aujard.jpg",
+        "alt": ""
+      }
+    }
+  },
+  "hero": {
+    "title": "Votre chauffagiste en Seine-et-Marne expert du confort de l'habitat",
+    "subtitle": "Toute notre expertise pour entretenir, dépanner et installer vos appareils de chauffage et climatisation à Melun, Provins, Fontainebleau, ..."
+  },
+  "expertises": [
+    {
+      "linked": "/installation",
+      "sticker": "Installation & Remplacement",
+      "title": "Remplacement ou Installation de vos équipements de chauffage et de climatisation",
+      "img": {
+        "src": "/build/images/aujard-installation-456x334.bbf73de7.jpg",
+        "alt": "Installation & Remplacement"
+      },
+      "content": "Vous souhaitez installer ou changer votre chauffage en Seine-et-Marne ? Nos techniciens vous conseillent pour vous proposer une solution adaptée à vos besoins et à votre budget.",
+      "button": {
+        "text": "Obtenir un devis gratuit",
+        "title": "installation équipement de chauffage"
+      }
+    },
+    {
+      "linked": "/entretien",
+      "sticker": "Entretien & Maintenance",
+      "title": "Entretien et Maintenance de vos équipements de chauffage et climatisation",
+      "img": {
+        "src": "/build/images/aujard-entretien-456x334.04af30c9.jpg",
+        "alt": "Entretien & Maintenance"
+      },
+      "content": "La maintenance et l'entretien réguliers de vos installations vous permettent d'économiser de l'argent et de prolonger leur durée de vie. Nous proposons des contrats d'entretien adaptés à tous vos équipements.",
+      "button": {
+        "text": "Entretenir un équipement",
+        "title": "Entretien équipement de chauffage"
+      }
+    },
+    {
+      "linked": "/depannage",
+      "sticker": "Dépannage & Réparation",
+      "title": "Réparation et Dépannage de vos équipements de chauffage et climatisation",
+      "img": {
+        "src": "/build/images/aujard-depannage-456x334.32fa1f0c.jpg",
+        "alt": "Dépannage & Réparation"
+      },
+      "content": "Votre chauffage gaz ou fioul, poêle à bois, pompe à chaleur ou climatisation ne fonctionne plus ? Contactez-nous, nos collaborateurs interviennent sous 24 heures à 48 heures et sur tout type d'équipement.",
+      "button": {
+        "text": "Être dépanné rapidement",
+        "title": "Intervention de dépannage rapide"
+      }
+    }
+  ],
+  "certification": {
+    "title": "",
+    "content": "*Du lundi au vendredi aux heures&nbsp;ouvrables de la Société.",
+    "logos": [
+      {
+        "src": "/build/images/contract.bc1ea87c.png",
+        "alt": "Contrat d'entretien"
+      }
+    ]
+  },
+  "partner": {
+    "title": "Quelles sont les prestations et services proposés par l'entreprise Aujard ?",
+    "content": "",
+    "logos": [
+      {
+        "src": "/build/images/jm.4e109815.png",
+        "alt": "JM"
+      },
+      {
+        "src": "/build/images/contura.1234a375.png",
+        "alt": "Contura"
+      },
+      {
+        "src": "/build/images/charnwood.b4ee6ad9.jpg",
+        "alt": "Charnwood"
+      },
+      {
+        "src": "/build/images/storch.2656ffbf.png",
+        "alt": "Storch"
+      },
+      {
+        "src": "/build/images/palazzetti.862d34c1.png",
+        "alt": "Palazzetti"
+      },
+      {
+        "src": "/build/images/mitsubishi-electric-partner.4a0a55b1.jpg",
+        "alt": "Mitsubishi Electric"
+      },
+      {
+        "src": "/build/images/daikin.b596ffed.jpg",
+        "alt": "Daikin"
+      },
+      {
+        "src": "/build/images/samsung_v2.20393bdd.jpg",
+        "alt": "Samsung"
+      },
+      {
+        "src": "/build/images/toshiba.cf0f2b5d.jpg",
+        "alt": "Toshiba"
+      },
+      {
+        "src": "/build/images/hitachi.477f6b1d.png",
+        "alt": "Hitachi"
+      },
+      {
+        "src": "/build/images/viessmann_v2.6046242f.png",
+        "alt": "Viessmann"
+      },
+      {
+        "src": "/build/images/chaffoteaux.4043b33d.png",
+        "alt": "Chaffoteaux"
+      },
+      {
+        "src": "/build/images/frisquet_v2.24a19b59.png",
+        "alt": "Frisquet"
+      },
+      {
+        "src": "/build/images/elm-leblanc.ca5885b2.jpg",
+        "alt": "ELM LeBlanc"
+      },
+      {
+        "src": "/build/images/saunier-duval.da98463a.jpg",
+        "alt": "Saunier Duval"
+      }
+    ]
+  },
+  "map": {
+    "title": "Chauffagiste gaz, fioul et bois dans la Seine-et-Marne ... où intervenons-nous ?",
+    "content": "<p>Que vous soyez un particulier ou une entreprise, Aujard Entreprise dépanne et entretient vos installations de chauffage et de plomberie. Nous sommes situés à moins d'une heure de Paris à Vulaines-sur-Seine. Nous vous fournissons également des équipements de chauffage pour assurer le bien-être au quotidien dans votre logement. Nos chauffagistes gaz dans le 77 interviennent principalement dans le département de la Seine-et-Marne, dans un rayon de 30 km autour de <a href=\"https://www.aujard.fr/chauffage-fontainebleau\" title=\"Chauffage Fontainebleau\">Fontainebleau</a> et de <a href=\"https://www.aujard.fr/chauffage-melun\" title=\"Chauffage Melun\">Melun</a>.</p> <p>Nos interventions s'effectuent sur les villes de Melun, <a href=\"https://www.aujard.fr/chauffage-savigny-le-temple\" title=\"Chauffage Savigny Le Temple\">Savigny-le-Temple</a>, Provins, Fontainebleau, <a href=\"https://www.aujard.fr/chauffage-nemours\" title=\"Chauffage Nemours\">Nemours</a>, <a href=\"https://www.aujard.fr/chauffage-dammarie-les-lys\" title=\"Chauffage Dammarie Les Lys\">Dammarie-les-Lys</a>, <a href=\"https://www.aujard.fr/chauffage-montereau-fault-yonne\" title=\"Chauffage Montereau Fault Yonne\">Montereau-Fault-Yonne</a>, <a href=\"https://www.aujard.fr/chauffage-nangis\" title=\"Chauffage Nangis\">Nangis</a>, Châtelet-en-Brie, <a href=\"https://www.aujard.fr/chauffage-avon\" title=\"Chauffage Avon\">Avon</a>, <a href=\"https://www.aujard.fr/chauffage-pont-sur-yonne\" title=\"Chauffage Pont Sur Yonne\">Pont-sur-Yonne</a> et alentours. <a href=\"/qui-sommes-nous/zones-intervention\">Nos techniciens interviennent dans la Seine et Marne, cliquez ici pour découvrir nos zones d'intervention.</a><br>&nbsp;</p>",
+    "map": {
+      "lat": 48.4256249,
+      "lng": 2.7697473,
+      "zoom": 11,
+      "title": "Aujard",
+      "content": "<h3 style=\"font-size:1.1em\">Aujard</h3><p>Route d\\"
+    }
+  },
+  "presentation": {
+    "title": "Ce que pensent nos clients de nos prestations d'installation, d'entretien et de dépannage",
+    "content": "Nous sommes fiers de pouvoir offrir à nos clients des services de qualité grâce à notre expertise et notre professionnalisme. Retrouvez ci-dessous les avis de nos clients pour nos prestations d'installation, d'entretien et de dépannage de leurs équipements de chauffage et de climatisation.<br> <div class=\"skeepers_carousel_container\" data-slides-count=\"1\"></div><script defer=\"\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/7428e405-82da-89f4-39eb-7456a53cddc4/d7ce688a-c523-4525-813f-9e2e10d1ff91.js\"></script>\n                <br><br>\n                <div class=\"skeepers_carousel_container\" data-slides-count=\"3\"></div>\n                <script defer=\"\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/7428e405-82da-89f4-39eb-7456a53cddc4/d7ce688a-c523-4525-813f-9e2e10d1ff91.js\"></script>"
+  }
+}

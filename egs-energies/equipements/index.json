@@ -1,0 +1,76 @@
+{
+  "breadcrumb": "Equipements",
+  "seo": {
+    "title": "Equipement de Chauffage, Ventilation et Climatisation à Nice",
+    "description": "Equipement de chauffage, climatisation et de production d'eau chaude : Chaudière gaz, Panneaux solaires, Chauffe-bain, Chauffe-eau, PAC, Climatisation",
+    "opengraph": {
+      "site_name": "EGS Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Equipement de Chauffage, Ventilation et Climatisation à Nice",
+      "description": "Equipement de chauffage, climatisation et de production d'eau chaude : Chaudière gaz, Panneaux solaires, Chauffe-bain, Chauffe-eau, PAC, Climatisation",
+      "image": {
+        "src": "https://www.egs-energies.fr/build/images/egs-energies-service-equipement-456x334.f4a0bcff.jpg",
+        "alt": "EGS Energies (anciennement Electrogaz Nice) : équipement de production d'eau chaude"
+      }
+    }
+  },
+  "hero": {
+    "title": "Chauffage, Ventilation et Climatisation : les solutions EGS Energies",
+    "subtitle": "Faites confiance à une société implantée depuis 60 ans dans les Alpes-Maritimes"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.egs-energies.fr/build/images/egs-energies-service-equipement-456x334.f4a0bcff.jpg",
+      "alt": "EGS Energies (anciennement Electrogaz Nice) : équipement de production d'eau chaude"
+    },
+    "text": "<p>Chaudière, pompe à chaleur, climatisation... Vers quel équipement se tourner ? Pour vous guider dans votre choix, faites confiance aux équipes d'EGS Energies (ex-Electrogaz).</p><p>Depuis plus de 60 ans, notre société a développé un savoir-faire complet, sur toutes les sources d'énergie.</p><p>Cette connaissance approfondie, ajoutée à notre ancrage régional (<a href=\"https://www.egs-energies.fr/chauffage-nice\" title=\"Chauffage Nice\">Nice</a>, <a href=\"https://www.egs-energies.fr/chauffage-cannes\" title=\"Chauffage Cannes\">Cannes</a>, <a href=\"https://www.egs-energies.fr/chauffage-antibes\" title=\"Chauffage Antibes\">Antibes</a>, <a href=\"https://www.egs-energies.fr/chauffage-grasse\" title=\"Chauffage Grasse\">Grasse</a>, <a href=\"https://www.egs-energies.fr/chauffage-cagnes-sur-mer\" title=\"Chauffage Cagnes Sur Mer\">Cagnes-sur-Mer</a>, <a href=\"https://www.egs-energies.fr/chauffage-le-cannet\" title=\"Chauffage Le Cannet\">Le Cannet</a>, <a href=\"https://www.egs-energies.fr/chauffage-menton\" title=\"Chauffage Menton\">Menton</a>, <a href=\"https://www.egs-energies.fr/chauffage-vallauris\" title=\"Chauffage Vallauris\">Vallauris</a>, ...), nous permet de vous conseiller et de vous orienter vers les solutions adaptées à votre logement et à vos habitudes.<br><br><br>&nbsp;</p>"
+  },
+  "teasers": [
+    {
+      "title": "Les chaudières au gaz, fioul ou bois",
+      "text": "<p>Elles peuvent être raccordées au gaz de ville, ou fonctionner au fioul ou aux granulés de bois. Tout dépend de votre alimentation, de l'espace dont vous disposez, de la surface à chauffer et de votre budget. Pour le chauffage comme pour l'eau chaude sanitaire, chaque solution dispose d'équipements performants et économiques, qui vous garantiront un confort optimal.</p>",
+      "link": {
+        "href": "/equipements/chaudieres",
+        "text": "Chaudières gaz, fioul, bois : nos équipements de chauffage",
+        "title": "Equipement de chauffage : les chaudières"
+      }
+    },
+    {
+      "title": "Les chauffe-eaux : gaz, électriques, par accumulation ou instantanés",
+      "text": "<p>Les plus courants fonctionnent au gaz ou à l'électricité. Ils délivrent une eau-chaude de façon instantanée ou stockent l'eau pour la chauffer pendant les heures creuses et vous délivrer un flux constant et à bonne température. De nouvelles solutions émergent : les chauffe-eaux solaires et thermodynamiques, qui utilisent les énergies renouvelables. Ces dispositifs sont économes et respectueux de l'environnement.</p>",
+      "link": {
+        "href": "/equipements/chauffe-eau",
+        "text": "Chauffe-eau, chauffe-bain : nos équipements de production d'eau chaude",
+        "title": "Production d'eau chaude : chauffe-eaux"
+      }
+    },
+    {
+      "title": "Les pompes à chaleur, économiques et respectueuses de l'environnement",
+      "text": "<p>Elles utilisent les calories de l'air, de l'eau ou du sol pour délivrer de la chaleur ou de l'air frais en été. Cette solution est économique et performante et convient parfaitement aux contraintes du sud de la France. En effet, elle permet de rafraîchir efficacement les habitations l'été pour moins subir les fortes chaleurs.</p>",
+      "link": {
+        "href": "/equipements/energie-renouvelable",
+        "text": "Pompe à chaleur, chauffe-eau thermodynamique : nos équipements à énergie renouvelable",
+        "title": "Energie renouvelable : PAC"
+      }
+    },
+    {
+      "title": "La climatisation, indispensable pour une habitation fraîche en été",
+      "text": "<p>Rien de mieux que la fraîcheur d'une climatisation en plein été. Les mois de juillet et d'août sont de plus en plus chauds dans le sud de la France et particulièrement dans le département des Alpes-Maritimes. Suivant les logements, ces fortes chaleurs sont difficiles à supporter. La solution ? Installer une climatisation. Aujourd'hui, ces équipements sont accessibles et moins énergivores. Leur design s'intègre facilement dans votre intérieur.</p>",
+      "link": {
+        "href": "/equipements/climatisation",
+        "text": "Climatisation réversible : nos équipements de chauffage électrique",
+        "title": "Equipement : climatisation"
+      }
+    },
+    {
+      "title": "La ventilation : EGS Energies spécialiste de la VMC Gaz",
+      "text": "<p>Renouveler l'air de votre logement est essentiel pour votre santé, votre confort et votre qualité de vie. La mise en place d'une VMC (ventilation mécanique contrôlée) gaz est indispensable dans les logements collectifs. Elle assure l'arrivée d'un air neuf et évacue l'air vicié.</p>",
+      "link": {
+        "href": "#LINK_EQUIPEMENT_CAT_VMC#",
+        "text": "Ventilation Mécanique Contrôlée : nos équipements de ventilation",
+        "title": "Recyclage de l'air : Ventilation Mécanique Contrôlée (VMC)"
+      }
+    }
+  ]
+}

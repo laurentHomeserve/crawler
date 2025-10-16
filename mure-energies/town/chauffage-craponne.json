@@ -1,0 +1,40 @@
+{
+  "breadcrumb": "Chauffage Craponne",
+  "hero": {
+    "title": "Votre expert chauffage et climatisation à Craponne",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/mure-energies-qui-sommes-nous-456x334.f303774e.jpg",
+      "alt": "Votre expert chauffage et climatisation à Craponne"
+    },
+    "text": "<p>Depuis plus de 35 ans, nous intervenons à Craponne et dans l'Ouest Lyonnais pour installer, réparer et entretenir vos systèmes de climatisation et de chauffage.</p> <p>Nos équipes sont qualifiées pour intervenir sur :</p> <ul>\n<li><a title=\"Equipement PAC\" href=\"/equipements/energie-renouvelable/pompe-a-chaleur\">les pompes à chaleur</a></li>\n<li><a title=\"Equipement chaudière\" href=\"/equipements/chaudieres\">les chaudières</a></li>\n<li><a title=\"Equipement climatisation\" href=\"/equipements/climatisation\">les climatisations</a></li>\n<li><a title=\"Equipement plancher chauffant\" href=\"/equipements/plancher-chauffant\">les planchers chauffants</a></li>\n<li><a title=\"Equipement chauffe-eau\" href=\"/equipements/chauffe-eau-gaz-chauffe-bain\">les chauffe-eaux</a></li>\n</ul> <p>Contactez-nous au 04 78 59 83 88 pour bénéficier d'un devis gratuit et personnalisé.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Les experts de la pompe à chaleur à Craponne",
+      "text": "<p>Vous avez un projet d'<a title=\"Installation pompe à chaleur\" href=\"/installation/pompe-a-chaleur\">installation de pompe à chaleur</a> à votre domicile ? Les experts Mure Energies mettent au service leurs compétences et leur expérience au service de chacun de vos projets. Nous vous conseillons dans le type d'appareil (géothermie ou aérothermie) qui correspondra le mieux aux spécificités de votre logement.</p> <p>Une fois votre PAC installée, nous vous proposerons de souscrire à l'un de nos contrats d'entretien pour bénéficier d'une visite annuelle de révision réalisée par l'un de nos techniciens. La maintenance régulière de votre équipement est en effet essentielle pour conserver sa performance optimale et augmenter sa durée de vie.</p> <hr>"
+    },
+    {
+      "title": "À Craponne, Mure Energies installe, entretient et répare votre chaudière",
+      "text": "<p>Nos équipes sont formées pour intervenir aussi bien sur les chaudières à gaz que sur celles fonctionnant au fioul ou au bois (bûches et pellets). N'hésitez pas à faire appel à nos services pour l'installation ou l'<a title=\"Entretien chaudière\" href=\"/entretien/chaudiere\">entretien de votre chaudière</a>.</p> <p>Vous remarquez une baisse de performance, une fuite ou un bruit anormal sur votre équipement ? Votre appareil est en panne ? Nous intervenons dans l'Ouest Lyonnais pour dépanner et réparer votre chaudière.</p> <hr>"
+    },
+    {
+      "title": "Faire le choix d'une climatisation dans le Rhône",
+      "text": "<p>Vous avez tendance à souvent craindre les grandes chaleurs en été ? Vous souffrez de problèmes respiratoires ? N'attendez plus et faites <a title=\"Installation climatisation\" href=\"/installation/climatisation\">installer une climatisation</a> à votre domicile.</p> <p>Les derniers modèles sont plus performants et silencieux, tout en étant davantage respectueux de l'environnement. Ils sont également équipés de système de filtration des particules et de déshumidification afin d'assainir l'air intérieur.</p> <p>Et pour tous ceux qui possèdent déjà une climatisation, nous proposons également nos services pour l'entretien et la réparation de votre équipement.</p> <hr>"
+    },
+    {
+      "title": "Mure Energies installe vos planchers chauffants à Craponne",
+      "text": "<p>Le chauffage au sol est l'équipement idéal pour bénéficier d'une chaleur homogène et constante dans l'ensemble de son logement. Il permet également d'économiser de l'espace dans son logement grâce à l'absence de radiateur.</p> <p>Le plancher chauffant se raccorde à une pompe à chaleur, ce qui permet de réaliser de véritables économies d'énergies à long terme.</p> <p><a title=\"Installation plancher chauffant\" href=\"/installation/plancher-chauffant\">L'installation de chauffage au sol</a> est recommandée dans du neuf mais peut aussi être envisagée dans un logement ancien si vous prévoyez des travaux de rénovation importants chez vous. Contactez-nous au 04 78 59 83 88 pour en savoir plus.</p> <hr>"
+    },
+    {
+      "title": "Chauffe-eaux et chauffe-bains dans le 69",
+      "text": "<p>Chaque système de production d'eau chaude sanitaire possède ses spécificités. Les équipes Mure Energies sont formées pour vous accompagner dans le choix du type d'appareil qui correspondra le mieux à vos besoins : chauffe-eau gaz, chauffe-eau thermodynamique...</p> <p>De plus, nos équipes sont également qualifiées pour intervenir sur votre équipement actuel pour réaliser <a title=\"Entretien chauffe-eau\" href=\"/entretien/chauffe-eau\">la maintenance de votre chauffe-eau</a> ou pour réparer une éventuelle panne.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  }
+}

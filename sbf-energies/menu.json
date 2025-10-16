@@ -1,0 +1,207 @@
+[
+  {
+    "link": {
+      "text": "équipements",
+      "href": "https://www.sbf-energies.com/equipements",
+      "title": "pompe à chaleur, chaudière au gaz, chauffe-eau thermodynamique, climatisation"
+    },
+    "categories": [
+      {
+        "title": "Energies Renouvelables",
+        "subLinks": [
+          {
+            "text": "Pompe à Chaleur",
+            "href": "https://www.sbf-energies.com/equipements/pompe-a-chaleur",
+            "title": "Pompe à Chaleur"
+          },
+          {
+            "text": "Pompe à Chaleur Réversible",
+            "href": "https://www.sbf-energies.com/equipements/pompe-a-chaleur/pac-reversible",
+            "title": "PAC Réversible"
+          },
+          {
+            "text": "Chauffe-eau Thermodynamique",
+            "href": "https://www.sbf-energies.com/equipements/chauffe-eau-thermodynamique",
+            "title": "Chauffe-eau thermodynamique"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Climatisation",
+            "href": "https://www.sbf-energies.com/equipements/climatisation",
+            "title": "Climatisation"
+          },
+          {
+            "text": "Climatisation Réversible",
+            "href": "https://www.sbf-energies.com/equipements/climatisation/climatisation-reversible",
+            "title": "Climatisation réversible"
+          }
+        ]
+      },
+      {
+        "title": "Chaudières Gaz",
+        "link": {
+          "text": "Chaudières Gaz",
+          "href": "https://www.sbf-energies.com/equipements/chaudiere-gaz",
+          "title": "Equipement chaudières gaz - SBF Energies"
+        }
+      },
+      {
+        "title": "Solaire Photovoltaïque",
+        "link": {
+          "text": "Solaire Photovoltaïque",
+          "href": "https://www.sbf-energies.com/equipements/panneaux-photovoltaiques",
+          "title": "Solaire photovoltaïque à Chambéry - SBF Energies"
+        }
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Dépannage",
+      "href": "https://www.sbf-energies.com/depannage",
+      "title": "Dépannage Pompe à Chaleur, chauffe-eau-thermodynamique et climatisation en Savoie"
+    },
+    "categories": [
+      {
+        "title": "Energies Renouvelables",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Pompe à Chaleur",
+            "href": "https://www.sbf-energies.com/depannage/pompe-a-chaleur",
+            "title": "Dépannage de votre Pompe à chaleur avec SBF Energies"
+          },
+          {
+            "text": "Dépanner votre Chauffe-eau Thermodynamique",
+            "href": "https://www.sbf-energies.com/depannage/chauffe-eau-thermodynamique",
+            "title": "Dépannage chauffe-eau thermodynamique"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Climatisation",
+            "href": "https://www.sbf-energies.com/depannage/climatisation",
+            "title": "Dépannage Climatisation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Entretien",
+      "href": "https://www.sbf-energies.com/entretien",
+      "title": "Entretien PAC, chauffe-eau et Climatisation"
+    },
+    "categories": [
+      {
+        "title": "Energies Renouvelables",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Pompe à Chaleur",
+            "href": "https://www.sbf-energies.com/entretien/pompe-a-chaleur",
+            "title": "entretien PAC - Entretien Pompe à chaleur"
+          },
+          {
+            "text": "Entretenir votre Chauffe-eau Thermodynamique",
+            "href": "https://www.sbf-energies.com/entretien/chauffe-eau-thermodynamique",
+            "title": "Entretien chauffe-eau Thermodynamique"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Climatisation",
+            "href": "https://www.sbf-energies.com/entretien/climatisation",
+            "title": "Entretien climatisation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Installation",
+      "href": "https://www.sbf-energies.com/installation",
+      "title": "Etude et installation d'un nouvel équipement de chauffage ou d'eau chaude"
+    },
+    "categories": [
+      {
+        "title": "Energies Renouvelables",
+        "subLinks": [
+          {
+            "text": "Installer une Pompe à Chaleur",
+            "href": "https://www.sbf-energies.com/installation/pompe-a-chaleur",
+            "title": "Installer une pompe à chaleur"
+          },
+          {
+            "text": "Installer un Chauffe-eau Thermodynamique",
+            "href": "https://www.sbf-energies.com/installation/chauffe-eau-thermodynamique",
+            "title": "Installer un chauffe-eau Thermodynamique"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Installer une Climatisation",
+            "href": "https://www.sbf-energies.com/installation/climatisation",
+            "title": "Installer une climatisation"
+          }
+        ]
+      },
+      {
+        "title": "Chaudière Gaz",
+        "subLinks": [
+          {
+            "text": "Installer une Chaudière Gaz",
+            "href": "https://www.sbf-energies.com/installation/chaudiere-gaz",
+            "title": "Installer une chaudiere gaz en savoie"
+          }
+        ]
+      },
+      {
+        "title": "Solutions Solaires",
+        "subLinks": [
+          {
+            "text": "Installer des panneaux Photovoltaïques",
+            "href": "https://www.sbf-energies.com/installation/panneaux-photovoltaiques",
+            "title": "devis panneaux solaires photovoltaïques"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Professionnels",
+      "href": "https://www.sbf-energies.com/refrigeration",
+      "title": "Réfrigération pour les industrie, commerce, bureau, ..."
+    },
+    "categories": [
+      {
+        "subLinks": [
+          {
+            "text": "Commerces et Magasins",
+            "href": "https://www.sbf-energies.com/refrigeration/commerce",
+            "title": "Réfrigeration pour les commerces"
+          },
+          {
+            "text": "Bureaux et Locaux professionnels",
+            "href": "https://www.sbf-energies.com/refrigeration/bureau",
+            "title": "Réfrigeration pour les bureaux"
+          }
+        ]
+      }
+    ]
+  }
+]

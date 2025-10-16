@@ -1,0 +1,149 @@
+{
+  "breadcrumb": "",
+  "seo": {
+    "title": "Chauffagiste & Climatisation Nîmes - GD Energies Gaz Dépannage",
+    "description": "Installation, dépannage et entretien de chaudières, pompes à chaleur, climatisation à Nîmes et dans le Gard. Gaz Dépannage Nîmes. Service rapide, devis gratuit.",
+    "opengraph": {
+      "site_name": "GD Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Chauffagiste & Climatisation Nîmes - GD Energies Gaz Dépannage",
+      "description": "Installation, dépannage et entretien de chaudières, pompes à chaleur, climatisation à Nîmes et dans le Gard. Gaz Dépannage Nîmes. Service rapide, devis gratuit.",
+      "image": {
+        "src": "gd-energies-accueil-maintenance-entretien-456x334.jpg",
+        "alt": ""
+      }
+    }
+  },
+  "hero": {
+    "title": "Votre expert chauffage, climatisation et énergies renouvelables autour de Nîmes et du Grau-du-Roi depuis 50 ans",
+    "subtitle": "Installation, entretien et dépannage de vos installations de chauffage et climatisation à EnR ou gaz dans le Gard (30)"
+  },
+  "expertises": [
+    {
+      "linked": "/installation",
+      "sticker": "Installer & Remplacer",
+      "title": "Remplacement et installation de systèmes de chauffage, climatisation et chauffe-eau",
+      "img": {
+        "src": "/build/images/gd-energies-accueil-installation-remplacement-456x334.92540553.jpg",
+        "alt": "Installer & Remplacer"
+      },
+      "content": "Votre appareil de chauffage arrive en fin de vie ? Vous souhaitez installer un système de chauffage dans un logement neuf ? Nous vous proposons une vaste gamme d’appareils de chauffage et d’eau chaude sanitaire économiques et de dernière génération. Nos plombiers chauffagistes RGE installent et remplacent vos équipements selon vos besoins et les caractéristiques de votre logement.",
+      "button": {
+        "text": "Installer et remplacer",
+        "title": "Demander un devis gratuit pour installer ou remplacer un équipement de chauffage"
+      }
+    },
+    {
+      "linked": "/entretien",
+      "sticker": "Maintenance & Entretien",
+      "title": "Entretien et maintenance de votre chauffage, votre climatisation ou votre chauffe-eau",
+      "img": {
+        "src": "/build/images/gd-energies-accueil-maintenance-entretien-456x334.070a6e81.jpg",
+        "alt": "Maintenance & Entretien"
+      },
+      "content": "Nos techniciens assurent l’entretien de vos appareils de chauffage, sous contrat ou au forfait : chaudière gaz, pompe à chaleur air/eau, pompe à chaleur hybride, climatisation split (pompe à chaleur air/air), chauffe-eau thermodynamique, chauffe-bain gaz. Nous intervenons sur la plupart des marques du marché et vous proposons des offres personnalisées en phase avec vos besoins.",
+      "button": {
+        "text": "Maintenir et entretenir",
+        "title": "Faire entretenir ou demander un contrat de maintenance"
+      }
+    },
+    {
+      "linked": "/depannage",
+      "sticker": "Dépanner & Réparer",
+      "title": "Dépannage rapide et durable de vos appareils de chauffage et de climatisation",
+      "img": {
+        "src": "/build/images/gd-energies-accueil-depannage-reparation-456x334.0f4ab4da.jpg",
+        "alt": "Dépanner & Réparer"
+      },
+      "content": "Votre chauffage, votre chauffe-eau ou votre climatisation sont en panne ? GD Energies dépanne et répare vos équipements thermiques. Nous disposons d’un grand stock de pièces détachées des plus grandes marques du marché. GD Energies est le spécialiste des interventions d’urgence dans le Gard. Contactez-nous pour obtenir un devis gratuit.",
+      "button": {
+        "text": "Dépanner et réparer",
+        "title": "Demander un dépannage pour un appareil de chauffage ou climatisation"
+      }
+    }
+  ],
+  "certification": {
+    "title": "Une entreprise certifiée RGE pour toutes vos interventions dans le Gard",
+    "content": "GD Energies, <a href=\"https://www.gd-energies.fr/gaz-depannage\" title=\"Gaz Dépannage est GD Energies\">anciennement Gaz Dépannage Nîmes</a>, est certifié <strong>RGE QualiPAC et Chauffage+</strong>. Notre entreprise est également <strong>Partenaire GRDF</strong>, adhérente Professionnel du Gaz, Primagaz et Synasav.",
+    "logos": [
+      {
+        "src": "/build/images/professionnel-du-gaz.a8248034.png",
+        "alt": "Professionnel du gaz"
+      },
+      {
+        "src": "/build/images/rge-qualipac.d1ee25c4.png",
+        "alt": "QualiPac RGE"
+      },
+      {
+        "src": "/build/images/qualisav.c816449b.jpg",
+        "alt": "Qualisav"
+      },
+      {
+        "src": "/build/images/synasav.35e5f7f3.jpg",
+        "alt": "Synasav"
+      },
+      {
+        "src": "/build/images/chauffage-plus-rge.aa74ebc1.png",
+        "alt": "Chauffage Plus"
+      },
+      {
+        "src": "/build/images/GRDF.2a75975c.jpg",
+        "alt": "Partenaire GRDF"
+      }
+    ]
+  },
+  "partner": {
+    "title": "Des partenariats avec les plus grandes marques du chauffage et de la climatisation",
+    "content": "Chez GD Energies, nous avons tissé des partenariats forts avec les plus grandes marques de climatisations, de chaudières, de chauffe-eaux, pompes à chaleur. Nous sommes ainsi spécialistes des marques Saunier-Duval, Frisquet, Atlantic, Chaffoteaux, ELM Leblanc, De Dietrich, Thermor Hitachi, Mitsubishi Electric, DualSun, MyLight Systems et Tado. En entretien, nous intervenons sur un vaste panel de marques, en plus de celles précédemment citées : Viessmann, Vaillant, Chappée, Ariston, Daikin, Bosch, Styx et bien d'autres. GD Energies dispose également du plus grand stock de pièces détachées du Gard en matière de chauffage et de climatisation : plus de 1200m² dédiés pour vous fournir des dépannages rapides autour de <a href=\"https://www.gd-energies.fr/chauffage-nimes\" title=\"Chauffage Nimes\">Nîmes</a> et du <a href=\"https://www.gd-energies.fr/chauffage-grau-du-roi\" title=\"Chauffage Grau Du Roi\">Grau-du-Roi</a>.",
+    "logos": [
+      {
+        "src": "/build/images/bosh.6173c429.png",
+        "alt": "Bosh Chauffage"
+      },
+      {
+        "src": "/build/images/chappee.e0d2d709.jpg",
+        "alt": "Chappee"
+      },
+      {
+        "src": "/build/images/frisquet.761666dc.jpg",
+        "alt": "Frisquet"
+      },
+      {
+        "src": "/build/images/atlantic_v2.2245d704.jpg",
+        "alt": "Atlantic"
+      },
+      {
+        "src": "/build/images/vaillant_v2.e2b82f24.png",
+        "alt": "Vaillant"
+      },
+      {
+        "src": "/build/images/saunier-duval_v2.b1dba340.png",
+        "alt": "Saunier Duval"
+      },
+      {
+        "src": "/build/images/chaffoteaux.6093bb5b.jpg",
+        "alt": "Chaffoteaux"
+      },
+      {
+        "src": "/build/images/de-dietrich.83341f62.jpg",
+        "alt": "De Dietrich"
+      }
+    ]
+  },
+  "map": {
+    "title": "GD Energies à votre service jusqu’à 35km autour de Nîmes et autour du Grau-du-Roi",
+    "content": "Nos plombiers chauffagistes certifiés opèrent dans une zone de 35km autour de <a href=\"https://www.gd-energies.fr/chauffage-nimes\" title=\"Chauffage Nimes\">Nîmes</a> ainsi qu'autour du <a href=\"https://www.gd-energies.fr/chauffage-grau-du-roi\" title=\"Chauffage Grau Du Roi\">Grau-du-Roi</a>. Nos équipes GD Energies se déplacent sur <a href=\"https://www.gd-energies.fr/chauffage-poulx\" title=\"Chauffage Poulx\">Poulx</a>, <a href=\"https://www.gd-energies.fr/chauffage-beaucaire\" title=\"Chauffage Beaucaire\">Beaucaire</a>, <a href=\"https://www.gd-energies.fr/chauffage-vauvert\" title=\"Chauffage Vauvert\">Vauvert</a>, <a href=\"https://www.gd-energies.fr/chauffage-saint-gilles\" title=\"Chauffage Saint Gilles\">Saint-Gilles</a>, <a href=\"https://www.gd-energies.fr/chauffage-milhaud\" title=\"Chauffage Milhaud\">Milhaud</a>, <a href=\"https://www.gd-energies.fr/chauffage-aramon\" title=\"Chauffage Aramon\">Aramon</a>, Saint-Dionizy, <a href=\"https://www.gd-energies.fr/chauffage-uzes\" title=\"Chauffage Uzes\">Uzès</a>, Vergèze, Caissargues, Sommières, Calvisson, au Grau-du-Roi, mais aussi à Tarascon.<br>&nbsp;",
+    "map": {
+      "lat": 43.837667,
+      "lng": 4.42452,
+      "zoom": 12,
+      "title": "GD ENERGIES",
+      "content": "<h3 style=\"font-size:1.1em\">GD Energies</h3><p>215 Rue Nicolas Appert,<br/>30000 Nîmes</p><p>Adresse email : contact@gd-energies.fr</p><p>Téléphone : 04 66 27 22 22</p>"
+    }
+  },
+  "presentation": {
+    "title": "Installation ou remplacement de votre chauffage, chauffe-eau ou climatisationGD Energies, Gaz Dépannage : chauffagiste depuis 1975 à Nîmes",
+    "content": "<p>Nos équipes qualifiées se déplacent chez vous pour installer des appareils ou remplacer :</p> <ul> <li>La <a href=\"https://www.gd-energies.fr/installation/pompes-a-chaleur\" title=\"Installation de pompe à chaleur Nîmes\">pose de votre pompe à chaleur air-eau</a>, hybride ou air-air</li> <li>Le <a href=\"https://www.gd-energies.fr/installation/chaudieres-gaz\" title=\"Installation de Chaudière Nîmes\">remplacement de votre chaudière</a> à condensation ou basse température</li> <li><a href=\"https://www.gd-energies.fr/installation/chauffe-eaux-chauffe-bains\" title=\"Pose de chauffe-eau Nîmes\">L'installation de votre chauffe-eau</a> électrique, gaz ou thermodynamique</li> <li>L'<a href=\"https://www.gd-energies.fr/installation/climatisations\" title=\"Pose de climatisation à Nîmes\">installation de votre climatisation autour de Nîmes</a></li> <li><a href=\"https://www.gd-energies.fr/installation/climatisations\" title=\"Installation de climatisation Nîmes\">La pose de votre adoucisseur d'eau</a></li> </ul> <p>Que vous habitiez dans du neuf ou de l'ancien, nos techniciens vous proposent les appareils les plus adaptés à votre logement et à vos besoins. GD Energies est votre installateur local dans le Gard avec une large zone d'intervention.</p> <h3>Le spécialiste des interventions d'urgence</h3> <p>Votre chauffage, votre chauffe-eau ou votre <a href=\"https://www.gd-energies.fr/depannage/chaudieres-gaz\" title=\"Dépannage chaudière gaz Nîmes\">chaudière gaz est  en panne</a> ? Contactez nos équipes et obtenez un rendez-vous avec nos dépanneurs et réparateurs rapidement. GD Energies est spécialisée dans le <strong>dépannage d'urgence</strong> et vous garantit une intervention dans un délai de 24 à 48 heures ouvrables.</p> <p>En période hivernale, nos techniciens sont disponibles 6 jours sur 7 pour répondre à vos besoins. Nous nous déplaçons dans un rayon de 35 km autour de <a href=\"https://www.gd-energies.fr/chauffage-nimes\" title=\"Chauffage Nimes\">Nîmes</a> ainsi que dans la zone du <a href=\"https://www.gd-energies.fr/chauffage-grau-du-roi\" title=\"Chauffage Grau Du Roi\">Grau-du-Roi</a> et ses environs.</p> <h3>L'entretien de vos appareils au forfait ou sous contrat</h3> <p>Afin de vous faire profiter d'un service d'entretien sur mesure, nous vous proposons des <a href=\"https://www.gd-energies.fr/entretien\" title=\"Contrats d'entretien chauffage et climatsation\">contrats d'entretien</a>. Ils incluent notamment le déplacement et la main d'œuvre. Nos contrats d'entretien vous assurent la <strong>maintenance annuelle de vos appareils de chauffage</strong> :</p> <ul> <li><a href=\"https://www.gd-energies.fr/entretien/chaudieres-gaz\" title=\"Entretien chaudière gaz Nîmes\">Chaudière gaz</a></li> <li><a href=\"https://www.gd-energies.fr/entretien/pompes-a-chaleur\" title=\"Entretien pompe à chaleur Nîmes\">Pompe à chaleur air/eau ou hybride</a></li> <li><a href=\"https://www.gd-energies.fr/entretien/climatisations\" title=\"Entretien climatisation Nîmes\">Climatisation</a></li> <li><a href=\"https://www.gd-energies.fr/entretien/chauffe-eaux-chauffe-bains\" title=\"Entretien chauffe-eau Nîmes\">Ballon d'eau chaude thermodynamique</a></li> <li><chauffe-bain< li=\"\"> </chauffe-bain<></li></ul> <p>Nous réalisons aussi des entretiens forfaitaires pour les chaudières gaz, les pompes à chaleur hybrides, les climatisations réversibles split et les chauffe-bains gaz. Lors des visites d'entretien, nos <strong>techniciens certifiés QualiSAV</strong> effectuent tous les contrôles pour veiller au bon fonctionnement et à la sécurité de vos installations de chauffage et de climatisation.</p> <h3>Partenaire de votre transition énergétique</h3> <p>GD Energies (ex Gaz Dépannage Nîmes), c'est une entreprise locale et nîmoise qui bénéficie de <strong>plus de 50 ans d'expérience</strong>. Depuis 1975, GD Energies est au service des Gardois pour tous leurs <strong>travaux de rénovation énergétique</strong>. Nous proposons une large gamme de solutions pour le confort thermique de la maison et pour vous accompagner dans la transition énergétique de votre habitation.</p> <p>Faites appel à nos <strong>professionnels qualifiés RGE</strong> pour tous vos travaux de rénovation et d'efficacité énergétique. Notre qualification RGE et notre qualité de mandataire, vous permettent de <strong>bénéficier des aides de l'Etat</strong> et de les déduire directement de votre devis. Vous n'avez pas à avancer le montant des aides ni à vous perdre dans les démarches administratives.</p> <h3>Nos services de petite plomberie pour nos clients sous contrat</h3> <p>GD Energies, ce sont également des <strong>services de plomberie sanitaire</strong> et sur les  systèmes de chauffage pour nos clients sous contrat :</p> <ul> <li>Recherche de fuite d'eau ou de gaz</li> <li>Installation et réparation de sanitaires (WC, baignoire, douche, robinetterie, etc.)</li> <li>Réparation de tuyauterie</li> <li>Pose de radiateur et cumulus électrique</li> </ul> <p>Faites appel à nos plombiers chauffagistes qualifiés pour une intervention rapide et efficace !</p> <hr> <h2>GD Energies, Gaz Dépannage : chauffagiste depuis 1975 à Nîmes</h2> <p>GD Energies est une entreprise bien établie à Nîmes depuis 1975. Vous nous avez sans doute connus sous notre ancien nom : <strong>Gaz Dépannage Nîmes Plomberie<strong>.</strong></strong></p><p><strong><strong> </strong></strong></p><p><strong><strong>Depuis 1975, <a href=\"/qui-sommes-nous\" title=\"GD Energies, qui sommes-nous\">Gaz Dépannage</a> a marqué le quotidien des habitants de Nîmes avec ses voitures jaunes emblématiques. Aujourd'hui, sous le nouveau nom de GD Energies, nous continuons à offrir des services de dépannage gaz, d'installation de chauffage, de climatisation et de plomberie avec le même engagement envers la rapidité, le professionnalisme et la proximité.</strong></strong></p><strong><strong> <h3>Une expertise élargie pour répondre à tous vos besoins</h3> <p>En 2023, notre nom a évolué. Gaz Dépannage Nîmes est devenu GD Energies, ce nom reflétant l'élargissement de notre expertise. Nous ne nous limitons plus au dépannage gaz et à la plomberie. Nous proposons désormais aussi des solutions énergétiques modernes et adaptées aux besoins des particuliers et des professionnels. GD Energies (Gaz Dépannage Nîmes) reste le partenaire de votre confort thermique dans le Gard !</p></strong></strong>"
+  }
+}

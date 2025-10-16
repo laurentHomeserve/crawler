@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Qui sommes nous",
+  "seo": {
+    "title": "Qui sommes-nous ? - Présentation de l'entreprise | Roussin Energies",
+    "description": "Découvrez les compétences de Roussin Energies, chauffagiste-plombier dans la région de Grenoble, à votre service pour l'installation, l'entretien et le dépannage de votre système de chauffage et de vos sanitaires",
+    "opengraph": {
+      "site_name": "Roussin Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Qui sommes-nous ? - Présentation de l'entreprise | Roussin Energies",
+      "description": "Découvrez les compétences de Roussin Energies, chauffagiste-plombier dans la région de Grenoble, à votre service pour l'installation, l'entretien et le dépannage de votre système de chauffage et de vos sanitaires",
+      "image": {
+        "src": "https://www.roussin-energies.fr/build/images/roussin-energies-qui-nous-sommes-456x334.170bcf8d.jpg",
+        "alt": "Plombier chauffagiste Roussin Energies"
+      }
+    }
+  },
+  "hero": {
+    "title": "Roussin Energies, plombier chauffagiste à Fontaine (Grenoble, Isère)",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/roussin-energies-qui-nous-sommes-456x334.170bcf8d.jpg",
+      "alt": "Plombier chauffagiste Roussin Energies"
+    },
+    "text": "<p>Depuis 1969, Roussin Energies est un chauffagiste réputé à <a href=\"https://www.roussin-energies.fr/chauffage-grenoble\" title=\"Chauffage Grenoble\">Grenoble</a> et dans sa région. Située à <a href=\"https://www.roussin-energies.fr/chauffage-fontaine\" title=\"Chauffage Fontaine\">Fontaine</a>, l'entreprise assure l'installation, le dépannage et l'entretien des systèmes de chauffage et des sanitaires en tout genre, aussi bien pour le compte de clients particuliers que de professionnels.</p> <p>Que vous souhaitiez rénover votre salle de bain, remplacer votre vieille chaudière par un dispositif de chauffage conforme aux nouvelles normes énergétiques ou inaugurer un hôtel entièrement chauffé grâce à l'énergie renouvelable, les techniciens de chez Roussin Energies, entreprise certifiée RGE, sont les interlocuteurs qu'il vous faut.</p> <p>En 2021, Roussin Energies, spécialiste de l'installation et l'entretien des systèmes de chauffage a rejoint le groupe <a href=\"https://www.homeserve.fr/\" title=\"HomeServe\" target=\"_blank\" rel=\"noopener noreferrer\">HomeServe</a> France, leader des réparations et travaux de la maison, et sa division HomeServe Energies Services, avec pour objectif d'accélérer son développement et accompagner ses clients en matière de transition énergétique.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Entreprise experte dans le chauffage et la climatisation",
+      "text": "<p>Le savoir-faire de Roussin Energies, chauffagiste-plombier intervenant dans un rayon de 50 kilomètres autour de Grenoble, se déploie sur quatre grands axes :</p> <ul> <li>la vente de systèmes de chauffage variés, sélectionnés parmi les meilleures marques du marché : Thermor, Saunier Duval et Atlantic pour la production d'eau sanitaire, Atlantic, Daikin et Mitsubishi pour les pompes à chaleur, Froling, De Dietrich, Saunier Duval et Frisquet pour les chaudières</li> <li>l'installation et la rénovation de systèmes de chauffage et de climatisation complets et d'équipements sanitaires</li> <li>l'entretien de vos équipements de chauffage et de vos éléments de plomberie, de la robinetterie aux canalisations</li> <li>le dépannage de tout logement privé ou local professionnel concerné par une urgence de plomberie ou de chauffage : fuites, canalisations bouchées, pompes, chaudières ou climatisation récalcitrantes...</li> </ul> <hr>"
+    },
+    {
+      "title": "Nos certifications RGE: Professionnel du gaz, QualiBat, QualiPac, QualiBois, ...",
+      "text": "<p>Au large éventail de ses compétences et à l'étendue de sa zone d'intervention, Roussin Energies ajoute de nombreuses certifications professionnelles qui en font un artisan chauffagiste de référence dans la région de Grenoble :</p> <ul> <li>la certification RGE QualiBat, qui témoigne de l'implication et de l'efficacité de Roussin Energies dans un objectif d'amélioration énergétique et, par là-même, de protection de l'environnement</li> <li>QualiBois Air/Eau, une garantie de qualité pour l'installation des chauffages au bois</li> <li>QualiPac, réservée aux professionnels des pompes à chaleur</li> <li>la CAPEB, qui démontre les capacités de Roussin Energies à manipuler des fluides frigorigènes et à donc à prendre en charge vos appareils de climatisation ; s'y ajoute une attestation de manipulation des fluides</li> <li>Professionnel Du Gaz, une qualification réservée aux artisans habilités à la manipulation de chaudières ou chauffe-eau alimentés au gaz ; en plus, Roussin Energies est partenaire GRDF, c'est-à-dire que vous pouvez contacter ses techniciens même pour de simples informations concernant la rénovation de votre réseau de chauffage avec un système au gaz.</li> </ul> <p>Une compétence, une certification : avec Roussin Energies, votre chauffage et votre plomberie sont toujours entre de bonnes mains !</p>"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "breadcrumb": "Conseils pour bien utiliser votre chaudière et améliorer l'ensemble de votre installation de chauffage",
+  "seo": {
+    "title": "Bien utiliser votre chaudière et l'ensemble de votre installation de chauffage",
+    "description": "Bon à savoir !",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "title": " Conseils pour bien utiliser votre chaudière et améliorer l'ensemble de votre installation de chauffage ",
+  "chapo": "Les conseils des professionnels de la maintenance et des services après-vente en chauffage",
+  "image": {
+    "src": "/upload/files/5c1a14d49ae90838059423.jpg",
+    "alt": "Conseils pour bien utiliser votre chaudière et améliorer l'ensemble de votre installation de chauffage"
+  },
+  "intro": "",
+  "paragraphs": [
+    {
+      "title": "Pour bien utiliser ma chaudière :",
+      "text": "<ul>\n\t<li>Je veille à ne pas surchauffer mon logement ;</li>\n\t<li>Je règle la température minimale dont j'ai besoin ;</li>\n\t<li>Je veille à baisser mon thermostat ou à arrêter ma chaudière quand j'aère mon logement ;</li>\n\t<li>Je ne laisse pas couler l'eau chaude inutilement ;</li>\n\t<li>Je ne bouche pas les ventilations ;</li>\n</ul>"
+    },
+    {
+      "title": "Pour améliorer l'ensemble de mon installation de chauffage :",
+      "text": "<ul>\n\t<li>Je fais poser un thermostat d'ambiance programmable ;</li>\n\t<li>Je fais poser des robinets thermostatiques ;</li>\n\t<li>Je fais ajouter une régulation extérieure ;</li>\n\t<li>Je fais régulièrement désembouer et traiter mon installation ;</li>\n\t<li>Je fais isoler les tuyauteries (calorifugeage).</li>\n</ul> <p>&nbsp;</p> <p>Source&nbsp;: SYNASAV, Syndicat National de la Maintenance et des Services en Efficacité énergétique.</p> <p><a href=\"https://www.synasav.fr/accueil-synasav.html\" target=\"_blank\">Plus d'informations sur le SYNASAV</a></p> <p>&nbsp;</p>"
+    }
+  ]
+}

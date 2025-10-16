@@ -1,0 +1,52 @@
+{
+  "breadcrumb": "Pompe a chaleur",
+  "seo": {
+    "title": "Dépannage Pompe à Chaleur (air/eau) dans la Seine-et-Marne",
+    "description": "Depuis plus de 20 ans, Aujard est à votre disposition pour dépanner et réparer votre pompe à chaleur en Seine-et-Marne et alentour",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Dépannage Pompe à Chaleur (air/eau) dans la Seine-et-Marne",
+      "description": "Depuis plus de 20 ans, Aujard est à votre disposition pour dépanner et réparer votre pompe à chaleur en Seine-et-Marne et alentour",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-pac-456x334.b93c35e3.jpg",
+        "alt": "Dépannage pompe à chaleur Seine-et-Marne"
+      }
+    }
+  },
+  "hero": {
+    "title": "Dépannage de pompe à chaleur air/eau dans toute la Seine-et-Marne",
+    "subtitle": "Faîtes appel aux experts Aujard pour la réparation de votre PAC"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.aujard.fr/build/images/aujard-pac-456x334.b93c35e3.jpg",
+      "alt": "Dépannage pompe à chaleur Seine-et-Marne"
+    },
+    "text": "<p>Votre <b>pompe à chaleur</b> émet des bruits anormaux ? Vous constatez une fuite dans le système ? Il fait un froid de canard dans votre logement alors que votre PAC est en marche ? Pas de doute possible, votre installation est défaillante.</p> <p>N'attendez pas que le problème s'aggrave et contactez notre équipe de dépannage d'urgence de pompe à chaleur pour qu'elle vienne réparer votre appareil le plus rapidement possible !</p> <p>Nos experts vous expliquent les raisons et pannes courantes qui peuvent mener à la défaillance de votre système de pompe à chaleur et vous conseillent un entretien régulier pour éviter les pannes.<br><br>&nbsp;</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Pourquoi ma pompe à chaleur air/eau tombe-t-elle en panne ?",
+      "text": "<p>Il est difficile de répondre à cette question. Si l'on met de côté le facteur malchance, on peut juste affirmer que ce sont les systèmes les plus vétustes et les moins entretenus qui tombent souvent en panne, même si des problèmes sur une installation récente et bien entretenue ne sont pas à exclure. Les pompes à chaleur en général rencontrent des pannes plus fréquemment que d'autres appareils de chauffage, car elles ont une (ou plusieurs) unité à l'extérieur, soumise aux intempéries. C'est d'ailleurs lors des périodes où de grands écarts de température se font ressentir que notre équipe de dépannage de pompe à chaleur intervient le plus souvent.</p> <hr>"
+    },
+    {
+      "title": "Quelles sont les pannes les plus courantes sur une pompe à chaleur air/eau ?",
+      "text": "<p>En règle générale, les pannes surviennent au niveau de 3 pièces essentielles de la machine :</p> <ul><li>Le compresseur a pour fonction de faire monter la température du liquide frigorigène. C'est un liquide qui emmagasine les calories présentent dans son environnement avant de s'évaporer et de se transformer en gaz. Celui-ci sera alors soumis à une pression forte au niveau du compresseur, ce qui augmentera sa température. Il passe ensuite par le condenseur.</li><li>Le condenseur récupère l'énergie calorifique du fluide par condensation, ce qui repasse celui-ci à l'état liquide. Cette chaleur est alors utilisée pour le chauffage et l'eau chaude de votre habitation. Le liquide frigorigène passe ensuite par le détendeur.</li><li>Le détendeur est utilisé pour faire baisser la pression et la température du fluide frigorigène. Cette pièce permet également de mesurer le débit de fluide dans le circuit de chauffage.</li></ul> <hr>"
+    },
+    {
+      "title": "Comment éviter les pannes de pompe à chaleur air/eau ?",
+      "text": "<p>Le mieux, pour minimiser les pannes, est d'<b>entretenir votre pompe régulièrement</b>. D'abord, quotidiennement, en optimisant la circulation de l'air (nettoyage des grilles d'aération), en surveillant la pression de l'appareil, en s'assurant qu'aucun voyant n'est allumé et en couvrant l'unité extérieure pendant les périodes où elle n'est pas utilisée. Ensuite, il est judicieux de passer un <b>contrat d'entretien</b> avec un professionnel des pompes à chaleur qui interviendra sur votre installation plusieurs fois par an pour contrôler que tout se passe bien. Durant ses visites, il passera au crible les dispositifs les plus importants de l'appareil (compresseur, condenseur, détendeur) et pourra changer des pièces montrant des signes d'usure avant qu'elles ne provoquent une panne. Si cette option vous intéresse, n'hésitez pas à nous contacter : nous vous proposerons plusieurs contrats d'entretien parmi lesquels vous pourrez choisir celui vous correspondant le mieux.</p> <p>Pour tout dépannage de pompe à chaleur dans le 77 (dans un rayon de 30 km autour de <a href=\"https://www.aujard.fr/chauffage-fontainebleau\" title=\"Chauffage Fontainebleau\">Fontainebleau</a>), notre entreprise Aujard a le technicien qu'il vous faut !</p> <hr>"
+    },
+    {
+      "title": "Nos autres services liés à la pompe à chaleur",
+      "text": "<p><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <a href=\"https://www.aujard.fr/installation/pompe-a-chaleur\" title=\"Installateur de pompe à chaleur en Seine-et-Marne\">Installation ou remplacement d'une PAC</a> <br><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <a href=\"https://www.aujard.fr/entretien/pompe-a-chaleur\" title=\"Entretien pompe à chaleur en Seine-et-Marne\">Entretien de la pompe à chaleur</a></p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  },
+  "url": "https://www.aujard.fr/depannage/pompe-a-chaleur"
+}

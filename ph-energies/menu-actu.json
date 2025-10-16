@@ -1,0 +1,443 @@
+{
+  "breadcrumb": "Conseils et actualites",
+  "seo": {
+    "title": "L'actualité chauffage et la climatisation dans le Calvados et l'Orne",
+    "description": "Tous nos astuces et conseils sur le chauffage et la climatisation à Caen, Alençon, Argentan, Bayeux, ... Suivez PH Energies !",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "title": "Toute l'actualité chauffage et climatisation dans l'Orne et le Calvados",
+  "subtitle": "Caen, Alençon, Bayeux, Deauville, Honfleur, Pont l'Evêque ... suivez toute l'actualité chauffage avec PH Energies",
+  "content": "<p>Entreprise locale dans chauffage, que vous soyez un professionnel ou un particulier, nous vous tiendrons informés des dernières innovations technologiques en matière de chauffage et de climatisation. Derniers équipements, les aides fournies par l'Etat, ... nous publions régulièrement des articles dans cette rubrique pour vous faciliter la vie et réduire vos factures d'énergie !</p>",
+  "news": [
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/suspension-maprimerenov-2025",
+        "title": "MaPrimeRénov’ en pause cet été : quelles solutions ?",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-06-05T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-article-suspension-maprimerenov-2025-d8ba7dfd51.jpg",
+        "alt": "MaPrimeRénov’ en pause cet été : quelles solutions ?"
+      },
+      "title": "MaPrimeRénov’ en pause cet été : quelles solutions ?",
+      "text": "PH Energies vous aide à comprendre la suspension, à anticiper la reprise, et à mobiliser les autres aides financières."
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/anticiper-installation-climatisation-caen",
+        "title": "Pose de climatisation à Caen : pourquoi l’anticiper ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-05-12T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-article-anticiper-installation-climatisation-a9eebf997a.jpg",
+        "alt": "Pose de climatisation à Caen : pourquoi l’anticiper ?"
+      },
+      "title": "Pose de climatisation à Caen : pourquoi l’anticiper ?",
+      "text": "Démarrer votre projet de climatisation au printemps pour un été serein"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/journees-portes-ouvertes-mai-2025",
+        "title": "Journées Portes Ouvertes à Fleury-sur-Orne : les 16 et 17 mai",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-04-28T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/journees-portes-ouvertes-mai-2025-2e41e7722e.jpg",
+        "alt": "Journées Portes Ouvertes à Fleury-sur-Orne : les 16 et 17 mai"
+      },
+      "title": "Journées Portes Ouvertes à Fleury-sur-Orne : les 16 et 17 mai",
+      "text": "L'énergie évolue, et vous ? Découvrez toutes les nouvelles solutions avec PH Energies"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/offre-climatisation-2025",
+        "title": "Votre climatisation au meilleur prix à Caen : dès 1800€",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-04-17T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-article-offre-climatisation-2025-580f53be3e.jpg",
+        "alt": "Votre climatisation au meilleur prix à Caen : dès 1800€"
+      },
+      "title": "Votre climatisation au meilleur prix à Caen : dès 1800€",
+      "text": "Climatisations réversibles Atlantic, Mitsubishi et Daikin au meilleur prix à Caen"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/re-2020-solutions-energetiques-maitre-oeuvre",
+        "title": "RE 2020 : solutions énergétiques pour MOE en Normandie",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-02-03T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-article-maitre-oeuvre-re2020-d4879b9f7c.jpg",
+        "alt": "RE 2020 : solutions énergétiques pour MOE en Normandie"
+      },
+      "title": "RE 2020 : solutions énergétiques pour MOE en Normandie",
+      "text": "Comment les maîtres d'œuvre peuvent respecter la RE 2020 dans leurs projets de construction en Normandie ?"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/chauffage-re-2020-pompe-a-chaleur",
+        "title": "Pourquoi choisir une PAC pour un logement neuf RE 2020 ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-01-19T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-article-pompe-a-chaleur-re-2020-196fa2abfe.jpg",
+        "alt": "Pourquoi choisir une PAC pour un logement neuf RE 2020 ?"
+      },
+      "title": "Pourquoi choisir une PAC pour un logement neuf RE 2020 ?",
+      "text": "Pourquoi la pompe à chaleur est-elle incontournable pour une maison neuve RE 2020 ?"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/difference-rt-2012-re-2020",
+        "title": "RE 2020 vs RT 2012 : quelles différences pour la construction ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-01-13T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-article-difference-rt2012-re2020-d513689280.jpg",
+        "alt": "RE 2020 vs RT 2012 : quelles différences pour la construction ?"
+      },
+      "title": "RE 2020 vs RT 2012 : quelles différences pour la construction ?",
+      "text": "Consommation énergétique, impact carbone, matériaux, confort d’été, énergies renouvelables : qu’est-ce qui distingue la RE 2020 de la RT 2012 ?"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/construction-re-2020-chauffage-enr",
+        "title": "Intégrer les énergies renouvelables dans vos projets RE 2020",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-01-13T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-article-solutions-chauffage-enr-re-2020-529edfab64.jpg",
+        "alt": "Intégrer les énergies renouvelables dans vos projets RE 2020"
+      },
+      "title": "Intégrer les énergies renouvelables dans vos projets RE 2020",
+      "text": "Pompe à chaleur, panneaux solaires, ballon thermodynamique :  réussir un projet RE 2020 avec PH Energies dans le Calvados"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/re-2020-tout-savoir-reglementation-thermique",
+        "title": "RE 2020, tout ce qu'il faut savoir",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-01-07T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-article-tout-savoir-re-2020-5df97fd9e4.jpg",
+        "alt": "RE 2020, tout ce qu'il faut savoir"
+      },
+      "title": "RE 2020, tout ce qu'il faut savoir",
+      "text": "Chauffage, énergie renouvelable, confort thermique : PH Energies vous guide pour des solutions durables dans le Calvados et l’Orne"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/journees-portes-ouvertes-novembre-2024",
+        "title": "Portes Ouvertes PH Energies - 22-23 nov.  à Caen : offres spéciales !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-11-04T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-article-journees-portes-ouvertes-novembre-2024-7164795bec.jpg",
+        "alt": "Portes Ouvertes PH Energies - 22-23 nov.  à Caen : offres spéciales !"
+      },
+      "title": "Portes Ouvertes PH Energies - 22-23 nov.  à Caen : offres spéciales !",
+      "text": "Des remises exceptionnelles près de Caen : chaudières, pompes à chaleur, poêles, panneaux solaires, etc."
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/comment-fonctionne-une-pompe-a-chaleur-air-eau",
+        "title": "Comment fonctionne une Pompe à chaleur air-eau ? Guide complet",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-10-21T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-article-fonctionnement-pompe-a-chaleur-d63b77c001.jpg",
+        "alt": "Comment fonctionne une Pompe à chaleur air-eau ? Guide complet"
+      },
+      "title": "Comment fonctionne une Pompe à chaleur air-eau ? Guide complet",
+      "text": "Principes de fonctionnement, installation, avantages : tout sur la pompe à chaleur air/eau"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/pompe-a-chaleur-coup-de-pouce-chauffage-2024",
+        "title": "Pompe à Chaleur : profitez du Coup de Pouce 2024 avec PH Energies",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-09-29T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-article-coup-de-pouce-pac-2024-ecf002901e.jpg",
+        "alt": "Pompe à Chaleur : profitez du Coup de Pouce 2024 avec PH Energies"
+      },
+      "title": "Pompe à Chaleur : profitez du Coup de Pouce 2024 avec PH Energies",
+      "text": "PH Energies vous aide à installer une pompe à chaleur : recevez jusqu'à 6 350 € d’aide pour économiser sur vos factures"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/epargne-salariale-renovation-energetique",
+        "title": "PEE : comment l'utiliser pour la rénovation énergétique de sa maison ?",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-07-22T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-article-epargne-salariale-renovation-energetique-0acfa8b8bf.jpg",
+        "alt": "PEE : comment l'utiliser pour la rénovation énergétique de sa maison ?"
+      },
+      "title": "PEE : comment l'utiliser pour la rénovation énergétique de sa maison ?",
+      "text": "La rénovation énergétique de sa résidence principale fait désormais partie des cas de déblocage anticipé du PEE."
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/journees-portes-ouvertes-mai-2024-nos-offres-speciales",
+        "title": "Journées portes ouvertes 24-25 mai : profitez de nos offres spéciales",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-05-05T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/visuel-jpo-mai-2024-456x334-c82a4e8312.jpg",
+        "alt": "Journées portes ouvertes 24-25 mai : profitez de nos offres spéciales"
+      },
+      "title": "Journées portes ouvertes 24-25 mai : profitez de nos offres spéciales",
+      "text": "Découvrez nos offres spéciales sur la climatisation réversible, les PAC, les chaudières gaz et les panneaux photovoltaïques !"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/offre-speciale-pompe-a-chaleur-air-air-un-ete-au-frais-autour-de-caen",
+        "title": "Offre spéciale Pompe à chaleur air-air, l'été au frais autour de Caen",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-04-23T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-offre-climatisation-2024-456x334-8def318133.jpg",
+        "alt": "Offre spéciale Pompe à chaleur air-air, l'été au frais autour de Caen"
+      },
+      "title": "Offre spéciale Pompe à chaleur air-air, l'été au frais autour de Caen",
+      "text": "Profitez de l'offre spéciale PH Energies : l'installation de votre climatisation réversible à moindre coût dans le Calvados et l'Orne !"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/calvados-orne-reduire-sa-facture-electricite-avec-le-solaire",
+        "title": "Kits solaires photovoltaïques - Dès 6990€ dans le Calvados",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-04-16T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/ph-energies-solaires-reduire-sa-facture-electricite-456x334-28d9bfa3ed.jpg",
+        "alt": "Kits solaires photovoltaïques - Dès 6990€ dans le Calvados"
+      },
+      "title": "Kits solaires photovoltaïques - Dès 6990€ dans le Calvados",
+      "text": "Réduisez votre facture d'électricité avec nos solutions solaires photovoltaïques."
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/portes-ouvertes-chez-ph-energies-du-27-au-29-octobre",
+        "title": "JPO chez  PH Energies du 27 au 29 octobre 2023",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2023-10-11T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/Pave_CVF_PH_JPO_1023_456x334-2dc7856372.jpg",
+        "alt": "JPO chez  PH Energies du 27 au 29 octobre 2023"
+      },
+      "title": "JPO chez  PH Energies du 27 au 29 octobre 2023",
+      "text": "De beaux échanges et des remises exceptionnelles au programme"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/fin-des-chaudieres-fioul-on-vous-aide-a-comprendre",
+        "title": "Fin des chaudières fioul : on vous aide à comprendre",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2022-09-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/Visuel_Fioul_456x334–3-083f74fa7b.png",
+        "alt": "Fin des chaudières fioul : on vous aide à comprendre"
+      },
+      "title": "Fin des chaudières fioul : on vous aide à comprendre",
+      "text": "PH Energies fait le point sur ce nouveau décret du 1er juillet interdisant l’installation de nouvelles chaudières fioul."
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/tout-savoir-sur-maprimerenov",
+        "title": "Tout savoir sur MaPrimeRenov",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2022-09-20T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/61ba3d6f6fd5c218186057-8d154813c2.jpeg",
+        "alt": "Tout savoir sur MaPrimeRenov"
+      },
+      "title": "Tout savoir sur MaPrimeRenov",
+      "text": "Une aide maintenue en 2023 pour des logements de plus de 15 ans et un parcours accompagné par Ph Energies !"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/hausse-du-prix-du-gaz-mythe-ou-realite",
+        "title": "Hausse du prix du gaz, mythe ou réalité ?",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2022-03-28T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/hausse-prix-du-gaz-19d15f8d16.jpg",
+        "alt": "Hausse du prix du gaz, mythe ou réalité ?"
+      },
+      "title": "Hausse du prix du gaz, mythe ou réalité ?",
+      "text": "PH Energies répond à toutes les questions que vous pourriez vous poser sur la hausse des prix du gaz."
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/tout-savoir-sur-la-climatisation-pour-pouvoir-en-profiter-au-maximum",
+        "title": "Tout savoir sur la climatisation pour pouvoir en profiter au maximum",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2022-03-06T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/climatisation_2022-0f54e40410.jpg",
+        "alt": "Tout savoir sur la climatisation pour pouvoir en profiter au maximum"
+      },
+      "title": "Tout savoir sur la climatisation pour pouvoir en profiter au maximum",
+      "text": "PH Energies vous accompagne dans l'installation de votre nouvelle climatisation"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/la-quinzaine-du-gaz-devient-le-mois-du-gaz",
+        "title": "La quinzaine du gaz devient le mois du gaz",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2022-03-01T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mois_du_gaz_2022-68f4c48f91.jpg",
+        "alt": "La quinzaine du gaz devient le mois du gaz"
+      },
+      "title": "La quinzaine du gaz devient le mois du gaz",
+      "text": "PH Energies vous accompagne dans toutes vos démarches de rénovation énergétique pendant le mois du gaz."
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/travaux-energetique-le-ticket-gagnant-pour-la-revente",
+        "title": "Travaux énergétique : le ticket gagnant pour la revente de votre bien",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2018-01-29T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/renovation-energetique-818a000a62.jpg",
+        "alt": "Travaux énergétique : le ticket gagnant pour la revente de votre bien"
+      },
+      "title": "Travaux énergétique : le ticket gagnant pour la revente de votre bien",
+      "text": "Tous les avantages de la rénovation énergétique"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/pompe-a-chaleur-un-gisement-encore-sous-exploite",
+        "title": "Pompe à chaleur, un gisement encore sous exploité",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2017-12-03T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/pompe-a-chaleur-c71a878e73.jpg",
+        "alt": "Pompe à chaleur, un gisement encore sous exploité"
+      },
+      "title": "Pompe à chaleur, un gisement encore sous exploité",
+      "text": "Un équipement de chauffage clé pour la transition écologique"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/augmentation-des-temperatures-comment-rafraichir-votre-interieur",
+        "title": "Augmentation des températures : comment rafraîchir votre intérieur ? ",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2017-06-25T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/rafraichir-son-interieur-82ff8538b6.jpg",
+        "alt": "Augmentation des températures : comment rafraîchir votre intérieur ? "
+      },
+      "title": "Augmentation des températures : comment rafraîchir votre intérieur ? ",
+      "text": "PH Energie vous donne des conseils pour faire face aux températures estivales"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/record-des-energies-renouvelables-pour-le-premier-trimestre-2017",
+        "title": "Record des énergies renouvelables pour le premier trimestre 2017",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2017-05-25T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/importance-croissante-des-energies-renouvelables-c7e7f687ab.jpg",
+        "alt": "Record des énergies renouvelables pour le premier trimestre 2017"
+      },
+      "title": "Record des énergies renouvelables pour le premier trimestre 2017",
+      "text": "Les énergies vertes intéressent de plus en plus de français."
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/nouvelle-reglementation-des-renovations-energetiques",
+        "title": "Nouvelle règlementation des rénovations énergétiques ",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2017-01-25T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/reglementation-renovation-energetique-6f80055628.jpg",
+        "alt": "Nouvelle règlementation des rénovations énergétiques "
+      },
+      "title": "Nouvelle règlementation des rénovations énergétiques ",
+      "text": "Tout comprendre sur les règlementations RT2000, RT2005 et RT2012"
+    },
+    {
+      "url": {
+        "href": "https://www.ph-energies.fr/conseils-et-actualites/remise-de-lot-synerciel-par-ph-energies",
+        "title": "Remise de lot Synerciel par PH Energies",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2016-12-04T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/remise-de-lot-synerciel-ph-energies-173210ae72.jpg",
+        "alt": "Remise de lot Synerciel par PH Energies"
+      },
+      "title": "Remise de lot Synerciel par PH Energies",
+      "text": "Dans le cadre des \"printemps de la rénovation\", Ph Energies a eu le plaisir de remettre un vélo électrique."
+    }
+  ]
+}

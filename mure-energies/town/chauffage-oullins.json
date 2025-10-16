@@ -1,0 +1,40 @@
+{
+  "breadcrumb": "Chauffage Oullins",
+  "hero": {
+    "title": "Mure Energies, votre chauffagiste intervient à Oullins",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/mure-energies-qui-sommes-nous-456x334.f303774e.jpg",
+      "alt": "Mure Energies, votre chauffagiste intervient à Oullins"
+    },
+    "text": "<p>Les chauffagistes et frigoristes Mure Energies interviennent à Oullins et dans le Rhône pour installer, dépanner et entretenir vos systèmes de chauffage et de climatisation.</p> <p>Nos techniciens sont formés pour intervenir sur différents types d'équipement tel que :</p> <ul><li><a title=\"Equipement PAC\" href=\"/equipements/energie-renouvelable/pompe-a-chaleur\">les pompes à chaleur</a></li><li><a title=\"Equipement climatisation\" href=\"/equipements/climatisation\">les climatisations</a></li><li><a title=\"Equipement plancher chauffant\" href=\"/equipements/plancher-chauffant\">les planchers chauffants</a></li><li><a title=\"Equipement chauffe-eau\" href=\"/equipements/chauffe-eau-gaz-chauffe-bain\">les chauffe-eaux</a></li><li><a title=\"Equipement chaudière\" href=\"/equipements/chaudieres\">les chaudières</a></li></ul> <p>Vous avez un projet ? Contactez-nous au 04 78 59 83 88 pour obtenir un devis gratuit et personnalisé.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Les experts de la chaudière à gaz, au fioul ou au bois à Oullins",
+      "text": "<p>Vous souhaitez <a title=\"Installation chaudière\" href=\"/installation/chaudiere\">installer une chaudière</a> ? Nos chauffagistes vous accompagnent à Oullins dans le choix de l'équipement qui correspondra le mieux à votre situation. Nous procédons à une étude de votre logement et de vos besoins afin de vous recommander le type de chaudière (à bois, à fioul ou au gaz) la plus appropriée.</p> <p>Et pour tous ceux qui possèdent déjà une chaudière, nous intervenons également chez vous pour procéder à la réparation ou à l'entretien de votre appareil.</p> <hr>"
+    },
+    {
+      "title": "Profiter de son chauffe-eau en toute sérénité dans le 69",
+      "text": "<p>Avoir un chauffe-eau qui fonctionne correctement est primordial pour profiter d'une eau chaude sanitaire à la demande toute au long de l'année. C'est pourquoi, chez Mure Energies, nous vous recommandons de <a title=\"Entretien chauffe-eau\" href=\"/entretien/chauffe-eau\">souscrire à l'un de nos contrats d'entretien chauffe-eau</a>. En faisant régulièrement réviser votre équipement, vous éviterez ainsi de nombreux dysfonctionnements.</p> <p>Vous appareil est en panne ? Nos plombiers chauffagistes interviennent chez vous à Oullins pour prendre en charge votre équipement.</p> <hr>"
+    },
+    {
+      "title": "Installation, entretien et dépannage de climatisation à Oullins",
+      "text": "<p>Vous constatez que votre ancien modèle de climatisation est vieillissant et vous souhaitez le changer ? Vous aimeriez <a title=\"Installation climatisation\" href=\"/installation/climatisation\">installer une climatisation</a> dans votre logement ? Vous souhaitez faire réaliser l'entretien de votre équipement actuel ? Votre climatisation est en panne ? Mure Energies est la société de climatisation de confiance à Oullins.</p> <p>Peu importe votre projet, Mure Energies vous accompagne pour l'installation, la maintenance et la réparation de votre équipement. Depuis 1983, nos équipes mettent leurs compétences et leur expérience au service de votre projet.</p> <hr>"
+    },
+    {
+      "title": "Avec Mure Energies, faites le choix d'un plancher chauffant",
+      "text": "<p><a title=\"Installation plancher chauffant\" href=\"/installation/plancher-chauffant\">Installer un chauffage au sol</a> est la solution idéal pour profiter d'une chaleur répartie de façon homogène dans tout le logement. Certains modèles récents sont même réversibles et peuvent produire de l'air frais en été.</p> <p>Le plancher chauffant est recommandé dans les logements neufs pour éviter d'encombrer les murs avec des radiateurs. Si vous souhaitez installer un chauffage au sol dans votre logement neuf, pensez à nous contacter dès que possible pour que nous puissions vous conseiller sur les travaux à effectuer.</p> <hr>"
+    },
+    {
+      "title": "Dans le Rhône, profitez de tous les avantages de la pompe à chaleur",
+      "text": "<p>La PAC est un équipement écologique et économie qui permet à la fois de chauffer son logement en hiver et de le rafraîchir en été avec de l'air frais.</p> <p>Vous souhaitez faire <a title=\"Installation pompe à chaleur\" href=\"/installation/pompe-a-chaleur\">installer une pompe à chaleur</a> à votre domicile ? Contactez nos experts au 04 78 59 83 88. Ils vous conseilleront dans le type de PAC qui correspondra le mieux aux caractéristiques de votre logement.</p> <p>Une fois l'installation effectuée, nous restons à votre disposition pour l'entretien de votre appareil. En plus d'être une obligation légale, la maintenance régulière de la pompe à chaleur permet également de conserver sa performance et ainsi d'augmenter sa durée de vie.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  }
+}

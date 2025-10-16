@@ -1,0 +1,299 @@
+[
+  {
+    "link": {
+      "text": "équipements",
+      "href": "https://www.mure-energies.fr/equipements",
+      "title": ""
+    },
+    "categories": [
+      {
+        "title": "Chaudières Gaz, Fioul, Bois / Granulés",
+        "link": {
+          "text": "Chaudières Gaz, Fioul, Bois / Granulés",
+          "href": "https://www.mure-energies.fr/equipements/chaudieres",
+          "title": ""
+        }
+      },
+      {
+        "title": "Solutions à énergies renouvelables",
+        "link": {
+          "text": "Solutions à énergies renouvelables",
+          "href": "https://www.mure-energies.fr/equipements/energie-renouvelable",
+          "title": ""
+        },
+        "subLinks": [
+          {
+            "text": "Pompe à Chaleur",
+            "href": "https://www.mure-energies.fr/equipements/energie-renouvelable/pompe-a-chaleur",
+            "title": ""
+          },
+          {
+            "text": "Chauffe-eau Thermodynamique",
+            "href": "https://www.mure-energies.fr/equipements/energie-renouvelable/chauffe-eau-thermodynamique",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Climatisation",
+        "link": {
+          "text": "Climatisation",
+          "href": "https://www.mure-energies.fr/equipements/climatisation",
+          "title": ""
+        }
+      },
+      {
+        "title": "Poêles",
+        "subLinks": [
+          {
+            "text": "Poêles à granulés, bois",
+            "href": "https://www.mure-energies.fr/equipements/poeles-granules-bois",
+            "title": "équipement poêles"
+          }
+        ]
+      },
+      {
+        "title": "Plancher Chauffant",
+        "link": {
+          "text": "Plancher Chauffant",
+          "href": "https://www.mure-energies.fr/equipements/plancher-chauffant",
+          "title": ""
+        }
+      },
+      {
+        "title": "Chauffe-eau gaz et Chauffe-bain",
+        "link": {
+          "text": "Chauffe-eau gaz et Chauffe-bain",
+          "href": "https://www.mure-energies.fr/equipements/chauffe-eau-gaz-chauffe-bain",
+          "title": ""
+        }
+      },
+      {
+        "title": "Solaire Photovoltaïque",
+        "link": {
+          "text": "Solaire Photovoltaïque",
+          "href": "https://www.mure-energies.fr/equipements/panneaux-photovoltaiques",
+          "title": "Solaire photovoltaïque à Lyon - Mure Energies"
+        }
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Installation",
+      "href": "https://www.mure-energies.fr/installation",
+      "title": ""
+    },
+    "categories": [
+      {
+        "title": "Chaudières Gaz, Fioul, Bois / Granulés",
+        "subLinks": [
+          {
+            "text": "Installer une Chaudière",
+            "href": "https://www.mure-energies.fr/installation/chaudiere",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Solutions à énergies renouvelables",
+        "subLinks": [
+          {
+            "text": "Installer une Pompe à Chaleur",
+            "href": "https://www.mure-energies.fr/installation/pompe-a-chaleur",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Installer une Climatisation",
+            "href": "https://www.mure-energies.fr/installation/climatisation",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Poêles",
+        "subLinks": [
+          {
+            "text": "Installer un Poêle",
+            "href": "https://www.mure-energies.fr/installation/poeles-granules-bois",
+            "title": "installation poêle"
+          }
+        ]
+      },
+      {
+        "title": "Chauffage Central",
+        "subLinks": [
+          {
+            "text": "Installer un Plancher Chauffant",
+            "href": "https://www.mure-energies.fr/installation/plancher-chauffant",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eau gaz et Chauffe-bain",
+        "subLinks": [
+          {
+            "text": "Installer un Chauffe-eau",
+            "href": "https://www.mure-energies.fr/installation/chauffe-eau",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Solutions Solaires",
+        "subLinks": [
+          {
+            "text": "Installer des panneaux Photovoltaïques",
+            "href": "https://www.mure-energies.fr/installation/panneaux-photovoltaiques",
+            "title": "devis panneaux solaires photovoltaïques"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Entretien",
+      "href": "https://www.mure-energies.fr/entretien",
+      "title": ""
+    },
+    "categories": [
+      {
+        "title": "Chaudières Gaz, Fioul, Bois / Granulés",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Chaudière",
+            "href": "https://www.mure-energies.fr/entretien/chaudiere",
+            "title": ""
+          },
+          {
+            "text": "Nos contrats d'entretien Chaudière",
+            "href": "https://www.mure-energies.fr/mon-contrat-entretien",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Solutions à énergies renouvelables",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Pompe à Chaleur",
+            "href": "https://www.mure-energies.fr/entretien/pompe-a-chaleur",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Climatisation",
+            "href": "https://www.mure-energies.fr/entretien/climatisation",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Poêles",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Poêle",
+            "href": "https://www.mure-energies.fr/entretien/poeles-granules-bois",
+            "title": "entretien poêle"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eau",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Chauffe-eau",
+            "href": "https://www.mure-energies.fr/entretien/chauffe-eau",
+            "title": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Dépannage",
+      "href": "https://www.mure-energies.fr/depannage",
+      "title": ""
+    },
+    "categories": [
+      {
+        "title": "Chaudières Gaz, Fioul, Bois / Granulés",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Chaudière",
+            "href": "https://www.mure-energies.fr/depannage/chaudiere",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Solutions à énergies renouvelables",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Pompe à Chaleur",
+            "href": "https://www.mure-energies.fr/depannage/pompe-a-chaleur",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Climatisation",
+            "href": "https://www.mure-energies.fr/depannage/climatisation",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Poêles",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Poêle",
+            "href": "https://www.mure-energies.fr/depannage/poeles-granules-bois",
+            "title": "depannage et réparation poêle"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eau",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Chauffe-eau",
+            "href": "https://www.mure-energies.fr/depannage/chauffe-eau",
+            "title": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Professionnels",
+      "href": "https://www.mure-energies.fr/professionnels",
+      "title": ""
+    },
+    "categories": []
+  },
+  {
+    "link": {
+      "text": "Plomberie Sanitaire",
+      "href": "https://www.mure-energies.fr/plomberie-sanitaire",
+      "title": ""
+    },
+    "categories": []
+  }
+]

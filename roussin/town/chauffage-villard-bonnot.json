@@ -1,0 +1,40 @@
+{
+  "breadcrumb": "Chauffage Villard Bonnot",
+  "hero": {
+    "title": "L'expert du chauffage et de la climatisation à Villard-Bonnot",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/roussin-energies-entretien-456x334.608361c3.jpg",
+      "alt": "L'expert du chauffage et de la climatisation à Villard-Bonnot"
+    },
+    "text": "<p>À Villard Bonnot, les équipes Roussin Energies se chargent de l'installation, de l'entretien et du dépannage des appareils de chauffage et de climatisation.</p> <p>Nos équipes sont formées pour intervenir sur :</p> <ul>\n<li><a title=\"Equipement PAC\" href=\"/equipements/pompe-a-chaleur\">les pompes à chaleur</a></li>\n<li><a title=\"Equipement chaudière\" href=\"/equipements/chaudieres\">les chaudières</a></li>\n<li><a title=\"Equipement climatisation\" href=\"/equipements/climatisation\">les climatisations</a></li>\n<li><a title=\"Equipement chauffe-eau\" href=\"/equipements/chauffe-eau\">les chauffe-eaux</a></li>\n<li>les planchers chauffants</li>\n</ul> <p>Contactez-nous directement par téléphone au 04 76 26 07 65 pour obtenir un devis gratuit et personnalisé pour chacun de vos projets.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Découvrez tous les avantages de la pompe à chaleur à Villard Bonnot",
+      "text": "<p>La pompe à chaleur est l'un des équipements de chauffage les plus écologiques et économiques pour la maison. En effet, elle permet de chauffer votre habitation, mais aussi d'améliorer votre confort thermique en été. Cet appareil est un véritable produit du futur car il est efficace et performant. De plus, il vous permet d'améliorer la qualité de l'air que vous respirez au quotidien.</p> <p>Pour faire <a title=\"Installation PAC\" href=\"/installation/pompe-a-chaleur\">installer une pompe à chaleur</a> chez vous, contactez-nous sans plus attendre ! Nos équipes sont également spécialisées dans l'entretien et la réparation de votre PAC.</p> <hr>"
+    },
+    {
+      "title": "Gagner en confort thermique à Villard Bonnot grâce au plancher chauffant",
+      "text": "<p>Vous rêvez d'un équipement caché à la vue qui permette de chauffer l'ensemble des pièces de son logement de manière homogène ? Faites <a title=\"Installation chauffage au sol\" href=\"/installation/plancher-chauffant\">installer un plancher chauffant</a> !</p> <p>Combinée avec une pompe à chaleur, notre entreprise peut vous proposer un système de chauffage au sol performant et écologique. Nos techniciens installent, dépannent et entretiennent votre équipement afin que les hivers soient beaucoup plus agréables au sein de votre foyer.</p> <hr>"
+    },
+    {
+      "title": "Les experts du chauffe-eau à Villard Bonnot",
+      "text": "<p>Vous souhaitez <a title=\"Installation chauffe-eau\" href=\"/installation/chauffe-eau\">faire installer un nouveau chauffe-eau à votre domicile</a> ? Votre appareil actuel a besoin d'une visite d'entretien ? Votre chauffe-eau est en panne et vous recherchez un professionnel pour le réparer ?</p> <p>Les équipes Roussin Energies mettent leur savoir-faire et leur expérience au service de chacun de vos projets. En effet, nos collaborateurs sont formés pour réaliser l'installation, l'entretien et le dépannage de votre chauffe-eau. Notre objectif est ainsi de devenir votre interlocuteur privilégié pour chacun de vos besoins.</p> <hr>"
+    },
+    {
+      "title": "Passez l'été au frais à Villard Bonnot grâce à la climatisation",
+      "text": "<p>En faisant <a title=\"Installation climatisation\" href=\"/installation/climatisation\">installer une climatisation</a>, vous pouvez profiter de températures agréables dans votre maison, sans avoir à vous soucier de la chaleur extérieure. La climatisation a été conçue pour garantir un confort optimal dans toutes les pièces de la maison.</p> <p>Nos techniciens sont experts en installation, entretien et dépannage de climatisation. Vous pouvez donc compter sur nous pour effectuer tous travaux nécessaires afin d'optimiser votre confort et celui de votre famille. N'hésitez pas à nous contacter au 04 76 26 07 65 si vous souhaitez en savoir plus sur nos services !</p> <hr>"
+    },
+    {
+      "title": "Profiter de sa chaudière en toute sérénité à Villard Bonnot",
+      "text": "<p>Vous êtes à la recherche d’une chaudière performante et fiable pour votre maison? Vous avez frappé à la bonne porte.&nbsp;</p> <p>Roussin Energies est une entreprise spécialisée dans l’installation, le dépannage et <a title=\"Entretien chaudière\" href=\"/entretien/chaudiere\">la maintenance&nbsp;de chaudière</a>. Notre équipe de professionnels expérimentés est à votre service pour vous guider dans le choix de votre futur appareil ou pour répondre à tout autre besoin lié aux installations énergétiques.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  }
+}

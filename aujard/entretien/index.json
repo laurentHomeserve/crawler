@@ -1,0 +1,49 @@
+{
+  "breadcrumb": "Entretien",
+  "seo": {
+    "title": "Entretien du chauffage dans la Seine-et-Marne | Aujard",
+    "description": "Depuis plus de 20 ans, Aujard est à votre disposition pour vos travaux de plomberie, de dépannage et d'entretien de vos installations de chauffage.",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Entretien du chauffage dans la Seine-et-Marne | Aujard",
+      "description": "Depuis plus de 20 ans, Aujard est à votre disposition pour vos travaux de plomberie, de dépannage et d'entretien de vos installations de chauffage.",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-entretien-456x334.04af30c9.jpg",
+        "alt": "L'entretien du chauffage par Aujard"
+      }
+    }
+  },
+  "hero": {
+    "title": "Maintenance et entretien des chauffages et climatisations dans le 77",
+    "subtitle": "Faîtes appel à nos spécialistes Aujard pour l'entretien de votre chauffage ou climatisation"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.aujard.fr/build/images/aujard-entretien-456x334.04af30c9.jpg",
+      "alt": "L'entretien du chauffage par Aujard"
+    },
+    "text": ""
+  },
+  "teasers": [
+    {
+      "title": "Pourquoi faire réaliser l'entretien de votre chauffage en Seine-et-Marne",
+      "text": "<p><b>L'entretien annuel des installations de chauffage est une obligation.</b> Cet entretien, que nous réalisons dans tout le département de Seine-et-Marne, vous permet d'anticiper la plupart des pannes et de ne pas vous retrouver sans chauffage durant les mois d'hiver. Les pièces fragilisées peuvent directement être remplacées.</p> <p>Chez Aujard, nous disposons des pièces d'origine des principales marques de chaudières et de pompes à chaleur. Vous pouvez souscrire un contrat de maintenance, qui constitue la solution la plus pratique pour vous : nous vous ferons parvenir bien volontiers une offre commerciale. Le contrat d'entretien vous permet de bénéficier d'une intervention dans les meilleurs délais en cas de panne.</p> <p>Chaque année, nous vous rappelons pour fixer la date de la visite d'entretien. Vous n'avez donc à vous soucier de rien. Nous nous déplaçons à Fontainebleau, Melun, <a href=\"https://www.aujard.fr/chauffage-nemours\" title=\"Chauffage Nemours\">Nemours</a> ou encore Melun pour l'entretien de votre chauffage. Nos équipes assurent aussi l'<a href=\"https://www.aujard.fr/entretien/chauffe-eau-thermodynamique\" title=\"Maintenance chauffe-eau thermodynamique\">entretien des chauffe-eaux thermodynamiques</a>.</p> <hr>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "L'entretien des chaudières et des pompes à chaleur dans le 77",
+      "text": "<p>L'<a href=\"https://www.aujard.fr/entretien/chaudiere\" title=\"Maintenance chaudière en Seine-et-Marne\">entretien des chaudières</a>, qu'elles fonctionnent au bois, au gaz ou au fioul, s'effectue chaque année. Les pièces usées peuvent être remplacées et votre chaudière est soigneusement nettoyée par nos techniciens, ce qui permet d'optimiser son fonctionnement. De cette manière, vous économisez sur votre facture d'énergie.Vous avez fait installer une pompe à chaleur air / air, air / eau ou un système de géothermie ? Nos techniciens Aujard peuvent en effectuer la maintenance régulière.</p> <p>Depuis cette année, l'<a href=\"https://www.aujard.fr/entretien/pompe-a-chaleur\" title=\"Maintenance pompe à chaleur en Seine-et-Marne\">entretien des pompes à chaleur</a> est obligatoire tous les deux ans, mais un entretien annuel est recommandé. Le technicien vérifie l'étanchéité du système et la quantité de fluide caloriporteur. Il dépoussière vos unités extérieures. Pensez de même à <a href=\"https://www.aujard.fr/entretien/climatisation\" title=\"Maintenance climatisation en Seine-et-Marne\">faire entretenir vos systèmes de climatisation dans le 77</a>. Vous éviterez ainsi que votre air intérieur soit pollué par des moisissures et des poussières qui peuvent nuire à la santé. Notre entreprise Aujard assure aussi <a href=\"https://www.aujard.fr/entretien/poele\" title=\"Maintenance poêle en Seine-et-Marne\">la maintenance de vos poêles à bois ou à granulés</a>. Nous nettoyons les poêles de manière minutieuse, ce qui constitue le complément idéal au nettoyage courant des cendres et de la vitre que vous effectuez plus couramment.</p> <hr> <h3>Contactez Aujard pour l'entretien de votre chauffage dans le 77</h3> <p>Nos techniciens Aujard sont des professionnels compétents régulièrement formés à la maintenance des différents systèmes de chauffage. Ils se déplacent dans tout le département de la Seine-et-Marne pour entretenir vos installations. Nous travaillons avec les meilleures marques et pourrons toujours vous procurer les pièces de rechange d'origine nécessaires au bon fonctionnement de votre poêle, votre chaudière ou votre pompe à chaleur.</p> <p>N'hésitez pas à contacter notre service client, pour un devis rapide et gratuit, ou une présentation de nos prestations. Aujard peut aussi se charger de l'<a href=\"https://www.aujard.fr/entretien/adoucisseur-eau\" title=\"Maintenance adoucisseur d'eau en Seine-et-Marne\">entretien de vos adoucisseurs d'eau</a>.</p> <hr>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

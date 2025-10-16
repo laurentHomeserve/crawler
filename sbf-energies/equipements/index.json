@@ -1,0 +1,67 @@
+{
+  "breadcrumb": "Equipements",
+  "seo": {
+    "title": "Les équipements de chauffage - SBF Energies vous conseille",
+    "description": "SBF Energies est votre expert du génie climatique dans toute la savoie. Nous vous guidons dans le choix de votre équipement de chauffage.",
+    "opengraph": {
+      "site_name": "SBF Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Les équipements de chauffage - SBF Energies vous conseille",
+      "description": "SBF Energies est votre expert du génie climatique dans toute la savoie. Nous vous guidons dans le choix de votre équipement de chauffage.",
+      "image": {
+        "src": "https://www.sbf-energies.com/build/images/sbf-energies-service-equipement-456x334.6b8faf1b.jpg",
+        "alt": "équipement pour le chauffage domestique"
+      }
+    }
+  },
+  "hero": {
+    "title": "Les différents systèmes de chauffage domestique",
+    "subtitle": "Faîtes appel à des experts pour votre équipement de chauffage"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.sbf-energies.com/build/images/sbf-energies-service-equipement-456x334.6b8faf1b.jpg",
+      "alt": "équipement pour le chauffage domestique"
+    },
+    "text": " <p>Que vous habitiez en Savoie ou dans ses environs, SBF Energies <a href=\"https://www.sbf-energies.com\">chauffagiste en Savoie</a>, fournit et installe différents types de chauffages domestiques. Nous vous proposons aussi des systèmes de production de l'eau chaude sanitaire. A <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-chambery\" title=\"Chauffagiste Frigoriste Chambery\">Chambéry</a>, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-rumilly\" title=\"Chauffagiste Frigoriste Rumilly\">Rumilly</a>, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-aix-les-bains\" title=\"Chauffagiste Frigoriste Aix Les Bains\">Aix-les-Bains</a>, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-challes-les-eaux\" title=\"Chauffagiste Frigoriste Challes Les Eaux\">Challes-les-Eaux</a> ou encore <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-la-motte-servolex\" title=\"Chauffagiste Frigoriste La Motte Servolex\">La Motte-Servolex</a>, n'hésitez pas à faire appel à nos experts.</p> <p>Chaque proposition d'équipement de chauffage, climatisation ou de production d'eau chaude sanitaire fait l'objet d'une étude garantissant la meilleure correspondance entre vos besoins et notre solution technique : dimensionnement du matériel, confort acoustique, faisabilité de la pose,...</p> <p>L'étude comporte aussi un volet économique où la réduction de la facture énergétique est prépondérante pour une rentabilité optimale de l'équipement fourni.</p> <p>Nous vous accompagnons tout au long de la réalisation de vos projets : dossier d'aide financière, dossier de financement, respect des normes réglementaires, ...</p> "
+  },
+  "teasers": [
+    {
+      "title": "Les pompes à chaleur : un équipement de chauffage prometteur en Savoie",
+      "text": "  <p>L'heure est aux énergies renouvelables. Si vous avez décidé de remplacer votre ancienne chaudière au fioul, énergivore et polluante, pourquoi ne pas opter pour une <a href=\"/equipements/pompe-a-chaleur\">pompe à chaleur</a> ? Certes, les chaudières à gaz à condensation sont aussi très performantes et permettent des économies d'énergie appréciables, mais chez SBF Energies, nous vous proposons de franchir le pas dès à présent et de devenir indépendant des énergies fossiles.</p> <p>La pompe à chaleur tire les calories de l'environnement pour les transmettre au système de chauffage de votre logement. Différentes technologies sont disponibles, que notre service client se fera un plaisir de vous présenter. Nous vous conseillons en particulier les PAC air/eau, basse température pour un plancher chauffant et haute ou moyenne température pour un circuit de radiateurs classiques. Si vous disposez de suffisamment de place en extérieur, vous pouvez aussi opter pour une PAC géothermique.</p> <p>Choisir une pompe à chaleur pour chauffer votre eau sanitaire se révèle être une excellente solution à la fois économique et écologique. Comme expliqué précédemment, la pompe à chaleur air/eau permet en effet de récupérer les calories présentes dans l'air et de les réutiliser pour chauffer l'eau qui alimentera vos radiateurs ou votre plancher chauffant mais également pour produire votre eau chaude sanitaire.</p>  ",
+      "link": {
+        "href": "/equipements/pompe-a-chaleur",
+        "text": "En savoir plus sur les pompes à chaleur",
+        "title": ""
+      }
+    },
+    {
+      "title": "La chaudière au gaz, le chauffage par grands froids",
+      "text": "   ",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "La climatisation réversible en Savoie",
+      "text": "   ",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Chauffer son eau en Savoie ",
+      "text": "   ",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

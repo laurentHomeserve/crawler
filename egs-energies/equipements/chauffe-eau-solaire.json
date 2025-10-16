@@ -1,0 +1,44 @@
+{
+  "breadcrumb": "Chauffe eau solaire",
+  "seo": {
+    "title": "Chauffe-Eau Solaire à Nice et Alpes-Maritimes | EGS Energies",
+    "description": "Chauffe-eaux solaire : fonctionnement, entretien et installation. EGS Energies (ex-Electrogaz) votre expert en énergies renouvelables dans les Alpes-Maritimes",
+    "opengraph": {
+      "site_name": "EGS Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Chauffe-Eau Solaire à Nice et Alpes-Maritimes | EGS Energies",
+      "description": "Chauffe-eaux solaire : fonctionnement, entretien et installation. EGS Energies (ex-Electrogaz) votre expert en énergies renouvelables dans les Alpes-Maritimes",
+      "image": {
+        "src": "https://www.egs-energies.fr/build/images/egs-energies-equipement-chauffe-eau-solaire.456x334.dd589c42.jpg",
+        "alt": "EGS Energies (anciennement Electrogaz) : Chauffe-eau Solaire"
+      }
+    }
+  },
+  "hero": {
+    "title": "Chauffe-eau solaire : tirez profit de l'ensoleillement du sud de la France",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.egs-energies.fr/build/images/egs-energies-equipement-chauffe-eau-solaire.456x334.dd589c42.jpg",
+      "alt": "EGS Energies (anciennement Electrogaz) : Chauffe-eau Solaire"
+    },
+    "text": "<p>Quoi de mieux que l'énergie du soleil pour chauffer l'eau sanitaire ? Le chauffe-eau solaire vous permet d'auto-produire votre eau chaude sanitaire grâce à des panneaux solaires raccordés à un ballon de stockage. Et si le soleil est aux abonnés absents trop longtemps – ce qui est rare dans le sud de la France - un système électrique d'appoint prend le relais.</p>"
+  },
+  "contents": [
+    {
+      "title": "Comment installer un chauffe-eau solaire",
+      "text": "<p>Pour produire de la chaleur, le chauffe-eau solaire nécessite l'installation de panneaux solaires. Ils doivent être situés dans une zone ensoleillée, sur le toit de la maison ou dans le jardin, et inclinés à 45°. La surface des panneaux solaires varie, de 3 à 5 m2, en fonction du nombre d'habitants dans le foyer et de la situation géographique du logement. Les Alpes-Maritimes, particulièrement ensoleillées, se prêtent bien à l'installation de ce type de dispositif. <a href=\"https://www.egs-energies.fr/chauffage-nice\" title=\"Chauffage Nice\">Nice</a> est ainsi la ville d'Europe la plus ensoleillée avec presque 300 jours de beau temps par an.</p> <a href=\"https://www.egs-energies.fr/chauffage-nice\" title=\"Chauffage Nice\">Nice</a> <p>Les panneaux solaires sont raccordés à un ballon de stockage de l'eau chaude sanitaire. Sa taille est définie en fonction des besoins du foyer, et peut atteindre 400 L. Il dispose d'un système de chauffage électrique d'appoint afin de compléter la production solaire si l'ensoleillement est insuffisant.</p> <p><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <span class=\"obflink obflink-text\" data-o=\"L25vdXMtY29udGFjdGVyP3R5cGU9NA==\">EGS Energies vous conseille sur l'installation d'un chauffe-eau solaire. Parlons-en.</span></p> <i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <span class=\"obflink obflink-text\" data-o=\"L25vdXMtY29udGFjdGVyP3R5cGU9NA==\">EGS Energies vous conseille sur l'installation d'un chauffe-eau solaire. Parlons-en.</span>"
+    },
+    {
+      "title": "Chauffe-eau solaire : économies et crédits d'impôts",
+      "text": "<p>Un chauffe-eau solaire peut couvrir jusqu'à 60 % des besoins en eau chaude d'une habitation. Le reste des besoins est couvert par le dispositif électrique. Une telle performance est forcément source d'économies et fait considérablement baisser le coût des factures d'eau.</p> <p>Depuis 2014, l'installation d'un chauffe-eau solaire vous donne droit, sous certaines conditions, à un crédit d'impôts de 30%.</p> <p>Attention, cette installation doit être réalisée par un professionnel et elle doit faire l'objet d'un entretien régulier (mais non obligatoire) pour maintenir sa performance et assurer sa longévité.</p> <p><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <span class=\"obflink obflink-text\" data-o=\"L25vdXMtY29udGFjdGVyP3R5cGU9NA==\">En savoir plus sur les crédits d'impôts en vigueur</span></p> <i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <span class=\"obflink obflink-text\" data-o=\"L25vdXMtY29udGFjdGVyP3R5cGU9NA==\">En savoir plus sur les crédits d'impôts en vigueur</span>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  },
+  "url": "https://www.egs-energies.fr/equipements/energie-renouvelable/chauffe-eau-solaire"
+}

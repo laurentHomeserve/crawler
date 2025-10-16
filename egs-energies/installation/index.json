@@ -1,0 +1,58 @@
+{
+  "breadcrumb": "Installation",
+  "seo": {
+    "title": "Installation d'équipement de chauffage à Nice et dans le 06",
+    "description": "Nous installons Chaudières, Chauffe-eaux, Pompe à chaleur, Climatisations, VMC. Votre chauffagiste RGE indépendant sur Nice et dans les Alpes-Maritimes",
+    "opengraph": {
+      "site_name": "EGS Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Installation d'équipement de chauffage à Nice et dans le 06",
+      "description": "Nous installons Chaudières, Chauffe-eaux, Pompe à chaleur, Climatisations, VMC. Votre chauffagiste RGE indépendant sur Nice et dans les Alpes-Maritimes",
+      "image": {
+        "src": "https://www.egs-energies.fr/build/images/egs-energies-prestation-installation.456x334.369e4e11.jpg",
+        "alt": "EGS Energies (anciennement Electrogaz), expert chauffagiste spécialisé dans l'installation de chaudières, climatisations, pompes à chaleur"
+      }
+    }
+  },
+  "hero": {
+    "title": "Nous installons Chaudières, Chauffe-eaux, PAC, Climatisations, VMC",
+    "subtitle": "Faites confiance aux conseils de nos spécialistes pour vos projets de nouvel équipement de chauffage ou de climatisation"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.egs-energies.fr/build/images/egs-energies-prestation-installation.456x334.369e4e11.jpg",
+      "alt": "EGS Energies (anciennement Electrogaz), expert chauffagiste spécialisé dans l'installation de chaudières, climatisations, pompes à chaleur"
+    },
+    "text": "<p>Que ce soit pour remplacer un appareil qui ne fonctionne plus ou profiter du confort et des économies d'énergie apportés par les nouveaux modèles de chaudière, chauffe-eaux, pompes à chaleur, poêles à granulés ou climatisation, nous sommes-là pour vous conseiller dans vos choix. Nous intervenons également à <a href=\"https://www.egs-energies.fr/chauffage-cagnes-sur-mer\" title=\"Chauffage Cagnes Sur Mer\">Cagnes-sur-Mer</a>, <a href=\"https://www.egs-energies.fr/chauffage-le-cannet\" title=\"Chauffage Le Cannet\">Le Cannet</a> ou <a href=\"https://www.egs-energies.fr/chauffage-monaco\" title=\"Chauffage Monaco\">Monaco</a> pour vous proposer des équipements de dernières générations, afin de faciliter votre quotidien.</p><p>Nous vous guidons dans les solutions les mieux adaptées pour votre logement. Avec les systèmes connectés, vous pouvez même piloter vos appareils via votre smartphone ou tablette, où que vous soyez, quand vous le souhaitez.<br><br>&nbsp;</p>"
+  },
+  "teasers": [
+    {
+      "title": "EGS Energies, société RGE (Reconnu Garant de l'Environnement)",
+      "text": "<p>Nous vous guidons dans les solutions les mieux adaptées pour votre logement situé à <a href=\"https://www.egs-energies.fr/chauffage-nice\" title=\"Chauffage Nice\">Nice</a>, <a href=\"https://www.egs-energies.fr/chauffage-menton\" title=\"Chauffage Menton\">Menton</a> ou <a href=\"https://www.egs-energies.fr/chauffage-grasse\" title=\"Chauffage Grasse\">Grasse</a>. Avec les systèmes connectés, vous pouvez même piloter vos appareils via votre smartphone ou tablette, où que vous soyez, quand vous le souhaitez.</p><p>Entreprise indépendante, nous sommes bien placés pour vous aider à choisir sans a priori de marque, d'option technique ou d'énergie, des équipements performants et vous conseiller pour réduire efficacement votre facture d'énergie.</p><p>Un technicien se déplacera à votre domicile pour vous conseiller et réaliser un devis gratuit et sans engagement pour l'installation d'une nouvelle solution de chauffage ou de climatisation.</p><p>Nous disposons du label RGE \"<a href=\"/qui-sommes-nous/certifications-et-marques\" title=\"Electrogaz RGE\">Reconnu Garant de l'Environnement</a>\" vous donnant droit, sous certaines conditions, à une réduction d'impôt sur le montant des appareils.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "EGS Energies est partenaire des grandes marques de chauffage et climatisation",
+      "text": "<p>Pour répondre aux différents besoins de nos clients, nous sommes agréés par les plus grandes marques du marché pour installer, entretenir et réparer leurs gammes de produits.</p>",
+      "link": {
+        "href": "/qui-sommes-nous/certifications-et-marques",
+        "text": "Nos marques partenaires",
+        "title": "Nos marques partenaires"
+      }
+    },
+    {
+      "title": "L'avis de nos clients sur nos prestations d'installation",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/4abbda16-78da-a354-0daa-c56b134ab920/316232b6-aa78-46f5-9e6f-f74356aeeec8.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

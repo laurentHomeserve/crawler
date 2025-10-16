@@ -1,0 +1,287 @@
+[
+  {
+    "link": {
+      "text": "équipements",
+      "href": "https://www.roussin-energies.fr/equipements",
+      "title": "Equipements : Chaudières, Pompes à chaleur, Poêles, Climatisations, Chauffe-eaux, ..."
+    },
+    "categories": [
+      {
+        "title": "Chaudières Gaz, Fioul, Bois / Granulés",
+        "link": {
+          "text": "Chaudières Gaz, Fioul, Bois / Granulés",
+          "href": "/equipements/chaudieres",
+          "title": "Nos chaudières"
+        }
+      },
+      {
+        "title": "Pompes à chaleur (PAC)",
+        "link": {
+          "text": "Pompes à chaleur (PAC)",
+          "href": "https://www.roussin-energies.fr/equipements/pompe-a-chaleur",
+          "title": "Nos pompes à chaleur"
+        }
+      },
+      {
+        "title": "Poêles granulés, pellets et bois",
+        "link": {
+          "text": "Poêles granulés, pellets et bois",
+          "href": "https://www.roussin-energies.fr/equipements/poele-granules-bois",
+          "title": "Nos poêles"
+        }
+      },
+      {
+        "title": "Climatisations",
+        "link": {
+          "text": "Climatisations",
+          "href": "https://www.roussin-energies.fr/equipements/climatisation",
+          "title": "Nos climatisations"
+        }
+      },
+      {
+        "title": "Chauffe-eaux et Chauffe-bains",
+        "link": {
+          "text": "Chauffe-eaux et Chauffe-bains",
+          "href": "https://www.roussin-energies.fr/equipements/chauffe-eau",
+          "title": "Nos chauffe-eaux"
+        }
+      },
+      {
+        "title": "Solaire Photovoltaïque",
+        "link": {
+          "text": "Solaire Photovoltaïque",
+          "href": "https://www.roussin-energies.fr/equipements/panneaux-photovoltaiques",
+          "title": "Solaire photovoltaïque grenoble - Roussin Energies"
+        }
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Installation",
+      "href": "https://www.roussin-energies.fr/installation",
+      "title": "Installation et remplacement de votre chauffage et climatisation"
+    },
+    "categories": [
+      {
+        "title": "Chaudières Gaz, Fioul, Bois / Granulés",
+        "subLinks": [
+          {
+            "text": "Installer une Chaudière",
+            "href": "https://www.roussin-energies.fr/installation/chaudiere",
+            "title": "Installer une chaudière"
+          }
+        ]
+      },
+      {
+        "title": "Pompes à chaleur (PAC)",
+        "subLinks": [
+          {
+            "text": "Installer une Pompe à Chaleur",
+            "href": "https://www.roussin-energies.fr/installation/pompe-a-chaleur",
+            "title": "Installer une pompe à chaleur"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Installer une Climatisation",
+            "href": "https://www.roussin-energies.fr/installation/climatisation",
+            "title": "Installer une climatisation"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eaux et Chauffe-bains",
+        "subLinks": [
+          {
+            "text": "Installer un Chauffe-eau",
+            "href": "https://www.roussin-energies.fr/installation/chauffe-eau",
+            "title": "Installer un chauffe-eau"
+          }
+        ]
+      },
+      {
+        "title": "Chauffage central",
+        "subLinks": [
+          {
+            "text": "Installer un Plancher Chauffant",
+            "href": "https://www.roussin-energies.fr/installation/plancher-chauffant",
+            "title": "Installer un plancher chauffant"
+          }
+        ]
+      },
+      {
+        "title": "Solutions Solaires",
+        "subLinks": [
+          {
+            "text": "Installer des panneaux Photovoltaïques",
+            "href": "https://www.roussin-energies.fr/installation/panneaux-photovoltaiques",
+            "title": "devis panneaux solaires photovoltaïques"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Entretien",
+      "href": "https://www.roussin-energies.fr/entretien",
+      "title": "Entretenir vos équipements de chauffage"
+    },
+    "categories": [
+      {
+        "title": "Chaudières Gaz, Fioul, Bois / Granulés",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Chaudière",
+            "href": "https://www.roussin-energies.fr/entretien/chaudiere",
+            "title": "Entretenir chaudière"
+          },
+          {
+            "text": "Nos contrats d'entretien Chaudière",
+            "href": "https://www.roussin-energies.fr/mon-contrat-entretien",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Pompes à chaleur (PAC)",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Pompe à Chaleur",
+            "href": "https://www.roussin-energies.fr/entretien/pompe-a-chaleur",
+            "title": "Entretenir PAC"
+          }
+        ]
+      },
+      {
+        "title": "Poêles granulés, pellets et bois",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Poêle",
+            "href": "https://www.roussin-energies.fr/entretien/poele",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Climatisation",
+            "href": "https://www.roussin-energies.fr/entretien/climatisation",
+            "title": "Entretien et maintenance climatisation"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eaux et Chauffe-bains",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Chauffe-eau",
+            "href": "https://www.roussin-energies.fr/entretien/chauffe-eau",
+            "title": "Entretien et maintenance Chauffe-eau"
+          }
+        ]
+      },
+      {
+        "title": "Chauffage Central",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Plancher Chauffant",
+            "href": "https://www.roussin-energies.fr/entretien/plancher-chauffant",
+            "title": "Entretien et maintenance plancher chauffant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Dépannage",
+      "href": "https://www.roussin-energies.fr/depannage",
+      "title": "Dépannages chauffage et climatisation dans la région grenobloise"
+    },
+    "categories": [
+      {
+        "title": "Chaudières Gaz, Fioul, Bois / Granulés",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Chaudière",
+            "href": "https://www.roussin-energies.fr/depannage/chaudiere",
+            "title": "Dépanner une chaudière"
+          }
+        ]
+      },
+      {
+        "title": "Pompes à chaleur (PAC)",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Pompe à Chaleur",
+            "href": "https://www.roussin-energies.fr/depannage/pompe-a-chaleur",
+            "title": "Dépanner une PAC"
+          }
+        ]
+      },
+      {
+        "title": "Poêles granulés, pellets et bois",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Poêle",
+            "href": "https://www.roussin-energies.fr/depannage/poele",
+            "title": "Dépanner un poêle"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Climatisation",
+            "href": "https://www.roussin-energies.fr/depannage/climatisation",
+            "title": "Dépanner une climatisation"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eaux et Chauffe-bains",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Chauffe-eau",
+            "href": "https://www.roussin-energies.fr/depannage/chauffe-eau",
+            "title": "Dépanner un chauffe-eau"
+          }
+        ]
+      },
+      {
+        "title": "Chauffage Central",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Plancher Chauffant",
+            "href": "https://www.roussin-energies.fr/depannage/plancher-chauffant",
+            "title": "Dépanner un plancher chauffant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Plomberie Sanitaire",
+      "href": "https://www.roussin-energies.fr/plomberie-sanitaire",
+      "title": "Travaux de plomberie à grenoble et sa région"
+    },
+    "categories": []
+  },
+  {
+    "link": {
+      "text": "Professionnels",
+      "href": "https://www.roussin-energies.fr/professionnels",
+      "title": "CVC pour les professionnels"
+    },
+    "categories": []
+  }
+]

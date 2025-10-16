@@ -1,0 +1,216 @@
+[
+  {
+    "link": {
+      "text": "équipements",
+      "href": "https://www.gd-energies.fr/equipements",
+      "title": "Equipements chauffage et climatisation à Nîmes et dans le Gard (30)"
+    },
+    "categories": [
+      {
+        "title": "Pompes à chaleur (PAC)",
+        "link": {
+          "text": "Pompes à chaleur (PAC)",
+          "href": "https://www.gd-energies.fr/equipements/pompes-a-chaleur",
+          "title": "Pompe à chaleur air/eau à Nîmes"
+        }
+      },
+      {
+        "title": "Chaudières gaz",
+        "link": {
+          "text": "Chaudières gaz",
+          "href": "https://www.gd-energies.fr/equipements/chaudieres-gaz",
+          "title": "Tout savoir sur nos chaudières gaz dans le Gard"
+        }
+      },
+      {
+        "title": "Climatisations",
+        "link": {
+          "text": "Climatisations",
+          "href": "https://www.gd-energies.fr/equipements/climatisations",
+          "title": "Climatisation mono split et multi splits dans le Gard (30)"
+        }
+      },
+      {
+        "title": "Chauffe-eaux, Chauffe-bains",
+        "link": {
+          "text": "Chauffe-eaux, Chauffe-bains",
+          "href": "https://www.gd-energies.fr/equipements/chauffe-eaux-chauffe-bains",
+          "title": "Equipement chauffe-eaux et chauffe-bains à Nîmes"
+        }
+      },
+      {
+        "title": "Adoucisseurs d'eau",
+        "link": {
+          "text": "Adoucisseurs d'eau",
+          "href": "https://www.gd-energies.fr/equipements/adoucisseurs-eau",
+          "title": "Equipement adoucisseurs d'eau Nîmes"
+        }
+      },
+      {
+        "title": "Solaire Photovoltaïque",
+        "link": {
+          "text": "Solaire Photovoltaïque",
+          "href": "https://www.gd-energies.fr/equipements/panneaux-photovoltaiques",
+          "title": "Solaire photovoltaïque à Nîmes dans le Gard"
+        }
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Installation",
+      "href": "https://www.gd-energies.fr/installation",
+      "title": "Installation chauffage et climatisation"
+    },
+    "categories": [
+      {
+        "title": "Pompes à chaleur (PAC)",
+        "subLinks": [
+          {
+            "text": "Installer une Pompe à Chaleur",
+            "href": "https://www.gd-energies.fr/installation/pompes-a-chaleur",
+            "title": "Installation pompe à chaleur Nîmes"
+          }
+        ]
+      },
+      {
+        "title": "Chaudières gaz",
+        "subLinks": [
+          {
+            "text": "Installer une Chaudière gaz",
+            "href": "https://www.gd-energies.fr/installation/chaudieres-gaz",
+            "title": "installation chaudière gaz Nîmes"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Installer une Climatisation",
+            "href": "https://www.gd-energies.fr/installation/climatisations",
+            "title": "Installation climatisation à Nîmes"
+          }
+        ]
+      },
+      {
+        "title": "Eau Chaude Sanitaire (ECS)",
+        "subLinks": [
+          {
+            "text": "Installer un Chauffe-eau, Chauffe-bain",
+            "href": "https://www.gd-energies.fr/installation/chauffe-eaux-chauffe-bains",
+            "title": "installation chauffe-eaux et chauffe-bains"
+          }
+        ]
+      },
+      {
+        "title": "Adoucisseurs d'eau",
+        "subLinks": [
+          {
+            "text": "Installer un adoucisseur d'eau",
+            "href": "https://www.gd-energies.fr/installation/adoucisseurs-eau",
+            "title": "Installation adoucisseurs d'eau"
+          }
+        ]
+      },
+      {
+        "title": "Solutions Solaires",
+        "subLinks": [
+          {
+            "text": "Installer des panneaux Photovoltaïques",
+            "href": "https://www.gd-energies.fr/installation/panneaux-photovoltaiques",
+            "title": "devis panneaux solaires photovoltaïques Nîmes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Entretien",
+      "href": "https://www.gd-energies.fr/entretien",
+      "title": "Nos prestations d'entretien chauffage et climatisation"
+    },
+    "categories": [
+      {
+        "title": "Pompes à chaleur (PAC)",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Pompe à Chaleur",
+            "href": "https://www.gd-energies.fr/entretien/pompes-a-chaleur",
+            "title": "Entretien pompe à chaleur à Nîmes"
+          }
+        ]
+      },
+      {
+        "title": "Chaudières gaz",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Chaudière gaz",
+            "href": "https://www.gd-energies.fr/entretien/chaudieres-gaz",
+            "title": "Entretien chaudière gaz Nîmes"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Climatisation",
+            "href": "https://www.gd-energies.fr/entretien/climatisations",
+            "title": "Entretien climatisation à Nîmes"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eaux",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Chauffe-eau, Chauffe-bain",
+            "href": "https://www.gd-energies.fr/entretien/chauffe-eaux-chauffe-bains",
+            "title": "Entretien chauffe-eau et chauffe-bain à Nimes"
+          }
+        ]
+      },
+      {
+        "title": "Adoucisseurs d'eau",
+        "subLinks": [
+          {
+            "text": "Entretenir un adoucisseur d'eau",
+            "href": "https://www.gd-energies.fr/entretien/adoucisseurs-eau",
+            "title": "Entretien adoucisseurs d'eau"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Dépannage",
+      "href": "https://www.gd-energies.fr/depannage",
+      "title": "Nos prestations de dépannage chauffage et climatisation"
+    },
+    "categories": [
+      {
+        "title": "Chaudières gaz",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Chaudière gaz",
+            "href": "https://www.gd-energies.fr/depannage/chaudieres-gaz",
+            "title": "Dépannage chaudière gaz Nîmes"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eaux et Chauffe-bains",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Chauffe-eau, Chauffe-bain",
+            "href": "https://www.gd-energies.fr/depannage/chauffe-eaux-chauffe-bains",
+            "title": "Dépannage chauffe-eau et chauffe-bain"
+          }
+        ]
+      }
+    ]
+  }
+]

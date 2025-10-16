@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "La performance acoustique du chauffage réversible",
+  "seo": {
+    "title": "Chauffage réversible et performance acoustique",
+    "description": "Le niveau sonore généré par la climatisation impacte directement le confort à l'intérieur de l'habitat. SBF vous aide à choisir la solution adaptée à vos besoins",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "title": " La performance acoustique du chauffage réversible ",
+  "chapo": "Le niveau sonore ne doit pas impacter votre confort.",
+  "image": {
+    "src": "/upload/files/5ebd3b8320ca1494772800.jpg",
+    "alt": "La performance acoustique du chauffage réversible"
+  },
+  "intro": "<p>Quel serait l’intérêt d’installer un système de chauffage réversible pour disposer d’une chambre à température idéale toutes les nuits de l’année, au prix d’un puissant soufflement empêchant de dormir ?</p> <p>&nbsp;</p>",
+  "paragraphs": [
+    {
+      "title": "LA DISCRÉTION ABSOLUE DU SYSTÈME : UN IMPÉRATIF",
+      "text": "<p>Le niveau sonore généré par l'appareil impacte directement le confort à l'intérieur de l'habitat. Cette donnée est déterminante pour évaluer la qualité d'un système, et permet de faire son choix parmi les différents modèles. Le domaine acoustique a connu des progrès considérables : il n'est plus question de choisir entre performance et silence. Le niveau sonore des systèmes les plus aboutis est désormais quasi imperceptible par l'oreille humaine. Certaines gammes d'appareils proposent même une option « silence », pour les personnes ayant l'ouïe particulièrement fine.</p> <p>&nbsp;</p>"
+    },
+    {
+      "title": "L'ÉVALUATION DE LA PERFORMANCE ACOUSTIQUE",
+      "text": "<p>Pour assurer l'ambiance paisible de son intérieur, il est conseillé d'opter pour un appareil qui génère un niveau sonore de 22 dB(A), en fonctionnement à un mètre de distance (en petite vitesse de ventilation). Les systèmes de chauffage réversible les plus performants ne dépassent pas 19 dB(A), soit l'équivalent du son engendré par le bruissement d'une feuille. A titre comparatif, le niveau sonore est de 40 dB(A) à l'intérieur d'une bibliothèque, de 60 dB(A) au sein de l'habitacle d'une voiture et de 80 dB(A) dans un métro en circulation.</p> <p>Cette information essentielle est communiquée par les fabricants sur les brochures et notices des appareils.</p> <p>&nbsp;</p>"
+    },
+    {
+      "title": "BON À SAVOIR",
+      "text": "<p>Suivant une échelle logarithmique et non linéaire, l'unité « décibel » peut être trompeuse. Ainsi, ajouter 3 décibels signifie, approximativement, le doublement du niveau sonore. L'écart entre deux appareils pourrait donc paraître a priori anodin à un néophyte, alors qu'il serait en fait très important en termes de ressenti.</p>"
+    }
+  ]
+}

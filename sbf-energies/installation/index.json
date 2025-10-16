@@ -1,0 +1,67 @@
+{
+  "breadcrumb": "Installation",
+  "seo": {
+    "title": "Installation chauffage en Savoie | SBF Energies",
+    "description": "SBF Energies vous accompagne dans l'installation de vos équipements. Mise en place par notre propre personnel constitué de professionnels qualifiés.",
+    "opengraph": {
+      "site_name": "SBF Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Installation chauffage en Savoie | SBF Energies",
+      "description": "SBF Energies vous accompagne dans l'installation de vos équipements. Mise en place par notre propre personnel constitué de professionnels qualifiés.",
+      "image": {
+        "src": "https://www.sbf-energies.com/build/images/sbf-energies-service-installation-339x249.f31eed86.jpg",
+        "alt": "Installation du chauffage par SBF Energies"
+      }
+    }
+  },
+  "hero": {
+    "title": "Installation de chauffage réversible en Savoie",
+    "subtitle": "Faîtes appel à des expert pour l'installation de votre chauffage réversible"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.sbf-energies.com/build/images/sbf-energies-service-installation-339x249.f31eed86.jpg",
+      "alt": "Installation du chauffage par SBF Energies"
+    },
+    "text": "<p>Les propriétaires ont aujourd'hui le choix entre différents types de chauffages. Les anciennes chaudières au fioul sont amenées à disparaître, au profit de modes de chauffage plus performants, plus économiques et surtout, plus écologiques. SBF Energies est une entreprise spécialisée dans le <a href=\"https://www.sbf-energies.com\" title=\"SBF Energies entreprise spécialisé dans le génie climatique\">génie climatique</a> et les installations de chauffage à <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-chambery\" title=\"Chauffagiste Frigoriste Chambery\">Chambéry</a>, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-rumilly\" title=\"Chauffagiste Frigoriste Rumilly\">Rumilly</a>, Annecy, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-aix-les-bains\" title=\"Chauffagiste Frigoriste Aix Les Bains\">Aix-les-Bains</a> et environs.</p><p>Dans le neuf comme en rénovation SBF Energies s'appuie sur son expertise pour proposer des solutions adaptées aux propriétaires occupants et propriétaires bailleurs.</p><p>Chaque proposition fait l'objet d'une étude garantissant la meilleure correspondance entre vos besoins et notre solution technique : dimensionnement du matériel, confort acoustique, faisabilité de la pose.</p><p>L'étude comporte aussi un volet économique où la réduction de la facture énergétique est prépondérante pour une rentabilité optimale de l'équipement fourni. Nous vous accompagnons tout au long de la réalisation de vos projets : dossier d'aide financière, dossier de financement, respect des normes réglementaires, ...</p>"
+  },
+  "teasers": [
+    {
+      "title": "Petit panorama des modes de chauffage actuels",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Des économies d'énergie avec la pompe à chaleur",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "A la découverte de la PAC air-eau",
+      "text": "<p>La PAC air/eau dispose d'une unité extérieure qui pompe l'énergie de l'air pour chauffer, via une unité intérieure, l'eau d'un circuit de chauffage. Les PAC basse température seront idéalement combinées avec un plancher chauffant, tandis que les pompes à chaleur moyenne ou haute température peuvent être branchées sur un circuit classique de radiateurs. L'innovation technologique que présentent ces PAC de nouvelle génération permet d'envisager une <a href=\"/installation/pompe-a-chaleur\" title=\"installateur de pompe à chaleur\">installation de pompe à chaleur</a> comme chauffage principal même dans des régions montagneuses comme en Savoie. La PAC air/eau permet aussi la production d'eau chaude sanitaire.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "L'avis de nos clients sur nos prestations d'installation",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/5cfd52c8-0b49-c374-b5f6-0e012ecbc665/0cff2c22-af52-4b0a-9ef2-61b6ebc786aa.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "breadcrumb": "Entretien",
+  "seo": {
+    "title": "Entretien d'équipements de chauffage à Nice, Menton, Saint-Laurent-du-Var",
+    "description": "Maintenance et entretien d'équipements de chauffage. Contrat de maintenance ou entretien ponctuel nous intervenons sur Nice et dans les Alpes-Maritimes",
+    "opengraph": {
+      "site_name": "EGS Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Entretien d'équipements de chauffage à Nice, Menton, Saint-Laurent-du-Var",
+      "description": "Maintenance et entretien d'équipements de chauffage. Contrat de maintenance ou entretien ponctuel nous intervenons sur Nice et dans les Alpes-Maritimes",
+      "image": {
+        "src": "https://www.egs-energies.fr/build/images/egs-energies-service-entretien.456x334.44a1fbec.jpg",
+        "alt": "Entretien de vos équipements de chauffage et de production d'eau chaude par votre chauffagiste EGS Energies (ex-Electrogaz)"
+      }
+    }
+  },
+  "hero": {
+    "title": "Entretien de vos équipements de chauffage et d'eau chaude",
+    "subtitle": "Préservez et améliorez les performances de votre installation de chauffage et de climatisation"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.egs-energies.fr/build/images/egs-energies-service-entretien.456x334.44a1fbec.jpg",
+      "alt": "Entretien de vos équipements de chauffage et de production d'eau chaude par votre chauffagiste EGS Energies (ex-Electrogaz)"
+    },
+    "text": "<p>L'entretien de votre installation est obligatoire en fonction de la source d'alimentation et du type d'appareil. Cette visite annuelle est indispensable pour garantir le fonctionnement optimal, quel que soit votre type d'appareil de chauffage, de production d'eau chaude ou de climatisation. C'est aussi l'occasion d'obtenir les bons conseils et recommandations de votre technicien expert. EGS Energies intervient pour réaliser :</p><p>• <a href=\"/entretien/chaudiere-gaz\" title=\"Entretien chaudière gaz à nice\">l'entretien de votre chaudière gaz</a><br>• <a href=\"/entretien/chaudiere-fioul\" title=\"Entretien chaudière fioul à Saint-Laurent-du-Var\">l'entretien de votre chaudière fioul</a><br>• <a href=\"/entretien/chauffe-eau-gaz\" title=\"Entretien chauffe-eau gaz\">l'entretien de votre chauffe-eau gaz</a><br>• <a href=\"/entretien/climatisation-pompe-a-chaleur\" title=\"Entretien climatisation ou pompe à chaleur\">l'entretien de votre climatisation ou pompe à chaleur (PAC)</a><br>• <a href=\"/entretien/desembouage\" title=\"Désembouage de votre installation de chauffage\">Désembouage de votre installation de chauffage</a><br>• <a href=\"/entretien/ramonage\" title=\"Ramonage de cheminées et conduits\">Ramonage de cheminées et conduits</a></p>"
+  },
+  "teasers": [
+    {
+      "title": "L'entretien des chauffe-eaux solaires",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "L'entretien des chauffe-eaux thermodynamiques",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "L'entretien des appareils de chauffage au bois",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "L'intérêt d'un contrat annuel d'entretien",
+      "text": "<p>Pour votre logement situé à <a href=\"https://www.egs-energies.fr/chauffage-nice\" title=\"Chauffage Nice\">Nice</a>, <a href=\"https://www.egs-energies.fr/chauffage-grasse\" title=\"Chauffage Grasse\">Grasse</a>, <a href=\"https://www.egs-energies.fr/chauffage-cannes\" title=\"Chauffage Cannes\">Cannes</a> ou <a href=\"https://www.egs-energies.fr/chauffage-antibes\" title=\"Chauffage Antibes\">Antibes</a>, il est possible de prendre rendez-vous chaque année avec les experts d'EGS Energies pour la visite annuelle ou d'opter pour l'une de nos formules d'abonnement. Cette solution vous offre une grande tranquillité d'esprit ; vous n'aurez même plus à y penser : EGS Energies (anciennement Electrogaz) vous contacte et fixe un RDV en fonction de vos disponibilités.</p><p>Quel que soit l'abonnement choisi, un accès prioritaire vous est réservé en cas de dépannage. Selon la formule sélectionnée, vous pouvez aussi profiter de la prise en charge illimitée des dépannages de votre appareil.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "L'avis de nos clients sur nos prestations d'entretien",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/4abbda16-78da-a354-0daa-c56b134ab920/316232b6-aa78-46f5-9e6f-f74356aeeec8.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

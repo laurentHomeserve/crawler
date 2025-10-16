@@ -1,0 +1,55 @@
+{
+  "breadcrumb": "Poele granules bois",
+  "seo": {
+    "title": "Contactez Roussin Energies pour un poêle dans la région de Grenoble",
+    "description": "Pour le dépannage et l'entretien d'un poêle à bois ou à granulés dans la région de Grenoble, Roussin Energies est votre interlocuteur privilégié.",
+    "opengraph": {
+      "site_name": "Roussin Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Contactez Roussin Energies pour un poêle dans la région de Grenoble",
+      "description": "Pour le dépannage et l'entretien d'un poêle à bois ou à granulés dans la région de Grenoble, Roussin Energies est votre interlocuteur privilégié.",
+      "image": {
+        "src": "https://www.roussin-energies.fr/build/images/roussin-energies-equipement-poele-a-granules-pellets-456x334.695a0e69.jpg",
+        "alt": "Equipements poêle"
+      }
+    }
+  },
+  "hero": {
+    "title": "Les poêles à granulés et bois à Domène, Villard-Bonnot, Le Versoud, Bernin, Crolles, Lumbin, Le Touvet, ... et ses environs",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.roussin-energies.fr/build/images/roussin-energies-equipement-poele-a-granules-pellets-456x334.695a0e69.jpg",
+      "alt": "Equipements poêle"
+    },
+    "text": "<p>Vous habitez près de <a href=\"https://www.roussin-energies.fr/chauffage-grenoble\" title=\"Chauffage Grenoble\">Grenoble</a> à <a href=\"https://www.roussin-energies.fr/chauffage-domene\" title=\"Chauffage Domene\">Domène</a>, <a href=\"https://www.roussin-energies.fr/chauffage-villard-bonnot\" title=\"Chauffage Villard Bonnot\">Villard Bonnot</a>, <a href=\"https://www.roussin-energies.fr/chauffage-le-versoud\" title=\"Chauffage Le Versoud\">Le Versoud</a>, ... et vous souhaitez adopter le chauffage au poêle ?</p> <p>Contactez les experts de chez Roussin Energies pour obtenir toutes les informations nécessaires pour le dépannage et l'entretien d'un poêle à bois ou à granulés. Fonctionnant selon le principe de l'énergie renouvelable, le poêle est <b>un moyen de chauffage aussi écologique qu'économique</b>. En installer un dans votre habitation de la région grenobloise vous permettra de faire des économies d'énergie, tout en vous assurant un système de chauffage efficace.</p> <p>Aujourd'hui, le poêle est un <b>équipement technologique</b> performant, facile à utiliser et à programmer. Il peut être utilisé comme chauffage d'appoint ou principal.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Toute notre expertise poêles à bois ou granulés",
+      "text": "<p>Pour l'entretien ou le dépannage d'un poêle à <a href=\"https://www.roussin-energies.fr/chauffage-crolles\" title=\"Chauffage Crolles\">Crolles</a>, Grenoble ou Bertin, adressez-vous à Roussin Energies, votre plombier-chauffagiste certifié RGE (Reconnu Garant de l'Environnement). Nous pouvons également vous conseiller pour choisir un poêle correspondant à vos exigences mais également, selon critères, des aides disponibles pour l'installation de ce type d'équipement.</p> <h3>Le poêles à bois</h3> <p>S'alimentant avec le <b>combustible le moins cher du marché</b>, le poêle à bois présente un rendement énergétique de 85%. Il est parfait pour compléter le chauffage central assuré par une chaudière ou une pompe à chaleur ou pour chauffer une pièce individuelle... mais aussi pour créer une atmosphère chaleureuse, éclairée par les flammes.</p> <h3>Le poêles à granulés (ou pellets)</h3> <p>Pour chauffer un logement de petites dimensions ou pour servir de pendant à vos radiateurs, vous pouvez également opter pour un poêle à granulés, dont le rendement est équivalent à celui d'un poêle à bois. Les pellets, peu coûteux, sont fabriqués à partir de sciures et sont plus faciles à stocker que les bûches. De plus, leur taux d'humidité étant inférieur de moitié à celui du bois, ils ont un pouvoir calorifique plus élevé. À pellets ou à bois, les poêles fonctionnent de manière <b>autonome</b> et peuvent être programmés à votre convenance.</p> <hr>"
+    },
+    {
+      "title": "Contactez Roussin Energies pour le dépannage ou l'entretien (ramonage) de votre poêle",
+      "text": "<p>L'installation d'un poêle à bois ou à granulés requiert l'existence ou la création d'un conduit d'évacuation. Celui-ci pourra être raccordé à la cheminée si vous en possédez une, ou conçu sur mesure afin que les fumées du poêle puissent s'évacuer à l'extérieur.</p> <p>Nous réalisons l'entretien de votre poêle tout au long de l'année. Au Touvet, à Crolles, Domène et Lumbin, des techniciens certifiés Qualibois air/eau procèdent au ramonage de votre poêle et contrôlent son bon fonctionnement. Ils interviennent toute l'année pour des dépannages en urgence, que le problème soit d'origine mécanique ou électronique.</p> <hr>"
+    }
+  ],
+  "related": {
+    "title": "Consultez nos services liés aux poêles à granules et poêles à bois",
+    "links": [
+      {
+        "text": "Dépannage de votre poêle à bois ou granulés",
+        "href": "/depannage/poele",
+        "title": ""
+      },
+      {
+        "text": "Entretien de votre poêle",
+        "href": "/entretien/poele",
+        "title": ""
+      }
+    ]
+  },
+  "url": "https://www.roussin-energies.fr/equipements/poele-granules-bois"
+}

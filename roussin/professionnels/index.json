@@ -1,0 +1,67 @@
+{
+  "breadcrumb": "Professionnels",
+  "seo": {
+    "title": "Roussin Energies, votre chauffagiste pour pros à Grenoble",
+    "description": "Pour votre hôtel, restaurant, commerce, agence, bureau ou copropriété, contactez Roussin Energies, un chauffagiste pour pro dans la région de Grenoble.",
+    "opengraph": {
+      "site_name": "Roussin Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Roussin Energies, votre chauffagiste pour pros à Grenoble",
+      "description": "Pour votre hôtel, restaurant, commerce, agence, bureau ou copropriété, contactez Roussin Energies, un chauffagiste pour pro dans la région de Grenoble.",
+      "image": {
+        "src": "https://www.roussin-energies.fr/build/images/roussin-energies-professionnels-456x334.fa29a72d.jpg",
+        "alt": "Roussin energies professionnels"
+      }
+    }
+  },
+  "hero": {
+    "title": "Roussin Energies : nos services pour les professionnels à Grenoble",
+    "subtitle": "Toute notre expertise chauffage et climatisation pour les hôtels, restaurants, commerces, bureaux à Grenoble et environs"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.roussin-energies.fr/build/images/roussin-energies-professionnels-456x334.fa29a72d.jpg",
+      "alt": "Roussin energies professionnels"
+    },
+    "text": ""
+  },
+  "teasers": [
+    {
+      "title": "Contactez un chauffagiste pour équiper votre hôtel-restaurant",
+      "text": "<p>Agrémentez votre hôtel-restaurant dans la région grenobloise d'un système de chauffage fiable, performant et peu gourmand en énergie ! Contactez Roussin Energies pour en savoir plus sur les différentes options disponibles, conformes aux <b>normes environnementales en vigueur</b>.</p> <p>Pompe à chaleur, chaudière à condensation ou à basse température, radiateurs ou planchers chauffants... Les experts de Roussin Energies vous aident à faire le meilleur choix pour le chauffage et la production d'eau sanitaire de votre établissement.</p> <hr>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Contrat de maintenance et entretien du chauffage pour les professionnels",
+      "text": "<p>Non seulement Roussin Energies assure l'installation du système de chauffage le plus adapté à votre local commercial, mais l'entreprise vous propose <b>un contrat de maintenance à la mesure de vos besoins</b>. En effet, fortement sollicitées pendant les mois froids, votre chaudière à gaz ou à fioul, votre pompe à chaleur ou climatisation, requièrent un entretien régulier : nettoyage des conduits, contrôle des pièces, recharge en gaz frigorigène... Confiez votre confort à des mains compétentes !</p> <hr>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Entretenez le système de chauffage de votre agence et de votre bureau",
+      "text": "<p>Votre agence de gestion locative ou votre bureau est l'endroit où vous passez l'essentiel de vos journées, où vous négociez avec vos partenaires, où vous recevez vos clients. Il est donc essentiel d'assurer à vos locaux professionnels autant de confort que dans votre habitation, avec un <b>système de chauffage efficace</b> et éventuellement de climatisation pour faire face aux chaudes journées d'été. Dans la région de Grenoble, Roussin installe, entretient et répare les systèmes de chauffage des pros.</p> <hr>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Une copropriété toujours bien chauffée avec Roussin Energies",
+      "text": "<p>Si vous avez la responsabilité d'une copropriété, vous souhaitez certainement l'équiper du système de chauffage le plus performant et le plus fiable possible. Entre une chaudière à condensation alimentée au gaz de ville et une chaudière à basse température, quelle est <b>la solution la plus efficace et la plus économique</b> pour l'ensemble des logements dont se compose la copropriété ?</p> <p>Roussin Energies, votre chauffagiste pro dans la région grenobloise, répond à toutes vos questions et vous aide à choisir la meilleure option, puis à l'installer et à l'entretenir.</p> ",
+      "link": {
+        "href": "/nous-contacter",
+        "text": "Vous êtes un professionnel ? Cliquez ici pour nous contacter !",
+        "title": ""
+      }
+    }
+  ]
+}

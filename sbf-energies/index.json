@@ -1,0 +1,137 @@
+{
+  "breadcrumb": "",
+  "seo": {
+    "title": "Chauffagiste & Frigoriste en Savoie | SBF Energies",
+    "description": "Sérénité et simplicité grâce à notre expertise dans le domaine du génie climatique à Chambery | Installation, dépannage et entretien.",
+    "opengraph": {
+      "site_name": "SBF Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Chauffagiste & Frigoriste en Savoie | SBF Energies",
+      "description": "Sérénité et simplicité grâce à notre expertise dans le domaine du génie climatique à Chambery | Installation, dépannage et entretien.",
+      "image": {
+        "src": "https://www.sbf-energies.com/asset/img/organisation/corporate/sbf/climatisation-sbf-energies.jpg",
+        "alt": ""
+      }
+    }
+  },
+  "hero": {
+    "title": "Votre expert en solutions de chauffage et climatisation en Savoie",
+    "subtitle": "Entretenir, installer et dépanner vos appareils de chauffages et climatisations en Savoie : Chambery, Aix-les-Bains, La Motte-Servolex, ..."
+  },
+  "expertises": [
+    {
+      "linked": "/installation",
+      "sticker": "Installation & Remplacement",
+      "title": "Installation ou Remplacementde vos équipements de chauffage et climatisation",
+      "img": {
+        "src": "/build/images/sbf-energies-installation-pompe-a-chaleur-360x240.89a388a7.jpg",
+        "alt": "Installation & Remplacement"
+      },
+      "content": "Vous envisagez de faire installer ou de remplacer votre chauffage en Savoie ? Les techniciens expérimentés de SBF Energies vous donneront de précieux conseils pour choisir l'installation la plus adaptée à vos besoins et votre budget.",
+      "button": {
+        "text": "Obtenir un devis gratuit",
+        "title": "installation équipement de chauffage"
+      }
+    },
+    {
+      "linked": "/entretien",
+      "sticker": "Entretien & Maintenance",
+      "title": "Maintenance et Entretiende vos équipements de chauffageet climatisation",
+      "img": {
+        "src": "/build/images/sbf-energies-service-entretien-360x240.1060e0be.jpg",
+        "alt": "Entretien & Maintenance"
+      },
+      "content": "L'entretien de certains matériels est une obligation légale ; c'est pour cela que nous vous proposons un service d'entretien annuel de vos installations. Grâce à ces visites obligatoires, vous serez certains d'être en sécurité tout en réalisant des économies substantielles.",
+      "button": {
+        "text": "Entretenir un équipement",
+        "title": "Entretien équipement de chauffage"
+      }
+    },
+    {
+      "linked": "/depannage",
+      "sticker": "Dépannage & Réparation",
+      "title": "Dépannage et Réparationde vos équipements de chauffage et climatisation",
+      "img": {
+        "src": "/build/images/sbf-energies-service-depannage-360x240.71993241.jpg",
+        "alt": "Dépannage & Réparation"
+      },
+      "content": "Pompe à chaleur, climatisation, chauffe eau thermodynamique en panne ? Contactez-nous, nos experts interviennent à domicile chez les particuliers et professionnels sous les 24 heures à 48 heures et sur tout type d'équipement.<br>&nbsp;",
+      "button": {
+        "text": "Être dépanné rapidement",
+        "title": "Intervention de dépannage rapide"
+      }
+    }
+  ],
+  "certification": {
+    "title": "Professionnels RGE, nous disposons de différentes certifications, gages de notre savoir-faire",
+    "content": "",
+    "logos": [
+      {
+        "src": "/build/images/mitsubishi-electric.c104bf9e.jpg",
+        "alt": "Mitsubishi Electric"
+      },
+      {
+        "src": "/build/images/qualipac-rge.7b087819.png",
+        "alt": "QualiPAC RGE"
+      },
+      {
+        "src": "/build/images/professionnel-du-gaz_v3.b6da17cf.png",
+        "alt": "Professionnel du gaz"
+      }
+    ]
+  },
+  "partner": {
+    "title": "Quels sont les produits proposés par SBF Energies frigoriste et chauffagiste (Chambéry/Savoie) ?",
+    "content": "Notre entreprise de génie climatique implantée proche de <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-chambery\" title=\"Chauffagiste Frigoriste Chambery\">Chambéry</a> en Savoie, vous propose un large choix de produits dans les domaines du chauffage (pompes à chaleur air/eau, chaudière au gaz, chauffe-eaux thermodynamiques, et planchers chauffants) et de la climatisation. De même, nous avons noué des partenariats solides avec les plus grandes marques reconnues pour leur expertise et leur fiabilité : Mitsubishi Electric, De Dietrich, Seda Réfrigération, Hoshizaki, Atlantic, LG, Airwell, Daikin, Thermor, entre autres... Outre la qualité des marques sélectionnées avec le plus grand soin par SBF Energies, vous bénéficierez de nos conseils et de notre expérience, pour choisir l'installation la plus adaptée à vos besoins. Nous avons à cœur de vous proposer des prestations à forte valeur ajoutée afin de vous faire réaliser d'importantes économies. <a href=\"/equipements\">En savoir plus sur nos équipements de chauffage et de climatisation</a>",
+    "logos": [
+      {
+        "src": "/build/images/mitsubishi-electric-partner.4a0a55b1.jpg",
+        "alt": "Mitsubishi Electric"
+      },
+      {
+        "src": "/build/images/daikin.b596ffed.jpg",
+        "alt": "Daikin"
+      },
+      {
+        "src": "/build/images/toshiba.cf0f2b5d.jpg",
+        "alt": "Toshiba"
+      },
+      {
+        "src": "/build/images/samsung_v2.20393bdd.jpg",
+        "alt": "Samsung"
+      },
+      {
+        "src": "/build/images/thermor.ebca3d3f.jpg",
+        "alt": "Thermor"
+      },
+      {
+        "src": "/build/images/hitachi.477f6b1d.png",
+        "alt": "Hitachi"
+      },
+      {
+        "src": "/build/images/atlantic_v2.2245d704.jpg",
+        "alt": "Atlantic"
+      },
+      {
+        "src": "/build/images/frisquet_v2.24a19b59.png",
+        "alt": "Frisquet"
+      }
+    ]
+  },
+  "map": {
+    "title": "Entreprise experte en pompe à chaleur, chaudière gaz et climatisation : où intervenons-nous ?",
+    "content": "<p>Notre société est située à La-Motte-Servolex, proche de <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-chambery\" title=\"Chauffagiste Frigoriste Chambery\">Chambéry</a>, et intervient dans le département de la Savoie pour l'installation, l'entretien et le dépannage des appareils de chauffage (pompe à chaleur, chaudière à gaz, chauffe-eau thermodynamique, etc.) et climatisation. Vous pouvez avoir pleinement confiance dans notre entreprise à taille humaine, dont la priorité est la satisfaction de nos clients et la qualité de service. Nous proposons notre expertise à aux particuliers et professionnels.</p><p>Nos interventions s'effectuent dans les villes de Chambéry, La Motte Servolex, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-rumilly\" title=\"Chauffagiste Frigoriste Rumilly\">Rumilly</a>, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-aix-les-bains\" title=\"Chauffagiste Frigoriste Aix Les Bains\">Aix-les-Bains</a>, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-pontcharra\" title=\"Chauffagiste Frigoriste Pontcharra\">Pontcharra</a> et alentours. <a href=\"/qui-sommes-nous/zones-intervention\">Nos techniciens interviennent dans toute la Savoie, cliquez ici pour découvrir nos zones d'intervention</a></p><br>",
+    "map": {
+      "lat": 45.5903682,
+      "lng": 5.8863598,
+      "zoom": 11,
+      "title": "SBF Energies",
+      "content": "<h3 style=\"font-size:1.1em\">SBF Energies</h3><p>401 rue des Champagnes,<br/>73290 La Motte Servolex</p><p>Adresse email : info@sbf-energies.com</p><p>Téléphone : 04 82 29 47 28</p>"
+    }
+  },
+  "presentation": {
+    "title": "SBF Energies votre chauffagiste à Chambéry et dans toute la Savoie",
+    "content": "L'offre est très étendue et le choix parfois difficile à faire, aussi SBF Energies vous accompagne dans votre projet, vous informant de façon précise et documentée pour faciliter votre prise de décision, aussi à l'aise avec les particuliers qu'avec les professionnels. SBF Energies est spécialiste multi-énergies et peut donc vous orienter vers la solution qui vous correspond, en prenant en compte les caractéristiques de votre logement et vos besoins. Que ce soit dans le secteur du chauffage par l'installation d'une pompe à chaleur, d'une chaudière gaz ou d'un chauffe-eau thermodynamique ou de la climatisation, SBF Energies est sensible aux enjeux environnementaux et s'emploie à vous proposer au maximum des équipements durables, avec un rendement énergétique optimisé et des matériaux conçus pour durer longtemps."
+  }
+}

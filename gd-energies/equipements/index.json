@@ -1,0 +1,76 @@
+{
+  "breadcrumb": "Equipements",
+  "seo": {
+    "title": "Solutions de chauffage et de climatisation dans le Gard  | GD Energies",
+    "description": "Découvrez nos chaudières gaz, climatisations réversibles, pompes à chaleur air-eau et chauffe-eaux, chauffe-bains pour votre maison dans le Gard : à Nîmes, Uzès, Beaucaire, Aramon, etc.",
+    "opengraph": {
+      "site_name": "GD Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Solutions de chauffage et de climatisation dans le Gard  | GD Energies",
+      "description": "Découvrez nos chaudières gaz, climatisations réversibles, pompes à chaleur air-eau et chauffe-eaux, chauffe-bains pour votre maison dans le Gard : à Nîmes, Uzès, Beaucaire, Aramon, etc.",
+      "image": {
+        "src": "https://www.gd-energies.fr/build/images/gd-energies-equipement-456x334.4b37cd18.jpg",
+        "alt": "Découvrez nos solutions de chauffage et de climatisation dans le Gard"
+      }
+    }
+  },
+  "hero": {
+    "title": "Nos équipements de chauffage et de climatisation : votre confort thermique dans le Gard avec GD Energies",
+    "subtitle": "Installation, entretien et dépannage de vos systèmes de chauffage et de climatisation autour de Nîmes"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.gd-energies.fr/build/images/gd-energies-equipement-456x334.4b37cd18.jpg",
+      "alt": "Découvrez nos solutions de chauffage et de climatisation dans le Gard"
+    },
+    "text": "<p>Depuis plus de 50 ans, notre équipe d'experts accompagne les particuliers et les professionnels dans le choix, l'installation et l'entretien d'équipements de chauffage, d'eau chaude sanitaire et de climatisation performants et éco-responsables.</p><p>Notre mission ? Vous offrir un confort optimal en toutes saisons et des marques de qualité, tout en réduisant votre impact environnemental et vos factures énergétiques.</p><p>Nos plombiers chauffagistes interviennent dans le Gard, dans un rayon de 35 kilomètres autour de <a href=\"https://www.gd-energies.fr/chauffage-nimes\" title=\"Chauffage Nimes\">Nîmes</a>, ainsi qu'autour du <a href=\"https://www.gd-energies.fr/chauffage-grau-du-roi\" title=\"Chauffage Grau Du Roi\">Grau-du-Roi</a>.</p><p>&nbsp;</p>"
+  },
+  "teasers": [
+    {
+      "title": "Un large éventail d'équipements et de services",
+      "text": "<p>Chez GD Energies, vous trouverez :</p><ul><li>Une large gamme d'<a href=\"/qui-sommes-nous/certifications-et-marques\" title=\"Nos marques d'équipements\">équipements de grandes marques</a>, sélectionnés pour leur performance, leur fiabilité et leur durabilité : .</li><li>Des <strong>conseils personnalisés</strong> délivrés par nos experts pour vous aider à choisir la solution la plus adaptée à vos besoins et à votre budget.</li><li>Une installation réalisée par des <strong>professionnels qualifiés</strong> pour une mise en service rapide et conforme aux normes.</li><li>Un <strong>service après-vente réactif</strong> pour assurer le bon fonctionnement de vos installations dans le temps.</li><li>Des <strong>contrats d'entretien sur-mesure</strong> pour garantir la performance et la longévité de vos équipements.</li><li>Des <strong>solutions de financement</strong> pour faciliter l'accès à nos produits et services.</li></ul><ul><li>Un engagement fort en matière de développement durable, avec nos solutions à énergies renouvelables.</li><li>Une implication locale : nous sommes fiers de participer à la dynamique économique de notre région, auprès des Gardois et des Gardoises.</li><li>Une équipe à votre écoute pour répondre à toutes vos questions et vous accompagner dans votre projet.</li></ul>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Nos solutions de chauffage : pompes à chaleur, chaudières et accessoires",
+      "text": "<p>GD Energies vous propose une large gamme d'équipements de chauffage pour la maison. Nous installons, entretenons et dépannons vos systèmes de chauffage :</p><ul><li>chaudières à condensation THPE</li><li>chaudières basse température</li><li>pompes à chaleur air-eau</li><li>pompes à chaleur air-air (climatisation réversible)</li><li>pompes à chaleur hybride</li></ul><p>Solution au gaz ou à énergie renouvelable, nos experts vous conseillent pour choisir le système de chauffage le plus adapté à vos besoins et aux caractéristiques de votre logement. Nos équipes se déplacent par exemple à Nîmes, Calvisson, Vergèze, Vézénobres, ou encore Tarascon.</p><p>Nous vous proposons notamment des chaudières de marque Saunier-Duval, Frisquet, Atlantic, ELM Leblanc, De Dietrich ou encore Chaffoteaux.</p><p><i></i> <a title=\"Découvrir les pompes à chaleur\" href=\"https://www.gd-energies.fr/equipements/pompes-a-chaleur\">En savoir plus sur les pompes à chaleur</a><br><i></i> <a title=\"Découvrir nos chaudières\" href=\"https://www.gd-energies.fr/equipements/chaudieres-gaz\">En savoir plus sur les chaudières</a></p><h3>GD Energies est une entreprise certifiée RGE Chauffage+ et QualiPAC</h3>",
+      "link": {
+        "href": "https://www.gd-energies.fr/equipements/pompes-a-chaleur",
+        "text": "En savoir plus sur les pompes à chaleurEn savoir plus sur les chaudières",
+        "title": "Découvrir les pompes à chaleur"
+      }
+    },
+    {
+      "title": "Nos équipements pour votre eau chaude sanitaire : chauffe-eaux et chauffe-bains",
+      "text": "<p>Chez GD Energies, nous vous proposons également des solutions d'eau chaude sanitaire sur mesure, flexibles et économiques, s'adaptant à vos besoins et à votre budget.</p><p>Contactez-nous pour installer, entretenir ou dépanner votre <strong>chauffe-eau thermodynamique</strong>, votre <strong>chauffe-eau électrique</strong> (cumulus) ou votre chauffe-eau / <strong>chauffe-bain gaz</strong>. Nos plombiers chauffagistes vous aident à choisir le système adapté avec la bonne capacité pour votre production d'eau chaude.</p>",
+      "link": {
+        "href": "https://www.gd-energies.fr/equipements/chauffe-eaux-chauffe-bains",
+        "text": "En savoir plus sur les chauffe-eaux gaz, thermodynamiques et électriques",
+        "title": "Découvrir nos chauffe-eaux"
+      }
+    },
+    {
+      "title": "Nos équipements de climatisation split et gainable",
+      "text": "<p>GD Energies assure également la pose, la maintenance et la réparation de vos <strong>systèmes de climatisation</strong>.</p><p>Nos climaticiens vous accompagnent pour trouver la pompe à chaleur air-air qui coche toutes les cases selon vos envies et vos besoins. Ils étudient votre logement, ses déperditions et ses apports de chaleur et vos usages pour vous proposer une climatisation réversible efficace toute l'année, en mode chaud comme en mode froid. Ils prennent également en compte d'autres critères qui peuvent être d'importance pour vous : taille, design, niveau sonore, fonctionnalités avancées, marque précise (Mitsubishi Electric, Atlantic, Thermor, Hitachi, etc.).</p><p>Contactez GD Energies pour tous vos projets de climatisation autour de Nîmes, du Grau-du-Roi, de <a href=\"https://www.gd-energies.fr/chauffage-vauvert\" title=\"Chauffage Vauvert\">Vauvert</a>, <a href=\"https://www.gd-energies.fr/chauffage-milhaud\" title=\"Chauffage Milhaud\">Milhaud</a> ou encore <a href=\"https://www.gd-energies.fr/chauffage-beaucaire\" title=\"Chauffage Beaucaire\">Beaucaire</a>.</p>",
+      "link": {
+        "href": "https://www.gd-energies.fr/equipements/climatisations",
+        "text": "En savoir plus sur les climatiseurs réversibles split et gainable",
+        "title": "Découvrir les climatisations réversibles"
+      }
+    },
+    {
+      "title": "Nos atouts et nos services services associés",
+      "text": "<h3>Des professionnels multi-énergies qui interviennent rapidement</h3><p>GD Energies, anciennement connu sous le nom de <a href=\"https://www.gd-energies.fr/gaz-depannage\">Gaz Dépannage Nîmes Plomberie</a>, c'est un expert historique du gaz depuis 1975 et membre du réseau <strong>Professionnel du Gaz</strong>. Nous intervenons sur les chaudières à gaz, chauffe-eaux, chauffe-bains et radiateurs à gaz. Mais GD Energies, c'est aussi bien plus. Nos équipes bénéficient aussi d'une forte expertise autour des <strong>pompes à chaleur</strong> air-eau et air-air, pour le chauffage et la climatisation de votre maison.</p><p>En <a href=\"/qui-sommes-nous\" title=\"Histoire GD Energies\">plus de cinquante ans d'existence</a>, nous avons eu aussi le temps de nous spécialiser dans les <strong>interventions d'urgence</strong> et sommes aujourd'hui une référence sur Nîmes, en atteste notre qualification <strong>QualiSAV</strong>. Nous assurons aussi la pose et l'entretien de vos <strong>adoucisseurs d'eau</strong>, des appareils précieux dans le Gard. Pour nos adoucisseurs comme pour nos chaudières et chauffe-eaux, nous vous proposons des contrats d'entretien sur-mesure.</p><h3>Des services complémentaires</h3><p>Nous offrons également à nos clients des services de plomberie sanitaire. Nous couvrons les réparations du quotidien et posons des équipements sanitaires : installation de salle de bain, baignoire, douche, toilette, évier, lavabo, robinetterie, etc.</p><p>Enfin, en qualité de <strong>mandataire</strong>, lorsque vous faites appel à GD Energies et êtes éligibles à des aides financières (<strong>CEE </strong>certificats d'économies d'énergies, <strong>MaPrimeRenov'</strong>, etc.), nous déduisons le montant de vos aides de votre facture, vous n'avez pas à l'avancer. Il ne vous reste que le reste à charge à payer.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

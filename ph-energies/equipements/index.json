@@ -1,0 +1,85 @@
+{
+  "breadcrumb": "Equipements",
+  "seo": {
+    "title": "Bien choisir ses équipements à Caen : découvrez nos conseils | PH Energies",
+    "description": "Découvrez avec PH Energies comment choisir, installer et faire entretenir ses équipements de chauffage, de production d'ECS et de climatisation !",
+    "opengraph": {
+      "site_name": "PH Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Bien choisir ses équipements à Caen : découvrez nos conseils | PH Energies",
+      "description": "Découvrez avec PH Energies comment choisir, installer et faire entretenir ses équipements de chauffage, de production d'ECS et de climatisation !",
+      "image": {
+        "src": "https://www.ph-energies.fr/build/images/ph-energies-equipement-456x334.5f9afc5f.jpg",
+        "alt": "equipements de chauffage Caen"
+      }
+    }
+  },
+  "hero": {
+    "title": "Equipements de chauffage et climatisation dans l'Orne et le Calvados",
+    "subtitle": "Se faire accompagner par PH Energies pour équiper son logement dans les départements 14 et 61"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.ph-energies.fr/build/images/ph-energies-equipement-456x334.5f9afc5f.jpg",
+      "alt": "equipements de chauffage Caen"
+    },
+    "text": " <p>Vous avez un projet de chauffage du côté de <a href=\"https://www.ph-energies.fr/chauffage-caen\" title=\"Chauffage Caen\">Caen</a>, <a href=\"https://www.ph-energies.fr/chauffage-deauville\" title=\"Chauffage Deauville\">Deauville</a>, <a href=\"https://www.ph-energies.fr/chauffage-falaise\" title=\"Chauffage Falaise\">Falaise</a>... ou ailleurs dans le Calvados ou l'Orne ?</p> <p>Faites appel à notre <a href=\"/qui-sommes-nous\" title=\"PH Energies, votre chauffagiste à caen\">société spécialisée dans le génie climatique</a>. PH Energies intervient pour l'<a href=\"/installation\" title=\"Installation pompe à chaleur, chaudière, climatisation\">installation</a>, <a href=\"/depannage\" title=\"Dépanner vos équipements de chauffage\">la réparation</a> et <a href=\"/entretien\" title=\"Entretien chauffage et climatisation\">l'entretien</a> de l'ensemble de vos appareils de chauffage et de climatisation, qu'ils fonctionnent au gaz, au fioul, à l'électricité ou aux énergies renouvelables.</p> <p>Vous hésitez entre une chaudière dernière génération et une pompe à chaleur aérothermique ou géothermique ?</p> <p>PH Energies analyse avec vous vos besoins (composition de votre foyer, habitudes de vie, etc...) et votre budget de façon à vous <b><a href=\"/conseils-et-actualites\" title=\"Actualité chauffage dans la région de l'Orne et du Calvados\">conseiller l'appareil le plus performant</a></b> pour votre logement.</p> "
+  },
+  "teasers": [
+    {
+      "title": "Votre confort thermique grâce aux meilleures marques de chaudières à L'Aigle",
+      "text": "  <p>Avant de procéder à l'installation d'une <b>chaudière à Caen</b>, il est primordial de réfléchir au choix de la marque. Parmi les plus connues et les plus fiables, vous pouvez retrouver Saunier Duval, Frisquet ou encore Viessman.</p> <p>Si vous hésitez encore, contactez votre chauffagiste PH Energies, qui dispose d'un certain nombre de certifications dont Qualibat, Synerciel et qui est agréé professionnel du gaz. Vous pourrez ainsi faire le meilleur choix en fonction des solutions à votre disposition pour vous approvisionner au meilleur prix et profiter du confort du chauffage central !</p>  ",
+      "link": {
+        "href": "/equipements/chaudieres",
+        "text": "En savoir plus sur les chaudières",
+        "title": "Chaudières gaz, Chaudière fioul, Chaudière à bois, Chaudière à granulés"
+      }
+    },
+    {
+      "title": "Bien choisir son chauffe-eau à Deauville grâce à PH Energies",
+      "text": "  <p>Différentes technologies sont proposées par les fabricants dont le chauffe-eau électrique ou cumulus, le chauffe-eau thermodynamique, le chauffe-eau solaire et le chauffe-bain (qui produit l'eau chaude sanitaire de façon instantanée).</p> <p>Les technologies utilisant les énergies renouvelables nécessitent une expertise plus pointue, tant pour leur installation que pour leur dépannage et leur entretien. <b>L'installation d'un chauffe-eau à Caen</b> ne prend en général qu'une demi-journée.</p>  ",
+      "link": {
+        "href": "/equipements/chauffe-eau",
+        "text": "En savoir plus sur les chauffe-eaux",
+        "title": "Chauffe-eau, chauffe-eau thermodynamique, chauffe-bain"
+      }
+    },
+    {
+      "title": "Focus sur la climatisation",
+      "text": "  <p>PH Energies vous aide à trouver le bon appareil pour rafraîchir l'air de votre maison : les climatisations de type split (mono ou multi) disposent d'une ou de plusieurs unités intérieures reliées entre elles à un groupe extérieur. Ces appareils sont parfois de type Inverter : l'appareil s'adapte automatiquement à la température de la pièce en fonction de la programmation réalisée. Planifiez dès maintenant l'<b>installation de votre climatisation à <a href=\"https://www.ph-energies.fr/chauffage-lisieux\" title=\"Chauffage Lisieux\">Lisieux</a></b> !</p>  ",
+      "link": {
+        "href": "/equipements/climatisation",
+        "text": "En savoir plus sur les différents climatiseurs",
+        "title": "climatisation, climatisation réversible, climatisation split et gainable"
+      }
+    },
+    {
+      "title": "Pour votre pompe à chaleur faites confiance à notre expertise",
+      "text": "  <p>Si vous projetez de faire remplacer votre ancienne chaudière ou un autre chauffage gourmand en énergie par, PH Energies peut vous accompagner pour la réalisation de votre dossier de demande d'aide. En tant que professionnels RGE Qualipac, nos collaborateurs sont qualifiés pour <b>installer votre pompe à chaleur à Alençon</b> (PAC air air, air eau ou géothermique), l'entretenir et la dépanner.</p>  ",
+      "link": {
+        "href": "/equipements/pompe-a-chaleur",
+        "text": "En savoir plus sur les pompes à chaleur",
+        "title": "Pompe à chaleur air/eau, PAC"
+      }
+    },
+    {
+      "title": "Pourquoi installer un plancher chauffant à Caen et ses environs",
+      "text": "  <p>Le plancher chauffant est un équipement qui ne cesse d'évoluer. Électrique ou hydraulique, ce matériel permet d'augmenter le confort et de supprimer les radiateurs. PH Energies vous propose les marques les plus réputées et nous promettons, pour nos clients, un dépannage sous 24h pour les équipements, y compris le samedi (de novembre à fin février).</p> <p>Une <b>installation de chauffage au sol à <a href=\"https://www.ph-energies.fr/chauffage-bayeux\" title=\"Chauffage Bayeux\">Bayeux</a></b> est une installation sous garantie. Demandez des informations à votre conseiller PH Energies et laissez-vous guider jusqu'à la finalisation de votre projet !</p>  ",
+      "link": {
+        "href": "/equipements/plancher-chauffant",
+        "text": "En savoir plus les planchers chauffants",
+        "title": "Plancher chauffant"
+      }
+    },
+    {
+      "title": "Les radiateurs basse température",
+      "text": "  <p>Un radiateur basse température diffuse de la chaleur comme un radiateur classique à eau. Pourtant, dans un radiateur basse température, l'eau circule à 45-50°C en moyenne, au lieu des 70-90°C habituels pour un radiateur classique. Avantage des radiateurs basse température : économie d'énergie. Les radiateurs à basse température présentent deux principaux avantages : l'économie d'énergie et son système innovant.</p> <p>Dans un radiateur basse température, l'eau n'a besoin d'être chauffée qu'à 50-55°C. L'appareil de production de chaleur qui fournit cette eau est donc beaucoup moins sollicité et en conséquence consomme beaucoup moins d'énergie. C'est une démarche écologique et économique.</p> <p>En termes de confort pour l'utilisateur, il n'y a aucune différence : un radiateur basse température chauffe aussi bien qu'un radiateur classique. En fait, un radiateur basse température est conçu pour fonctionner en association avec une chaudière basse température ou des pompes à chaleur. Pour offrir un confort identique, malgré une température d'eau de chauffage moins élevée, il compense ce handicap par un gros volume. Plus sa surface de contact avec l'air ambiant est importante, plus son pouvoir d'échange est élevé.</p>  ",
+      "link": {
+        "href": "/nous-contacter",
+        "text": "Contactez-nous pour un renseignement ou un devis gratuit",
+        "title": "Contacter PH Energies, votre plombier chauffagiste à caen"
+      }
+    }
+  ]
+}

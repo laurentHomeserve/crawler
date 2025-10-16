@@ -1,0 +1,48 @@
+{
+  "breadcrumb": "Energie renouvelable",
+  "seo": {
+    "title": "Le chauffage par Energie Renouvelable | Aujard ",
+    "description": "Vous souhaitez investir dans une installation de chauffage à énergie renouvelable ? Depuis plus de 20 ans, Aujard est à votre disposition.",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Le chauffage par Energie Renouvelable | Aujard ",
+      "description": "Vous souhaitez investir dans une installation de chauffage à énergie renouvelable ? Depuis plus de 20 ans, Aujard est à votre disposition.",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-pac-456x334.b93c35e3.jpg",
+        "alt": "Chauffage à l'énergie renouvelable - Aujard"
+      }
+    }
+  },
+  "hero": {
+    "title": "Les énergies renouvelables pour se chauffer sans polluer avec Aujard",
+    "subtitle": "Faîtes appel aux experts Aujard"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.aujard.fr/build/images/aujard-pac-456x334.b93c35e3.jpg",
+      "alt": "Chauffage à l'énergie renouvelable - Aujard"
+    },
+    "text": "<p>Le chauffage utilisant les énergies renouvelables est <b>plus économique</b> et émet bien <b>moins de gaz à effet de serre</b> que le chauffage gaz ou fioul. Son impact sur la planète est donc moindre. Utilisant l'air, l'eau, la terre, le soleil ou encore le bois, les appareils sont dimensionnés pour répondre précisément à vos besoins.</p> <p>Pour l'installation d'un chauffage utilisant les énergies renouvelables, faites appel à nos artisans spécialisés, qualifiés et disposant des <b>certifications RGE QualiPac, QualiSol</b>. Vous bénéficierez également de conseils pour faire encore plus d'économies.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Le chauffe-eau thermodynamique",
+      "text": "<p>Dédié à la <b>production d'eau chaude sanitaire</b>, le <a href=\"https://www.aujard.fr/equipements/energie-renouvelable/chauffe-eau-thermodynamique\" title=\"Chauffe-eau thermodynamique en Seine-et-Marne\">chauffe-eau thermodynamique</a> complète efficacement le chauffage à énergie renouvelable. Cet appareil dispose d'une unité en extérieur qui capte l'énergie présente dans l'air et d'un ballon en intérieur pour stocker l'eau et la garder chaude.</p> <p>Comme pour l'installation d'un chauffage utilisant les énergies renouvelables, une visite est programmée avec des techniciens experts. Les professionnels définissent vos besoins et vous dirigent vers le meilleur équipement. En rénovation ou dans le neuf, le chauffe-eau thermodynamique est une bonne alternative au cumulus électrique.</p> <hr>"
+    },
+    {
+      "title": "Les panneaux solaires et photovoltaïques",
+      "text": "<p>Le solaire est employé en appoint pour le chauffage et la production d'eau chaude sanitaire. Ce système pour chauffage utilisant les énergies renouvelables permet de faire baisser considérablement les dépenses énergétiques : la gamme Vitosol de Viessmann, installée par vos artisans RGE Aujard, par exemple, est dotée de capteurs plans à poser sur la toiture ou sur des supports indépendants.</p> <hr>"
+    },
+    {
+      "title": "Les poêles de chauffage",
+      "text": "<p>Le chauffagiste pour l'énergie renouvelable met en avant différents systèmes : <b>poêles à bûches ou à pellets, poêles de masse</b>, etc. Les poêles traditionnels laissent peu à peu la place à des appareils alliant esthétique et haute-performance. Adoptez ce chauffage à énergie renouvelable pour chauffer une ou plusieurs pièces et faites confiance à de grandes marques telles que Dan Skan, Attika, Bullerjan, Econergy ou Altech.Nos solutions de chauffage à énergies renouvelables : <a href=\"https://www.aujard.fr/equipements/energie-renouvelable/pompe-a-chaleur\" title=\"Pompe à chaleur en Seine-et-Marne\">PAC</a>, chauffe-eau thermodynamiques, panneaux photovoltaïques et poêles de chauffage s'appuient sur des technologies sûres pour améliorer le confort chez vous.</p> <p>Grâce à l'expertise Aujard, vous choisissez le système idéal pour moins dépenser tout en étant à l'aise dans votre demeure.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  },
+  "url": "https://www.aujard.fr/equipements/energie-renouvelable"
+}

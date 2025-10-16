@@ -1,0 +1,85 @@
+{
+  "breadcrumb": "Equipements",
+  "seo": {
+    "title": "Installation et maintenance des chaudières et climatisation à Lyon | Mure Energies",
+    "description": "Mure Energies est chauffagiste dans la région de Lyon. Nos techniciens interviennent pour l'installation, l'entretien et le dépannage des différents systèmes : chaudière, climatisation, chauffe-eau, pompe à chaleur, etc.",
+    "opengraph": {
+      "site_name": "Mure Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Installation et maintenance des chaudières et climatisation à Lyon | Mure Energies",
+      "description": "Mure Energies est chauffagiste dans la région de Lyon. Nos techniciens interviennent pour l'installation, l'entretien et le dépannage des différents systèmes : chaudière, climatisation, chauffe-eau, pompe à chaleur, etc.",
+      "image": {
+        "src": "https://www.mure-energies.fr/build/images/mure-energies-equipements-456x334.fd7bfb03.jpg",
+        "alt": "Découvrez notre large gamme d'équipements de chauffage, en particulier des chaudières gaz et fioul à Lyon."
+      }
+    }
+  },
+  "hero": {
+    "title": "Mure Energies : équipements de chauffage et de climatisation à Lyon",
+    "subtitle": "Vos équipements de chauffage et de climatisation en région lyonnaise"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.mure-energies.fr/build/images/mure-energies-equipements-456x334.fd7bfb03.jpg",
+      "alt": "Découvrez notre large gamme d'équipements de chauffage, en particulier des chaudières gaz et fioul à Lyon."
+    },
+    "text": "<p>Mure Energies, <b>chauffagiste RGE Chauffage +</b> dans l'ouest lyonnais, installe, entretient et dépanne vos équipements de chauffage et de climatisation. Nous prenons en charge les chaudières fioul et gaz, mais aussi les planchers chauffants, les pompes à chaleur, ainsi que les chauffe-eaux et les systèmes de climatisation.</p><p>Nos techniciens sont régulièrement formés sur les modèles des plus grandes marques et sont à même d'intervenir rapidement en cas de dysfonctionnement.</p><p>Que vous envisagiez une installation dans le neuf ou une rénovation, Mure Energies peut vous proposer la solution adaptée.<br><br>&nbsp;</p>"
+  },
+  "teasers": [
+    {
+      "title": "Nos chaudières dans la région lyonnaise",
+      "text": "<p>Vous aimeriez <a href=\"https://www.mure-energies.fr/installation/chaudiere\" title=\"installation chaudière\">faire installer une chaudière neuve</a> dans votre logement à <a href=\"https://www.mure-energies.fr/chauffage-lyon\" title=\"Chauffage Lyon\">Lyon</a> ? Vous construisez une maison neuve et vous aimeriez une solution de chauffage adapté&nbsp;? Les spécialistes de Mure Energies à Lyon vous conseillent différents modèles. Nos techniciens qualifiés assurent aussi <b>l'entretien des chaudières au fioul ou au gaz</b>&nbsp;et interviennent dans les meilleurs délais en cas de panne.</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/equipements/chaudieres",
+        "text": "En savoir plus sur les chaudières gaz et fioul",
+        "title": "Les différentes chaudières"
+      }
+    },
+    {
+      "title": "Les pompes à chaleur à Lyon, Tassin-la-Demi-Lune ou Brignais",
+      "text": "<p>Vous aimeriez opter pour un système de chauffage performant et respectueux de l'environnement dans la région lyonnaise ? Mure Energies vous propose l'<a href=\"https://www.mure-energies.fr/installation/pompe-a-chaleur\" title=\"Installation pompe à chaleur Lyon\" d=\"\" une=\"\" pac=\"\">installation d'une pompe à chaleur</a> air / eau en remplacement de votre ancienne chaudière devenue obsolète. Pensez à vous renseigner sur le dispositif MaPrimeRenov qui vous permet de faire installer une PAC en bénéficiant d'une aide de l'Etat. Les techniciens Mure Energies se déplacent dans l'ouest lyonnais pour évaluer les travaux à réaliser. Ils sont aussi formés au <b>dépannage et à l'entretien des pompes à chaleur</b> pour vous accompagner dans la durée.</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/equipements/energie-renouvelable/pompe-a-chaleur",
+        "text": "En savoir plus sur les PAC air/eau ou les PAC eau/eau",
+        "title": "Pompe à chaleur air / eau"
+      }
+    },
+    {
+      "title": "Installation d'un plancher chauffant à Lyon Ouest",
+      "text": "<p><b>Les planchers chauffants</b> constituent une excellente solution si vous souhaitez gagner de la place dans votre logement. Généralement, on les installe dans une maison neuve, mais leur mise en place peut aussi être envisagée lors de la rénovation complète d'un logement. <b>Les planchers chauffants</b> sont alimentés par une pompe à chaleur air / eau. Pensez à consulter votre chauffagiste à Lyon Mure Energies si vous effectuez des travaux de rénovation et que vous envisagez l'installation d'un nouveau mode de chauffage. Vous pourrez profiter des aides de l'Etat dans le cadre de MaPrimeRenov.</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/equipements/plancher-chauffant",
+        "text": "En savoir plus sur le plancher chauffant",
+        "title": "chauffage au sol et plancher chauffant"
+      }
+    },
+    {
+      "title": "Nos services d'installation et d'entretien de chauffe-eaux thermodynamiques",
+      "text": "<p>Votre logement produit de l'eau chaude sanitaire à l'aide d'un cumulus électrique ou d'une ancienne chaudière ? Vous trouvez que la facture est trop élevée ? Il est temps de passer à un mode de production de l'eau chaude sanitaire plus économique et surtout, plus écologique. C'est le cas des <b>chauffe-eaux thermodynamiques</b> qui puisent l'énergie nécessaire dans l'air ambiant à l'aide d'une petite pompe à chaleur intégrée. Les techniciens Mure Energies sont formés à l'installation, la maintenance et la réparation des <b>chauffe-eaux thermodynamiques.</b></p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/equipements/energie-renouvelable/chauffe-eau-thermodynamique",
+        "text": "En savoir plus sur le chauffe-eau thermodynamiqueEn savoir plus sur le chauffe-bain",
+        "title": "guide chauffe-eau-thermodynamique"
+      }
+    },
+    {
+      "title": "Votre climatisation en région lyonnaise",
+      "text": "<p>Lyon et sa région peuvent se révéler une fournaise à la belle saison. Vous aimeriez passer des nuits tranquilles, dans une chambre climatisée ? Mure Energies vous propose différents types de climatisation, des <b>pompes à chaleur réversibles</b>, des <b>climatisations de type split</b>, ou des <b>climatisations monobloc</b>. Nos techniciens spécialisés se déplacent chez vous pour étudier les contraintes du chantier et nous vous proposerons toujours la solution la mieux adaptée, en fonction de la configuration du logement et du nombre de pièces que vous souhaitez rafraîchir.</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/equipements/climatisation",
+        "text": "En savoir plus sur la climatisation",
+        "title": "les différentes climatisations à Lyon"
+      }
+    },
+    {
+      "title": "Poêle à bois à Lyon : installation, entretien, dépannage",
+      "text": "<p>Enfin, Mure Energies est aussi votre spécialiste des <strong>poêles à granulés</strong> et des <strong>poêles à bûches</strong> en région lyonnaise. Nos experts vous conseillent dans le choix du meilleur poêle à bois pour votre maison. Ces équipements écologiques à hauts rendement sont particulièrement appréciés autour de Lon. En plus de la convivialité et du côté chaleureux du chauffage au bois, les poêles biomasse constituent une solution de chauffage de choix. En consommant une énergie renouvelable, les poêles à bois et à granulés offrent un chauffage particulièrement efficace tant au niveau du confort que de l'impact environnemental. À Lyon, <a href=\"https://www.mure-energies.fr/chauffage-dardilly\" title=\"Chauffage Dardilly\">Dardilly</a>, <a href=\"https://www.mure-energies.fr/chauffage-bron\" title=\"Chauffage Bron\">Bron</a>, Meyzieu, <a href=\"https://www.mure-energies.fr/chauffage-villeurbanne\" title=\"Chauffage Villeurbanne\">Villeurbanne</a>, Tarare et leur alentours, Mure Energies est votre expert RGE spécialiste du chauffage au bois.</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/equipements/poeles-granules-bois",
+        "text": "En savoir plus sur les poêles à bûches et à granulés",
+        "title": "Les différents poêles à Lyon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "breadcrumb": "Etiquette énergie : Performance et confort",
+  "seo": {
+    "title": "Etiquette énergie : Performance et confort",
+    "description": "La performance énergétique des systèmes de chauffage réversible a énormément progressé",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "title": " Etiquette énergie : Performance et confort ",
+  "chapo": "Très utile pour comparer les différentes consommations.",
+  "image": {
+    "src": "/upload/files/5ebd3b750556e608936118.jpg",
+    "alt": "Etiquette énergie : Performance et confort"
+  },
+  "intro": "<p><br>\nLa performance énergétique des systèmes de chauffage réversible a énormément progressée. Mise en place en 2013, l’étiquette énergie est une aide précieuse pour comparer la consommation et les émissions polluantes des différents modèles.<br>\n&nbsp;</p> <hr>",
+  "paragraphs": [
+    {
+      "title": "L’ÉTIQUETTE ÉNERGIE",
+      "text": "<p>L’efficacité énergétique de chaque appareilest répertoriée de A+++ à D. La classification A correspondant à un chauffage réversible qui restitue au moins trois fois l’énergie consommée. Ces classifications sont données en mode « chaud » et en mode « froid ».<br>\n<br>\n<br>\n&nbsp;</p> <hr>"
+    },
+    {
+      "title": "LE SCOP, UN ÉLÉMENT DÉTERMINANT DANS LE CHOIX DE L’APPAREIL",
+      "text": "<p>Le Seasonal Coefficient of Performance (SCOP) est le coefficient d’efficacité énergétique en mode « chaud » du système. Il donne l’image la plus proche de la réalité de la performance d’un produit pour une utilisation sur une année. Un SCOP de 5 signifie que l’appareil restituera 5 fois plus de puissance que consommé. Ceci vous garantira de réduire votre facture énergétique et votre impact sur l'environnement.</p> <hr>"
+    },
+    {
+      "title": "LE SEER",
+      "text": "<p>Suivant le même principe que le SCOP, le Seasonal Energy Efficiency Ratio (SEER) évalue la valeur d’efficacité saisonnière du système et définit sa classe énergétique en mode rafraîchissement.</p> <hr>"
+    },
+    {
+      "title": "BON À SAVOIR",
+      "text": "<p>Plus le SCOP et le SEER sont élevés, plus l’appareil est performant. Opter pour un matériel performant permet donc, à la fois, de réaliser des économies financières significatives, mais également d’agir en faveur de l’environnement.</p> <p>&nbsp;</p>"
+    }
+  ]
+}

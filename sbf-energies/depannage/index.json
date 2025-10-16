@@ -1,0 +1,76 @@
+{
+  "breadcrumb": "Depannage",
+  "seo": {
+    "title": "Dépannage de votre chauffage en Savoie | SBF Energies",
+    "description": "Faites appel à notre équipe de Chambery, chauffagistes et frigoriste pour le dépannage de vos installations. SBF Energies, entreprise du génie cliamatique en Savoie.",
+    "opengraph": {
+      "site_name": "SBF Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Dépannage de votre chauffage en Savoie | SBF Energies",
+      "description": "Faites appel à notre équipe de Chambery, chauffagistes et frigoriste pour le dépannage de vos installations. SBF Energies, entreprise du génie cliamatique en Savoie.",
+      "image": {
+        "src": "https://www.sbf-energies.com/build/images/sbf-energies-prestation-depannage-339x249.e752fbc4.jpg",
+        "alt": "Dépannage chauffage et climatisation"
+      }
+    }
+  },
+  "hero": {
+    "title": "SBF Energies en Savoie : notre service de dépannage du chauffage",
+    "subtitle": "Faîtes appel à des experts pour le dépannage de votre chauffage"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.sbf-energies.com/build/images/sbf-energies-prestation-depannage-339x249.e752fbc4.jpg",
+      "alt": "Dépannage chauffage et climatisation"
+    },
+    "text": "<p>Rien de pire que d'être sans chauffage en hiver ou de ne pas disposer d'eau chaude sanitaire en raison d'une panne de votre chaudière ou de votre ballon d'ECS. Chez SBF Energies, <a href=\"https://www.sbf-energies.com\">chauffagiste en Savoie</a>, nous savons combien cette situation peut être pénible pour vous et pour votre famille. C'est pourquoi nos spécialistes interviennent dans les meilleurs délais, que vous habitiez <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-chambery\" title=\"Chauffagiste Frigoriste Chambery\">Chambéry</a>, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-aix-les-bains\" title=\"Chauffagiste Frigoriste Aix Les Bains\">Aix-les-Bains</a>, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-rumilly\" title=\"Chauffagiste Frigoriste Rumilly\">Rumilly</a>, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-la-motte-servolex\" title=\"Chauffagiste Frigoriste La Motte Servolex\">La Motte-Servolex</a>, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-pontcharra\" title=\"Chauffagiste Frigoriste Pontcharra\">Pontcharra</a> et alentours.</p><p>Nous dépannons aussi en urgence les commerces et établissements de restauration dont les systèmes de froid seraient en panne.</p><p>Notre service maintenance assure le dépannage de votre équipement dans l'ensemble de nos réseaux sous 24/48h.</p>"
+  },
+  "teasers": [
+    {
+      "title": "Dépannage de votre chauffage et climatisation en Savoie",
+      "text": "<h3>Chauffage : dépannage 24 à 48 heures</h3>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Dépannage de la climatisation",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Dépannage de chauffe-eau thermodynamique",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Dépannage de la pompe à chaleur",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "L'avis de nos clients sur nos prestations de dépannage",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/5cfd52c8-0b49-c374-b5f6-0e012ecbc665/0cff2c22-af52-4b0a-9ef2-61b6ebc786aa.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

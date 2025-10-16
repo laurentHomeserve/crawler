@@ -1,0 +1,94 @@
+{
+  "breadcrumb": "Installation",
+  "seo": {
+    "title": "Installation de votre chauffage à Lyon | Mure Energies",
+    "description": "Mure Energies installe vos équipements de chauffage à Lyon Ouest, Dardilly, Tassin, Point-du-Jour... Planifiez l'intervention d'un plombier chauffagiste !",
+    "opengraph": {
+      "site_name": "Mure Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Installation de votre chauffage à Lyon | Mure Energies",
+      "description": "Mure Energies installe vos équipements de chauffage à Lyon Ouest, Dardilly, Tassin, Point-du-Jour... Planifiez l'intervention d'un plombier chauffagiste !",
+      "image": {
+        "src": "https://www.mure-energies.fr/build/images/mure-energies-installation-456x334.8ce48e14.jpg",
+        "alt": "Vous cherchez à remplacer ou installer un nouveau système de chauffage à Lyon et ses alentours"
+      }
+    }
+  },
+  "hero": {
+    "title": "Installation de chauffage à Lyon",
+    "subtitle": "Mure Energies installe votre chaudière, chauffe-eau, Pompe à chaleur, chauffage au sol, climatisation"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.mure-energies.fr/build/images/mure-energies-installation-456x334.8ce48e14.jpg",
+      "alt": "Vous cherchez à remplacer ou installer un nouveau système de chauffage à Lyon et ses alentours"
+    },
+    "text": "<p>Nos équipes de chauffagistes interviennent dans le bassin lyonnais pour installer votre <b>système de chauffage ou de climatisation</b>. Que vous soyez un particulier, un commerçant, un syndic de copropriété, une agence locative ou un professionnel, il vous suffit de contacter notre agence pour prendre un rendez-vous.</p><p>Un expert se déplacera et étudiera votre situation afin de vous transmettre rapidement un devis. Notre réseau de grandes marques partenaires nous permet de vous proposer une installation de chauffage à <a href=\"https://www.mure-energies.fr/chauffage-lyon\" title=\"Chauffage Lyon\">Lyon</a> dans les meilleures conditions.</p><p>Fiabilité, durabilité, performances : bénéficiez d'une pose de qualité pour un quotidien confortable en toute saison. En fonction de vos besoins énergétiques, nos équipes vous orientent vers les solutions les plus adaptées pour votre rénovation énergétique.</p>"
+  },
+  "teasers": [
+    {
+      "title": "Installation de chaudières à Lyon, Macôn, Vienne, Meyzieu...",
+      "text": "<p>La <b>chaudière</b> est un système de chauffage central, raccordé à vos radiateurs, cet appareil vous permet de chauffer toute votre maison. La chaudière peut aussi être l'équipement utilisé pour produire l'eau chaude sanitaire de votre habitation. C'est donc une pièce essentielle au confort de votre foyer. Comptez sur des chauffagistes experts pour installer votre <b>chaudière à gaz</b> ou remplacer votre <b>chaudière fioul</b> ! Mure Energies vous propose l'installation de chaudières à haute performance énergétique de marques hautement réputées, telles que ELM Leblanc, Saunier-Duval, Frisquet, Viessmann ou encore Weishaupt. En fonction de votre situation et de vos besoins, notre entreprise de chauffage à Lyon saura vous orienter vers le type de chaudière le plus approprié.</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/installation/chaudiere",
+        "text": "En savoir plus pour une installation ou un remplacement de chaudières gaz et fioul",
+        "title": "Mure Energies - installation chaudière à Lyon"
+      }
+    },
+    {
+      "title": "Nous installons votre pompe à chaleur (PAC) à Lyon et ses environs",
+      "text": "<p>Le système de la <b>pompe à chaleur</b> est ingénieux, écologique et économique. Son concept ? Utiliser l'énergie existante dans l'environnement (air, eau) pour chauffer votre maison, immeuble ou boutique. Faites installer votre PAC air/eau ou eau/eau par nos plombiers chauffagistes dans l'Ouest lyonnais et bénéficiez, sous conditions, d'aides de l'Etat. Selon votre situation, profitez notamment du dispositif MaPrimeRénov' et de l'aide Coup de Pouce pour l'<b>installation de votre pompe à chaleur</b>, un équipement thermodynamique et silencieux fonctionnant aux énergies renouvelables. D'autres aides sont possibles : référez-vous au site de l'ADEME pour toutes les informations.</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/installation/pompe-a-chaleur",
+        "text": "Vous souhaitez installer ou remplacer votre pompe à chaleur ?",
+        "title": "Installation de pompe à chaleur à Lyon"
+      }
+    },
+    {
+      "title": "Prenez rendez-vous pour l'installation de votre climatisation",
+      "text": "<p>Avec la hausse des températures en région lyonnaise, l'installation d'une <b>climatisation</b> est un choix fait par de nombreux consommateurs pour garantir un confort en toute saison . Avec Mure Energies, spécialiste des solutions de chauffage et climatisation à Lyon et dans les communes de l' Ouest lyonnais, bénéficiez de la pose d'un <b>système de climatisation mono ou multisplit</b>. Les systèmes réversibles permettent de gagner en confort durant l'été et dans le même temps, réaliser des économies de chauffage l'hiver avec des systèmes très performants. Nos experts se déplacent à Mâcon, Charbonnières, <a href=\"https://www.mure-energies.fr/chauffage-chaponost\" title=\"Chauffage Chaponost\">Chaponost</a>, <a href=\"https://www.mure-energies.fr/chauffage-oullins\" title=\"Chauffage Oullins\">Oullins</a>, <a href=\"https://www.mure-energies.fr/chauffage-mions\" title=\"Chauffage Mions\">Mions</a>, Amplepuis, Beaujeu, Belleville ou encore Villefranche-sur-Saône pour équiper votre logement, commerce ou bureau d'une solution de climatisation.</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/installation/climatisation",
+        "text": "En savoir plus sur nos prestations d'installation et de remplacement de climatisation",
+        "title": "Installation de clim Lyon"
+      }
+    },
+    {
+      "title": "Demandez un devis pour l'installation de votre poêle biomasse autour de Lyon",
+      "text": "<p>Mure Energies, c'est aussi votre installateur de poêles à bois et de poêles à granulés tout autour de Lyon. Ces solutions de chauffage écologique utilisent de la biomasse afin de générer de la chaleur. Système de chauffage efficace, les poêles biomasse d'aujourd'hui offrent un haut rendement. Installés par nos professionnels certifiés, ce sont des appareils de chauffage très prisés en région lyonnaise. Ils allient l'esthétique et le côté convival du feu de bois à la performance d'une chauffage à énergie renouvelanle.</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/installation/poeles-granules-bois",
+        "text": "En savoir plus sur nos prestations d'installation et de remplacement de poêle biomasse",
+        "title": "Installation de poêle Lyon"
+      }
+    },
+    {
+      "title": "Nous nous chargeons de la pose de votre chauffe-eau à Lyon",
+      "text": "<p>L'installation d'un chauffe-eau est essentielle pour produire l'eau chaude sanitaire de votre habitation. Nos experts chauffagistes vous proposent différents types de cumulus en fonction de la surface des lieux, de votre système de chauffage et de vos préférences. Nous sommes ainsi en mesure de réaliser la pose de chauffe-eaux thermodynamiques, de chauffe-eaux électriques et de chauffe-bains. Comptez sur une pose soignée de A à Z et un service impeccable pour cette prestation de plomberie et de chauffage à Lyon.</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/installation/chauffe-eau",
+        "text": "En savoir plus sur l'installation d'un chauffe-eau",
+        "title": "Installation du chauffe eau à Lyon"
+      }
+    },
+    {
+      "title": "Profitez du confort d'un système de chauffage par le sol à Brignais, Villefranche-sur-Saône, Villeurbanne, Vienne...",
+      "text": "<p>Sa chaleur homogène et douce font du chauffage au sol un système de chauffage de plus en plus apprécié. Raccordé à une pompe à chaleur, il permet de limiter votre consommation en énergie, en puisant l'énergie dans l'air extérieur (PAC Air / eau) Contactez notre agence pour un premier rendez-vous et planifiez l'installation de votre chauffage à Lyon, <a href=\"https://www.mure-energies.fr/chauffage-brignais\" title=\"Chauffage Brignais\">Brignais</a>, <a href=\"https://www.mure-energies.fr/chauffage-bron\" title=\"Chauffage Bron\">Bron</a>, Genas ou <a href=\"https://www.mure-energies.fr/chauffage-ecully\" title=\"Chauffage Ecully\">Ecully</a>.</p>",
+      "link": {
+        "href": "https://www.mure-energies.fr/installation/plancher-chauffant",
+        "text": "En savoir plus sur l'installation d'un plancher chauffant",
+        "title": "Installation du chauffage au sol à Lyon"
+      }
+    },
+    {
+      "title": "Ce que nos clients pensent de nos prestations d'installation",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/cc78892a-ea21-e714-7910-897ad2529b60/a52b8f74-8830-4367-90f6-93b3c121db91.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

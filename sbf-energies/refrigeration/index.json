@@ -1,0 +1,30 @@
+{
+  "breadcrumb": "Refrigeration",
+  "seo": {
+    "title": "Chauffage industriel et climatisation - SBF Energies Chambéry",
+    "description": "SBF Energies spécialiste du chauffage industriel à Chambéry et en Savoie. Installation, contrat d'entretien et dépannage.",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "hero": {
+    "title": "",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "",
+      "alt": ""
+    },
+    "text": ""
+  },
+  "teasers": []
+}

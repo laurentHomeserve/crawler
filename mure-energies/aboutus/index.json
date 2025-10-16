@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Qui sommes nous",
+  "seo": {
+    "title": "Mieux nous connaître : chauffagiste à Lyon | Mure Energies",
+    "description": "Depuis 1983, Mure Energies, plombier chauffagiste à Lyon, intervient dans le bassin lyonnais. SAV, installation, dépannage d'urgence, chaudière, poêle, pompe à chaleur, ...",
+    "opengraph": {
+      "site_name": "Mure Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Mieux nous connaître : chauffagiste à Lyon | Mure Energies",
+      "description": "Depuis 1983, Mure Energies, plombier chauffagiste à Lyon, intervient dans le bassin lyonnais. SAV, installation, dépannage d'urgence, chaudière, poêle, pompe à chaleur, ...",
+      "image": {
+        "src": "https://www.mure-energies.fr/build/images/mure-energies-qui-sommes-nous-456x334.f303774e.jpg",
+        "alt": "l'équipe Mure Enegies"
+      }
+    }
+  },
+  "hero": {
+    "title": "Mure Energies, votre plombier chauffagiste à Dardilly",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/mure-energies-qui-sommes-nous-456x334.f303774e.jpg",
+      "alt": "l'équipe Mure Enegies"
+    },
+    "text": "<p>Implanté au coeur de l'Ouest lyonnais, Mure Energies est une entreprise à taille humaine qui propose des solutions de <b>chauffage et de climatisation</b> pour les particuliers et les professionnels.</p> <p>Nos équipes comptent aussi des plombiers qualifiés qui peuvent se charger du dépannage de vos sanitaires ou de la création de salles de bains clé en main. Nous intervenons principalement dans la métropole de <a href=\"https://www.mure-energies.fr/chauffage-lyon\" title=\"Chauffage Lyon\">Lyon</a>, mais pouvons aussi nous déplacer dans le bassin lyonnais : Belleville, Anse, Trévoux, Beynost, Vaugneray, <a href=\"https://www.mure-energies.fr/chauffage-brignais\" title=\"Chauffage Brignais\">Brignais</a>, mais aussi Vienne, Tarare, Villars-les-Dombes, jusqu'à Mâcon.</p>"
+  },
+  "contents": [
+    {
+      "title": "Plus de 40 ans d'expérience",
+      "text": "<p>L'entreprise Mure Energies a été fondée il y a plus de 40 ans, en 1983, par Gérard Mure, plombier, chauffagiste et couvreur zingueur de formation. Artisan consciencieux, le fondateur de Mure Energies développe peu à peu la réputation de son entreprise. Les chantiers sont réalisés de manière consciencieuse, pour un résultat irréprochable. Mure Energies accorde par ailleurs depuis ses débuts une attention particulière au service.</p> <p>Le succès ne se fait pas attendre et les recommandations se font par le bouche à oreille. L'entreprise se développe, avec le recrutement de collaborateurs qualifiés. Mure Energies étoffe progressivement ses équipes pour pouvoir répondre à un nombre croissant de demandes, et surtout, pour pouvoir intervenir sur des urgences 7 jours sur 7 (en période hivernale, y compris les jours fériés) et 6/7 le reste de l'année.</p> <p><a href=\"/qui-sommes-nous/recrutement\">Les recrutements successifs</a> ont permis à Mure Energies de développer des pôles d'expertise dans les domaines de la <b>plomberie et des systèmes de chauffage</b>. Aujourd'hui, l'entreprise dispose d'une expertise dans les domaines de la <strong>climatisation</strong> et des énergies renouvelables. Ses certifications et labels témoignent de son engagement en faveur de systèmes de chauffage plus économiques et respectueux de l'environnement.</p> <a href=\"/qui-sommes-nous/recrutement\">Les recrutements successifs</a> <b>plomberie et des systèmes de chauffage</b> <strong>climatisation</strong>"
+    },
+    {
+      "title": "Nos filiales et entreprises partenaires pour de nouveaux services",
+      "text": "<p>Le développement des compétences et le recrutement de nouveaux collaborateurs autour de pôles d'expertise a permis tout d'abord la naissance d'une filiale dédiée à la <b>maintenance des chaudières</b>, AC2M. En 2012 vient s'y ajouter Mure Climatisation.</p> <b>maintenance des chaudières</b> <p>Gérard Mure a très tôt pris conscience de la complémentarité des métiers de la plomberie, de l'installation sanitaire, du chauffage et de la climatisation. Il a récemment décidé de relever le défi lié à l'essor des énergies renouvelables. Aujourd'hui, la société Mure Energies regroupe l'ensemble des marques du réseau qu'il a fondé.</p> <p>L'entreprise Mure Energies compte 17 salariés, dont 10 techniciens poseurs qualifiés. Le 31 décembre 2020, Mure Energies a rejoint le groupe <a href=\"https://www.homeserve.fr/\" title=\"HomeServe\" target=\"_blank\" rel=\"noopener noreferrer\">HomeServe</a>, leader des réparations et travaux de la maison. L'entreprise fondée en 1983 par Gérard Mure peut aujourd'hui intervenir sur des chantiers complexes et proposer des solutions adaptées aux différents besoins des clients. Mure Energies travaille principalement avec les grandes marques d'équipements de chauffage et de climatisation, comme Daikin, Frisquet, ELM Leblanc, Saunier Duval, Viessmann, Atlantic, Mitsubishi Electric, Thermor et Hitachi.</p> <a href=\"https://www.homeserve.fr/\" title=\"HomeServe\" target=\"_blank\" rel=\"noopener noreferrer\">HomeServe</a>"
+    }
+  ]
+}

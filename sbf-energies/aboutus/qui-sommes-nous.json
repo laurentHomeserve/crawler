@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Qui sommes nous",
+  "seo": {
+    "title": "SBF Energies | EXPERT frigoriste à Chambéry et en Savoie",
+    "description": "La société SBF est spécialisée dans les domaines de la climatisation, réfrigération et pompe à chaleurs à Chambéry en Savoie",
+    "opengraph": {
+      "site_name": "SBF Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "SBF Energies | EXPERT frigoriste à Chambéry et en Savoie",
+      "description": "La société SBF est spécialisée dans les domaines de la climatisation, réfrigération et pompe à chaleurs à Chambéry en Savoie",
+      "image": {
+        "src": "https://www.sbf-energies.com/build/images/sbf-energies-qui-sommes-nous-456x334.0fdee5a7.jpg",
+        "alt": "SBF Energies à Chambéry - Nous intervenons dans toute la Savoie"
+      }
+    }
+  },
+  "hero": {
+    "title": "SBF Energies votre frigoriste à Chambéry et dans toute la Savoie",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/sbf-energies-qui-sommes-nous-456x334.0fdee5a7.jpg",
+      "alt": "SBF Energies à Chambéry - Nous intervenons dans toute la Savoie"
+    },
+    "text": "<p>Professionnel formé et experts des solutions de climatisation, Sylvain Brun a débuté sa vie professionnelle en créant une entreprise éponyme et à son image : Sylvain Brun Froid (SBF). Alors qu'il avait commencé sa carrière équipé simplement de sa caisse à outils, Sylvain Brun est à la tête, 18 ans plus tard, d'une entreprise de 11 salariés située à la Motte Servolex en Savoie.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Une entreprise experte de votre confort été comme hiver",
+      "text": "<p>SBF Energies frigoriste et chauffagiste expert dans l'installation de pompe à chaleur, de chaudière ou de climatisation, la société SBF Energies fait aujourd'hui figure d'experte dans sa région natale où elle s'adresse aussi bien à une clientèle de particuliers que de professionnels.</p> <p>Spécialisée dans les équipements de chauffage et de climatisation : pompe à chaleur, climatisation, chaudière ou encore chauffe-eau thermodynamique, la société SBF Energies fait aujourd'hui figure d'experte dans sa région natale où elle s'adresse aussi bien à une clientèle de particuliers que de professionnels.</p> <p>En 2019, SBF Energies a fait le choix de rejoindre HomeServe, une société de service pour la Maison qui intervient dans l'assistance et le dépannage en <a href=\"https://depannage.homeserve.fr/autodiagnostic/electricite\" target=\"_blank\">électricité</a>, plomberie, gaz... HomeServe réalise également des travaux d'installation et de rénovations depuis plus de 15 ans auprès de plus d'un million de clients français.</p> <hr>"
+    },
+    {
+      "title": "Charte qualité de SBF Energies à Chambéry",
+      "text": "<p><b>Notre charte qualité est draconienne et garantit 13 points forts d'engagements et de nombreux labels :</b></p> <ul> <li>Entreprise possédant l'attestation de capacité pour manipuler les fluides des équipements de réfrigération, de climatisation et de PAC;</li> <li>Entreprise qualifiée pour la gestion des installations de réfrigération;</li> <li>Entreprise qualifiée pour la gestion des installations de climatisation;</li> <li>SBF Energies est reconnue « spécialiste prenium» par Mitsubishi Electric;</li> <li>SBF Energies s'engage à garder le chantier propre;</li> <li>SBF Energies s'engage à respecter les délais annoncés;</li> <li>SBF Energies s'engage à respecter le devis engagé;</li> <li>SBF Energies est une entreprise inscrite au registre des métiers;</li> <li>SBF Energies a une assurance décennale et responsabilité civile;</li> <li>Entreprise reconnue garant de l'environnement - RGE;</li> <li>SBF Energies a une démarche éco-responsable en triant et retraitant au maximum ses déchets;</li> <li>SBF Energies s'engage à vous conseiller pour la meilleure rentabilité de vos équipements;</li> <li>SBF Energies s'engage à vous assurer un service après-vente de qualité.</li> </ul>"
+    }
+  ]
+}

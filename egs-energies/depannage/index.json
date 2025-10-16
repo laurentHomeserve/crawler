@@ -1,0 +1,67 @@
+{
+  "breadcrumb": "Depannage",
+  "seo": {
+    "title": "Dépannage d'équipements de chauffage à Nice, Menton, Saint-Laurent-du-Var",
+    "description": "Réparation et dépannage de vos équipements de chauffage et production d'eau chaude sur Nice, Grasse, Le Cannet, Menton, Vallauris et les Alpes-Maritimes",
+    "opengraph": {
+      "site_name": "EGS Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Dépannage d'équipements de chauffage à Nice, Menton, Saint-Laurent-du-Var",
+      "description": "Réparation et dépannage de vos équipements de chauffage et production d'eau chaude sur Nice, Grasse, Le Cannet, Menton, Vallauris et les Alpes-Maritimes",
+      "image": {
+        "src": "https://www.egs-energies.fr/build/images/egs-energies-service-depannage.456x334.930a1a6e.jpg",
+        "alt": "EGS Energies (ex-Electrogaz) dépanne vos équipement de chauffage et production d'eau chaude"
+      }
+    }
+  },
+  "hero": {
+    "title": "Dépannage installations de chauffage, eau chaude et climatisation",
+    "subtitle": "Nous intervenons dans Alpes-Maritimes pour réparer votre installation de chauffage et climatisation"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.egs-energies.fr/build/images/egs-energies-service-depannage.456x334.930a1a6e.jpg",
+      "alt": "EGS Energies (ex-Electrogaz) dépanne vos équipement de chauffage et production d'eau chaude"
+    },
+    "text": "<p>Partenaire des principaux fabricants du marché, nous dépannons l'ensemble de vos installations de chauffage et de production d'eau chaude :<br>&nbsp;</p><p>• <a href=\"/depannage/chaudiere\" title=\"dépannage chaudières gaz à nice et ses environs\">Dépannage chaudières gaz</a><br>• <a href=\"/depannage/chaudiere\" title=\"dépannage chaudières fioul à Saint-Laurent-du-Var et ses environs\">Dépannage chaudières fioul</a><br>• <a href=\"/depannage/chauffe-eau-gaz\" title=\"dépannage chauffe-eaux gaz à nice et ses environs\">Dépannage chauffe-eaux gaz</a><br>• <a href=\"/depannage/chauffe-eau-electrique-et-thermodynamique\" title=\"dépannage chauffe-eaux thermodynamique à vallauris et ses environs\">Dépannage chauffe-eaux thermodynamique et cumulus</a><br>• <a href=\"/depannage/pompe-a-chaleur\" title=\"dépannage PAC à nice et ses environs\">Dépannage pompes à chaleur (PAC)</a><br>• <a href=\"/depannage/climatisation\" title=\"dépannage climatisation à nice et ses environs\">Dépannage climatisation monobloc, split et réversible</a><br><br><br>&nbsp;</p>"
+  },
+  "teasers": [
+    {
+      "title": "Intervention rapide",
+      "text": "<p>Appelez-nous ou remplissez le formulaire de contact en nous détaillant votre appareil et la panne. N'hésitez pas à nous donner un maximum de détails ainsi qu'à nous envoyer une photo de votre installation. Nous effectuerons un diagnostic pour vous proposer la meilleure solution. Et nous interviendrons dans les plus brefs délais.</p><p><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <span class=\"obflink obflink-text\" data-o=\"L25vdXMtY29udGFjdGVyP3R5cGU9MQ==\">Demande de dépannage urgente</span></p><p>Vos installations de chauffage et de production d'eau chaude sanitaire vous paraissent moins performantes ? Cela ne provient peut-être pas de votre appareil. Il peut s'agir d'entartrage ou d'un embouage des canalisations de chauffage.</p><p><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <a href=\"/entretien/desembouage\" title=\"Renseignements sur le désembouage\">Renseignements sur le désembouage</a></p>",
+      "link": {
+        "href": "/entretien/desembouage",
+        "text": "Renseignements sur le désembouage",
+        "title": "Renseignements sur le désembouage"
+      }
+    },
+    {
+      "title": "Nos zones d'intervention",
+      "text": "<p>Grâce à nos agences de <a href=\"https://www.egs-energies.fr/chauffage-nice\" title=\"Chauffage Nice\">Nice</a>, <a href=\"https://www.egs-energies.fr/chauffage-menton\" title=\"Chauffage Menton\">Menton</a>, <a href=\"https://www.egs-energies.fr/chauffage-vallauris\" title=\"Chauffage Vallauris\">Vallauris</a>, <a href=\"https://www.egs-energies.fr/chauffage-saint-laurent-du-var\" title=\"Chauffage Saint Laurent Du Var\">Saint-Laurent-du-Var</a> nous intervenons pour des dépannages sur tout le département et dans les plus grandes villes (Nice, <a href=\"https://www.egs-energies.fr/chauffage-cannes\" title=\"Chauffage Cannes\">Cannes</a>, <a href=\"https://www.egs-energies.fr/chauffage-antibes\" title=\"Chauffage Antibes\">Antibes</a>, Menton, <a href=\"https://www.egs-energies.fr/chauffage-le-cannet\" title=\"Chauffage Le Cannet\">Le Cannet</a>, <a href=\"https://www.egs-energies.fr/chauffage-monaco\" title=\"Chauffage Monaco\">Monaco</a>...)</p>",
+      "link": {
+        "href": "/qui-sommes-nous/zones-intervention",
+        "text": "Nous intervenons dans toutes les Alpes-Maritimes, découvrez nos zones d'interventions",
+        "title": "Nous intervenons dans toutes les Alpes-Maritimes"
+      }
+    },
+    {
+      "title": "Vous avez souscrit un abonnement d'entretien pour votre appareil ?",
+      "text": "<p>Contactez-nous par téléphone ou grâce au formulaire de contact pour que nous organisions un dépannage de votre appareil. Quelle que soit votre formule d'abonnement, vous bénéficiez d'un dépannage prioritaire, garanti sous 24h en cas de panne totale. Et selon la formule d'abonnement sélectionnée, l'intervention d'un technicien en cas de panne est prise en charge : déplacement et main-d'oeuvre pour l'abonnement AVANTAGE, déplacement, main-d'oeuvre et pièces de rechange pour l'abonnement ABSOLU.</p>",
+      "link": {
+        "href": "/entretien",
+        "text": "Plus de détails sur nos formules d'entretien",
+        "title": "Plus de détails sur nos formules d'entretien"
+      }
+    },
+    {
+      "title": "L'avis de nos clients sur nos prestations de dépannage",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/4abbda16-78da-a354-0daa-c56b134ab920/316232b6-aa78-46f5-9e6f-f74356aeeec8.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

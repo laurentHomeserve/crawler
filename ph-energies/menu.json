@@ -1,0 +1,262 @@
+[
+  {
+    "link": {
+      "text": "équipements",
+      "href": "https://www.ph-energies.fr/equipements",
+      "title": "Tous les équipements de chauffage et de climatisationn proposés par PH Energies"
+    },
+    "categories": [
+      {
+        "title": "Pompes à chaleur (PAC)",
+        "link": {
+          "text": "Pompes à chaleur (PAC)",
+          "href": "https://www.ph-energies.fr/equipements/pompe-a-chaleur",
+          "title": "Tout savoir sur les pompes à chaleur"
+        }
+      },
+      {
+        "title": "Chaudières Gaz, Fioul, Bois / Granulés",
+        "link": {
+          "text": "Chaudières Gaz, Fioul, Bois / Granulés",
+          "href": "https://www.ph-energies.fr/equipements/chaudieres",
+          "title": "Tout savoir sur les chaudières gaz, fioul, bois et granulés"
+        }
+      },
+      {
+        "title": "Climatisations",
+        "link": {
+          "text": "Climatisations",
+          "href": "https://www.ph-energies.fr/equipements/climatisation",
+          "title": "Tout savoir sur les climatisations"
+        }
+      },
+      {
+        "title": "Chauffe-eaux et Chauffe-bains",
+        "link": {
+          "text": "Chauffe-eaux et Chauffe-bains",
+          "href": "https://www.ph-energies.fr/equipements/chauffe-eau",
+          "title": "Tout savoir sur les chauffe-eaux et chauffe-bains"
+        }
+      },
+      {
+        "title": "Plancher Chauffant",
+        "link": {
+          "text": "Plancher Chauffant",
+          "href": "https://www.ph-energies.fr/equipements/plancher-chauffant",
+          "title": "Tout savoir sur les planchers chauffant"
+        }
+      },
+      {
+        "title": "Solaire Photovoltaïque",
+        "link": {
+          "text": "Solaire Photovoltaïque",
+          "href": "https://www.ph-energies.fr/equipements/panneaux-photovoltaiques",
+          "title": "Tout savoir sur le solaire photovoltaïque"
+        }
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Installation",
+      "href": "https://www.ph-energies.fr/installation",
+      "title": "Installer un chauffage ou une climatisation dans le calvados ou l'orne"
+    },
+    "categories": [
+      {
+        "title": "Pompes à chaleur (PAC)",
+        "subLinks": [
+          {
+            "text": "Installer une Pompe à Chaleur",
+            "href": "https://www.ph-energies.fr/installation/pompe-a-chaleur",
+            "title": "Devis gratuit pompe à chaleur"
+          }
+        ]
+      },
+      {
+        "title": "Chaudières Gaz, Fioul, Bois / Granulés",
+        "subLinks": [
+          {
+            "text": "Installer une Chaudière",
+            "href": "https://www.ph-energies.fr/installation/chaudiere",
+            "title": "Devis gratuit chaudière"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Installer une Climatisation",
+            "href": "https://www.ph-energies.fr/installation/climatisation",
+            "title": "Devis gratuit climatisation"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eaux et Chauffe-bains",
+        "subLinks": [
+          {
+            "text": "Installer un Chauffe-eau",
+            "href": "https://www.ph-energies.fr/installation/chauffe-eau",
+            "title": "Devis gratuit chauffe-eau, chauffe-bain"
+          }
+        ]
+      },
+      {
+        "title": "Planchers Chauffants",
+        "subLinks": [
+          {
+            "text": "Installer un Plancher Chauffant",
+            "href": "https://www.ph-energies.fr/installation/plancher-chauffant",
+            "title": "Devis gratuit plancher chauffant"
+          }
+        ]
+      },
+      {
+        "title": "Solutions Solaires",
+        "subLinks": [
+          {
+            "text": "Installer des panneaux Photovoltaïques",
+            "href": "https://www.ph-energies.fr/installation/panneaux-photovoltaiques",
+            "title": "Devis gratuit panneaux solaires photovoltaïques"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Entretien",
+      "href": "https://www.ph-energies.fr/entretien",
+      "title": "Entretien et maintenance chauffage et climatisation"
+    },
+    "categories": [
+      {
+        "title": "Pompes à chaleur (PAC)",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Pompe à Chaleur",
+            "href": "https://www.ph-energies.fr/entretien/pompe-a-chaleur",
+            "title": "Entretien et maintenance pompe à chaleur"
+          }
+        ]
+      },
+      {
+        "title": "Chaudières Gaz, Fioul, Bois / Granulés",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Chaudière",
+            "href": "https://www.ph-energies.fr/entretien/chaudiere",
+            "title": "Entretien et maintenance chaudière"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Climatisation",
+            "href": "https://www.ph-energies.fr/entretien/climatisation",
+            "title": "Entretien et maintenance climatisation"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eaux et Chauffe-bains",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Chauffe-eau",
+            "href": "https://www.ph-energies.fr/entretien/chauffe-eau",
+            "title": "Entretien et maintenance chauffe-eau et chauffe-bain"
+          }
+        ]
+      },
+      {
+        "title": "Planchers Chauffants",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Plancher Chauffant",
+            "href": "https://www.ph-energies.fr/entretien/plancher-chauffant",
+            "title": "Entretien et maintenance plancher chauffant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Dépannage",
+      "href": "https://www.ph-energies.fr/depannage",
+      "title": "Dépannage et réparation chauffage et climatisation"
+    },
+    "categories": [
+      {
+        "title": "Pompes à chaleur (PAC)",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Pompe à Chaleur",
+            "href": "https://www.ph-energies.fr/depannage/pompe-a-chaleur",
+            "title": "Dépannage et réparation pompe à chaleur"
+          }
+        ]
+      },
+      {
+        "title": "Chaudières Gaz, Fioul, Bois / Granulés",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Chaudière",
+            "href": "https://www.ph-energies.fr/depannage/chaudiere",
+            "title": "Dépannage et réparation chaudière"
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Climatisation",
+            "href": "https://www.ph-energies.fr/depannage/climatisation",
+            "title": "Dépannage et réparation climatisation"
+          }
+        ]
+      },
+      {
+        "title": "Chauffe-eaux et Chauffe-bains",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Chauffe-eau",
+            "href": "https://www.ph-energies.fr/depannage/chauffe-eau",
+            "title": "Dépannage et réparation chauffe-eau et chauffe-bain"
+          }
+        ]
+      },
+      {
+        "title": "Planchers Chauffants",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Plancher Chauffant",
+            "href": "https://www.ph-energies.fr/depannage/plancher-chauffant",
+            "title": "Dépannage et réparation plancher chauffant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Plomberie Sanitaire",
+      "href": "https://www.ph-energies.fr/plomberie-sanitaire",
+      "title": "Travaux de plomberie dans le Calvados et l'Orne"
+    },
+    "categories": []
+  },
+  {
+    "link": {
+      "text": "Professionnels",
+      "href": "https://www.ph-energies.fr/professionnels",
+      "title": "Pour les professionnels de la construction"
+    },
+    "categories": []
+  }
+]

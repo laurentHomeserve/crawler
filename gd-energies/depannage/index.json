@@ -1,0 +1,49 @@
+{
+  "breadcrumb": "Depannage",
+  "seo": {
+    "title": "Dépannage Chauffage et Climatisation Nîmes - GD Energies",
+    "description": "GD Energies, chauffagiste spécialiste du dépannage de chauffage à Nîmes. réparation de chaudières, climatisations, chauffe-eaux, intervention d'urgence.",
+    "opengraph": {
+      "site_name": "GD Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Dépannage Chauffage et Climatisation Nîmes - GD Energies",
+      "description": "GD Energies, chauffagiste spécialiste du dépannage de chauffage à Nîmes. réparation de chaudières, climatisations, chauffe-eaux, intervention d'urgence.",
+      "image": {
+        "src": "https://www.gd-energies.fr/build/images/gd-energies-depannage-456x334.de69679f.jpg",
+        "alt": "Besoin d'une réparation rapide pour votre chauffage ou chauffe-eau à Nîmes ? GD Energies intervient en 24 à 48h. "
+      }
+    }
+  },
+  "hero": {
+    "title": "Dépannage de votre chauffage et de votre chauffe-eau autour de Nîmes",
+    "subtitle": "GD Energies, votre dépanneur et réparateur de chaudière, chauffe-eau et chauffe-bain"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.gd-energies.fr/build/images/gd-energies-depannage-456x334.de69679f.jpg",
+      "alt": "Besoin d'une réparation rapide pour votre chauffage ou chauffe-eau à Nîmes ? GD Energies intervient en 24 à 48h. "
+    },
+    "text": "<p>En cas de panne sur votre chaudière, votre climatisation, votre pompe à chaleur ou votre chauffe-eau, nos techniciens GD Energies interviennent rapidement afin d'assurer votre confort thermique. GD Energies se spécialise dans le dépannage d'urgence et vous garantit un service sous 24 à 48 heures les jours ouvrables, ainsi que des interventions 6 jours sur 7 durant la période hivernale.</p><p>En tant qu'entreprise qualifiée RGE (Reconnu Garant de l'Environnement) et QualiSAV, nous vous assurons un service de qualité pour des réparations durables de vos chaudières, chauffe-eaux et chauffe-bains dans le Gard.</p>"
+  },
+  "teasers": [
+    {
+      "title": "Panne de chauffage ou de chauffe-eau : GD Energies, votre dépanneur et réparateur local",
+      "text": "<p>Nos équipes GD Energies basées à Nîmes, ZI Grézan interviennent sur divers appareils de chauffage et de marques :</p><ul><li>Saunier Duval</li><li>Elm Leblanc</li><li>Frisquet</li><li>Chappée</li><li>Ariston</li><li>Atlantic</li><li>Chaffoteaux</li><li>De Dietrich</li><li>Hitachi</li><li>Thermor</li><li>...</li></ul><p>Nos dépanneurs s'attaquent à toutes les pannes que peut avoir votre chaudière ou votre chauffe-eau pour remettre en état de fonctionnement vos appareils :</p><ul><li>fuite d'eau ou de gaz</li><li>problème de pression</li><li>bruits anormaux (grincement, sifflement, bourdonnement)</li><li>arrêts intempestifs</li><li>dégagement de fumée</li><li>chaudière qui ne s'allume pas</li><li>voyant d'alerte ou d'erreur</li><li>problème dans la circulation de l'eau</li><li>sondes de température défectueuses</li></ul><p><i></i> <a href=\"https://www.gd-energies.fr/depannage/chaudieres-gaz\" title=\"Chaudière en panne\">Demander le dépannage de votre chaudière</a></p>",
+      "link": {
+        "href": "https://www.gd-energies.fr/depannage/chaudieres-gaz",
+        "text": "Demander le dépannage de votre chaudièreDemander la réparation d'un chauffe-eau ou chauffe-bain",
+        "title": "Chaudière en panne"
+      }
+    },
+    {
+      "title": "Votre appareil n'est pas réparable ?",
+      "text": "<p>Si votre appareil est trop ancien et non réparable, nos experts pourront vous proposer le remplacement de votre chaudière, chauffe-eau ou chauffe-bain par un modèle plus récent et économe en énergie. Notre entreprise certifiée RGE veille à vous proposer des équipements de chauffage adaptés à vos besoins et à votre budget.</p><p><i></i> <a href=\"https://www.gd-energies.fr/equipements\" title=\"Chaudières, pompes à chaleur dans le Gard\">Nos équipements de chauffage</a></p>",
+      "link": {
+        "href": "https://www.gd-energies.fr/equipements",
+        "text": "Nos équipements de chauffageNos chauffe-eaux pour votre production d'eau chaude sanitaire",
+        "title": "Chaudières, pompes à chaleur dans le Gard"
+      }
+    }
+  ]
+}

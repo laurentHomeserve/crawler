@@ -1,0 +1,76 @@
+{
+  "breadcrumb": "Entretien",
+  "seo": {
+    "title": "Entretien de chauffage à Grenoble - Roussin Energies",
+    "description": "Votre plombier chauffagiste Roussin Energies intervient sur Grenoble et alentours. Prenez l'avis d'un pro qualifié pour la réparation de votre chauffage !",
+    "opengraph": {
+      "site_name": "Roussin Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Entretien de chauffage à Grenoble - Roussin Energies",
+      "description": "Votre plombier chauffagiste Roussin Energies intervient sur Grenoble et alentours. Prenez l'avis d'un pro qualifié pour la réparation de votre chauffage !",
+      "image": {
+        "src": "https://www.roussin-energies.fr/build/images/roussin-energies-entretien-456x334.608361c3.jpg",
+        "alt": "entretien de chauffage"
+      }
+    }
+  },
+  "hero": {
+    "title": "Entretien chauffage et climatisation dans l'agglomération Grenobloise",
+    "subtitle": "Plombier chauffagiste, nous réalisons l'entretien et la maintenance de vos équipements: Chaudière, PAC, climatisation, ..."
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.roussin-energies.fr/build/images/roussin-energies-entretien-456x334.608361c3.jpg",
+      "alt": "entretien de chauffage"
+    },
+    "text": "<p>Entretenir son chauffage est une obligation prévue par la loi. Une maintenance annuelle de sa pompe à chaleur, chaudière ou climatisation est nécessaire pour garantir son bon fonctionnement, éviter les pannes et les risques d'intoxication au monoxyde de carbone pour les appareils de chauffage fonctionnants au gaz, bois, charbon, essence, fioul, éthanol, ...</p><p>L'objectif de l'<b>entretien de chauffage</b> est donc de contrôler mais aussi de régler les équipements afin d'améliorer les performances de chaque installation.</p><p>En faisant effectuer annuellement la <b>maintenance de votre chauffage ou climatisation</b> par nos techniciens chauffagistes vous assurez votre sécurité et votre confort tout au long de l'hiver.<br>&nbsp;</p>"
+  },
+  "teasers": [
+    {
+      "title": "Quels équipements de chauffage ou climatisation faut-il faire entretenir ?",
+      "text": "<p>Que vous soyez propriétaire occupant ou locataire d'un logement il est obligatoire de faire réaliser l'entretien de votre chauffage ou climatisation. Concernant les immeubles d'habitation, c'est au syndic de copropriété ou à l'agence de location de souscrire un contrat d'entretien.</p><p>Il est nécessaire de réaliser un entretien régulier des appareils à énergies renouvelables (pompes à chaleur, climatisations, poêles, chauffe-eaux thermodynamiques, ...) comme sur les appareils fonctionnants au fioul ou au gaz (chaudières, chauffe-bains gaz, ...), et ce pour que les normes de sécurité et de qualité de l'air soient respectées. Ces opérations de <b>maintenance de chauffage</b> sont essentielles et doivent être effectuées par un professionnel agréé.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Visites d'entretien forfaitaires et contrats de maintenance annuels",
+      "text": "<p>Pour entretenir votre installation, vous pouvez prendre un rendez-vous ponctuel d'entretien (entretien forfaitaire) auprès des équipes de Roussin Energies.</p><p>Nous proposons également des contrats de <b>maintenance annuels pour votre chauffage ou votre climatisation</b> afin d'assurer le suivi et l'entretien de votre équipement. Cette solution vous offre une grande tranquillité d'esprit, vous n'aurez même plus à y penser ! Lors d'une visite d'entretien nos techniciens chauffagistes vérifient à cette occasion un certain nombre de points de contrôle. La mission de notre technicien est de contrôler votre équipement et prévenir d'éventuelles pannes ainsi vous sécurisez et prolongez la durée de vie de votre installation.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Visite d'entretien à Grenoble et environs : Seyssins, Meylan, Voiron, ...",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Toutes nos prestations de maintenance à Grenoble et son agglomération",
+      "text": "",
+      "link": {
+        "href": "/entretien/chaudiere",
+        "text": "Entretien chaudièreEntretien pompe à chaleurEntretien poêle à granulés et poêle à boisEntretien climatisationEntretien chauffe-eau, chauffe-bain et cumulusEntretien plancher chauffant",
+        "title": "Contrat de maintenance chaudière"
+      }
+    },
+    {
+      "title": "Ce que nos clients pensent de nos prestations d'entretien",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/5b276559-786c-6ee4-7ded-ff7f1d64c0e5/416e5706-3570-4570-a40f-5c6f0cf93053.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "breadcrumb": "Chauffage Nemours",
+  "hero": {
+    "title": "À Nemours, Aujard s'occupe de vos chauffages et de vos climatisations",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/aujard-qui-sommes-nous-456x334.e911da09.jpg",
+      "alt": "À Nemours, Aujard s'occupe de vos chauffages et de vos climatisations"
+    },
+    "text": "<p>Depuis plus de 30 ans, les équipes Aujard se déplacent à Nemours pour prendre en charge vos différents équipements de chauffage et de climatisation.</p> <p>Nos techniciens sont formés pour prendre en charge :</p> <ul>\n<li><a title=\"Equipement PAC\" href=\"/equipements/energie-renouvelable/pompe-a-chaleur\">les pompes à chaleur</a></li>\n<li><a title=\"Equipement climatisation\" href=\"/equipements/climatisation\">les climatisations</a></li>\n<li><a title=\"Equipement chauffe-eau\" href=\"/equipements/energie-renouvelable/chauffe-eau-thermodynamique\">les chauffe-eaux</a></li>\n<li><a title=\"Equipement poêle\" href=\"/equipements/energie-renouvelable/poele\">les poêles</a></li>\n<li><a title=\"Equipement chaudière\" href=\"/equipements/chaudieres\">les chaudières</a></li>\n</ul> <p>Vous avez un projet ? Contactez-nous au 01 64 23 67 93 pour obtenir un devis gratuit et personnalisé.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Installation, dépannage et réparation de pompes à chaleur à Nemours",
+      "text": "<p>En choisissant d'<a title=\"Installation pompe à chaleur\" href=\"/installation/pompe-a-chaleur\">installer une pompe à chaleur</a>, vous pouvez avec un même appareil chauffer votre logement en hiver et diffuser de l'air frais en été. Respectueux de l'environnement, ce type d'appareil est économe et fonctionne grâce à des énergies renouvelables (eau, sol, air).</p> <p>Alors n'hésitez pas à nous contacter pour réaliser l'installation mais aussi l'entretien ou le dépannage de votre pompe à chaleur. Notre objectif est ainsi de devenir votre interlocuteur privilégié pour chacun de vos projets.</p> <hr>"
+    },
+    {
+      "title": "Envie d'une nouvelle chaudière en Seine-et-Marne ?",
+      "text": "<p>Votre ancienne chaudière commence à vieillir et vous souhaitez le changer ? Faites confiance aux équipes d'Aujard. Nous vous orienterons vers le type d'équipement qui correspondra le mieux à votre logement et à vos envies.</p> <p>Une fois votre chaudière installée, nous vous recommandons de souscrire à l'un de nos contrats d'entretien. Vous bénéficierez ainsi d'une visite d'entretien annuel réalisée par l'un de nos techniciens. En effet, <a title=\"Entretien chaudière\" href=\"/entretien/chaudiere\">faire réaliser une maintenance régulière de sa chaudière</a> est essentiel pour éviter de nombreux dysfonctionnements et ainsi augmenter sa durée de vie.</p> <hr>"
+    },
+    {
+      "title": "Tous les avantages de la climatisation à Nemours",
+      "text": "<p>Vous avez un projet d'installation, d'entretien ou de <a title=\"Dépannage climatisation\" href=\"/depannage/climatisation\">réparation de climatisation</a> ? Nos collaborateurs mettent leur expérience et leur savoir-faire au service de vos projets.</p> <p>En plus de rafraîchir votre logement en hiver, les climatisations permettent également de déshumidifier votre intérieur et de l'assainir grâce à un système de filtration des allergènes et des polluants. Les derniers modèles sont également réversibles, ils peuvent ainsi se substituer à votre chauffage en hiver.</p> <hr>"
+    },
+    {
+      "title": "Les experts du chauffe-eau thermodynamique à Nemours",
+      "text": "<p>Avoir un chauffe-eau performant est essentiel pour profiter d'une eau chaude sanitaire. C'est pourquoi nous vous conseillons de faire <a title=\"Installation chauffe-eau\" href=\"/installation/chauffe-eau-thermodynamique\">installer un chauffe-eau thermodynamique</a> dans votre logement. Ce type d'équipement est très économe en énergie puisqu'il vous permet de dépenser 2 à 3 fois moins d'énergie qu'un appareil classique.</p> <p>Vous possédez déjà un chauffe-eau ? Les équipes d'Aujard interviennent également chez vous pour réaliser l'entretien mais aussi la réparation de votre équipement. Quel que soit votre besoin, vous savez ainsi que vous pouvez faire appel à nos services.</p> <hr>"
+    },
+    {
+      "title": "À Nemours, faites le choix d'un poêle à bois ou poêle à granulés",
+      "text": "<p>Vous hésitez encore à <a title=\"Installation poêle\" href=\"/installation/poele\">faire installer un poêle chez vous</a> ? Contactez-nous au 01 64 23 67 93. Nos experts prendront le temps de découvrir votre projet afin de vous conseiller au mieux dans le choix de l'équipement. Profitez-en alors pour nous poser toutes vos questions !</p> <p>Et pour que vous puissiez profiter de votre poêle en toute sécurité, faites appel à nos services pour réaliser l'entretien et le ramonage de votre appareil.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  }
+}

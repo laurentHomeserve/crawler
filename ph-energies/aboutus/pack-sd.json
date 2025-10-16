@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Pack sd",
+  "seo": {
+    "title": "Pack SD : présentation des prestations",
+    "description": "Découvrez les missions et les valeurs de Pack SD, plombiers chauffagistes. Une équipe dynamique est à votre service à Caen.",
+    "opengraph": {
+      "site_name": "PH Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Pack SD : présentation des prestations",
+      "description": "Découvrez les missions et les valeurs de Pack SD, plombiers chauffagistes. Une équipe dynamique est à votre service à Caen.",
+      "image": {
+        "src": "https://www.ph-energies.fr/build/images/ph-energies-qui-sommes-nous-pack-sd-456x334.3ffbbf80.jpg",
+        "alt": "contrat pack sd "
+      }
+    }
+  },
+  "hero": {
+    "title": "Pack SD : Spécialiste de la maintenance et du dépannage des systèmes de chauffage et climatisation",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/ph-energies-qui-sommes-nous-pack-sd-456x334.3ffbbf80.jpg",
+      "alt": "contrat pack sd "
+    },
+    "text": "<p>Pack SD poursuit l'action de PH Energies en proposant des prestations complémentaires à l'installation d'un système de chauffage ou climatisation : la <a href=\"/installation\" title=\"Installation pompe à chaleur, chaudière, climatisation\">mise en service des nouveaux équipement</a>, l'<a href=\"/entretien\">entretien annuel des appareils</a> et les <a href=\"/depannage\" title=\"Dépanner vos équipements de chauffage\">prestations de dépannage</a>.</p> <p>Les systèmes pris en charge sont :</p> <ul> <li>Les équipements à énergies renouvelables : pompes à chaleur, chaudières bois et pellets, chauffe-eaux thermodynamiques, etc.</li> <li>Les chaudières au gaz et au fioul,</li> <li>Les systèmes de climatisation.</li> </ul> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Des techniciens qualifiés experts dans le chauffage et la climatisation",
+      "text": "<p>La société Pack SD réalise le suivi après installation et l'ensemble des opérations permettant le bon fonctionnement des appareils de chauffage et de climatisation.</p> <p>En tant que spécialistes de la maintenance, nous assurons la qualité de service et nous vous garantissons un vrai savoir-faire pour l'entretien et le dépannage de l'ensemble de vos appareils liés au confort thermique et à la production d'eau chaude sanitaire.</p> <hr>"
+    },
+    {
+      "title": "Nos prestations d'entretien forfaitaires qui conjuguent sécurité et économies d'énergie",
+      "text": "<p>Les techniciens Pack SD interviennent lors de prestations à la demande ou dans le cadre d'un contrat d'entretien annuel. Ils sont formés régulièrement, spécialistes des métiers du dépannage et de l'entretien et disposent des certifications garantissant un haut niveau de qualité et de sécurité (telle que la certification de manipulation des fluides frigorigènes) :</p> <p>Nos engagements :</p> <ul> <li>Un délai maximum d'intervention de sous 24H ouvrées, pour que chaque client puisse profiter à nouveau d'un appareil en fonctionnement.</li> <li>Un service de qualité : en garantissant un suivi des interventions professionnel et efficace, Pack SD fidélise sa clientèle et lui assure la sérénité.</li> <li>Être à votre disposition pour toute question sur le bon usage de votre installation de chauffage ou climatisation</li> </ul>"
+    }
+  ]
+}

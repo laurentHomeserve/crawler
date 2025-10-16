@@ -1,0 +1,308 @@
+{
+  "breadcrumb": "Conseils et actualites",
+  "seo": {
+    "title": "Conseils et actus chauffage, climatisation et efficacité énergétique | GD Energies",
+    "description": "Toute l'actualité du  chauffage, de la climatisation et des EnR dans le Gard. GD Energies (ex Gaz Dépannage) vous aide à faire des économies sur vos factures !",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "title": "Les actualités et les conseils de GD Energies",
+  "subtitle": "Gagnez en confort et en efficacité énergétique avec votre spécialiste local des solutions de chauffage et de climatisation",
+  "content": "<p>Besoins de conseils pour choisir vos équipements de chauffage et de climatisation ? Vous souhaitez y voir plus clair sur les aides de l’Etat pour vos travaux ? Ou bien vous recherchez des informations réglementaires et les dernières actualités sur le marché de la rénovation énergétique ?</p> <p>Nos experts plombiers chauffagistes et climaticiens GD Energies vous guident au quotidien pour faire les meilleurs choix pour le confort thermique de votre maison. N’hésitez pas à nous contacter pour bénéficier de conseils personnalisés !</p>",
+  "news": [
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/changement-prime-cee-pompe-a-chaleur-air-eau",
+        "title": "Zone H3 et CEE pour les PAC air-eau : ce qui change au 01/10",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-10-07T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/aide-cee-pac-air-eau-changements-2-1c1a26040b.jpg",
+        "alt": "Zone H3 et CEE pour les PAC air-eau : ce qui change au 01/10"
+      },
+      "title": "Zone H3 et CEE pour les PAC air-eau : ce qui change au 01/10",
+      "text": "Zone H3, calcul des CEE, cumul MaPrimeRénov' : jusqu'à 10800€ d'aides !"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/climatisation-chambre",
+        "title": "Climatisation chambre : choix, réglages, placement, conseils",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-07-09T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-climatisation-chambre-797c0d1a3f.jpg",
+        "alt": "Climatisation chambre : choix, réglages, placement, conseils"
+      },
+      "title": "Climatisation chambre : choix, réglages, placement, conseils",
+      "text": "Quelle climatisation choisir pour une chambre ? Comment la régler ? Quelles précautions d’emploi ?"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/suspension-maprimerenov-2025",
+        "title": "MaPrimeRénov’ suspendue été 2025 : démarches et aides en attente",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-06-05T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-suspension-maprimerenov-2025-6727e16d53.jpg",
+        "alt": "MaPrimeRénov’ suspendue été 2025 : démarches et aides en attente"
+      },
+      "title": "MaPrimeRénov’ suspendue été 2025 : démarches et aides en attente",
+      "text": "Face à la suspension annoncée de MaPrimeRénov’ pendant l’été 2025, quelles sont les aides encore actives et comment GD vous accompagne ?"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/tout-savoir-sur-la-climatisation-et-panneaux-solaires",
+        "title": "Combien de panneaux solaires pour alimenter sa climatisation ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-05-21T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-climatisation-panneaux-solaires-feeebc8101.jpg",
+        "alt": "Combien de panneaux solaires pour alimenter sa climatisation ?"
+      },
+      "title": "Combien de panneaux solaires pour alimenter sa climatisation ?",
+      "text": "Climatisation et panneaux solaires : un bon combo pour réduire sa facture d’électricité"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/duree-installation-climatisation",
+        "title": "Combien de temps pour installer une climatisation à Nîmes ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-05-08T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-duree-installation-climatisation-9f99883bef.jpg",
+        "alt": "Combien de temps pour installer une climatisation à Nîmes ?"
+      },
+      "title": "Combien de temps pour installer une climatisation à Nîmes ?",
+      "text": "Vous pensez qu’installer une clim prend des jours et des jours ? Détrompez-vous."
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/journees-portes-ouvertes-mai-2025",
+        "title": "JPO GD Energies à Nîmes - 16 & 17 mai 2025 : conseils et offres",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-04-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/journees-portes-ouvertes-mai-2025-1e364ac440.jpg",
+        "alt": "JPO GD Energies à Nîmes - 16 & 17 mai 2025 : conseils et offres"
+      },
+      "title": "JPO GD Energies à Nîmes - 16 & 17 mai 2025 : conseils et offres",
+      "text": "Conseils, ateliers et offres spéciales pour votre confort et vos économies d'énergie"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/offre-climatisation-2025",
+        "title": "Climatisation réversible fournie & posée à Nîmes dès 1 800 €",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-04-17T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-offre-climatisation-2025-456x334-b3fa0871cd.jpg",
+        "alt": "Climatisation réversible fournie & posée à Nîmes dès 1 800 €"
+      },
+      "title": "Climatisation réversible fournie & posée à Nîmes dès 1 800 €",
+      "text": "Frais en été, chaud en hiver une solution 2-en-1 performante dans le Gard, dès 50€/mois*"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/gd-energies-nimes-50-ans-gaz-depannage",
+        "title": "GD Energies Nîmes : 50 ans d’évolution - Gaz Dépannage",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-03-06T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-50-ans-gaz-depannage-456x334-c649a172d2.jpg",
+        "alt": "GD Energies Nîmes : 50 ans d’évolution - Gaz Dépannage"
+      },
+      "title": "GD Energies Nîmes : 50 ans d’évolution - Gaz Dépannage",
+      "text": "De Gaz Dépannage à GD Energies : chauffagiste nîmois depuis déjà un demi-siècle !\n"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/comment-entretenir-chauffe-eau-gaz",
+        "title": "Chauffe-eau gaz : comment l'entretenir ? Guide pratique",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-01-19T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-comment-entretenir-chauffe-eau-gaz-d3225609da.jpg",
+        "alt": "Chauffe-eau gaz : comment l'entretenir ? Guide pratique"
+      },
+      "title": "Chauffe-eau gaz : comment l'entretenir ? Guide pratique",
+      "text": "Les astuces pour prolonger la durée de vie de votre chauffe-bain gaz\n"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/chaudiere-gaz-pannes-solutions",
+        "title": "Chaudière gaz : les pannes fréquentes et comment les éviter",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-01-19T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-chaudiere-gaz-panne-solution-5ded17e216.jpg",
+        "alt": "Chaudière gaz : les pannes fréquentes et comment les éviter"
+      },
+      "title": "Chaudière gaz : les pannes fréquentes et comment les éviter",
+      "text": "Dépannage chaudière gaz : évitez les pannes avec GD Energies, 50 ans d’expertise"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/journees-portes-ouvertes-novembre-2024",
+        "title": "Portes ouvertes chez GD Energies Nîmes : jusqu'à 1 500€ de remise",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-11-03T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-journees-portes-ouvertes-novembre-2024-9d733842f7.jpg",
+        "alt": "Portes ouvertes chez GD Energies Nîmes : jusqu'à 1 500€ de remise"
+      },
+      "title": "Portes ouvertes chez GD Energies Nîmes : jusqu'à 1 500€ de remise",
+      "text": "Offres spéciales JPO : chaudières, pompes à chaleur, climatisations, photovoltaïque : jusqu'à 1500 € de remise !"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/tva-a-20-sur-chaudieres-a-gaz-quel-impact-pour-nimes",
+        "title": "Hausse de TVA sur les chaudières gaz : quel impact à Nîmes ?",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-10-21T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-hausse-tva-chaudieres-gaz-d0dc9718ea.jpg",
+        "alt": "Hausse de TVA sur les chaudières gaz : quel impact à Nîmes ?"
+      },
+      "title": "Hausse de TVA sur les chaudières gaz : quel impact à Nîmes ?",
+      "text": "TVA sur les chaudières à gaz : de 5,5% à 20%, quels impacts pour les propriétaires de Nîmes ?"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/remplacer-chaudiere-par-pompe-a-chaleur-hybride-gard",
+        "title": "Pourquoi Remplacer une Chaudière par une PAC Hybride dans le Gard ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-10-14T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-fonctionnement-pompe-a-chaleur-hybride-remplace-chaudiere-35a5642d0e.jpg",
+        "alt": "Pourquoi Remplacer une Chaudière par une PAC Hybride dans le Gard ?"
+      },
+      "title": "Pourquoi Remplacer une Chaudière par une PAC Hybride dans le Gard ?",
+      "text": "Pourquoi passer à la pompe à chaleur hybride pour son chauffage près de Nîmes ?"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/pompe-a-chaleur-2024-augmentation-coup-de-pouce",
+        "title": "Aide Pompe à chaleur 2024 : augmentation du Coup de Pouce !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-09-29T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-coup-de-pouce-pac-2024-87d2ea063f.jpg",
+        "alt": "Aide Pompe à chaleur 2024 : augmentation du Coup de Pouce !"
+      },
+      "title": "Aide Pompe à chaleur 2024 : augmentation du Coup de Pouce !",
+      "text": "Une transition énergétique facilitée avec le Coup de Pouce Chauffage pour pompes à chaleur"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/pourquoi-entretenir-pompe-a-chaleur",
+        "title": "Entretenir sa pompe à chaleur : 5 bonnes raisons de le faire",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-07-11T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-pourquoi-entretien-pac-456x334-c74cba39b1.jpg",
+        "alt": "Entretenir sa pompe à chaleur : 5 bonnes raisons de le faire"
+      },
+      "title": "Entretenir sa pompe à chaleur : 5 bonnes raisons de le faire",
+      "text": "Pourquoi faire entretenir sa pompe à chaleur ? GD Energies vous donnes 5 arguments pour !"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/preparer-chauffage-hiver-conseils",
+        "title": "Préparer son chauffage pour l'hiver : 6 points importants dans le Gard",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-07-11T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-preparation-chauffage-hiver-456x334-f96f521b5a.jpg",
+        "alt": "Préparer son chauffage pour l'hiver : 6 points importants dans le Gard"
+      },
+      "title": "Préparer son chauffage pour l'hiver : 6 points importants dans le Gard",
+      "text": "Programmez votre thermostat, faites entretenir votre chaudière et votre chauffe-eau avec GD Energies."
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/desembouage-radiateurs-chauffage",
+        "title": "Radiateurs qui ne chauffent pas bien : quid du désembouage ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-07-11T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-desembouage-radiateurs-456x334-fda808d653.jpg",
+        "alt": "Radiateurs qui ne chauffent pas bien : quid du désembouage ?"
+      },
+      "title": "Radiateurs qui ne chauffent pas bien : quid du désembouage ?",
+      "text": "Vos radiateurs ont des zones froides ? Ils chauffent moins bien qu'avant ? Ils sont peut-être emboués !"
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/7-astuces-economies-chauffage",
+        "title": "7 astuces pour faire des économies de chauffage cet hiver",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-07-11T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-economies-chauffage-456x334-8802a1e6cc.jpg",
+        "alt": "7 astuces pour faire des économies de chauffage cet hiver"
+      },
+      "title": "7 astuces pour faire des économies de chauffage cet hiver",
+      "text": "Réduisez vos factures de chauffage cet hiver avec GD Energies : programmation, entretien, chasse aux courants d'air, retrouvez tous nos conseils."
+    },
+    {
+      "url": {
+        "href": "https://www.gd-energies.fr/conseils-et-actualites/panneaux-solaires-nimes-avantages",
+        "title": "Panneaux solaires : 7 avantages pour votre maison et votre budget",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-07-11T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/gd-energies-article-avantages-photovoltaique-gard-456x334-0c6a4bddf1.jpg",
+        "alt": "Panneaux solaires : 7 avantages pour votre maison et votre budget"
+      },
+      "title": "Panneaux solaires : 7 avantages pour votre maison et votre budget",
+      "text": "Passez au photovoltaïque à Nîmes : rentabilité, écologie et autonomie énergétique"
+    }
+  ]
+}

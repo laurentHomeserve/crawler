@@ -1,0 +1,40 @@
+{
+  "breadcrumb": "Chauffage Crolles",
+  "hero": {
+    "title": "Roussin Energies, l'expert climatisation et chauffage à Crolles",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/roussin-energies-entretien-456x334.608361c3.jpg",
+      "alt": "Roussin Energies, l'expert climatisation et chauffage à Crolles"
+    },
+    "text": "<p>À Crolles, les experts Roussin Energies interviennent chez vous pour installer, entretenir et dépanner vos différents équipements de chauffage et de climatisation tels que :</p> <ul>\n<li><a title=\"Equipement PAC\" href=\"/equipements/pompe-a-chaleur\">les pompes à chaleur</a></li>\n<li><a title=\"Equipement climatisation\" href=\"/equipements/climatisation\">les climatisations</a></li>\n<li><a title=\"Equipement chaudière\" href=\"/equipements/chaudieres\">les chaudières</a></li>\n<li><a title=\"Equipement chauffe-eau\" href=\"/equipements/chauffe-eau\">les chauffe-eaux</a></li>\n<li>les planchers chauffants</li>\n</ul> <p>Vous avez un projet ? Alors n'attendez plus et contactez-nous au 04 76 26 07 65 pour obtenir un devis gratuit et personnalisé en fonction de votre situation et votre budget.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Faire le choix de la pompe à chaleur à Crolles",
+      "text": "<p><a title=\"Installation pompe à chaleur\" href=\"/installation/pompe-a-chaleur\">Installer une pompe à chaleur</a> est un moyen efficace et écologique de réduire ses factures d'énergies. En effet, les PAC puisent leur énergie de l'environnement (eau, air, sol) ce qui est plus économique et respectueux de l'environnement que les solutions classiques, telles que le chauffage au fioul ou au gaz. Les pompes à chaleur peuvent être utilisées comme source de chauffage ou de climatisation, ainsi qu'à la production d'eau chaude sanitaire.</p> <p>Vous souhaitez faire poser une pompe à chaleur à votre domicile ? Les équipes Roussin Energies se chargent de l'installation, mais aussi du dépannage et de l'entretien des PAC.</p> <hr>"
+    },
+    {
+      "title": "Les experts de la chaudière à Crolles",
+      "text": "<p>Vous cherchez une société de confiance pour prendre en charge votre chaudière gaz, bois et fioul ? Roussin Energies, entreprise spécialisée dans le domaine de la chaudière, est à votre disposition pour vous assurer un service professionnel et qualitatif.</p> <p>Nos techniciens expérimentés se tiennent à votre disposition pour toute demande de renseignement ou assistance technique concernant l’installation, l'entretien et <a title=\"Réparation chaudière\" href=\"/depannage/chaudiere\">le dépannage des différents types de chaudière (gaz, bois, fioul)</a>.</p> <hr>"
+    },
+    {
+      "title": "À Crolles, profitez de votre climatisation en toute sérénité",
+      "text": "<p>Les experts Roussin Energies se déplacent à votre domicile à Crolles et ses alentours pour <a title=\"Installation climatisation\" href=\"/installation/climatisation\">installer votre climatisation</a> et ainsi vous faire gagner en confort thermique en été. Les nouveaux modèles sont par ailleurs équipés de systèmes de filtration et de déshumidification afin d'améliorer la qualité de votre air intérieur.</p> <p>Les climatisations sont des appareils qui doivent être entretenus par des professionnels pour une performance optimale. Alors n’attendez plus et contactez nous au 04 76 26 07 65 pour réaliser l’entretien de votre appareil. Vous augmenterez ainsi sa durée de vie et maintiendrez sa performance optimale plus longtemps.</p> <hr>"
+    },
+    {
+      "title": "Installation, entretien et dépannage de plancher chauffant en Isère ?",
+      "text": "<p>Vous avez toujours rêvé de profiter d'une chaleur homogène dans tout votre logement ? Vous ne voulez pas que votre salle de bain soit plus chaude que la cuisine ? Vous êtes à la recherche d'un système de chauffage efficace et invisible à la vue ?</p> <p><a title=\"Installation chauffage au sol\" href=\"/installation/plancher-chauffant\">L'installation d'un plancher chauffant</a> est faite pour vous ! Grâce à nos experts, vous allez pouvoir régler votre température de votre intérieur de manière optimale et économiser sur votre facture d'électricité ! De plus, nos équipes se chargent également de l'entretien et des réparations de votre chauffage au sol.</p> <hr>"
+    },
+    {
+      "title": "Tout pour le chauffe-eau à Crolles",
+      "text": "<p>Vous souhaitez faire <a title=\"Installation chauffe-eau\" href=\"/installation/chauffe-eau\">installer un nouveau chauffe-eau</a> pour profiter d'une eau chaude sanitaire tout au long de l'année ? Vous êtes à la recherche d'un professionnel pour réaliser l'entretien ou la réparation de votre équipement actuel ?</p> <p>Quel que soit votre besoin en matière de chauffe-eau, les équipes Roussin Energies interviennent à votre domicile pour installer, entretenir et dépanner votre appareil. Notre objectif est ainsi de devenir votre interlocuteur privilégié pour chacun de vos projets.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  }
+}

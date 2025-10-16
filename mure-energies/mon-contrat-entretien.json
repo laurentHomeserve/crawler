@@ -1,0 +1,35 @@
+{
+  "breadcrumb": "",
+  "seo": {
+    "title": "Votre plombier chauffagiste à Lyon et dans le bassin Lyonnais",
+    "description": "",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "hero": {
+    "title": "",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "",
+      "alt": ""
+    },
+    "text": ""
+  },
+  "contents": [],
+  "related": {
+    "title": "",
+    "links": []
+  },
+  "url": "https://www.mure-energies.fr/mon-contrat-entretien"
+}

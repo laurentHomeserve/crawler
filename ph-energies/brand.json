@@ -1,0 +1,31 @@
+{
+  "name": "PH Energies",
+  "description": "Solutions énergies renouvelables. Installation chauffage et climatisation à Caen, Bayeux, Falaise, Lisieux, Deauville, Honfleur, Pont l'Evêque, Vire, Alençon, Flers, ...",
+  "map_url": "https://goo.gl/maps/sxwSmVyRfkSbL9X36",
+  "website_url": "https://www.ph-energies.fr",
+  "phone": "(33 2)31826933",
+  "streetAddress": "318 Av. des Digues",
+  "addressLocality": "Fleury sur Orne, France",
+  "postalCode": "F-14123",
+  "addressCountry": "France",
+  "geo": {
+    "lat": "49.13965",
+    "lng": "-0.37130"
+  },
+  "favicon": "https://www.ph-energies.fr/asset/PH/favicon/favicon-32x32.png",
+  "logo": "https://www.ph-energies.fr/asset/img/organisation/logo/ph/logo-ph-energies.jpg",
+  "image": "https://www.ph-energies.fr/asset/img/organisation/corporate/ph/chauffagiste-ph-energies.jpg",
+  "avis_verifies": "",
+  "piwik_token": "7bf1890d-e7c7-4170-896d-d7b7f1bc361f",
+  "opening_hours": [
+    "Mo, Tu, We, Th, Fr 08:30-17:30"
+  ],
+  "footer_links": [],
+  "socials": [],
+  "sameAs": [
+    "https://www.societe.com/societe/ph-energies-482121647.html",
+    "https://www.facebook.com/phenergies/",
+    "https://www.pagesjaunes.fr/pros/51175470",
+    "https://fr.mappy.com/poi/510e05a484ae3cbc6dde88be"
+  ]
+}

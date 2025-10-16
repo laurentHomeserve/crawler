@@ -1,0 +1,428 @@
+{
+  "breadcrumb": "Conseils et actualites",
+  "seo": {
+    "title": "Astuces, conseils et actualités | Mure Energies",
+    "description": "Découvrez toute l'actualité du chauffage, de l'énergie, de la climatisation à Lyon, Villeurbanne, Bron, Saint-Priest, Craponne, Chaponost, Dardilly....",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "title": "Les actualités et les conseils de Mure Energies",
+  "subtitle": "Votre spécialiste des solutions de chauffage et climatisation sur Lyon et sa région vous conseille",
+  "content": "<p>Nos experts sont à votre service pour vous proposer des solutions fiables et efficaces afin de veiller à votre confort thermique et énergétique. Que vous soyez un professionnel ou un particulier, nous vous tenons informé des dernières nouveautés technologiques dans les domaines du chauffage et de la plomberie.</p> <p>Nous publions régulièrement dans cette rubrique des billets consacrés à l'actualité des équipements et des aides proposées par l'Etat, mais aussi à celle de notre société avec nos solutions d'entretien et de dépannage...</p> <p>Par ailleurs, vous trouverez également les conseils et les astuces de nos collaborateurs afin de vous faciliter la vie et de réduire vos factures énergétiques. Avec Mure Energies, vous serez bien chez vous été comme hiver !</p>",
+  "news": [
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/solutions-climatisation-reversible-studio-t2-confort",
+        "title": "Quelle climatisation choisir pour un studio ou un T2 ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-05-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-climatisation-studio1-fed08f087d.jpg",
+        "alt": "Quelle climatisation choisir pour un studio ou un T2 ?"
+      },
+      "title": "Quelle climatisation choisir pour un studio ou un T2 ?",
+      "text": "Vivre dans un petit espace studio et T2 ne veut pas dire vivre dans la chaleur"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/climatisation-bureaux-partages-10-conseils",
+        "title": "Un air frais dans vos bureaux partagés : nos 10 conseils",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-05-13T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-climatisation-coworking1-562992f712.jpg",
+        "alt": "Un air frais dans vos bureaux partagés : nos 10 conseils"
+      },
+      "title": "Un air frais dans vos bureaux partagés : nos 10 conseils",
+      "text": "Bureaux partagés à Lyon : comment allier confort thermique et contraintes multiples"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/clim-local-commercial-lyon",
+        "title": "Clim local commercial à Lyon : louez plus vite, fidélisez mieux",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-05-11T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-climatisation-local-commercial-5489c80d0f.jpg",
+        "alt": "Clim local commercial à Lyon : louez plus vite, fidélisez mieux"
+      },
+      "title": "Clim local commercial à Lyon : louez plus vite, fidélisez mieux",
+      "text": "Le confort thermique : une nouvelle priorité pour les entreprises lyonnaises"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/climatiseur-lyon-12-signes-alertes",
+        "title": "Climatiseur à Lyon : 12 signes que votre entreprise en a besoin",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-05-04T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-12-signes-climatisation-entreprise-49d29d5032.jpg",
+        "alt": "Climatiseur à Lyon : 12 signes que votre entreprise en a besoin"
+      },
+      "title": "Climatiseur à Lyon : 12 signes que votre entreprise en a besoin",
+      "text": "Travailler ou accueillir sans clim à Lyon ? C’est de plus en plus compliqué"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/climatisation-bureau-teletravail",
+        "title": "Climatisation bureau : télétravaillez au frais même en été",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-04-28T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-climatisation-bureau-teletravail-08da66b550.jpg",
+        "alt": "Climatisation bureau : télétravaillez au frais même en été"
+      },
+      "title": "Climatisation bureau : télétravaillez au frais même en été",
+      "text": "Avec des vagues de chaleurs plus fréquentes et plus longues, la climatisation commence à s'imposer pour celles et ceux qui télétravaillent à Lyon."
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/journees-portes-ouvertes-mai-2025",
+        "title": "Journées Portes Ouvertes à Dardilly : RDV les 16 & 17 mai",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-04-28T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/journees-portes-ouvertes-mai-2025-f380f25827.jpg",
+        "alt": "Journées Portes Ouvertes à Dardilly : RDV les 16 & 17 mai"
+      },
+      "title": "Journées Portes Ouvertes à Dardilly : RDV les 16 & 17 mai",
+      "text": "Préparez vos projets énergétiques avec Mure Energies lors de nos Journées Portes Ouvertes à Dardilly"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/offre-climatisation-2025",
+        "title": "Offre Spéciale Climatisation Été 2025 à Lyon - Dès 1800€",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-04-16T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-offre-climatisation-2025-456x334-40eb2f2b80.jpg",
+        "alt": "Offre Spéciale Climatisation Été 2025 à Lyon - Dès 1800€"
+      },
+      "title": "Offre Spéciale Climatisation Été 2025 à Lyon - Dès 1800€",
+      "text": "Climatisation Atlantic, Mitsubishi, Daikin au meilleur prix à Lyon, Villeurbanne, Dardilly, Saint-Priest"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/changer-chauffage-aides-2025-lyon",
+        "title": "Chauffage : tout savoir sur les aides en 2025 à Lyon",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-01-07T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-aides-chauffage-2025-d9e85ca6ce.jpg",
+        "alt": "Chauffage : tout savoir sur les aides en 2025 à Lyon"
+      },
+      "title": "Chauffage : tout savoir sur les aides en 2025 à Lyon",
+      "text": "MaPrimeRénov’, CEE, TVA réduite : réduisez le coût de votre chauffage à Lyon en 2025"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/contrat-entretien-chaudiere-en-ligne",
+        "title": "Contrat d'entretien de chaudière en ligne autour de Lyon",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-12-15T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-contrat-entretien-en-ligne-456x334-4c2930fa68.jpg",
+        "alt": "Contrat d'entretien de chaudière en ligne autour de Lyon"
+      },
+      "title": "Contrat d'entretien de chaudière en ligne autour de Lyon",
+      "text": "Entretenir votre chaudière : votre contrat d'entretien de chaudière gaz, fioul, bûches ou granulés en ligne autour de Lyon, Vienne, Mâcon, Villefranche-sur-Saône \n"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/journees-portes-ouvertes-novembre-2024",
+        "title": "Portes Ouvertes Mure Energies : 22 et 23 novembre près de Lyon !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-11-04T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-journees-portes-ouvertes-novembre-2024-da67bbb35c.jpg",
+        "alt": "Portes Ouvertes Mure Energies : 22 et 23 novembre près de Lyon !"
+      },
+      "title": "Portes Ouvertes Mure Energies : 22 et 23 novembre près de Lyon !",
+      "text": "Offres exceptionnelles sur les chaudières, climatisations, pompes à chaleur et panneaux photovoltaïques avec Mure Energies"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/hausse-tva-chaudieres-gaz-impact-lyon",
+        "title": "Chaudières gaz : projet de hausse de la TVA, à quoi s'attendre",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-10-29T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-projet-augmentation-tva-2025-3b28d56018.jpg",
+        "alt": "Chaudières gaz : projet de hausse de la TVA, à quoi s'attendre"
+      },
+      "title": "Chaudières gaz : projet de hausse de la TVA, à quoi s'attendre",
+      "text": "La TVA à 20 % sur les chaudières à gaz : une menace pour les propriétaires lyonnais ?"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/offres-mois-de-la-reno-atlantic-2024",
+        "title": "Atlantic et Mure : jusqu'à 600€ remboursés sur votre chauffage à Lyon",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-10-16T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-partenaire-atlantic-mois-de-la-reno-2024-d8886f6e95.jpg",
+        "alt": "Atlantic et Mure : jusqu'à 600€ remboursés sur votre chauffage à Lyon"
+      },
+      "title": "Atlantic et Mure : jusqu'à 600€ remboursés sur votre chauffage à Lyon",
+      "text": "300€ remboursés sur votre PAC air-eau en plus des aides"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/comment-nettoyer-ses-radiateurs-pour-lhiver",
+        "title": "Préparez vos radiateurs pour l'hiver : guide de nettoyage complet",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-10-16T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-nettoyage-radiateurs-04ae62b788.jpg",
+        "alt": "Préparez vos radiateurs pour l'hiver : guide de nettoyage complet"
+      },
+      "title": "Préparez vos radiateurs pour l'hiver : guide de nettoyage complet",
+      "text": "Nettoyez vos radiateurs avant l'hiver, faites entretenir votre chauffage et réduisez vos factures"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/pourquoi-entretenir-chaudiere-avant-hiver",
+        "title": "Pourquoi faire entretenir sa chaudière avant l’hiver ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-10-09T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-pourquoi-entretenir-chaudiere-avant-hiver-91bdbc3916.jpg",
+        "alt": "Pourquoi faire entretenir sa chaudière avant l’hiver ?"
+      },
+      "title": "Pourquoi faire entretenir sa chaudière avant l’hiver ?",
+      "text": "Préparez votre chaudière avant l’hiver pour éviter les pannes et surconsommations d’énergie"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/coup-de-pouce-pompe-a-chaleur-2024-aides",
+        "title": "Coup de Pouce Pompe à Chaleur 2024 : encore plus d'aide",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-09-29T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energigies-article-coup-de-pouce-pac-2024-700f447807.jpg",
+        "alt": "Coup de Pouce Pompe à Chaleur 2024 : encore plus d'aide"
+      },
+      "title": "Coup de Pouce Pompe à Chaleur 2024 : encore plus d'aide",
+      "text": "Installez une pompe à chaleur avec Mure Energies et obtenez jusqu'à 6 350 € grâce au Coup de Pouce Chauffage 2024"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/chauffage-desembouage-radiateurs",
+        "title": "Désembouage des radiateurs, tout savoir en 8 questions",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-08-04T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-desembouage-radiateurs-23b4dff5fb.jpg",
+        "alt": "Désembouage des radiateurs, tout savoir en 8 questions"
+      },
+      "title": "Désembouage des radiateurs, tout savoir en 8 questions",
+      "text": "Comment savoir si un désembouage est nécessaire ? Quand et pourquoi le faire ?"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/climatisation-thermor-niseko-avis",
+        "title": "Climatisation réversible Thermor Niseko dès 1620€ : l'avis de Mure",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-07-23T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-thermor-niseko-avis-cc2a24606b.jpg",
+        "alt": "Climatisation réversible Thermor Niseko dès 1620€ : l'avis de Mure"
+      },
+      "title": "Climatisation réversible Thermor Niseko dès 1620€ : l'avis de Mure",
+      "text": "Rapport qualité prix compétitif, bonne efficacité énergétique, design : l'avis de Mure Energies sur la PAC air-air Thermor Niseko "
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/sol-et-moi-notre-gamme-solaire-photovoltaique-lyon",
+        "title": "Sol&moi : kits solaires photovoltaïques à Lyon - Dès 6990€",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-06-05T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-article-sol-et-moi-456x334-73d00a4120.jpg",
+        "alt": "Sol&moi : kits solaires photovoltaïques à Lyon - Dès 6990€"
+      },
+      "title": "Sol&moi : kits solaires photovoltaïques à Lyon - Dès 6990€",
+      "text": "L'offre photovoltaïque qu'il vous faut pour passer à l'énergie solaire : un geste économique et écologique !"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/journees-portes-ouvertes-offres-speciales-dardilly",
+        "title": "Des offres spéciales et des conseils experts – Nos JPO à Dardilly !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-05-05T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/visuel-jpo-mai-2024-456x334-e7592d4d9b.jpg",
+        "alt": "Des offres spéciales et des conseils experts – Nos JPO à Dardilly !"
+      },
+      "title": "Des offres spéciales et des conseils experts – Nos JPO à Dardilly !",
+      "text": "Nos offres spéciales près de Lyon : climatisation, chaudière gaz, photovoltaïque et pompe à chaleur !"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/pac-air-air-la-solution-economique-pour-se-rafraichir-cet-ete-lyon",
+        "title": "PAC air-air : la solution économique pour se rafraîchir cet été à Lyon",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-04-22T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mure-energies-offre-climatisation-2024-456x334-442579eea2.jpg",
+        "alt": "PAC air-air : la solution économique pour se rafraîchir cet été à Lyon"
+      },
+      "title": "PAC air-air : la solution économique pour se rafraîchir cet été à Lyon",
+      "text": "Climatisation réversible : découvrez comment rester au frais l'été et au chaud en hiver. Profitez de notre offre de financement."
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/les-nouvelles-chaudieres-fioul-cest-fini",
+        "title": "Les nouvelles chaudières fioul, c’est fini !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2022-09-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/Visuel_Fioul_456x334-2fdf696855.png",
+        "alt": "Les nouvelles chaudières fioul, c’est fini !"
+      },
+      "title": "Les nouvelles chaudières fioul, c’est fini !",
+      "text": "Nous vous aidons à mieux comprendre les mesures de ce décret du 1er juillet 2022."
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/hausse-du-prix-du-gaz-mythe-ou-realite",
+        "title": "Hausse du prix du gaz, mythe ou réalité ?",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2022-03-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/hausse-prix-du-gaz-51586bb6e8.jpg",
+        "alt": "Hausse du prix du gaz, mythe ou réalité ?"
+      },
+      "title": "Hausse du prix du gaz, mythe ou réalité ?",
+      "text": "Mure Energies répond à toutes les questions que vous pourriez vous poser sur la hausse des prix du gaz."
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/tout-savoir-sur-la-climatisation-pour-pouvoir-en-profiter-au-maximum",
+        "title": "Tout savoir sur la climatisation pour pouvoir en profiter au maximum",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2022-03-06T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/climatisation_2022-25cfade92e.jpg",
+        "alt": "Tout savoir sur la climatisation pour pouvoir en profiter au maximum"
+      },
+      "title": "Tout savoir sur la climatisation pour pouvoir en profiter au maximum",
+      "text": "Mure Energies vous accompagne dans l'installation de votre nouvelle climatisation"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/la-quinzaine-du-gaz-devient-le-mois-du-gaz",
+        "title": "La quinzaine du gaz devient le mois du gaz",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2022-03-01T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mois_du_gaz_2022-d5d844edf5.jpg",
+        "alt": "La quinzaine du gaz devient le mois du gaz"
+      },
+      "title": "La quinzaine du gaz devient le mois du gaz",
+      "text": "Mure Energies vous accompagne dans toutes vos démarches de rénovation énergétique pendant le mois du gaz."
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/tout-savoir-sur-maprimerenov",
+        "title": "Tout savoir sur MaPrimeRenov",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2021-12-15T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/61bb449a304eb099703885.jpg",
+        "alt": "Tout savoir sur MaPrimeRenov"
+      },
+      "title": "Tout savoir sur MaPrimeRenov",
+      "text": "Une aide maintenue en 2023 pour des logements de plus de 15 ans. Soyez accompagnés par Mure Energies !"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/les-differentes-pannes-de-chauffe-eau-electrique-cumulus",
+        "title": "Chauffe-eau électrique en panne : les principales causes",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2021-09-20T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/614af1fd24084161479403.jpg",
+        "alt": "Chauffe-eau électrique en panne : les principales causes"
+      },
+      "title": "Chauffe-eau électrique en panne : les principales causes",
+      "text": "Pourquoi entretenir régulièrement son cumulus (chauffe-eau électrique) permet d’anticiper la plupart des problèmes ?"
+    },
+    {
+      "url": {
+        "href": "https://www.mure-energies.fr/conseils-et-actualites/comment-bien-choisir-son-plombier-a-lyon",
+        "title": "Choisir un plombier à Lyon grâce à Mure Énergies",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2021-09-20T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/614a2277abe3f118759420.jpg",
+        "alt": "Choisir un plombier à Lyon grâce à Mure Énergies"
+      },
+      "title": "Choisir un plombier à Lyon grâce à Mure Énergies",
+      "text": "Un projet d’installation sanitaire ? Un dépannage en urgence pour une fuite ? Il vous faut un plombier dans la région lyonnaise !"
+    }
+  ]
+}

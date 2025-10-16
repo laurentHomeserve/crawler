@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Recrutement",
+  "seo": {
+    "title": "Recrutement - GD Energies - Gaz Dépannage Nîmes",
+    "description": "GD Energies, spécialiste du chauffage et de la climatisation dans le Gard, recrute : installateur-ice, technicien-ne de maintenance, frigoriste, etc.",
+    "opengraph": {
+      "site_name": "GD Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Recrutement - GD Energies - Gaz Dépannage Nîmes",
+      "description": "GD Energies, spécialiste du chauffage et de la climatisation dans le Gard, recrute : installateur-ice, technicien-ne de maintenance, frigoriste, etc.",
+      "image": {
+        "src": "https://www.gd-energies.fr/build/images/gd-energies-recrutement-456x334.08f20ff9.jpg",
+        "alt": "Nos offres plombier chauffagiste et frigoriste autour de Nîmes"
+      }
+    }
+  },
+  "hero": {
+    "title": "GD Energies recrute sur Nîmes et ses alentours !",
+    "subtitle": "Chauffagistes, plombiers, climaticiens, fonctions support : rejoignez GD Energies"
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/gd-energies-recrutement-456x334.08f20ff9.jpg",
+      "alt": "Nos offres plombier chauffagiste et frigoriste autour de Nîmes"
+    },
+    "text": "<p>Si vous recherchez un emploi dans le domaine du génie climatique dans le Gard, vous êtes au bon endroit ! Chez GD Energies, nous recherchons des plombiers chauffagistes, frigoristes et techniciens de maintenance.</p> <p>Notre <a title=\"Notre zone d'intervention\" href=\"/qui-sommes-nous/zones-intervention\">rayon d’intervention</a> est de 35 km autour de <a href=\"https://www.gd-energies.fr/chauffage-nimes\" title=\"Chauffage Nimes\">Nîmes</a> ainsi que la zone du <a href=\"https://www.gd-energies.fr/chauffage-grau-du-roi\" title=\"Chauffage Grau Du Roi\">Grau-du-Roi</a> et ses environs.</p>"
+  },
+  "contents": [
+    {
+      "title": "Une entreprise locale reconnue",
+      "text": "<p>GD Energies, entreprise fondée en 1975 à Nîmes, cumule aujourd’hui plus de 50 ans d’expérience dans l’installation, l’entretien et le dépannage des systèmes de chauffage et de climatisation. Avec un ancrage local fort, GD Energies est notamment devenue une référence en matière de dépannage d’urgence.</p> <p>Nos chauffagistes, plombiers et climaticiens assurent <a href=\"https://www.gd-energies.fr/installation\" title=\"Installation chauffage et climatisation dans le Gard\">la pose</a>, <a title=\"Entretien chauffage, climatisation, chauffe-eau\" href=\"https://www.gd-energies.fr/entretien\">la maintenance</a> et la <a title=\"Réparation chauffe-eau, chaudière\" href=\"https://www.gd-energies.fr/depannage\">réparation</a> de nombreux appareils pour le confort thermique de la maison : <a title=\"Nos solutions de chauffage et de climatisation\" href=\"https://www.gd-energies.fr/equipements/pompes-a-chaleur\">pompes à chaleur</a> air-eau, hybrides ou air-air (<a title=\"Nos climatisation réversibles\" href=\"https://www.gd-energies.fr/equipements/climatisations\">climatisations</a>), <a title=\"Nos chaudières gaz\" href=\"https://www.gd-energies.fr/equipements/chaudieres-gaz\">chaudières gaz</a>. Nous disposons du plus grand stock de pièces détachées du département du Gard, ce qui nous permet de dépanner rapidement nos clients pour <a href=\"/qui-sommes-nous/certifications-et-marques\" title=\"Nos marques partenaires\">la majorité des marques</a> de chaudières gaz.</p> <p>Nos équipes interviennent aussi sur les travaux de plomberie sanitaire pour nos clients sous contrat :</p> <ul> <li>Installation et réparation : lavabo &amp; évier, robinetterie, WC, cumulus, douche, baignoire</li> <li>Recherche de fuites et réparation eau, gaz</li> </ul> <p>Pour répondre aux besoins de nos clients, 26 personnes dont 15 techniciens poseurs travaillent au quotidien dans nos locaux de la ZI de Grézan et en intervention. Chaque année, plus de 1500 interventions sont réalisées chez nos clients particuliers comme professionnels.</p>"
+    },
+    {
+      "title": "Pourquoi rejoindre GD Energies ?",
+      "text": "<p>Rejoindre GD Energies, c’est choisir une entreprise locale avec une ambition de développement forte, notamment sur les équipements à énergies renouvelables.</p> <p>Depuis 2023, GD Energies fait partie de la division Energies Services du groupe <strong>HomeServe</strong>. Cette intégration à HomeServe permet notamment à nos équipes de bénéficier de nombreux avantages et de l’appui d’un groupe national. C’est aussi pour nous un moteur de croissance autour des énergies renouvelables.</p> <p>Autre changement notable : notre nouveau nom. En 2023, <a href\"https:=\"\" www.gd-energies.fr=\"\" gaz-depannage\"=\"\" title\"changement=\"\" de=\"\" nom=\"\" gaz=\"\" dépannage=\"\" nîmes\"=\"\">Gaz Dépannage Nîmes</a> a changé de nom pour devenir GD Energies.</p> <p>Vous shouaitez rejoindre notre équipes ? Envoyez-nous votre candidature via <a title=\"Postuler chez GD Energies\" href=\"/nous-contacter?type=5\">notre formulaire de contact</a> !\n        </p>"
+    }
+  ]
+}

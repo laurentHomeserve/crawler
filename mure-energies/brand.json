@@ -1,0 +1,33 @@
+{
+  "name": "Mure Energies",
+  "description": "Mure Énergies, est une entreprise de plombiers chauffagistes et frigoristes RGE à Dardilly (69570). Spécialiste en chauffage, climatisation, pompes à chaleur, poêle et énergies renouvelables, nous proposons installation, entretien et dépannage pour les particuliers et professionnels dans toute la région lyonnaise.",
+  "map_url": "https://goo.gl/maps/xdXvBFRxkNjGYbRz5",
+  "website_url": "https://www.mure-energies.fr",
+  "phone": "(33 4)78598388",
+  "streetAddress": "12 Chemin des Gorges",
+  "addressLocality": "Dardilly, France",
+  "postalCode": "F-69570",
+  "addressCountry": "France",
+  "geo": {
+    "lat": "45.8076366",
+    "lng": "4.7653869"
+  },
+  "favicon": "https://www.mure-energies.fr/asset/MURE/favicon/favicon-32x32.png",
+  "logo": "https://www.mure-energies.fr/asset/img/organisation/logo/mure/logo-mure-energies.jpg",
+  "image": "https://www.mure-energies.fr/asset/img/organisation/corporate/mure/chauffagiste-mure-energies.jpg",
+  "avis_verifies": "",
+  "piwik_token": "bdefa55b-385d-4e48-a6ec-9984a854be88",
+  "opening_hours": [
+    "Mo, Tu, We, Th 08:00-17:30",
+    "Fr 08:00-16:00"
+  ],
+  "footer_links": [],
+  "socials": [],
+  "sameAs": [
+    "https://www.societe.com/societe/g-2-m-451219448.html",
+    "https://www.pagesjaunes.fr/pros/04379867",
+    "https://fr.linkedin.com/company/mure-energies",
+    "https://www.facebook.com/mureenergies",
+    "https://maps.app.goo.gl/xEJG6a2i7HXck3vS7"
+  ]
+}

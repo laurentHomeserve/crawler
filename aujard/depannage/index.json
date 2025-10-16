@@ -1,0 +1,49 @@
+{
+  "breadcrumb": "Depannage",
+  "seo": {
+    "title": "Dépannage et réparation du chauffage dans la Seine-et-Marne",
+    "description": "Depuis plus de 20 ans, Aujard est à votre disposition pour dépanner et réparer vos installations de chauffages et plomberie dans la Seine-et-Marne",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Dépannage et réparation du chauffage dans la Seine-et-Marne",
+      "description": "Depuis plus de 20 ans, Aujard est à votre disposition pour dépanner et réparer vos installations de chauffages et plomberie dans la Seine-et-Marne",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-depannage-456x334.32fa1f0c.jpg",
+        "alt": "Aujard : Toutes nos prestations de dépannage"
+      }
+    }
+  },
+  "hero": {
+    "title": "Dépannage du chauffage et de la climatisation en Seine-et-Marne (77)",
+    "subtitle": "Faîtes appel à nos spécialistes Aujard pour la réparation de votre chauffage & climatisation"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.aujard.fr/build/images/aujard-depannage-456x334.32fa1f0c.jpg",
+      "alt": "Aujard : Toutes nos prestations de dépannage"
+    },
+    "text": ""
+  },
+  "teasers": [
+    {
+      "title": "Comment se passe l'intervention de dépannage ?",
+      "text": "<p>Nous pouvons effectuer un <b>dépannage du chauffage dans le 77</b> (30 km autour de <a href=\"https://www.aujard.fr/chauffage-fontainebleau\" title=\"Chauffage Fontainebleau\">Fontainebleau</a>) pour n'importe quel type d'installation, qu'elle est été installée par l'un de nos techniciens ou par une autre entreprise. Nos dépannages se déroulent toujours de la même manière : à son arrivée, notre expert fait les vérifications d'usage afin de diagnostiquer la panne. Dès qu'elle est définie, il vous fait une estimation du coût de l'intervention. Vous êtes ensuite libre d'accepter ou de refuser que les travaux soient entrepris.</p> <p>Nos artisans expérimentés se déplacent toujours avec un véhicule rempli du matériel nécessaire pour les réparations : si vous acceptez le devis établi, les réparations se feront dans la foulée avec un rangement à l'identique de l'espace d'intervention (récupération des déchets, remise en place des meubles, etc.). Par contre, si vous souhaitez réfléchir, il sera nécessaire de reprendre un rendez-vous pour effectuer les réparations.</p> <p>À la suite de cette intervention, vous pourrez, si vous le souhaitez, venir vous entretenir avec nous au sujet d'un éventuel contrat d'entretien : nous nous ferons un plaisir de lister avec vous vos besoins afin de trouver la solution la mieux adaptée à votre situation. Si, lors de l'intervention, notre technicien n'a pas la possibilité de réparer votre chauffage, à cause de la vétusté de l'installation par exemple, il vous proposera de vous installer un nouveau système dans les délais les plus courts possibles : sachez que nous faisons toujours le maximum pour vous laisser le moins de temps possible sans chauffage, surtout lorsque le mercure commence à descendre.</p> <hr>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Nos domaines d'intervention pour dépanner chauffage et climatisation",
+      "text": "<p>Nos domaines d'intervention sont les suivants :</p> <ul><li><a href=\"https://www.aujard.fr/depannage/chaudiere\">dépannage des chaudières fonctionnant au bois, au gaz ou au fioul</a> (fuite avérée, bruit ou sifflement de l'appareil, impossibilité de démarrer l'appareil, chaudière qui s'éteint toute seule, appareil dégageant de la fumée, problèmes de circulation d'eau chaude, etc.)</li><li><a href=\"https://www.aujard.fr/depannage/pompe-a-chaleur\">dépannage des pompes à chaleur</a> (impossibilité de démarrer le compresseur ou, au contraire de l'arrêter, bruits inhabituels dans le compresseur, blocage du détenteur, fuite au niveau du circuit, obstruction au niveau de l'échangeur, problème de pression dans l'installation, etc.)</li><li><a href=\"https://www.aujard.fr/entretien/chauffe-eau-thermodynamique\">dépannage d'un chauffe-eau thermodynamique</a> (pression trop faible, obstruction au niveau de l'évaporateur, arrêt soudain du ventilateur, mauvais fonctionnement des sondes, etc.)</li><li><a href=\"https://www.aujard.fr/depannage/poele\">dépannage de poêle de chauffage à bois ou à pellets</a> (fumée lors de l'allumage de l'appareil, arrêt de l'appareil suivit de \"bips\", problème au niveau du réservoir à granulés, etc.)</li><li><a href=\"https://www.aujard.fr/depannage/climatisation\">dépannage de climatisation réversible</a> (soufflage d'air froid, fuite de l'appareil, bruits suspects, voyants qui clignotent sans arrêt, mauvaise odeur lors du fonctionnement de l'appareil, etc.)</li></ul> <p>N'hésitez plus et contactez-nous si vous avez besoin d'un dépannage du chauffage dans le 77 !</p> <hr>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Certifications et marques",
+  "seo": {
+    "title": "Nos marques et nos certifications | Mure Energies",
+    "description": "Afin de toujours plus vous satisfaire, Mure Energies travaille et collabore avec les meilleures marques pour être au service de votre confort.",
+    "opengraph": {
+      "site_name": "Mure Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Nos marques et nos certifications | Mure Energies",
+      "description": "Afin de toujours plus vous satisfaire, Mure Energies travaille et collabore avec les meilleures marques pour être au service de votre confort.",
+      "image": {
+        "src": "https://www.mure-energies.fr/build/images/mure-energies-qui-sommes-nous-certifications-marques-456x334.0bcd59ef.jpg",
+        "alt": "Nos certifications RGE et marques partenaire : Viessmann, Hitachi, ELM, Saunier-Duval"
+      }
+    }
+  },
+  "hero": {
+    "title": "Mure Energies : votre chauffagiste et frigoiste agréé et certifié sur Lyon",
+    "subtitle": "Nous travaillons avec les meilleures marques pour vous offrir une entière satisfaction"
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/mure-energies-qui-sommes-nous-certifications-marques-456x334.0bcd59ef.jpg",
+      "alt": "Nos certifications RGE et marques partenaire : Viessmann, Hitachi, ELM, Saunier-Duval"
+    },
+    "text": "<p>Toute l'équipe Mure Energies est à votre entière disposition pour vous offrir une prestation de qualité aux finitions soignées et irréprochables. C'est pour cela que nous avons noué des <b>partenariats avec les plus grandes marques du secteur</b>. </p> <p>De plus, nous sommes, entre autres, agréés et labellisés professionnels du gaz, partenaire GRDF, RGE Qualibat, QualiPac et possédons l'attestation de manipulation des fluides.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Pourquoi faire appel à Mure Energies ?",
+      "text": "<p>Notre société ne se contente pas du bouche à oreille pour convaincre sa clientèle. Nos nombreuses certifications sont un gage de qualité et de transparence : elles vous garantissent notre expertise et notre savoir-faire. Il faut savoir que ces labels mettent en valeur les entreprises agréées qui répondent à l'ensemble des obligations en vigueur en termes de formation professionnelle, d'équipements ou encore de normes de sécurité. En somme, choisir un professionnel <b>certifié et labellisé</b> vous offre une vraie assurance de travaux bien conduits !</p> <h3>Nos certifications</h3> <ul style=\"padding: 0.3em;\"> <li style=\"padding: 0.2em;\">Mure Energies est reconnu Professionnel du gaz</li> <li style=\"padding: 0.2em;\">RGE Qualibat : Que signifie ce label de qualité RGE ? RGE est l'acronyme de “Reconnu Garant de l'Environnement”. Les professionnels titulaires du label sont reconnus comme les plus fiables du secteur de la construction et de la rénovation.</li> <li style=\"padding: 0.2em;\">RGE QualiPAC : ce label s'adresse aux professionnels spécialisés dans l'installation et l'entretien des pompes à chaleur et des chauffe-eaux thermodynamiques.</li> <li style=\"padding: 0.2em;\">Nous sommes partenaire GRDF et disposons de l'attestation de manipulation des fluides</li> <li style=\"padding: 0.2em;\">Nous sommes membres de la CAPEB</li> </ul> <hr>"
+    },
+    {
+      "title": "Nos marques partenaires... pour votre confort",
+      "text": "<p>Mure Energies a sélectionné les meilleurs appareils de chauffage (chaudières à gaz, au fioul, climatisations, pompes à chaleur), chauffage au sol, chauffe-eaux thermodynamiques et matériels de plomberie pour vous offrir un véritable bien-être domestique... Nous sommes là pour vous proposer un équipement qui combine performance énergétique et pertinence écologique.</p> <ul style=\"padding: 0.3em;\"> <li style=\"padding: 0.2em;\">Pour vos chaudières, nous avons fait le choix de travailler avec les enseignes ELM Leblanc, Saunier-Duval, Frisquet, Viessmann et Weishaupt. Ces marques, dont la réputation n'est plus à démontrer, sont reconnues pour leur robustesse et leur fiabilité.</li> <li style=\"padding: 0.2em;\">Nous vous proposons des pompes à chaleur commercialisés par les marques Mitsubishi, Atlantic et Thermor</li> <li style=\"padding: 0.2em;\">Enfin nous installons des climatisations Mitsubishi Electric, Thermor et Atlantic.</li> </ul> <p>Travailler auprès de marques leaders est avant tout un gage de confiance pour nos clients. Nous tenons à nous entourer des meilleurs pour être en capacité d'intervenir sur tous les modèles. Nos installations sont performantes dans le temps et participent au bien-vivre dans votre logement. Vous souhaitez en savoir plus sur nos prestations et notre savoir-faire ? Contactez-nous !</p>"
+    }
+  ]
+}

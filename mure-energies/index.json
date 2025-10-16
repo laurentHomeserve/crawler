@@ -1,0 +1,137 @@
+{
+  "breadcrumb": "",
+  "seo": {
+    "title": "Votre plombier chauffagiste à Lyon et dans le bassin Lyonnais",
+    "description": "Les plombiers chauffagistes Mure Energies interviennent rapidement à Lyon et dans le bassin lyonnais pour l'installation, l'entretien et le dépannage de vos systèmes de chauffage et climatisation.",
+    "opengraph": {
+      "site_name": "Mure Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Votre plombier chauffagiste à Lyon et dans le bassin Lyonnais",
+      "description": "Les plombiers chauffagistes Mure Energies interviennent rapidement à Lyon et dans le bassin lyonnais pour l'installation, l'entretien et le dépannage de vos systèmes de chauffage et climatisation.",
+      "image": {
+        "src": "https://www.mure-energies.fr/asset/img/organisation/corporate/mure/chauffagiste-mure-energies.jpg",
+        "alt": ""
+      }
+    }
+  },
+  "hero": {
+    "title": "Mure Energies : Votre plombier chauffagiste dans le bassin lyonnais",
+    "subtitle": "Notre meilleure référence, plus de 40 ans d'expérience en chauffage et climatisation. Notre meilleure publicité, le \"bouche à oreille\" !"
+  },
+  "expertises": [
+    {
+      "linked": "/installation",
+      "sticker": "Installation & Remplacement",
+      "title": "Remplacement et installation des équipements de chauffage",
+      "img": {
+        "src": "/build/images/mure-energies-accueil-installation-remplacement-456x334.7ab6ac71.jpg",
+        "alt": "Installation & Remplacement"
+      },
+      "content": "Vous souhaitez remplacer votre ancien système de chauffage par un équipement moderne et de qualité ? Votre plombier chauffagiste à Lyon intervient pour tout type d'installation. Chaudière à condensation dernière génération, pompes à chaleur, ... conseils et devis gratuits !",
+      "button": {
+        "text": "Obtenez votre devis gratuit",
+        "title": "Devis pour l'installation ou le remplacement de votre chauffage"
+      }
+    },
+    {
+      "linked": "/entretien",
+      "sticker": "Entretien & Maintenance",
+      "title": "Entretien de tous vos systèmes de chauffage et climatisation",
+      "img": {
+        "src": "/build/images/mure-energies-accueil-maintenance-entretien-456x334.9e240d43.jpg",
+        "alt": "Entretien & Maintenance"
+      },
+      "content": "Experts en chauffage, climatisation et plomberie, nos chauffagistes de Lyon interviennent à votre domicile dans tout le bassin lyonnais pour entretenir vos équipements et assurer votre confort au quotidien. Vous faites le choix de la sérénité au meilleur prix !",
+      "button": {
+        "text": "Obtenir son contrat d'entretien",
+        "title": "Maintenance et entretien de votre chauffage"
+      }
+    },
+    {
+      "linked": "/depannage",
+      "sticker": "Réparation & Dépannage",
+      "title": "Réparation et dépannage d'appareils de chauffage multimarques",
+      "img": {
+        "src": "/build/images/mure-energies-accueil-depannage-reparation-456x334.ef0226bf.jpg",
+        "alt": "Réparation & Dépannage"
+      },
+      "content": "Votre équipement de chauffage ou de plomberie ne fonctionne plus ? N'attendez pas : prenez rendez-vous avec les plombiers et chauffagistes à Lyon, Villeurbanne, Ecully, Saint-Priest et dans le bassin lyonnais via Mure Energies pour une intervention sous 24 à 48h.",
+      "button": {
+        "text": "Être dépanné rapidement",
+        "title": "Dépannage de votre chauffage"
+      }
+    }
+  ],
+  "certification": {
+    "title": "",
+    "content": "*Du lundi au vendredi aux heures&nbsp;ouvrables de la Société.",
+    "logos": [
+      {
+        "src": "/build/images/contract.bc1ea87c.png",
+        "alt": "Contrat d'entretien"
+      }
+    ]
+  },
+  "partner": {
+    "title": "Nos marques partenaires en chauffage, climatisation et plomberie autour de Lyon",
+    "content": "Toujours dans une démarche <b>de qualité et de performance</b>, nous avons sélectionné  des marques de fabricants  reconnues dans le secteur du chauffage, de la climatisation et de la plomberie. Ainsi, qu'il s'agisse de Saunier Duval, ELM Leblanc, Viessmann, ou Frisquet, les chaudières à gaz que nous installons vous assurent durabilité et performance.<br><br> De la même manière, votre <b>chauffagiste à <a href=\"https://www.mure-energies.fr/chauffage-lyon\" title=\"Chauffage Lyon\">Lyon</a>, <a href=\"https://www.mure-energies.fr/chauffage-villeurbanne\" title=\"Chauffage Villeurbanne\">Villeurbanne</a> et <a href=\"https://www.mure-energies.fr/chauffage-ecully\" title=\"Chauffage Ecully\">Ecully</a></b> pourra vous proposer, en fonction de votre configuration d'habitat, de votre consommation et de votre budget, une pompe à chaleur air/eau fabriquée par Hitachi, Viessmann ou Atlantic, trois célèbres marques réputées pour leur robustesse et leurs performances. Côté poêle à bois et poêle à granulés, notre équipe de chauffagistes de Lyon et du bassin lyonnais travaille avce les marques MCZ, Lorflam, Oranier et Dovre, des spcialistes du domaine.<br><br> En ce qui concerne les chauffe-eaux, nos experts vous recommandent l'installation d'un ballon thermodynamique Thermor, Hitachi ou Atlantic. Quel que soit l'équipement souhaité, nos équipes sont disponibles pour vous renseigner et vous présenter les différents modèles les plus adaptés à vos besoins, qu'il s'agisse d'une installation en maison individuelle, en appartement, au sein d'un immeuble en copropriété, dans des bureaux ou dans une boutique.<br>&nbsp;",
+    "logos": [
+      {
+        "src": "/build/images/saunier-duval.da98463a.jpg",
+        "alt": "Saunier Duval"
+      },
+      {
+        "src": "/build/images/frisquet.761666dc.jpg",
+        "alt": "Frisquet"
+      },
+      {
+        "src": "/build/images/elm-leblanc.ca5885b2.jpg",
+        "alt": "ELM LeBlanc"
+      },
+      {
+        "src": "/build/images/viessmann.bcbacc9a.png",
+        "alt": "Viessmann"
+      },
+      {
+        "src": "/build/images/weishaupt.14905b2e.png",
+        "alt": "Weishaupt"
+      },
+      {
+        "src": "/build/images/thermor.ebca3d3f.jpg",
+        "alt": "Thermor"
+      },
+      {
+        "src": "/build/images/hitachi.477f6b1d.png",
+        "alt": "Hitachi"
+      },
+      {
+        "src": "/build/images/atlantic_v2.2245d704.jpg",
+        "alt": "Atlantic"
+      },
+      {
+        "src": "/build/images/daikin.b596ffed.jpg",
+        "alt": "Daikin"
+      },
+      {
+        "src": "/build/images/mitsubishi-electric-partner.4a0a55b1.jpg",
+        "alt": "Mitsubishi Electric"
+      }
+    ]
+  },
+  "map": {
+    "title": "Mure Energies intervient dans le bassin lyonnais, à Lyon, Décines-Charpieu, Brignais, Genas, Dardilly...",
+    "content": "<b>Spécialiste du chauffage, de la climatisation et de la plomberie</b>, notre entreprise Mure Energies intervient dans le département du Rhône, mais aussi dans l'Ain. <a href=\"/qui-sommes-nous/zones-intervention\">Notre zone d'intervention</a> comprend tous les arrondissements de <a href=\"https://www.mure-energies.fr/chauffage-lyon\" title=\"Chauffage Lyon\">Lyon</a>, ainsi que la périphérie lyonnaise : <a href=\"https://www.mure-energies.fr/chauffage-dardilly\" title=\"Chauffage Dardilly\">Dardilly</a>, Saint-Genis-les-Ollières, <a href=\"https://www.mure-energies.fr/chauffage-craponne\" title=\"Chauffage Craponne\">Craponne</a>, <a href=\"https://www.mure-energies.fr/chauffage-sainte-foy-les-lyon\" title=\"Chauffage Sainte Foy Les Lyon\">Sainte-Foy-lès-Lyon</a>, Saint-Fons, <a href=\"https://www.mure-energies.fr/chauffage-villeurbanne\" title=\"Chauffage Villeurbanne\">Villeurbanne</a>, vénissieux, <a href=\"https://www.mure-energies.fr/chauffage-mions\" title=\"Chauffage Mions\">Mions</a>, <a href=\"https://www.mure-energies.fr/chauffage-oullins\" title=\"Chauffage Oullins\">Oullins</a>-Pierre-Bénite ou encore <a href=\"https://www.mure-energies.fr/chauffage-tassin-la-demi-lune\" title=\"Chauffage Tassin La Demi Lune\">Tassin-la-Demi-Lune</a>. Nous nous déplaçons aussi autour de Tarare, Belleville, Meyzieu, Vienne, Villars-les-Dombes, Villefranche-sur-Saône et même Mâcon. Nous intervenons aussi dans l'Ain, autour de Miribel, Beynost, Dagneux, Jons, Villette-d'Athon, etc.<br><br> Vous pouvez aussi compter sur nos artisans plombiers chauffagistes à Lyon, Limonest, Caluire-et-Cuire, Genas, ou encore dans les Monts d'Or. Pour un dépannage de chaudière, pompe à chaleur, poêle ou climatisation, nos professionnels se déplacent en 24 à 48h, quel que soit votre secteur situé dans notre zone d'intervention. Pour une installation, une maintenance ou un entretien, n'hésitez pas à prendre rendez-vous auprès de notre agence de Dardilly.<br>&nbsp;",
+    "map": {
+      "lat": 45.808605498078,
+      "lng": 4.767231328746,
+      "zoom": 13,
+      "title": "Mure Energies",
+      "content": "<h3 style=\"font-size:1.1em\">Mure Energies</h3><p>12 Chemin des Gorges,<br/>69570 Dardilly</p><p>Adresse email : contact@mure-energies.fr</p><p>Téléphone : 04 78 59 83 88</p>"
+    }
+  },
+  "presentation": {
+    "title": "Mure Energies, votre plombier chauffagiste à Lyon, Tassin, Corbas, Caluire et dans tout le bassin lyonnais",
+    "content": "Le chauffage, la climatisation et les installations sanitaires participent activement au confort de votre habitation. C'est pourquoi il est si important de faire appel à un professionnel qualifié pour la pose de vos équipements. Faites confiance à Mure Energies, entreprise locale implantée à <a href=\"https://www.mure-energies.fr/chauffage-dardilly\" title=\"Chauffage Dardilly\">Dardilly</a>, pour l'installation, l'entretien et le dépannage de vos équipements de chauffage, climatisation et plomberie. Que vous ayez besoin de réparer une chaudière à condensation, d'entretenir un poêle à granulés ou de poser une pompe à chaleur air/eau, nous intervenons dans tout le bassin lyonnais (Grézieu-la-Varenne, Rillieux-la-Pape, <a href=\"https://www.mure-energies.fr/chauffage-vaulx-en-velin\" title=\"Chauffage Vaulx En Velin\">Vaulx-en-Velin</a>, Champagne-au-Mont-d'Or, Anse, <a href=\"https://www.mure-energies.fr/chauffage-bron\" title=\"Chauffage Bron\">Bron</a>, Francheville, Grigny, ...).<br><br> Pour un maximum de fiabilité et de sécurité, pensez à sosucrire un contrat d'entretien auprès de nos experts Mure Energies et bénéficiez d'un fonctionnement optimal en toute saison. Lors de l'entretien, service obligatoire chaque année pour les chaudières, un certificat d'entretien vous est remis ; vous pourrez le transmettre à votre assurance. En cas de problème, nos équipes interviennent rapidement pour un dépannage. Prenez rendez-vous pour une réparation : nos équipes de plombiers et chauffagistes à <a href=\"https://www.mure-energies.fr/chauffage-lyon\" title=\"Chauffage Lyon\">Lyon</a> se déplacent à votre domicile pour toutes les marques de chauffage et de climatisation.<br><br> Avec une équipe à taille humaine et expérimentée, nous vous assurons un service personnalisé et une expertise reconnue. Contactez-nous pour une installation, une maintenance ou un dépannage : que vous soyez à Lyon ou dans une commune environnante comme Villefranche-sur-Saône, Miribel, <a href=\"https://www.mure-energies.fr/chauffage-villeurbanne\" title=\"Chauffage Villeurbanne\">Villeurbanne</a>, Saint-Genis-Laval ou Sainte-Foy, nos techniciens mettent tout en œuvre pour répondre à vos attentes. Faites confiance à Mure Energies, votre partenaire de confiance pour le chauffage et la climatisation dans le Rhône et l'Ain."
+  }
+}

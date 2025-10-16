@@ -1,0 +1,68 @@
+{
+  "breadcrumb": "Pompe a chaleur",
+  "seo": {
+    "title": "Pompe à Chaleur dans les départements du Calvados et l'Orne : PH Energies se charge de l'entretien, la maintenance et l'entretien",
+    "description": "PH Energies installe différents types de pompe à chaleur, en fonction des spécificités de votre logement, dans le 14 et le 61",
+    "opengraph": {
+      "site_name": "PH Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Pompe à Chaleur dans les départements du Calvados et l'Orne : PH Energies se charge de l'entretien, la maintenance et l'entretien",
+      "description": "PH Energies installe différents types de pompe à chaleur, en fonction des spécificités de votre logement, dans le 14 et le 61",
+      "image": {
+        "src": "https://www.ph-energies.fr/build/images/ph-energies-equipement-pompe-a-chaleur-456x334.a5e47e45.jpg",
+        "alt": "equipement de pompe a chaleur"
+      }
+    }
+  },
+  "hero": {
+    "title": "PH Energies s'occupe de la pose et de l'entretien de votre pompe à chaleur",
+    "subtitle": "Tout savoir sur le fonctionnement d'une PAC"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.ph-energies.fr/build/images/ph-energies-equipement-pompe-a-chaleur-456x334.a5e47e45.jpg",
+      "alt": "equipement de pompe a chaleur"
+    },
+    "text": "<p>La pompe à chaleur est un système de chauffage qui capte les calories (la chaleur) contenues dans l'environnement extérieur et les restitue à l'intérieur de l'habitation.</p> <p>Il existe sur le marché plusieurs types de pompes à chaleur, elles utilisent différentes sources d'énergies pour restituer la chaleur (terre, eau ou air).</p> <p>Différents systèmes de diffusions thermique existent également (radiateurs, plancher chauffant...), suivant le type de logement (<a href=\"https://www.ph-energies.fr/logements-neufs\" title=\"Pompe à chaleur pour logement neuf\">neuf</a> ou rénovation) et le type d'utilisation recherché (chauffage seul, chauffage et production d'eau chaude sanitaire, chauffage et rafraîchissement).</p>"
+  },
+  "contents": [
+    {
+      "title": "Pompe à chaleur aérothermique",
+      "text": "<p>L'aérothermie, c'est utiliser l'air extérieur comme source d'énergie. Dans la nature, des gisements calorifiques naturels tels que la terre, l'air et l'eau de pluie se renouvellent en permanence. C'est pourquoi la géothermie et l'aérothermie, systèmes particulièrement respectueux de l'environnement, font partie des énergies dites “renouvelables“. Aujourd'hui, pour réaliser des économies d'énergie et être en phase avec les réglementations de la transition énergétique de nombreuses solutions existent.</p> <p>Ainsi dans la rénovation de l'habitat existant ou dans les maisons neuves, le principe de chauffage par l'aérothermie est une des solutions les plus rentables et des plus faciles à installer.</p> <h3>Principe de l'aérothermie</h3> <p>L'aérothermie est un système qui capte les calories contenues dans l'air extérieur pour être ensuite augmentées à un niveau thermique plus élevé et restitué dans le système de chauffage central ou de l'eau chaude sanitaire. La pompe à chaleur capte directement la chaleur de l'air par son ventilateur et son échangeur d'air et ensuite, par un système frigorifique à compression au coeur de la pompe à chaleur, l'énergie est transmise à une température de 45°C environ, directement dans les émetteurs type radiateurs et plancher chauffant ou de l'eau chaude sanitaire. Le « COP » ou coefficient de performance est particulièrement élevé sur ce type de produit. Il peut pour 1 kWh électrique consommé par le système, obtenir plus de 3 kWh de chaleur et permet ainsi des économies d'énergies jusqu'à 70% par rapport à une solution classique de chauffage. La pompe à chaleur peut également être couplée avec un ballon thermodynamique pour l'eau chaude sanitaire et même un système de panneaux solaires.</p> <h3>Pompe à chaleur aérothermique air/eau</h3> <p>Une pompe à chaleur air/eau permet de capter les calories de l'air extérieur et de l'injecter dans les circuits de chauffage central et d'eau chaude sanitaire. Grâce à un système de compression, elle chauffe efficacement l'intérieur d'un appartement ou d'une maison. Une pompe à chaleur air/eau aura un coefficient de performance variable en fonction de la température extérieure et du niveau d'eau demandé dans votre habitation. Plus l'écart entre ces deux températures est faible et plus le coefficient de performance est élevé. De plus, une pompe à chaleur couplée avec des ventilo-convecteurs, pourra rafraîchir pendant les périodes de fortes chaleurs, votre intérieur en assurant la climatisation.</p> <h3>Pompe à chaleur aérothermique air/air (ou climatisation)</h3> <p>Contrairement à la pompe à chaleur Air/Eau, qui s'installe sur les systèmes de chauffage au gaz ou au fioul, la pompe à chaleur Air/Air n'est compatible qu'avec les systèmes de chauffage électrique ou avec les installations neuves.</p>"
+    },
+    {
+      "title": "Pompe à chaleur géothermique",
+      "text": "<p>Enterrer dans le sol des capteurs constitués de boucles de tuyauterie parcourues par un fluide (frigorigène ou eau glycolée) permet de capter l'énergie gratuite de la terre. Couplée avec une pompe à chaleur, la pompe à chaleur assure un chauffage et une production d'eau chaude efficace et économe.</p> <p>La géothermie permet de diviser par 3 ou 4 vos factures de chauffage. Les économies réalisées permettent de rentabiliser l'investissement en seulement quelques années. La géothermie utilise deux familles de capteurs dans le sol : les capteurs horizontaux et les capteurs verticaux suivant la configuration de votre terrain.</p> <h3>La géothermie horizontale</h3> <p>Un réseau horizontal de capteurs va prélever l'énergie de la terre. Capteur possible en tranchée périphérique, pour laisser toute la place au jardin, terrasse, piscine...</p> <h3>La géothermie verticale</h3> <p>Une ou plusieurs sondes vont prélever l'énergie de la terre. Solution de captage à emprise réduite au sol, laissant toute la place au jardin, terrasse, piscine, etc...</p>"
+    },
+    {
+      "title": "PAC et Climatisation",
+      "text": "<p>Sur certaines pompes à chaleur, des systèmes d'inversions ont été créés afin de n'utiliser qu'une seule installation pour chauffer et rafraîchir. En été, la chaleur de l'intérieur de votre habitation est évacuée vers l'extérieur pour permettre de la rafraîchir. En hiver, les calories de l'air extérieur sont transférées vers l'intérieur de votre habitation pour la chauffer.</p>"
+    },
+    {
+      "title": "Economisez sur l'installation",
+      "text": "<p>Parce qu'elle utilise une énergie renouvelable, la pompe à chaleur Air/Eau est éligible, sous certaines conditions, au Crédit d'Impôt Transition énergétique – CITE 2016. Cumul possible du CITE et de l'Éco-Prêt à taux zéro – Éco-PTZ. La pompe à chaleur est éligible au crédit d'impôt si elle a un COP &gt; 3. Ainsi, que vous soyez propriétaire ou locataire, l'installation d'une pompe à chaleur vous permet de bénéficier, dans certains cas, d'un crédit d'impôt de 30%.</p> <p>N'hésitez pas à nous contacter pour obtenir plus de renseignements ou étudier les avantages auxquels vous avez droits pour votre projet.</p>"
+    }
+  ],
+  "related": {
+    "title": "Consultez nos services liés à la pompe à chaleur",
+    "links": [
+      {
+        "text": "Dépannage de votre pompe à chaleur",
+        "href": "/depannage/pompe-a-chaleur",
+        "title": "Réparation pompe à chaleur, dépannage pompe à chaleur"
+      },
+      {
+        "text": "Entretien de votre pompe à chaleur",
+        "href": "/entretien/pompe-a-chaleur",
+        "title": "Entretien pompe à chaleur, maintenance pompe à chaleur"
+      },
+      {
+        "text": "Installation d'une pompe à chaleur",
+        "href": "/installation/pompe-a-chaleur",
+        "title": "Installation pompe à chaleur, remplacement pompe à chaleur"
+      }
+    ]
+  },
+  "url": "https://www.ph-energies.fr/equipements/pompe-a-chaleur"
+}

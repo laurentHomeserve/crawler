@@ -1,0 +1,153 @@
+{
+  "breadcrumb": "",
+  "seo": {
+    "title": "PH Energies | Chauffage et climatisation dans l'Orne et le Calvados",
+    "description": "Vous souhaitez faire installer une chaudière ou une pompe à chaleur ? Vous recherchez un installateur pour votre climatisation ? Faites appel à PH Energies dans le Calvados et l'Orne.",
+    "opengraph": {
+      "site_name": "PH Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "PH Energies | Chauffage et climatisation dans l'Orne et le Calvados",
+      "description": "Vous souhaitez faire installer une chaudière ou une pompe à chaleur ? Vous recherchez un installateur pour votre climatisation ? Faites appel à PH Energies dans le Calvados et l'Orne.",
+      "image": {
+        "src": "home.og_image",
+        "alt": ""
+      }
+    }
+  },
+  "hero": {
+    "title": "PH Energies, votre expert chauffagiste dans le Calvados et l'Orne",
+    "subtitle": "Pour installer, dépanner et entretenir vos appareils de chauffage et de climatisation dans les environs de Caen, Bayeux ou Vire..."
+  },
+  "expertises": [
+    {
+      "linked": "/installation",
+      "sticker": "Installer un équipement",
+      "title": "Installation ou Remplacement de vos équipements de chauffage et climatisation",
+      "img": {
+        "src": "/build/images/ph-energies-accueil-installation-remplacement-456x334.dd66cb15.jpg",
+        "alt": "Installer un équipement"
+      },
+      "content": "Vous pensez à faire installer ou remplacer votre système de chauffage dans le Calvados ou dans l'Orne ? Les spécialistes PH Energies se déplacent gratuitement chez vous et vous accompagnent pour choisir l'équipement le plus adapté à vos besoins et à votre habitation.",
+      "button": {
+        "text": "Etude et devis gratuit",
+        "title": "Installation ou remplacement de votre chauffage"
+      }
+    },
+    {
+      "linked": "/entretien",
+      "sticker": "Entretenir une installation",
+      "title": "Entretien et Maintenance de vos installations de climatisation et de chauffage",
+      "img": {
+        "src": "/build/images/ph-energies-accueil-maintenance-entretien-456x334.6222e5c8.jpg",
+        "alt": "Entretenir une installation"
+      },
+      "content": "Chaudières, Pompes à Chaleur ... Entretenir une installation est une obligation légale. Chez PH Energies nous vous proposons un service d'entretien annuel de vos appareils. Grâce à ces visites obligatoires vous serez en sécurité tout en réalisant des économies d'énergie.",
+      "button": {
+        "text": "Nos prestations d'entretien",
+        "title": "Entretien de votre appareil de chauffage"
+      }
+    },
+    {
+      "linked": "/depannage",
+      "sticker": "Dépanner un appareil",
+      "title": "Dépannage et Réparation de vos appareils de chauffage et climatisation",
+      "img": {
+        "src": "/build/images/ph-energies-accueil-depannage-reparation-456x334.49e32b48.jpg",
+        "alt": "Dépanner un appareil"
+      },
+      "content": "Votre chaudière, pompe à chaleur, climatisation, ou chauffe-eau thermodynamique est en panne ? Nous travaillons avec les plus grandes marques du marché : Atlantic, Viessmann, Mitsubishi, Frisquet, ... Nos techniciens sont formés pour intervenir sur tous vos équipements.",
+      "button": {
+        "text": "Etre dépanné rapidement",
+        "title": "Dépannage de votre appareil de chauffage"
+      }
+    }
+  ],
+  "certification": {
+    "title": "Nos certifications pour entretenir, dépanner et installer votre chauffage et climatisation",
+    "content": "PH Energies, chauffagiste dans le Calvados et l'Orne, dispose de plusieurs certifications qui attestent du savoir-faire et de l'expertise de notre entreprise. Nos techniciens sont régulièrement formés sur les plus grandes marques d'équipements, tant pour ce qui concerne leur <a href=\"/installation\" title=\"Installation pompe à chaleur, chaudière, climatisation\">installation</a>, leur <a href=\"/depannage\" title=\"Dépanner vos équipements de chauffage\">dépannage</a> ou leur <a href=\"/entretien\" title=\"Entretien chauffage et climatisation\">entretien</a>. Nous sommes professionnels du gaz et disposons de la certification RGE QualiBat, nécessaire si vous souhaitez disposer des aides de l'État lors de l'installation d'un nouveau système de chauffage. Nous possédons aussi la certification QualiPAC et l'attestation de manipulation des fluides pour les pompes à chaleur. Enfin, notre label Synerciel garantit la qualité de nos travaux, en partenariat avec EDF. <a href=\"/qui-sommes-nous/certifications-et-marques\" title=\"Toutes nos certifications chauffage et nos marques partenaires\">Découvrez nos certifications et nos marques</a>",
+    "logos": [
+      {
+        "src": "/build/images/partenaire-habitat-edf.b12c21f2.png",
+        "alt": "Partenaire habitat EDF"
+      },
+      {
+        "src": "/build/images/rge-qualipac.d1ee25c4.png",
+        "alt": "Frigoriste QualiPac RGE"
+      },
+      {
+        "src": "/build/images/qualibat-rge.5c690eba.jpg",
+        "alt": "Qualibat RGE"
+      },
+      {
+        "src": "/build/images/synerciel.7e176cb2.png",
+        "alt": "Synerciel - Professionnel Rénovation"
+      },
+      {
+        "src": "/build/images/capeb.3bda1e9c.png",
+        "alt": "Confédération Artisanat Petites Entreprises Batiment"
+      }
+    ]
+  },
+  "partner": {
+    "title": "Nos partenaires fabricants d'équipements de chauffage et de climatisation",
+    "content": "Notre entreprise vous propose un <a href=\"/equipements\" title=\"Nos équipements de chauffage et climatisation\">large choix de produits</a> dans le domaine de la <b><a href=\"/equipements/climatisation\" title=\"climatisation, climatisation réversible, climatisation split et gainable\">climatisation</a></b> et du <b>chauffage</b> (<a href=\"/equipements/chaudieres\" title=\"Chaudières gaz, Chaudière fioul, Chaudière à bois, Chaudière à granulés\">chaudières</a>, <a href=\"/equipements/plancher-chauffant\" title=\"Plancher chauffant\">chauffage au sol</a>, <a href=\"/equipements/chauffe-eau\" title=\"Chauffe-eau, chauffe-eau thermodynamique, chauffe-bain\">chauffe-eaux</a>, <a href=\"/equipements/pompe-a-chaleur\" title=\"Pompe à chaleur air/eau, PAC\">pompes à chaleur</a> ...). Pour ce faire, nous avons noué des partenariats solides avec les plus grandes marques reconnues pour leur expertise et leur fiabilité (Mitsubishi, Saunier Duval, Viessmann, Atlantic, Hitachi, entre autres ...). Outre la qualité des marques sélectionnées, vous bénéficierez de nos conseils et de notre expérience afin de choisir l'installation la plus adaptée à vos besoins. Nous tenons à vous proposer des prestations à forte valeur ajoutée afin de vous faire réaliser <b>d'importantes économies d'énergie</b>.",
+    "logos": [
+      {
+        "src": "/build/images/mitsubishi-electric-partner.4a0a55b1.jpg",
+        "alt": "Mitsubishi Electric"
+      },
+      {
+        "src": "/build/images/hitachi.477f6b1d.png",
+        "alt": "Hitachi"
+      },
+      {
+        "src": "/build/images/frisquet.761666dc.jpg",
+        "alt": "Frisquet"
+      },
+      {
+        "src": "/build/images/atlantic_v2.2245d704.jpg",
+        "alt": "Atlantic"
+      },
+      {
+        "src": "/build/images/jm.4e109815.png",
+        "alt": "Jolly Mec"
+      },
+      {
+        "src": "/build/images/viessmann_v3.368300d7.png",
+        "alt": "Viessmann"
+      },
+      {
+        "src": "/build/images/saunier-duval_v2.b1dba340.png",
+        "alt": "Saunier Duval"
+      },
+      {
+        "src": "/build/images/bosh.6173c429.png",
+        "alt": "Bosh Chauffage"
+      },
+      {
+        "src": "/build/images/chappee.e0d2d709.jpg",
+        "alt": "Chappee"
+      },
+      {
+        "src": "/build/images/daikin_v3.69e05ba5.png",
+        "alt": "Daikin"
+      }
+    ]
+  },
+  "map": {
+    "title": "Chauffagiste local situé à Caen, nos équipes interviennent dans le département de l'Orne et du Calvados",
+    "content": "<b>Plombier chauffagiste à <a href=\"https://www.ph-energies.fr/chauffage-caen\" title=\"Chauffage Caen\">Caen</a></b>, PH Energies intervient dans les départements 14 et 61. Plus précisément, nos zones d'intervention se situent dans les environs de <a href=\"https://www.ph-energies.fr/chauffage-bayeux\" title=\"Chauffage Bayeux\">Bayeux</a>, <a href=\"https://www.ph-energies.fr/chauffage-falaise\" title=\"Chauffage Falaise\">Falaise</a>, <a href=\"https://www.ph-energies.fr/chauffage-lisieux\" title=\"Chauffage Lisieux\">Lisieux</a>, <a href=\"https://www.ph-energies.fr/chauffage-deauville\" title=\"Chauffage Deauville\">Deauville</a>, <a href=\"https://www.ph-energies.fr/chauffage-honfleur\" title=\"Chauffage Honfleur\">Honfleur</a>, <a href=\"https://www.ph-energies.fr/chauffage-pont-leveque\" title=\"Chauffage Pont Leveque\">Pont l'Evêque</a>, <a href=\"https://www.ph-energies.fr/chauffage-vire\" title=\"Chauffage Vire\">Vire</a>, Alençon ou encore <a href=\"https://www.ph-energies.fr/chauffage-flers\" title=\"Chauffage Flers\">Flers</a>. Vous pouvez aussi nous solliciter pour une intervention à L'Aigle ou <a href=\"https://www.ph-energies.fr/chauffage-argentan\" title=\"Chauffage Argentan\">Argentan</a>. Si votre logement se trouve dans ces secteurs, nous nous déplaçons pour évaluer les travaux à réaliser. Nos techniciens définissent avec précision vos besoins en chauffage, de manière à ce que PH Energies, <b>chauffagiste à Caen</b>, puisse vous proposer une chaudière ou une pompe à chaleur en accord avec les besoins en chauffage de votre logement. <a href=\"/qui-sommes-nous/zones-intervention\" title=\"Nos zones d'intervention dans l'Orne et le Calvados\">Notre zone d'intervention</a><br>&nbsp;",
+    "map": {
+      "lat": 49.13965,
+      "lng": -0.3713,
+      "zoom": 12,
+      "title": "PH Energies",
+      "content": "<h3 style=\"font-size:1.1em\">PH Energies</h3><p>318 Avenue des Digues<br/>14123 Fleury-sur-Orne</p><p>Adresse email : contact@ph-energies.fr</p><p>Téléphone : 02 31 82 69 33</p>"
+    }
+  },
+  "presentation": {
+    "title": "PH Energies c'est faire le choix d'une prestation de qualité pour vos équipements de chauffage",
+    "content": "<p>Vous trouverez PH Energies, votre chauffagiste dans le Calvados et l'Orne, à Fleury-sur-Orne. Depuis 2005, que ce soit pour l'<a href=\"/installation/pompe-a-chaleur\" title=\"Installation pompe à chaleur, remplacement pompe à chaleur\">installation d'une pompe à chaleur</a>, l'<a href=\"/installation/chaudiere\" title=\"Devis gratuit chaudière à Caen, Alençon, Lisieux, Hérouville, ...\">installation d'une chaudière</a> ou l'<a href=\"/installation/climatisation\" title=\"Devis gratuit climatisation dans le calvados et l'orne\">installation d'une climatisation</a>, ... notre entreprise de plombier chauffagiste dans la région de <a href=\"https://www.ph-energies.fr/chauffage-caen\" title=\"Chauffage Caen\">Caen</a> vous aide à réduire les dépenses énergétiques de votre logement. Nous vous proposons aussi de retrouver un confort appréciable en été grâce à l'installation d'un système de climatisation. Spécialiste des énergies renouvelables et des économies d'énergie, PH Energies vous conseille et vous assiste pour le financement de votre projet énergétique (entreprise agréé AREAS N°13007922).</p>"
+  }
+}

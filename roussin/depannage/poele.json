@@ -1,0 +1,54 @@
+{
+  "breadcrumb": "Poele",
+  "seo": {
+    "title": "Dépannage de poêle - Chauffage bois et granulés - Roussin Energies",
+    "description": "Appelez votre société Roussin Energies pour un dépannage et une réparation de poêle à bois ou granulés sur Grenoble et environs ! Expertise garantie.",
+    "opengraph": {
+      "site_name": "Roussin Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Dépannage de poêle - Chauffage bois et granulés - Roussin Energies",
+      "description": "Appelez votre société Roussin Energies pour un dépannage et une réparation de poêle à bois ou granulés sur Grenoble et environs ! Expertise garantie.",
+      "image": {
+        "src": "https://www.roussin-energies.fr/build/images/roussin-energies-depannage-poele-a-granules-pellets-456x334.40ba710b.jpg",
+        "alt": "dépannage de poêle"
+      }
+    }
+  },
+  "hero": {
+    "title": "Dépannage de poêle à granulés, pellets et bois à Grenoble et ses environs",
+    "subtitle": "Toute notre expertise pour le dépannage de votre chauffage au bois à Grenoble, Fontaine, Le Touvet, Bernin,..."
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.roussin-energies.fr/build/images/roussin-energies-depannage-poele-a-granules-pellets-456x334.40ba710b.jpg",
+      "alt": "dépannage de poêle"
+    },
+    "text": "<p>Roussin Energies est votre société spécialisée dans le chauffage et la plomberie, située à <a href=\"https://www.roussin-energies.fr/chauffage-fontaine\" title=\"Chauffage Fontaine\">Fontaine</a>, près de <a href=\"https://www.roussin-energies.fr/chauffage-grenoble\" title=\"Chauffage Grenoble\">Grenoble</a>. Depuis 1969, nous nous déplaçons chez les particuliers et les professionnels pour le <b>dépannage de leurs poêles</b> et leur mise en service.</p> <p>Professionnels experts en fumisterie, nous développons notre expertise depuis trois générations en vendant et installant, en dépannant et en assurant la maintenance des appareils à bois ou à granulés.</p> <p>Nous intervenons sur un large secteur autour de Grenoble : nous mandatons notamment nos collaborateurs pour toutes <b>réparations de poêles à <a href=\"https://www.roussin-energies.fr/chauffage-domene\" title=\"Chauffage Domene\">Domène</a>, <a href=\"https://www.roussin-energies.fr/chauffage-villard-bonnot\" title=\"Chauffage Villard Bonnot\">Villard Bonnot</a>, <a href=\"https://www.roussin-energies.fr/chauffage-le-versoud\" title=\"Chauffage Le Versoud\">Le Versoud</a>, Bernin, <a href=\"https://www.roussin-energies.fr/chauffage-crolles\" title=\"Chauffage Crolles\">Crolles</a>, Lumbin, Le Touvet, ...</b>.<br>&nbsp;</p>"
+  },
+  "contents": [
+    {
+      "title": "Les pannes et réparations courantes sur un poêle à bois ou à pellets",
+      "text": "<p>Un dépannage de poêle peut être nécessaire lorsque le thermostat ne fonctionne plus ou lorsque le tirage ne se fait pas et que la fumée envahit la pièce. Ces problèmes sont fréquents et peuvent nécessiter l'intervention soit d'un technicien spécialisé. La réparation d'un poêle à pellets peut être plus complexe et provenir de l'électronique, de la télécommande : si des bruits stridents surviennent suite à l'arrêt brutal de l'appareil, si la distribution de granulés n'est pas régulière, si le poêle chauffe trop ou pas assez, mieux vaut appeler Roussin Energies pour un contrôle des différentes fonctions et une remise en route rapide !</p>"
+    },
+    {
+      "title": "Effectuez l'entretien annuel de votre poêle pour éviter les pannes",
+      "text": "<p>La loi oblige les propriétaires de poêles à bois et à pellets à faire ramoner les conduits par un professionnel. Cette visite peut être l'occasion de vérifier les différentes pièces et d'anticiper les futures <b>réparations sur votre poêle</b>.</p> <b>réparations sur votre poêle</b> <p>Nos différentes certifications attestent de notre expertise et de notre professionnalisme : nous sommes qualifiés RGE Qualibois Nous pouvons dépanner en toute sécurité toutes les catégories de poêles. Parlons de vos <b>réparations de poêle vers Grenoble</b>, de votre contrat d'entretien et choisissons ensemble la meilleure formule !</p> <b>réparations de poêle vers Grenoble</b>"
+    },
+    {
+      "title": "Votre poêle est trop ancien : pourquoi ne pas en changer ?",
+      "text": "<p>Différentes subventions peuvent vous être accordées pour l'achat de votre poêle. MaPrimeRenov', l'éco prime des fournisseurs d'énergie, les aides de l'Anah et des collectivités locales... aident les propriétaires à acquérir un modèle plus écologique et plus performant. Roussin Energies vous accompagne dans les démarches administratives et vous guide vers les bons interlocuteurs.</p> <p>La <b>réparation de votre poêle</b> vous coûtera plus cher que l'acquisition d'un nouveau système de chauffage ? Notre technicien peut réaliser une étude thermique complète en fonction de la superficie et de la configuration de vos locaux ou de votre logement. Nous réalisons ensuite un devis transparent, sans frais cachés. Faites <b>dépanner votre poêle à Domène, Villard Bonnot, Le Versoud, Bernin, Crolles, Lumbin, Le Touvet, etc</b>. par une entreprise qui a fait ses preuves !</p> <b>réparation de votre poêle</b> <b>dépanner votre poêle à Domène, Villard Bonnot, Le Versoud, Bernin, Crolles, Lumbin, Le Touvet, etc</b>"
+    }
+  ],
+  "related": {
+    "title": "Consultez nos autres services liés aux poêles à bois / granules",
+    "links": [
+      {
+        "text": "Entretien et maintenance de votre poêle à Grenoble",
+        "href": "/entretien/poele",
+        "title": "Entretien et ramonage poele"
+      }
+    ]
+  },
+  "url": "https://www.roussin-energies.fr/depannage/poele"
+}

@@ -1,0 +1,76 @@
+{
+  "breadcrumb": "Equipements",
+  "seo": {
+    "title": "Votre chauffagiste dans la région de Grenoble | Roussin Energies",
+    "description": "Mure Energies est chauffagiste dans la région de Grenoble. Nos techniciens interviennent pour l'installation, l'entretien et le dépannage des différents systèmes.",
+    "opengraph": {
+      "site_name": "Roussin Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Votre chauffagiste dans la région de Grenoble | Roussin Energies",
+      "description": "Mure Energies est chauffagiste dans la région de Grenoble. Nos techniciens interviennent pour l'installation, l'entretien et le dépannage des différents systèmes.",
+      "image": {
+        "src": "https://www.roussin-energies.fr/build/images/roussin-energies-equipement-456x334.6be00d19.jpg",
+        "alt": "Tous nos équipements de chauffage: chaudière, climatisation, pompe à chaleur, ..."
+      }
+    }
+  },
+  "hero": {
+    "title": "Votre équipement de chauffage et climatisation avec Roussin Energies",
+    "subtitle": "Roussin Energies installe, entretient et répare vos équipement de chauffage dans un rayon de 50km autour de Grenoble"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.roussin-energies.fr/build/images/roussin-energies-equipement-456x334.6be00d19.jpg",
+      "alt": "Tous nos équipements de chauffage: chaudière, climatisation, pompe à chaleur, ..."
+    },
+    "text": ""
+  },
+  "teasers": [
+    {
+      "title": "Installation, entretien et dépannage de chaudière dans la région de Grenoble",
+      "text": "<p>Pour installer, entretenir ou dépanner une <b>chaudière à gaz ou au fioul bio</b> à <a href=\"https://www.roussin-energies.fr/chauffage-seyssins\" title=\"Chauffage Seyssins\">Seyssins</a>, <a href=\"https://www.roussin-energies.fr/chauffage-meylan\" title=\"Chauffage Meylan\">Meylan</a>, Montbonnot, Saint Ismier, <a href=\"https://www.roussin-energies.fr/chauffage-voiron\" title=\"Chauffage Voiron\">Voiron</a> ou Coublevie, faites appel aux techniciens expérimentés de Roussin Energies. Ils sauront vous conseiller sur le modèle de chaudière le plus adapté à vos besoins, vous éclaireront sur les aides financières disponibles et interviendront rapidement en cas de problèmes de fonctionnement.</p>  <hr>",
+      "link": {
+        "href": "/equipements/chaudieres",
+        "text": "En savoir plus sur les chaudières",
+        "title": "Nos Chaudières"
+      }
+    },
+    {
+      "title": "Installation, entretien et dépannage de chauffe-eau",
+      "text": "<p>Vous souhaitez remplacer votre vieux ballon par <b>un chauffe-eau plus performant et moins gourmand en énergie</b>, ou vous renseigner sur la différence entre un chauffe-eau électrique et thermodynamique ? Les équipes de Roussin Energies sont là pour répondre à toutes vos exigences concernant le système de chauffage de votre eau sanitaire.</p>  <hr>",
+      "link": {
+        "href": "/equipements/chauffe-eau",
+        "text": "En savoir plus sur les chauffe-eaux",
+        "title": "Nos Chauffe-eaux"
+      }
+    },
+    {
+      "title": "Installation, entretien et dépannage de climatisation",
+      "text": "<p>S'il est important de bien se chauffer en hiver, le problème inverse peut se poser lors des étés grenoblois, c'est-à-dire la nécessité de rafraîchir son intérieur ! Contactez Roussin Energies pour en savoir plus sur les différents systèmes de climatisation : <b>gainable, réversible ou split</b>, selon l'étendue de la surface à climatiser et, bien sûr, en fonction de votre budget.</p>  <hr>",
+      "link": {
+        "href": "/equipements/climatisation",
+        "text": "En savoir plus sur les différents climatiseurs",
+        "title": "Nos Climatisations"
+      }
+    },
+    {
+      "title": "Installation, entretien et dépannage de pompe à chaleur",
+      "text": "<p>La pompe à chaleur vient en tête des <b>équipements de chauffage respectueux de l'environnement</b> : ce n'est donc pas un hasard si Roussin Energies, chauffagiste certifié RGE, s'engage à vous guider dans le choix de la PAC la plus adaptée à votre logement. Vous pouvez également compter sur son expertise pour l'entretien et le dépannage de votre pompe.</p>  <hr>",
+      "link": {
+        "href": "/equipements/pompe-a-chaleur",
+        "text": "En savoir plus sur les pompes à chaleur",
+        "title": "Nos Pompes à chaleur"
+      }
+    },
+    {
+      "title": "Installation, entretien et dépannage de poêle",
+      "text": "<p>Quoi de mieux qu'un poêle à bois ou à granulés pour réchauffer le salon à la lueur des flammes ? Associé au chauffage central ou utilisé seul dans un petit logement, le poêle est l'<b>allié de votre budget et du confort de votre logis</b>. À <a href=\"https://www.roussin-energies.fr/chauffage-domene\" title=\"Chauffage Domene\">Domène</a>, <a href=\"https://www.roussin-energies.fr/chauffage-villard-bonnot\" title=\"Chauffage Villard Bonnot\">Villard Bonnot</a>, <a href=\"https://www.roussin-energies.fr/chauffage-le-versoud\" title=\"Chauffage Le Versoud\">Le Versoud</a>, Bernin, <a href=\"https://www.roussin-energies.fr/chauffage-crolles\" title=\"Chauffage Crolles\">Crolles</a>, Lumbin ou Le Touvet, Roussin Energies, certifiée Qualibois air/eau, assure l'installation et la maintenance de votre poêle.</p> ",
+      "link": {
+        "href": "/equipements/poele-granules-bois",
+        "text": "En savoir plus sur les poêles",
+        "title": "Nos poêles"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Coup de pouce économies d'énergie",
+  "seo": {
+    "title": "Coup de pouce économies d'énergie",
+    "description": "Profitez du coup de pouce économies d'énergie pour passer au chauffage réversible | SBF Energies",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "title": " Coup de pouce économies d'énergie ",
+  "chapo": "Quels travaux peuvent profiter de cette prime ?",
+  "image": {
+    "src": "/upload/files/5ebd91753074a677001820.jpg",
+    "alt": "Coup de pouce économies d'énergie"
+  },
+  "intro": "<p><br>\nLe dispositif « Coup de pouce économies d’énergie » 2018 – 2020 a été recentré sur les travaux les plus performants en matière d’économie d’énergie.<br>\n<br>\nDeux types de travaux sont éligibles :</p> <ul>\n\t<li>le remplacement d’une chaudière au fioul par un équipement utilisant des énergies renouvelables (chaudière biomasse, pompe à chaleur air/eau, eau/eau ou hybride, système solaire combiné, raccordement à un réseau de chaleur).</li>\n\t<li>Les travaux d’isolation des combles ou des toitures.</li>\n</ul>",
+  "paragraphs": [
+    {
+      "title": "\n\n\nQUI PEUT BÉNÉFICIER DE LA PRIME « COUP DE POUCE ÉCONOMIES D'ÉNERGIE » ?",
+      "text": "<p>Le nouveau dispositif « Coup de pouce économies d’énergie » est renforcé au profit des ménages les plus modestes en situation de précarité énergétique. L’attribution des primes dépend des ressources du foyer. Le dispositif est ouvert à compter du <strong>1er avril 2018 jusqu’au 31 décembre 2020</strong>.</p> <p>Plus d’infos : <a href=\"https://www.economie.gouv.fr/particuliers/prime-economies-energie\" target=\"_blank\">https://www.economie.gouv.fr/particuliers/prime-economies-energie</a></p>"
+    },
+    {
+      "title": "À COMBIEN S'ÉLÈVE L'AIDE « COUP DE POUCE ÉCONOMIES D'ÉNERGIE » ?",
+      "text": "<p>Le montant des primes dépend de l'offre que vous aurez choisie pour remplacer votre chaudière au fioul ou pour isoler vos combles ou votre toiture.</p> <p>Plus d’infos : <a href=\"https://www.economie.gouv.fr/particuliers/prime-economies-energie\" target=\"_blank\">https://www.economie.gouv.fr/particuliers/prime-economies-energie</a></p>"
+    },
+    {
+      "title": "LA PRIME « COUP DE POUCE ÉCONOMIES D'ÉNERGIE » EST-ELLE CUMULABLE ?",
+      "text": "<p>Oui, <strong>la prime « Coup de pouce économies d'énergie » est cumulable</strong>. En effet, vous pouvez bénéficier simultanément de <strong>l'<a href=\"https://www.economie.gouv.fr/particuliers/eco-pret-a-taux-zero-ptz-renovation-performance-energetique\" target=\"_blank\">éco-PTZ</a></strong>, du <strong><a href=\"https://www.economie.gouv.fr/particuliers/credit-impot-transition-energetique-cite\" target=\"_blank\">CITE</a></strong> et de la <strong>prime « Coup de pouce économies d'énergie »</strong>.</p> <p>En revanche, la prime « Coup de pouce économies d’énergie » n’est pas cumulable avec les offres des acteurs éligibles du dispositif <a href=\"https://www.ecologique-solidaire.gouv.fr/dispositif-des-certificats-deconomies-denergie\" target=\"_blank\">certificats d’économies d’énergie</a> (CEE) comme les offres <a href=\"http://renovation-info-service.gouv.fr/le-programme-habiter-mieux\" target=\"_blank\">« Habiter mieux » de l’Agence nationale de l'habitat</a> (Anah).</p>"
+    }
+  ]
+}

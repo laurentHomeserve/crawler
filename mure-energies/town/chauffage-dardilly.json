@@ -1,0 +1,40 @@
+{
+  "breadcrumb": "Chauffage Dardilly",
+  "hero": {
+    "title": "A Dardilly, nous installons, entretenons et dépannons vos équipements",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/mure-energies-qui-sommes-nous-456x334.f303774e.jpg",
+      "alt": "A Dardilly, nous installons, entretenons et dépannons vos équipements"
+    },
+    "text": "<p>Depuis 1983, les techniciens Mure Energies se déplacent à Dardilly et ses alentours pour prendre en charge vos différents équipements de climatisation et de chauffage.</p> <p>Nos équipes sont formées pour intervenir sur :</p> <ul>\n<li><a title=\"Equipement climatisation\" href=\"/equipements/climatisation\">les climatisations</a></li>\n<li><a title=\"Equipement chaudière\" href=\"/equipements/chaudieres\">les chaudières</a></li>\n<li><a title=\"Equipement chauffe-eau\" href=\"/equipements/chauffe-eau-gaz-chauffe-bain\">les chauffe-eaux</a></li>\n<li><a title=\"Equipement chauffant au sol\" href=\"/equipements/plancher-chauffant\">les planchers chauffants</a></li>\n<li><a title=\"Equipement pompe à chaleur\" href=\"/equipements/energie-renouvelable/pompe-a-chaleur\">les pompes à chaleur</a></li>\n</ul> <p>Pour obtenir un devis gratuit pour l'installation, l'entretien ou le dépannage de votre appareil, contactez-nous au 04 78 59 83 88.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Profitez de sa pompe à chaleur en toute sérénité à Dardilly",
+      "text": "<p>La pompe à chaleur est l'alternative parfaite pour profiter d'un air intérieur rafraichi en été et d'un système de chauffage en hiver avec un même équipement.</p> <p>Avant d'<a title=\"Installation pompe à chaleur\" href=\"/installation/pompe-a-chaleur\">installer votre PAC</a>, nos équipes prendront le temps de réaliser un diagnostic énergétique de votre logement afin de vous proposer l'appareil qui correspondre le mieux à l'utilisation que vous allez en faire.</p> <p>Et pour que vous puissiez profiter d'un appareil qui fonctionne correctement, nos équipes interviennent également chez vous pour l'entretien et le dépannage de votre pompe à chaleur.</p> <hr>"
+    },
+    {
+      "title": "Faire le choix d'un plancher chauffant dans le Rhône",
+      "text": "<p>Vous souhaitez faire <a title=\"Installation chauffage au sol\" href=\"/installation/plancher-chauffant\">installer un plancher chauffant</a> dans votre logement neuf ? Il s'agit effectivement d'une solution qui vous permettra de libérer de l'espace aux murs en supprimant les radiateurs. Vous pourrez ainsi aménager votre logement comme vous le souhaitez.</p> <p>L'installation du chauffage au sol peut également être envisagée pour votre logement actuel en cas de rénovation importante. Si vous êtes dans ce cas, contactez-nous dès que possible pour que nous puissions vous recommander le type de rénovation adéquat.</p> <hr>"
+    },
+    {
+      "title": "Installation, entretien et dépannage de chaudière à Dardilly",
+      "text": "<p>Vous avez un projet d'<a title=\"Installation chaudière\" href=\"/installation/chaudiere\">installation de chaudière à votre domicile</a> ? Différentes options s'offrent à vous. Vous pouvez faire le choix d'une chaudière à gaz, à fioul ou encore à bois (bûches ou pellets). N'hésitez pas à nous contacter au 04 78 59 83 88 pour obtenir les conseils de nos experts.</p> <p>Et pour tous ceux qui possèdent déjà une chaudière, nos techniciens sont aussi formés pour l'entretien et le dépannage de votre appareil fonctionnant au gaz, au fioul ou au bois.</p> <hr>"
+    },
+    {
+      "title": "Envie d'un nouveau chauffe-eau dans le 69 ?",
+      "text": "<p>Avoir un chauffe-eau en bon état est essentiel pour bénéficier d'une eau chaude sanitaire tout au long de l'année. Alors pour tous ceux qui veulent changer leur ancien appareil et qui recherche un nouveau modèle plus performant et économe en énergie, n'attendez plus et faites appel à nos équipes pour l'installation de votre nouvel équipement.</p> <p>Mure Energies vous conseille par ailleurs de souscrire à l'<a title=\"Entretien chauffe-eau\" href=\"/entretien/chauffe-eau\">un de nos contrats d'entretien pour chauffe-eau</a> afin de bénéficier d'une visite de révision annuelle d'un de nos techniciens. Cette révision régulière permettra de maintenir le niveau de performance de votre appareil et d'augmenter sa durée de vie.</p> <hr>"
+    },
+    {
+      "title": "Les professionnels de la climatisation à Dardilly",
+      "text": "<p>Votre climatisation tombe régulièrement en panne ? Vous souhaitez faire <a title=\"Installation climatisation\" href=\"/installation/climatisation\">installer une climatisation à votre domicile</a> ? Votre appareil a besoin d'une révision ?</p> <p>Nos collaborateurs interviennent à Dardilly et dans l'Ouest Lyonnais pour réparer, installer et entretenir les climatisations. Avec plus de 35 ans d'expérience, nous mettons notre savoir-faire et nos compétences au service de chacun de vos projets.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  }
+}

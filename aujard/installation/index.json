@@ -1,0 +1,76 @@
+{
+  "breadcrumb": "Installation",
+  "seo": {
+    "title": "Installateur de chauffage et climatisation en Seine-et-Marne | Aujard",
+    "description": "Aujard est votre spécialiste chauffage, climatisation et confort thermique en Seine-et-Marne : chauffagistes & frigoristes RGE dans le 77, intervention rapide.",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Installateur de chauffage et climatisation en Seine-et-Marne | Aujard",
+      "description": "Aujard est votre spécialiste chauffage, climatisation et confort thermique en Seine-et-Marne : chauffagistes & frigoristes RGE dans le 77, intervention rapide.",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-installation-456x334.bbf73de7.jpg",
+        "alt": "Installation d'un système de chauffage par Aujard"
+      }
+    }
+  },
+  "hero": {
+    "title": "Votre installateur chauffage, climatisation et énergies renouvelables",
+    "subtitle": "Faîtes appel à nos experts Aujard pour l'installation de votre chauffage en Seine-et-Marne (77)"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.aujard.fr/build/images/aujard-installation-456x334.bbf73de7.jpg",
+      "alt": "Installation d'un système de chauffage par Aujard"
+    },
+    "text": ""
+  },
+  "teasers": [
+    {
+      "title": "Votre installation de chauffage à Fontainebleau et ses alentours",
+      "text": "<p>Votre bien-être passe par <b>une bonne isolation de votre habitation</b> et <b>un système de chauffage performant</b>. De par notre expérience et notre savoir-faire, chez Aujard, nous avons choisi de fournir à nos clients des produits de qualité que nous approuvons et que nous connaissons. Selon votre lieu de résidence en Seine-et-Marne et vos besoins en matière de chauffage et eau chaude sanitaire, nous vous proposons des chaudières à bois, chaudières à gaz ou chaudières au fioul ainsi que des pompes à chaleur air/eau, des chauffe-eaux thermodynamiques et des systèmes solaires. Nous assurons l'installation de vos appareils de chauffage dans le 77 ainsi que leur entretien et leur dépannage.</p> <hr>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Offrez une belle et douce chaleur à votre intérieur en Seine-et-Marne",
+      "text": "<p>Votre système de chauffage peut être complété par un <b>équipement d'appoint</b> dans votre salon ou pièce à vivre. À la fois élément de décoration et source de chaleur, la cheminée ou le poêle contribue à votre bien-être. Chez Aujard, nous vendons des poêles à bois, poêles à pellets, poêles de masse, cheminées, etc.</p> <hr>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Rafraîchissez vos étés et réchauffez vos hivers avec un système de climatisation près de Melun et Fontainebleau",
+      "text": "<p>Avec des étés de plus en plus chauds et longs, même en Seine-et-Marne, <b>l'installation d'une climatisation devient parfois indispensable</b>. En faisant appel à Aujard, vous bénéficiez des conseils de nos équipes en matière de climatiseurs. Pompes à chaleur air/air, les appareils de climatisation présentent de nombreux modèles. Les climatiseurs simples fournissent de la fraîcheur en été, quand les climatiseurs réversibles servent aussi de chauffage en hiver. Les systèmes monosplits ne climatisent qu'une seule pièce, quand les multisplits en desservent plusieurs. Chaque cas est particulier. Seul un professionnel expérimenté comme l'un de nos techniciens Aujard près de Melun et Fontainebleau est à même de satisfaire à vos attentes, et ce, dans les règles de l'art.</p> <hr>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Bénéficiez d'eau chaude en toutes circonstances en Seine-et-Marne",
+      "text": "<p>Chez Aujard à Fontainebleau, nous vous proposons des chauffe-eaux à la pointe de la technologie. Chauffe-eaux solaires ou chauffe-eaux thermodynamiques, ceux-ci fournissent de l'eau chaude sanitaire à moindre coût, tout en respectant l'environnement. Nous installons des ballons d'eau chaude de toute taille, jusqu'à 1000 litres, afin de toujours s'adapter à la composition de votre foyer ou des besoins de vos locaux professionnels.</p> <p>Pour toute installation de chauffage en Seine-et-Marne, faites nous appel en tant qu'installateur en chauffage, climatisation, sanitaire et énergies renouvelables entre Fontainebleau et Melun, nos techniciens Aujard saurons répondre à vos attentes et besoins.</p> <hr>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Nos installations de chauffages",
+      "text": " <hr>",
+      "link": {
+        "href": "https://www.aujard.fr/installation/chauffe-eau-thermodynamique",
+        "text": "Installation Chauffe-eau ThermodynamiqueInstallateur de Chaudières gaz ou boisInstallateur de Pompes à chaleurInstallateur de Climatisation réversibleInstallateur de Poêles de chauffageInstallateur d'Adoucisseur d'eau",
+        "title": "Pose chauffe-eau thermodynamique 77"
+      }
+    }
+  ]
+}

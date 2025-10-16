@@ -1,0 +1,40 @@
+{
+  "breadcrumb": "Chauffage Brignais",
+  "hero": {
+    "title": "Mure Energies, votre chauffagiste à Brignais",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/mure-energies-qui-sommes-nous-456x334.f303774e.jpg",
+      "alt": "Mure Energies, votre chauffagiste à Brignais"
+    },
+    "text": "<p>Depuis 1983, les équipes Mure Energies interviennent à Brignais et dans le Rhône pour installer, dépanner et entretenir votre système de climatisation ou de chauffage.</p> <p>Nos équipes peuvent intervenir sur différents équipements tels que :</p> <ul>\n<li><a title=\"Equipement PAC\" href=\"/equipements/energie-renouvelable/pompe-a-chaleur\">les pompes à chaleur</a></li>\n<li><a title=\"Equipement climatisation\" href=\"/equipements/climatisation\">les climatisations</a></li>\n<li><a title=\"Equipement chaudière\" href=\"/equipements/chaudieres\">les chaudières</a></li>\n<li><a title=\"Equipement chauffe-eau\" href=\"/equipements/chauffe-eau-gaz-chauffe-bain\">les chauffe-eaux</a></li>\n<li><a title=\"Equipement plancher chauffant\" href=\"/equipements/plancher-chauffant\">les planchers chauffants</a></li>\n</ul> <p>Pour obtenir un devis gratuit et personnalisé pour votre projet, contactez-nous au 04 78 59 83 88.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Les experts de la pompe à chaleur à Brignais",
+      "text": "<p>Vous êtes à la recherche d'un même équipement qui permettrait à la fois de chauffer votre foyer en hiver et de rafraîchir votre logement en hiver ? Mure Energies a la solution idéal pour vous : <a title=\"Installation pompe à chaleur\" href=\"/installation/pompe-a-chaleur\">installer une pompe à chaleur</a>. Vous bénéficierez ainsi des différentes aides de l'Etat mises en place pour l'installation d'une PAC.</p> <p>Et pour tous ceux qui possèdent déjà une pompe à chaleur, nos techniciens sont également formés pour l'entretien et le dépannage de votre équipement.</p> <hr>"
+    },
+    {
+      "title": "Installation de plancher chauffant dans le Rhône",
+      "text": "<p>Le chauffage au sol, ou plancher chauffant, est le meilleur équipement pour chauffer l'entièreté de votre logement de manière homogène. Le réseau est généralement basse température et limité à 28°, ce qui en fait un équipement écologique et économique. Vous profiterez ainsi d'une douce chaleur en continu et sans encombrer votre logement avec des radiateurs.</p> <p><a title=\"Installation plancher chauffant\" href=\"/installation/plancher-chauffant\">L'installation d'un plancher chauffant</a> est aujourd'hui compatible avec de nombreux types de revêtements de sol tel que du stratifié, du plancher contrecollé ou encore un sol PVC. N'hésitez pas à faire part de votre projet à nos équipes afin que nous puissions vous conseiller dans votre choix.</p> <hr>"
+    },
+    {
+      "title": "Installation, maintenance et réparation de chaudière à Brignais",
+      "text": "<p>Les chaudières peuvent fonctionner au gaz, au fioul ou au bois (pellets ou bûche). Vous ne savez pas encore quel type d'équipement choisir ? Les équipes Mure Energies prendront le temps de découvrir votre projet afin de vous conseiller l'appareil qui correspondra le mieux à vos besoins.</p> <p>Nous intervenons également dans l'Ouest Lyonnais pour l'entretien et <a title=\"Dépannage chaudière\" href=\"/depannage/chaudiere\">le dépannage de chaudière à gaz, à bois ou électrique</a>. Pour faire appel à nos services, téléphonez au 04 78 59 83 88.</p> <hr>"
+    },
+    {
+      "title": "Chauffe-eaux et chauffe-bains dans le 69",
+      "text": "<p><a title=\"Installation chauffe-eau\" href=\"/installation/climatisation\">Installer un chauffe-eau</a> à son domicile est nécessaire pour profiter d'une eau chaude sanitaire toute l'année. Nos techniciens sont formés pour installer différents modèles de chauffe-eaux thermodynamiques, électriques ou à gaz.</p> <p>Vous équipement est en panne ? Nos équipes interviennent chez vous pour réparer votre chauffe-eau. Et pour éviter que cela ne se reproduise, pensez à faire appel à nos experts pour réaliser l'entretien régulier de votre appareil. Vous augmenterez ainsi sa durée de vie et diminuerez le nombre de pannes.</p> <hr>"
+    },
+    {
+      "title": "Gagnez en confort avec une climatisation à Brignais",
+      "text": "<p>En faisant le choix d'<a title=\"Installation climatisation\" href=\"/installation/climatisation\">installer une climatisation</a> à votre domicile, vous gagnez en confort thermique toute l'année. En effet, en plus de bénéficier d'un air frais en été, vous pourrez également profiter d'une source de chaleur en hiver grâce aux nouveaux modèles de climatisation réversible.</p> <p>Vous possédez déjà une climatisation ? Mure Energies vous propose également des contrats d'entretien ainsi que des prestations de dépannage afin de devenir votre interlocuteur privilégié pour chacun de vos besoins.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  }
+}

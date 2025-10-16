@@ -1,0 +1,30 @@
+{
+  "name": "ROUSSIN Energies",
+  "description": "Plombier Chauffagiste à Grenoble, expert dans l'installation, l'entretien et le dépannage de vos équipements de chauffage et climatisation",
+  "map_url": "https://goo.gl/maps/XhttRZfUVkSvF9Jx7",
+  "website_url": "https://www.roussin-energies.fr",
+  "phone": "(33 4)76260765",
+  "streetAddress": "34 allée des Balmes",
+  "addressLocality": "Fontaine, France",
+  "postalCode": "F-38600",
+  "addressCountry": "France",
+  "geo": {
+    "lat": "45.18733",
+    "lng": "5.69576"
+  },
+  "favicon": "https://www.roussin-energies.fr/asset/ROUSSIN/favicon/favicon-32x32.png",
+  "logo": "https://www.roussin-energies.fr/asset/img/organisation/logo/roussin/logo-roussin-energies.jpg",
+  "image": "https://www.roussin-energies.fr/asset/img/organisation/corporate/roussin/chauffagiste-roussin-energies.jpg",
+  "avis_verifies": "",
+  "piwik_token": "c5486171-aa8a-45dd-9423-f26aab2f5813",
+  "opening_hours": [
+    "Mo, Tu, We, Th, Fr 08:00-18:00"
+  ],
+  "footer_links": [],
+  "socials": [],
+  "sameAs": [
+    "https://www.facebook.com/roussinenergies/",
+    "https://www.societe.com/societe/roussin-energies-381063932.html",
+    "https://www.pagesjaunes.fr/pros/04481437"
+  ]
+}

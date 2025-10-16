@@ -1,0 +1,43 @@
+{
+  "breadcrumb": "Certifications",
+  "seo": {
+    "title": "Nos Certifications RGE | Aujard",
+    "description": "Aujard , professionnel certifié RGE revient en détail sur ses certifications.",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Nos Certifications RGE | Aujard",
+      "description": "Aujard , professionnel certifié RGE revient en détail sur ses certifications.",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-certifications-456x334.451f87a5.jpg",
+        "alt": "Toutes nos certifications chauffage et climatisation"
+      }
+    }
+  },
+  "hero": {
+    "title": "Aujard : professionnel du chauffage certifié",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/aujard-certifications-456x334.451f87a5.jpg",
+      "alt": "Toutes nos certifications chauffage et climatisation"
+    },
+    "text": "<p>Il vous est forcément déjà arrivé d'hésiter au moment de choisir un professionnel pour dépanner ou installer un système de chauffage. Rien de plus normal ! Les installateurs et dépanneurs de chauffage sont nombreux. Dès lors, comment choisir le meilleur expert pour répondre à vos attentes ? Comment savoir qui est le réparateur le plus compétent pour votre chaudière à gaz ou votre pompe à chaleur Air-Eau ou Air-Air ? Les certifications constituent une première indication intéressante sur le niveau de compétences de l'entreprise.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "À quoi servent les certifications ?",
+      "text": "<p>Les certifications sont généralement délivrées par des <b>organismes publics</b> ou des <b>agences d'Etat</b>, dans le but de distinguer la compétence d'un artisan dans tel ou tel domaine. On peut ainsi accorder une certification à un professionnel engagé dans le développement durable, ou la préservation des ressources naturelles.</p> <p>Ces labels permettent également de <b>mettre en valeur les entreprises agréées</b> ayant répondu à toutes les obligations en termes de formation professionnelle, d'équipement ou de normes de sécurité. Choisir un professionnel certifié et labellisé offre donc une première assurance de travaux bien menés, en toute sûreté !</p> <hr>"
+    },
+    {
+      "title": "Les qualifications RGE",
+      "text": "<p>Le <b>label RGE (Reconnu Garant de l'Environnement)</b> est une <b>certification environnementale</b> délivrée par le gouvernement. Elle distingue les professionnels qualifiés en matière de rénovation énergétique et d'économies d'énergie. Certains coups de pouce accordés aux particuliers par l'Etat dans le cadre de leurs travaux sont conditionnés à l'intervention d'artisans RGE. Ainsi, si vous souhaitez bénéficier des <b>CEE: (Certficats d'Economies d'Energie)</b>, de <b>MaPrimeRenov'</b> ou de <b>l'éco-prêt à taux zéro</b>, vous devrez faire intervenir un professionnel RGE! Mais faire appel à un professionnel RGE, c'est avant tout recevoir <b>la garantie de faire intervenir chez soi un véritable spécialiste des énergies renouvelables</b>.</p> <p>La liste des artisans RGE de votre département est facile à obtenir, et bien entendu, Aujard fait partie des entreprises labellisées en Seine-et-Marne!</p> <hr>"
+    },
+    {
+      "title": "Aujard, entreprise RGE Qualibois et Qualigaz",
+      "text": "<p>Chez Aujard, nous ne nous contentons pas du bouche-à-oreille pour convaincre nos clients. Les certifications dont nous bénéficions vous offrent l'une des meilleures garanties de notre expertise. Quels sont ces labels ?</p> <ul> <li><b>Label RGE Qualibois Air et Eau</b> : ces deux certifications RGE concernent à la fois les appareils de chauffage au bois sous forme d'insert, et les poêles et chaudières à bois hydrauliques</li> <li><b>Certification RGE Qualigaz</b> : L'association Qualigaz est un organisme de contrôle et de certification des installations de gaz. Elle s'assure notamment de la sécurité de ces systèmes. Le certificat Qualigaz est un document obligatoire pour chaque particulier souhaitant ouvrir un contrat de fourniture d'énergie. L'entreprise Aujard fait partie des professionnels qualifiés pouvant mener ces contrôles et remettre les certificats Qualigaz aux propriétaires d'installations.</li> </ul> <p>Vous voulez en savoir plus sur notre niveau de certification, ou tout simplement nos prestations de dépannage et d'entretien ? <a href=\"/nous-contacter\" title=\"contactez-nous\">Contactez-nous</a> ou <a href=\"/showroom\" title=\"Venez visiter notre showroom\">rendez-nous visite à l'agence de Vulaines-sur-Seine</a>.</p>"
+    }
+  ]
+}

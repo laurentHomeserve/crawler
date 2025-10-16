@@ -1,0 +1,85 @@
+{
+  "breadcrumb": "Depannage",
+  "seo": {
+    "title": "Dépannage de chauffage à Caen | Choisissez l'expertise avec PH Energies",
+    "description": "PH Energies vous propose un dépannage rapide et efficace de votre chauffage sur Caen, Bayeux, Falaise, Honfleur, Alençon, Flers, Argentan... N'hésitez pas à nous contacter.",
+    "opengraph": {
+      "site_name": "PH Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Dépannage de chauffage à Caen | Choisissez l'expertise avec PH Energies",
+      "description": "PH Energies vous propose un dépannage rapide et efficace de votre chauffage sur Caen, Bayeux, Falaise, Honfleur, Alençon, Flers, Argentan... N'hésitez pas à nous contacter.",
+      "image": {
+        "src": "https://www.ph-energies.fr/build/images/ph-energies-depannage-456x334.bf51858a.jpg",
+        "alt": "depannage de chauffage"
+      }
+    }
+  },
+  "hero": {
+    "title": "Dépannage de vos équipements de chauffage à Caen et sa région",
+    "subtitle": "PH Energies, votre expert en dépannage de chauffage et climatisation à Flers, Bayeux, Vire, ..."
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.ph-energies.fr/build/images/ph-energies-depannage-456x334.bf51858a.jpg",
+      "alt": "depannage de chauffage"
+    },
+    "text": "<p>Chauffagiste à <b><a href=\"https://www.ph-energies.fr/chauffage-caen\" title=\"Chauffage Caen\">Caen</a></b>, PH Energies est spécialisé dans l'entretien et la <b>réparation de systèmes de chauffage</b>.</p><p>Notre entreprise dispose d'une équipe de techniciens chauffagistes qui assure le dépannage à Caen et dans les environs, comme par exemple à <a href=\"https://www.ph-energies.fr/chauffage-bayeux\" title=\"Chauffage Bayeux\">Bayeux</a>, Alençon ou encore Pont L'Évêque et <a href=\"https://www.ph-energies.fr/chauffage-flers\" title=\"Chauffage Flers\">Flers</a>.</p><p>Vous constatez un dysfonctionnement dans votre système de chauffage ? Nos équipes peuvent intervenir aussi bien sur des chaudières gaz, fioul ou bois que sur des pompes à chaleur.</p><p>Nous dépannons aussi les planchers chauffants.<br><br>&nbsp;</p>"
+  },
+  "teasers": [
+    {
+      "title": "Dépannage des chaudières dans le Calvados et l'Orne",
+      "text": "<p>PH Energies assure la <b>réparation des chaudières dans la région de Caen</b>. Suite à votre appel, nos équipes techniques se déplacent pour diagnostiquer les pannes sur les chaudières au fioul, au gaz, à granulés ou au bois.</p><p>Grâce aux partenariats que nous entretenons avec les plus grandes marques, nous pourrons vous procurer si besoin les pièces de remplacement pour la <b>réparation de votre chaudière à Caen ou Bayeux</b> dans les meilleurs délais.</p>",
+      "link": {
+        "href": "/depannage/chaudiere",
+        "text": "En savoir plus sur le dépannage des chaudières",
+        "title": "Dépannage chaudière à Caen, Hérouville, Lisieux, Alençon, Flers, ..."
+      }
+    },
+    {
+      "title": "Dépannage des pompes à chaleur à Caen et dans les environs",
+      "text": "<p>Les pompes à chaleur sont un équipement de chauffage d'une remarquable fiabilité. Il peut cependant arriver qu'elles tombent en panne. PH Energies assure le <b>dépannage des pompes à chaleur dans la région de Caen</b> : nos équipes de techniciens prennent en charge les pompes à chaleur air/eau, les PAC eau/eau, ainsi que les climatisations réversibles ou PAC air/air.</p>",
+      "link": {
+        "href": "/depannage/pompe-a-chaleur",
+        "text": "En savoir plus sur le dépannage des pompes à chaleur",
+        "title": "Réparation pompe à chaleur, dépannage pompe à chaleur"
+      }
+    },
+    {
+      "title": "Dépannage des chauffe-eaux dans la région de Caen",
+      "text": "<p>Il existe différents systèmes de production d'eau chaude sanitaire et chacun d'entre eux peut être victime d'une panne affectant ses performances ou compromettant son fonctionnement.</p><p>Vous recherchez une entreprise qualifiée pour la <b>réparation de votre chauffe-eau électrique, de votre chauffe-eau solaire ou de votre chauffe-bain au gaz dans la région de Caen</b> ? Contactez PH Energies !</p>",
+      "link": {
+        "href": "/depannage/chauffe-eau",
+        "text": "En savoir plus sur le dépannage des chauffe-eaux",
+        "title": "Dépanner chauffe-eau thermodynamique, chauffe-bain, cumulus"
+      }
+    },
+    {
+      "title": "Dépannage des chauffages au sol à Caen et environs",
+      "text": "<p>Les chauffages au sol peuvent connaître différents types de dysfonctionnement. Si vous constatez que votre équipement ne chauffe plus, qu'il fuit ou que les températures sont fluctuantes, les techniciens PH Energies peuvent intervenir chez vous et assurer le <b>dépannage de votre chauffage au sol à Caen et dans les environs</b>. Le cas échéant, ils peuvent aussi dépanner la pompe à chaleur ou la chaudière associée.</p>",
+      "link": {
+        "href": "/depannage/plancher-chauffant",
+        "text": "En savoir plus sur le dépannage de votre chauffage au sol",
+        "title": "Dépanner et réparer un plancher chauffant"
+      }
+    },
+    {
+      "title": "Contrat d'entretien et dépannage de chauffage à Caen",
+      "text": "<p>La souscription d'un contrat d'entretien auprès de PH Energies vous assure un <b>dépannage de votre chauffage dans le 14 et le 61</b> rapide et inclus dans la formule. Nos techniciens connaissent bien votre installation et le diagnostic s'en trouve le plus souvent facilité, ce qui vous permet de retrouver plus rapidement votre confort habituel.</p><p><i></i> <a href=\"/entretien\" title=\"Entretien chauffage et climatisation\">En savoir plus sur nos prestations d'entretien</a></p>",
+      "link": {
+        "href": "/entretien",
+        "text": "En savoir plus sur nos prestations d'entretien",
+        "title": "Entretien chauffage et climatisation"
+      }
+    },
+    {
+      "title": "L'avis de nos clients sur nos prestations de dépannage",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/8f2a8ebb-a0aa-1194-b937-822062e71cbe/6f5a3443-418c-4a4c-bad2-ddc29acc12af.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "breadcrumb": "Climatisation : comprendre le GWP et les fluides frigorigènes",
+  "seo": {
+    "title": "Fluide frigorigène et climatisation : tout savoir",
+    "description": "Fluide frigorigène, climatisation, impact carbone, R410A, R290 , R32 : tout savoir sur leur GWP et les fluides écologiques. SBF Energies vous conseille !",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "title": " Climatisation : comprendre le GWP et les fluides frigorigènes ",
+  "chapo": "Pourquoi s'intéresser au GWP quand on choisit sa climatisation ? On décrypte les indicateurs et la législation pour vous !",
+  "image": {
+    "src": "/upload/files/sbf-energies-article-fluides-frigorigenes1-74056cbdb0.jpg",
+    "alt": "Climatisation : comprendre le GWP et les fluides frigorigènes"
+  },
+  "intro": "<p>Quand vous achetez une climatisation, vous regardez souvent :</p> <ul>\n<li>Sa puissance,</li>\n<li>Son niveau sonore,</li>\n<li>Sa classe énergétique (A+++, A++...).</li>\n</ul> <p>Mais savez-vous que le <strong>fluide frigorigène</strong> utilisé dans votre appareil est tout aussi important ?</p> <p>Ce fluide est ce qui permet de produire du froid (et du chaud pour les modèles réversibles). Or, <strong>tous les fluides n'ont pas le même impact sur l’environnement</strong> en cas de fuite accidentelle.</p> <p>C’est ici qu’intervient une notion essentielle : <strong>le GWP</strong>.</p>",
+  "paragraphs": [
+    {
+      "title": "Qu'est-ce que le GWP exactement ?",
+      "text": "<p>GWP signifie Global Warming Potential, en français Potentiel de Réchauffement Global.</p> <p>C'est un chiffre qui mesure <strong>l’impact d'un gaz sur l’effet de serre</strong>, comparé au dioxyde de carbone (CO₂). <strong>Le CO₂ a un GWP de 1</strong> par définition. Plus le GWP d'un fluide est élevé, <strong>plus il contribue au réchauffement climatique</strong> s'il est relâché dans l’air.</p> <p>Par exemple, un gaz avec un GWP de 675 est <strong>675 fois plus impactant que le CO₂</strong>.</p> <p><strong>Plus le GWP est bas, mieux c'est pour l'environnement.</strong></p>"
+    },
+    {
+      "title": "Quels fluides trouve-t-on dans les climatiseurs aujourd'hui ?",
+      "text": "<p>Voici les principaux fluides frigorigènes que vous pouvez rencontrer sur une étiquette :</p> <table style=\"border-collapse: collapse; width: 100%; background-color: #f9f9f9;\">\n<thead>\n<tr>\n<th style=\"border: 1px solid #d3d3d3; padding: 8px; text-align: center;\"><strong>Nom</strong></th>\n<th style=\"border: 1px solid #d3d3d3; padding: 8px; text-align: center;\"><strong>GWP</strong></th>\n<th style=\"border: 1px solid #d3d3d3; padding: 8px; text-align: center;\"><strong>Commentaires</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #d3d3d3; padding: 8px; text-align: center;\"><strong>R410A</strong></td>\n<td style=\"border: 1px solid #d3d3d3; padding: 8px; text-align: center;\">2088</td>\n<td style=\"border: 1px solid #d3d3d3; padding: 8px; text-align: left;\">Ancien fluide très polluant, en cours d'abandon</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #d3d3d3; padding: 8px; text-align: center;\"><strong>R32</strong></td>\n<td style=\"border: 1px solid #d3d3d3; padding: 8px; text-align: center;\">675</td>\n<td style=\"border: 1px solid #d3d3d3; padding: 8px; text-align: left;\">Fluide standard actuel : performant et beaucoup moins polluant</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #d3d3d3; padding: 8px; text-align: center;\"><strong>R290</strong> (propane)</td>\n<td style=\"border: 1px solid #d3d3d3; padding: 8px; text-align: center;\">3</td>\n<td style=\"border: 1px solid #d3d3d3; padding: 8px; text-align: left;\">Fluide naturel ultra écologique, mais inflammable (utilisé dans certaines petites unités)</td>\n</tr>\n</tbody>\n</table> <p><strong>Sur votre étiquette ou votre fiche produit</strong>, le type de fluide utilisé est obligatoirement précisé. <strong>Choisir un climatiseur au R32</strong> est aujourd'hui <strong>le meilleur compromis</strong> entre performance, sécurité et respect de l’environnement.</p>"
+    },
+    {
+      "title": "Comment le GWP est-il mesuré ?",
+      "text": "<ul>\n<li>En laboratoire, on libère une certaine quantité de gaz.</li>\n<li>On mesure <strong>combien de chaleur ce gaz piège dans l’atmosphère</strong> par rapport à du CO₂, sur une durée de <strong>100 ans</strong>.</li>\n<li>Plus un gaz retient la chaleur, <strong>plus son GWP est élevé</strong>.</li>\n</ul> <p>C'est une mesure <strong>normalisée</strong> au niveau mondial, pour pouvoir comparer facilement les fluides entre eux.</p>"
+    },
+    {
+      "title": "Ce que dit la réglementation (F-Gas) sur les fluides frigorigènes",
+      "text": "<p>Pour protéger le climat, <strong>l’Union Européenne</strong> a mis en place une réglementation appelée <strong>F-Gas</strong>.</p> <p>Depuis 2025, il est interdit d’installer de nouveaux équipements contenant un fluide ayant un <strong>GWP supérieur à 750</strong>. D'ici 2030, l'objectif est de <strong>réduire de 79% les émissions de gaz fluorés</strong> par rapport à 2015.</p> <p><strong>Les conséquences pour vous :</strong></p> <ul>\n<li>Le R410A est progressivement retiré du marché.</li>\n<li>Le R32 est désormais la norme pour les nouvelles installations.</li>\n<li>Le R290 commence à être utilisé dans certaines petites unités.</li>\n</ul> <p>Chez SBF Energies, nous <a title=\"Installation climatisation\" href=\"/installation/climatisation\">installons uniquement des climatiseurs</a> conformes aux normes environnementales.</p>"
+    },
+    {
+      "title": "Comment lire votre étiquette pour vérifier le fluide utilisé ?",
+      "text": "<p>Sur l'étiquette technique (parfois sur l'appareil lui-même ou dans la documentation) :</p> <ul>\n<li>Cherchez la mention <strong>\"Fluide Frigorigène : R32\"</strong> ou <strong>\"Fluide Frigorigène : R410A\"</strong>, etc.</li>\n<li>Vérifiez également le <strong>GWP indiqué</strong>. Par exemple, “R32 – GWP = 675”.</li>\n</ul> <p>C’est la garantie que vous choisissez un modèle <strong>respectueux des réglementations en vigueur</strong> et <strong>moins impactant pour l’environnement</strong>.</p>"
+    },
+    {
+      "title": "Pourquoi faire attention au GWP aujourd'hui ?",
+      "text": "<ul>\n<li><strong>Réduire votre empreinte carbone</strong> : chaque geste compte.</li>\n<li><strong>Anticiper les évolutions réglementaires</strong> : un équipement au R32 ou R290 sera conforme pour de longues années.</li>\n<li><strong>Valoriser votre installation</strong> : un climatiseur écoresponsable sera toujours mieux vu, que ce soit pour un usage personnel ou en cas de revente/location du logement.</li>\n</ul>"
+    },
+    {
+      "title": "SBF Energies vous accompagne pour choisir mieux",
+      "text": "<p>Chez SBF Energies, nous :</p> <ul>\n<li>Sélectionnons uniquement des climatiseurs au R32 ou autres fluides à faible GWP,</li>\n<li>Vous expliquons chaque choix technique, sans jargon inutile,</li>\n<li>Assurons une installation durable et écoresponsable dans tout le département de la Savoie.</li>\n</ul> <p>Que vous soyez à <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-chambery\" title=\"Chauffagiste Frigoriste Chambery\">Chambéry</a>, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-aix-les-bains\" title=\"Chauffagiste Frigoriste Aix Les Bains\">Aix-les-Bains</a>, <a href=\"https://www.sbf-energies.com/chauffagiste-frigoriste-la-motte-servolex\" title=\"Chauffagiste Frigoriste La Motte Servolex\">La Motte-Servolex</a> ou ailleurs dans notre belle région, nous vous aidons à :</p> <ul>\n<li>Comprendre votre équipement,</li>\n<li>Faire le bon choix pour aujourd'hui,</li>\n<li>Et penser déjà à demain.</li>\n</ul>"
+    },
+    {
+      "title": "Qui peut manipuler un fluide frigorigène ?",
+      "text": "<p>Installer, <a title=\"Entretien climatisation\" href=\"/entretien/climatisation\">entretenir</a> ou <a title=\"Dépannage climatisation\" href=\"/depannage/climatisation\">réparer une climatisation</a> implique parfois d’<strong>intervenir directement sur le fluide frigorigène</strong> contenu dans le circuit.</p> <p>Or, la manipulation de ces gaz est <strong>strictement encadrée par la loi</strong> pour protéger :</p> <ul>\n<li>L’environnement (risque de fuite de gaz à fort effet de serre),</li>\n<li>La sécurité des occupants et des techniciens,</li>\n<li>La conformité réglementaire de votre installation.</li>\n</ul> <p>En France, toute personne qui intervient sur un circuit frigorifique doit être titulaire d’un<strong> certificat d’aptitude à la manipulation des fluides frigorigènes</strong>, délivré par un organisme agréé.</p>"
+    },
+    {
+      "title": "SBF Energies : des techniciens certifiés pour votre tranquillité",
+      "text": "<p>Chez <strong>SBF Energies</strong>, <strong>tous nos techniciens</strong> intervenant sur …</p> <ul>\n<li>Les <a title=\"Equipement climatisations\" href=\"/equipements/climatisation\">climatisations</a>,</li>\n<li>Les <a title=\"Equipement pompe à chaleur air air et air eau\" href=\"/equipements/pompe-a-chaleur\">pompes à chaleur air/air et air/eau</a>,</li>\n<li>Les <strong>systèmes frigorifiques résidentiels</strong>,</li>\n</ul> <p>…sont <strong>titularisés</strong> du <strong>certificat de capacité à la manipulation des fluides frigorigènes</strong>.</p> <p>Cela vous garantit que :</p> <ul>\n<li>Votre installation respecte la réglementation française et européenne,</li>\n<li>Aucune fuite n'est laissée sans contrôle,</li>\n<li>Le gaz utilisé est correctement récupéré, traité ou recyclé en cas de remplacement d’appareil,</li>\n<li>Vous bénéficiez d’un service <strong>professionnel, sûr et responsable</strong>.</li>\n</ul> <p><strong>À retenir</strong> : faire appel à un professionnel non certifié expose à des risques pour l’environnement, pour la sécurité… et peut engager la responsabilité légale du client.</p>"
+    },
+    {
+      "title": "Que faire si je suspecte une fuite de fluide frigorigène ?",
+      "text": "<p>Même si les climatiseurs et pompes à chaleur modernes sont très fiables, <strong>une fuite de fluide frigorigène peut parfois survenir</strong>, surtout sur des appareils anciens ou mal entretenus.</p> <p><strong>Comment reconnaître une fuite possible ?</strong></p> <ul>\n<li>Votre climatisation perd en performance : elle ne refroidit plus ou ne chauffe plus aussi efficacement,</li>\n<li>Vous entendez un sifflement anormal près de l'unité intérieure ou extérieure,</li>\n<li>Vous constatez la présence de givre anormal sur les tuyauteries.</li>\n</ul> <p><strong>Que faire si vous avez un doute ?</strong></p> <ul>\n<li>Ne tentez pas d’intervenir vous-même : <strong>le fluide frigorigène est sous pression</strong> et sa manipulation est strictement réglementée.</li>\n<li>Contactez immédiatement un professionnel certifié.</li>\n</ul>"
+    },
+    {
+      "title": "Chez SBF Energies, nous intervenons rapidement en cas de fuite",
+      "text": "<ul>\n<li><strong>Diagnostic rapide</strong> : nos techniciens certifiés vérifient l’étanchéité de votre circuit frigorifique à l'aide d'outils spécifiques.</li>\n<li><strong>Réparation</strong> : si une fuite est détectée, nous réparons le circuit selon les normes en vigueur.</li>\n<li><strong>Recharge contrôlée</strong> : si nécessaire, nous rechargeons votre installation avec un fluide conforme, en toute sécurité.</li>\n</ul> <p><strong>En Savoie</strong>, nous intervenons rapidement autour de Chambéry, Aix-les-Bains, La Motte-Servolex et dans tout le secteur pour <strong>préserver votre installation</strong>.</p>"
+    },
+    {
+      "title": "L'entretien régulier de votre climatisation : une obligation légale et un vrai réflexe de bon sens",
+      "text": "<p>En France, l’<a title=\"Entretien systèmes thermodynamiques\" href=\"/entretien\">entretien des systèmes thermodynamiques</a> (climatisation, PAC, ventilation avec chauffage à effet joule) est <strong>obligatoire tous les deux ans</strong> pour les équipements d’une puissance comprise entre 4 et 70 kW. Nous vous recommandons néanmoins une visite annuelle de maintenance, même en dessous de 4 kW, afin de contrôler, nettoyer et optimiser votre système de climatisation.&nbsp;</p> <p>Ce contrôle vise à :</p> <ul>\n<li>Détecter les fuites éventuelles,</li>\n<li>Vérifier les performances de l'appareil,</li>\n<li>Optimiser ses réglages,</li>\n<li>Assurer la sécurité environnementale.</li>\n</ul> <p>Pour ce faire, nous vous proposons des contrats d’entretien adaptés en Savoie. À l’issue de la visite d’entretien, vous obtenez une attestation de maintenance.</p> <p>Vous souhaitez installer une climatisation respectueuse de l’environnement et conforme aux dernières normes ? Contactez dès aujourd'hui SBF Energies pour un <strong>devis gratuit et personnalisé</strong>.</p>"
+    }
+  ]
+}

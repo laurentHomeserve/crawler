@@ -1,0 +1,60 @@
+{
+  "breadcrumb": "Climatisation",
+  "seo": {
+    "title": "Roussin Energies installe, entretient et répare vos équipements de climatisation à Grenoble.",
+    "description": "Roussin Energies vous aide à choisir l'équipement de climatisation le plus approprié à votre habitation dans la région de Grenoble, et en assure l'installation, l'entretien et le dépannage.",
+    "opengraph": {
+      "site_name": "Roussin Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Roussin Energies installe, entretient et répare vos équipements de climatisation à Grenoble.",
+      "description": "Roussin Energies vous aide à choisir l'équipement de climatisation le plus approprié à votre habitation dans la région de Grenoble, et en assure l'installation, l'entretien et le dépannage.",
+      "image": {
+        "src": "https://www.roussin-energies.fr/build/images/roussin-energies-equipement-climatisation-456x334.da243ec8.jpg",
+        "alt": "Equipements de climatisation"
+      }
+    }
+  },
+  "hero": {
+    "title": "Climatisation, profitez toute l'année d'un air frais et sain à Grenoble",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.roussin-energies.fr/build/images/roussin-energies-equipement-climatisation-456x334.da243ec8.jpg",
+      "alt": "Equipements de climatisation"
+    },
+    "text": "<p>En été, dans la région de <a href=\"https://www.roussin-energies.fr/chauffage-grenoble\" title=\"Chauffage Grenoble\">Grenoble</a>, le climat chaud et ensoleillé, agréable en extérieur, peut vite réchauffer votre intérieur.</p> <p>Pour assurer la fraîcheur de vos pièces de vie ou de vos bureaux, Roussin Energies vous propose <b>différents équipements de climatisation</b>, ainsi qu'un accompagnement complet dans le choix, l'installation et l'entretien du système adopté.</p> <p>Que vous habitiez un logement neuf ou ancien, de petites ou de grandes dimensions, remettez-vous en à nos experts Roussin Energies à <a href=\"https://www.roussin-energies.fr/chauffage-fontaine\" title=\"Chauffage Fontaine\">Fontaine</a>, Montbonnot, <a href=\"https://www.roussin-energies.fr/chauffage-meylan\" title=\"Chauffage Meylan\">Meylan</a>, Seyssinet et dans toute l'agglomération grenobloise pour assurer la climatisation efficace de votre logement.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "L'équipement de climatisation qu'il vous faut",
+      "text": "<p>Vous résidez dans la région de Grenoble et rêvez d'un logement frais et bien aéré toute l'année, y compris l'été, quand le mercure tend à grimper ? Parmi la grande variété de systèmes de climatisation offerts par Roussin Energies, vous trouverez certainement l'équipement monobloc ou avec splits le mieux adapté à vos exigences. N'hésitez pas à vous renseigner auprès de nos techniciens frigoristes, formés pour répondre à toutes vos questions.</p> <p>Que vous habitiez à Seyssinet, Fontaine ou Meylan, vous pouvez opter aussi bien pour un <b>système de climatisation réversible</b>, qui servira également de chauffage d'appoint ou complémentaire en hiver, que pour une <b>climatisation split</b>, dont les branchements multiples raccordés à l'unité extérieure vous permettront d'assurer la fraîcheur d'autant de pièces de la maison que vous désirez.</p> <p>Dans un rayon de 50 km autour de Grenoble, vous pouvez également miser sur une <b>climatisation gainable</b>, qui présente l'avantage d'occuper un minimum d'espace et convient même aux habitations les plus exigües. Les modèles que nous proposons, de marque Daikin ou Mitsubishi, se glissent en toute discrétion sous un faux plafond et sont reliés à des grilles d'aération.</p> <hr>"
+    },
+    {
+      "title": "Nous assurons l'installation, l'entretien et le dépannage de vos équipements de climatisation",
+      "text": "<p>Nos experts Roussin Energies interviennent dans la région de Grenoble aussi bien pour l'installation de systèmes de climatisation neufs, que pour des dépannages ou l'entretien d'équipements déjà en place.</p> <p>Pour toute demande concernant une intervention sur une climatisation, contactez les <b>techniciens certifiés QualiPac de Roussin Energies</b>, disposant par ailleurs d'une attestation de manipulation des fluides. Il suffit d'un filtre encrassé par des poussières et des moisissures pour que les performances énergétiques de votre appareil de climatisation diminuent, tandis que la qualité de l'air s'amoindrit et que la consommation d'énergie, elle, augmente.</p> <p>Les professionnels de Roussin Energies sont là pour assurer <b>le fonctionnement optimal de votre climatisation</b>, dont le contrat d'entretien prévoit des contrôles divers, aussi bien de type électrique que de la charge de froid. À Saint Ismier, <a href=\"https://www.roussin-energies.fr/chauffage-voiron\" title=\"Chauffage Voiron\">Voiron</a>, Coublevie, faites appel à eux pour toute exigence concernant votre équipement de climatisation !</p> <hr>"
+    }
+  ],
+  "related": {
+    "title": "Consultez nos services liés à la climatisation",
+    "links": [
+      {
+        "text": "Dépannage d'une climatisation",
+        "href": "/depannage/climatisation",
+        "title": ""
+      },
+      {
+        "text": "Entretien d'une climatisation",
+        "href": "/entretien/climatisation",
+        "title": ""
+      },
+      {
+        "text": "Installation d'une climatisation",
+        "href": "/installation/climatisation",
+        "title": ""
+      }
+    ]
+  },
+  "url": "https://www.roussin-energies.fr/equipements/climatisation"
+}

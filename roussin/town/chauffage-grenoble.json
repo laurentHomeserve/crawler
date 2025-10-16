@@ -1,0 +1,40 @@
+{
+  "breadcrumb": "Chauffage Grenoble",
+  "hero": {
+    "title": "Les experts du chauffage et de la climatisation à Grenoble",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/roussin-energies-entretien-456x334.608361c3.jpg",
+      "alt": "Les experts du chauffage et de la climatisation à Grenoble"
+    },
+    "text": "<p>Depuis 1969, les techniciens Roussin Energies interviennent à Grenoble et en Isère pour installer, entretenir et dépanner vos équipements de chauffage et de climatisation.</p> <p>Nos équipes sont formées pour prendre en charge :</p> <ul>\n<li><a title=\"Equipement PAC\" href=\"/equipements/pompe-a-chaleur\">les pompes à chaleur</a></li>\n<li><a title=\"Equipement chaudière\" href=\"/equipements/chaudieres\">les chaudières</a></li>\n<li><a title=\"Equipement climatisation\" href=\"/equipements/climatisation\">les climatisations</a></li>\n<li><a title=\"Equipement chauffe-eau\" href=\"/equipements/chauffe-eau\">les chauffe-eaux</a></li>\n<li>les planchers chauffants</li>\n</ul> <p>Vous avez un projet ? Contactez-nous directement au 04 76 26 07 65 pour obtenir un devis gratuit et personnalisé.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Vous cherchez un expert de la pompe à chaleur à Grenoble ?",
+      "text": "<p>La pompe à chaleur est souvent la meilleure alternative pour votre logement, en particulier si vous vivez en maison. En effet, cet appareil vous permet de chauffer votre intérieur en hiver et de le rafraîchir en été.</p> <p>De plus, afin que votre équipement reste performant et efficace, nous vous recommandons de <a title=\"Entretien PAC\" href=\"/entretien/pompe-a-chaleur\">souscrire à un contrat d'entretien pour pompe à chaleur</a>. Nos équipes prendront contact avec vous chaque année pour organiser une visite de maintenance de votre installation. Lors de celle-ci, nous remarquerons les problèmes potentiels et prolongerons ainsi la durée de vie du produit.</p> <hr>"
+    },
+    {
+      "title": "Chaudières à Grenoble : la qualité et l'efficacité au meilleur prix",
+      "text": "<p>Pour le remplacement, l'entretien ou le <a title=\"Réparation chaudière\" href=\"/depannage/chaudiere\">dépannage de votre chaudière</a>, vous pouvez compter sur Roussin Energies, votre professionnel du chauffage à Grenoble. Nos équipes interviennent sur tous les types de chaudière : à bois, à gaz, au fioul.</p> <p>Vous avez un projet d'installation ? Nos collaborateurs effectuent un diagnostic de votre logement afin de vous conseiller le type d’appareil adapté à vos besoins. Ils fixeront par la suite un rendez-vous pour réaliser l’installation de votre nouvelle chaudière.&nbsp;</p> <hr>"
+    },
+    {
+      "title": "À Grenoble, supprimer ses radiateurs grâce au plancher chauffant",
+      "text": "<p>Imaginez un monde où vos radiateurs sont invisibles et où vous pouvez aménager votre logement comme vous le souhaitez. Grâce à <a title=\"Installation plancher chauffant\" href=\"/installation/plancher-chauffant\">l'installation d'un chauffage au sol</a>, vous gagnez de l'espace dans votre intérieur en supprimant les radiateurs. Cette solution est recommandée pour les logements neufs, mais peut aussi être envisagée lors de travaux de rénovation.</p> <p>Les professionnels Roussin Energies s'occupent de l'installation mais aussi de l'entretien et du dépannage de votre chauffage au sol. Alors n'hésitez plus et contactez nous pour demander un devis gratuit !</p> <hr>"
+    },
+    {
+      "title": "Profitez d'un air frais et agréable cet été à Grenoble grâce à la climatisation",
+      "text": "<p>Les experts Roussin Energies mettent leur savoir-faire et leur expérience à votre service pour réaliser le dépannage, l'entretien et l'<a title=\"Installation climatisation\" href=\"/installation/climatisation\">installation de climatisations à Grenoble</a>.</p> <p>En choisissant de remplacer votre ancienne climatisation par un nouvel appareil, vous pourrez bénéficier d'un modèle performant et silencieux qui peut devenir réversible et remplacer votre chauffage en hiver. En plus de vous faire gagner en confort thermique, la climatisation peut s'avérer une véritable nécessité pour les personnes sensibles ou souffrant de problèmes respiratoires.</p> <hr>"
+    },
+    {
+      "title": "Installation, entretien et dépannage de chauffe-eaux en Isère",
+      "text": "<p>Avoir un chauffe-eau en bon état est essentiel pour bénéficier d'une eau chaude sanitaire tout au long de l'année. Au fil du temps, les éléments de votre ballon d'eau chaude sont soumis à de fortes contraintes qui peuvent dégrader la performance de votre appareil. C'est pourquoi nous vous conseillons de souscrire à l'un de <a title=\"Entretien chauffe-eau\" href=\"/entretien/chauffe-eau\">nos contrats d'entretien pour chauffe-eau</a>. Ceux-ci vous permettent de bénéficier d'une visite de révision annuelle par un expert plombier en la matière pour maintenir le niveau de performance de votre appareil.</p> <p>Les équipes Roussin Energies interviennent également chez vous pour réaliser l'installation et le dépannage de votre appareil. Notre objectif est ainsi de devenir votre interlocuteur privilégié pour chacun de vos besoins.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  }
+}

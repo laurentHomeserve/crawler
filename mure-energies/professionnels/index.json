@@ -1,0 +1,58 @@
+{
+  "breadcrumb": "Professionnels",
+  "seo": {
+    "title": "Mure Energies : votre chauffagiste pour les professionnels",
+    "description": "Mure Energies, chauffagiste et spécialiste de la climatisation, est basé à Lyon ouest et intervient dans les locaux professionnels de la région lyonnaise.",
+    "opengraph": {
+      "site_name": "Mure Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Mure Energies : votre chauffagiste pour les professionnels",
+      "description": "Mure Energies, chauffagiste et spécialiste de la climatisation, est basé à Lyon ouest et intervient dans les locaux professionnels de la région lyonnaise.",
+      "image": {
+        "src": "https://www.mure-energies.fr/build/images/mure-energies-professionnels-456x334.884a4e38.jpg",
+        "alt": "Découvrez nos différentes prestations pour les professionnels de Lyon et ses alentours "
+      }
+    }
+  },
+  "hero": {
+    "title": "Mure Energies : nos services pour les professionnels",
+    "subtitle": "Installation et entretien des systèmes de chauffage et de climatisation pour les professionnels à Lyon"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.mure-energies.fr/build/images/mure-energies-professionnels-456x334.884a4e38.jpg",
+      "alt": "Découvrez nos différentes prestations pour les professionnels de Lyon et ses alentours "
+    },
+    "text": "<p>Mure Energies intervient chez les professionnels pour <b>toute prestation de chauffage et de climatisation</b>. Nos spécialistes mettent leurs compétences à votre service, pour l'installation de vos systèmes de chauffage, leur entretien et leur dépannage. Nous prenons également en charge les systèmes de refroidissement et de climatisation dans les locaux professionnels.</p><p>Vous souhaitez <a href=\"https://www.mure-energies.fr/installation/chaudiere\" title=\"Remplacement d'une chaudière\">remplacer une ancienne chaudière ?</a> Votre installation rencontre des problèmes et vous avez besoin d'un dépannage en urgence ? Vous aimeriez climatiser vos locaux ?</p><p>Mure Energies intervient dans les commerces, les bureaux et se tient à la disposition des syndics de copropriété pour <a href=\"https://www.mure-energies.fr/entretien\" title=\"Entretien du chauffage\">l'entretien des installations dans les immeubles</a>.<br>&nbsp;</p>"
+  },
+  "teasers": [
+    {
+      "title": "Les prestations de Mure Energies pour les commerces de la région lyonnaise",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Pour les syndics de copropriété et agences locatives de Lyon, Craponne, ...",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Chauffagiste pour les bâtiments publics et les bureaux dans la région de Lyon",
+      "text": "<p>Mure Energies installe, entretient et dépanne les <b>chaudières, systèmes de climatisation et pompes à chaleur</b> dans les immeubles de bureaux et bâtiments publics, comme les centres sociaux et les écoles. Nos techniciens qualifiés veillent à une température agréable, propice au bien-être et à un accueil serein.</p><p>Nous nous déplaçons à Lyon, Saint-Genis-les-Ollières, <a href=\"https://www.mure-energies.fr/chauffage-tassin-la-demi-lune\" title=\"Chauffage Tassin La Demi Lune\">Tassin-la-Demi-Lune</a>, <a href=\"https://www.mure-energies.fr/chauffage-villeurbanne\" title=\"Chauffage Villeurbanne\">Villeurbanne</a>, Meyzieu, Villefranche-sur-Saône, Tarare, Genas, <a href=\"https://www.mure-energies.fr/chauffage-givors\" title=\"Chauffage Givors\">Givors</a>, <a href=\"https://www.mure-energies.fr/chauffage-mions\" title=\"Chauffage Mions\">Mions</a>, L'Arbresle, Écully ou encore <a href=\"https://www.mure-energies.fr/chauffage-brignais\" title=\"Chauffage Brignais\">Brignais</a>.</p><p>En nous confiant l'entretien de vos installations de <b>chauffage ou de rafraîchissement</b>, vous n'avez à vous soucier de rien. Nous programmons chaque année une visite, de sorte que vos locaux sont en conformité avec la loi. Vous économisez de l'énergie, grâce à des équipements bien entretenus et bien réglés.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

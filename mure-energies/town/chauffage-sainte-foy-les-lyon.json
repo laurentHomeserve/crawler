@@ -1,0 +1,44 @@
+{
+  "breadcrumb": "Chauffage Sainte Foy Les Lyon",
+  "hero": {
+    "title": "Installation, entretien et dépannage de chauffages et climatisations",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/mure-energies-qui-sommes-nous-456x334.f303774e.jpg",
+      "alt": "Installation, entretien et dépannage de chauffages et climatisations"
+    },
+    "text": "<p>Depuis 1983, les équipes Mure Energies mettent leur savoir-faire au service de votre projet.</p> <p>Nos collaborateurs sont formés pour intervenir sur :</p> <ul>\n<li><a title=\"Equipement chaudière\" href=\"/equipements/chaudieres\">les chaudières</a></li>\n<li><a title=\"Equipement PAC\" href=\"/equipements/energie-renouvelable/pompe-a-chaleur\">les pompes à chaleur</a></li>\n<li><a title=\"Equipement chauffe-eau\" href=\"/equipements/chauffe-eau-gaz-chauffe-bain\">les chauffe-eaux</a></li>\n<li><a title=\"Equipement climatisation\" href=\"/equipements/climatisation\">les climatisations</a></li>\n<li><a title=\"Equipement chauffage au sol\" href=\"/equipements/plancher-chauffant\">les planchers chauffants</a></li>\n</ul> <p>Vous souhaitez faire installer, réparer ou entretenir un appareil ? Contactez-nous au 04 78 59 83 88 pour obtenir un devis gratuit et personnalisé en lien avec votre projet.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Où trouver Mure Energies à Sainte-Foy-lès-Lyon ?",
+      "text": "<p>En plus d'être disponible par téléphone et via <a title=\"Contact Mure Energies\" href=\"/nous-contacter\">notre formulaire de contact</a>, nos experts vous accueillent également dans <a title=\"Agence Mure Energies\" href=\"/qui-sommes-nous\">notre agence Mure Energies</a> située au <strong>41 Route de la Libération, 69110 Sainte-Foy-lès-Lyon</strong>.</p> <p>N'hésitez pas à venir nous rencontrer directement du lundi au vendredi de 8h à 12h et de 13h30 à 17h30 (sauf 16h le vendredi).</p> <hr>"
+    },
+    {
+      "title": "Envie d'une nouvelle chaudière à Sainte-Foy-lès-Lyon ?",
+      "text": "<p>Votre chaudière commence à vieillir et vous aimeriez la changer ? Nos experts prendront de le temps de réaliser un diagnostic de votre logement afin de vous conseiller le type d'appareil qui pourrait vous convenir.</p> <p>Une fois votre choix réalisé, nous fixons ensemble un rendez-vous pour réaliser l'<a title=\"Installation chaudière\" href=\"/installation/chaudiere\">installation de votre nouvelle chaudière</a>.</p> <p>Nos équipes sont également formées pour entretenir et dépanner les chaudières à bois, à fioul ou à gaz. Alors peu importe votre besoin, faite appel à Mure Energies.</p> <hr>"
+    },
+    {
+      "title": "Installation, dépannage et entretien de pompe à chaleur dans le Rhône",
+      "text": "<p>La pompe à chaleur est une solution économique et écologique qui permet à la fois de souffler de l'air chaud en hiver, et de l'air frais en été. On distingue deux types de PAC :</p> <ul>\n<li>La pompe à chaleur géothermique : elle pompe les calories présentes dans le sol ou dans l'eau pour les remonter vers le circuit de chauffage central</li>\n<li>La pompe à chaleur aérothermique : elle extrait les calories porteuses de chaleur de l'air environnant pour réchauffer le liquide frigorigène du circuit</li>\n</ul> <p>Les techniciens Mure Energies sont formés pour installer, entretenir et <a title=\"Dépannage pompe à chaleur\" href=\"/depannage/pompe-a-chaleur\">dépanner tous les types de PAC</a>.</p> <hr>"
+    },
+    {
+      "title": "Installation de plancher chauffant à Sainte-Foy-lès-Lyon",
+      "text": "<p>Vous êtes à la recherche d'un système de chauffage totalement caché à la vue ? Nous vous recommandons d'installer un plancher chauffant. En effet, grâce à ce type d'appareil, vous gagnez de l'espace dans votre intérieur en supprimant les radiateurs. Vous aurez ainsi plus de liberté pour agencer votre logement comme bon vous semble.</p> <p><a title=\"Installation plancher chauffant\" href=\"/installation/plancher-chauffant\">L'installation de chauffage au sol</a> est recommandée pour les logements neufs, mais peut aussi être envisagée lors de travaux de rénovation. Si vous êtes dans ce cas, contactez-nous au plus vite pour que nous puissions vous accompagner dans le choix des travaux à réaliser.</p> <hr>"
+    },
+    {
+      "title": "Profiter de sa climatisation en toute sérénité dans le 69",
+      "text": "<p>La climatisation est un équipement indispensable en été pour faire face aux grandes chaleurs. Elle peut devenir une véritable nécessité pour les personnes fragiles (enfants en bas âge, personnes âgées...) ou souffrantes de problèmes respiratoires tels que les allergies ou l'asthme.</p> <p>C'est pourquoi les techniciens Mure Energies interviennent chez vous, à Sainte-Foy-lès-Lyon et ses alentours, pour procéder à l'installation, l'entretien mais aussi <a title=\"Dépannage climatisation\" href=\"/depannage/climatisation\">le dépannage de votre climatisation</a>.</p> <hr>"
+    },
+    {
+      "title": "Chauffe-eau et chauffe-bain à Sainte-Foy-lès-Lyon",
+      "text": "<p>En plus de 35 ans d'existence, les équipes Mure Energies ont pris le temps de se former afin de vous proposer les meilleurs services d'entretien et de <a title=\"Réparation chauffe-eau\" href=\"/depannage/chauffe-eau\">dépannage de chauffe-eaux</a>.</p> <p>Vous avez un projet d'installation d'un équipement pour chauffer votre eau sanitaire ? Contactez-nous au 04 78 59 83 88. Nous prendrons le temps de découvrir vos envies afin de vous proposer la marque et le type d'appareil qui vous correspondra le mieux. Nos équipes restent disponibles pour répondre à chacune de vos questions.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  }
+}

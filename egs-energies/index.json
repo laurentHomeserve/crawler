@@ -1,0 +1,153 @@
+{
+  "breadcrumb": "",
+  "seo": {
+    "title": "EXPERT chauffagiste Nice et Alpes-Maritimes | EGS Energies",
+    "description": "Artisan chauffagiste à Nice et dans les Alpes-Maritimes nous installons, entretenons et dépannons vos solutions de chauffage et climatisation",
+    "opengraph": {
+      "site_name": "EGS Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "EXPERT chauffagiste Nice et Alpes-Maritimes | EGS Energies",
+      "description": "Artisan chauffagiste à Nice et dans les Alpes-Maritimes nous installons, entretenons et dépannons vos solutions de chauffage et climatisation",
+      "image": {
+        "src": "https://www.egs-energies.fr/asset/img/organisation/corporate/egs/chauffagiste-egs-energies.jpg",
+        "alt": ""
+      }
+    }
+  },
+  "hero": {
+    "title": "Votre expert chauffagiste depuis 60 ans dans les Alpes-Maritimes",
+    "subtitle": "Notre métier : entretenir, installer et dépanner vos solutions de chauffages et climatisations à Nice, Antibes, Cannes, Grasse, ..."
+  },
+  "expertises": [
+    {
+      "linked": "/installation",
+      "sticker": "",
+      "title": "Installation et Remplacementde votre installation de chauffageet climatisation",
+      "img": {
+        "src": "",
+        "alt": ""
+      },
+      "content": "Votre souhaitez remplacer votre installation ? Chaudière, chauffe-eau, pompe à chaleur ou climatisation, nous sommes là pour vous conseiller dans vos choix.",
+      "button": {
+        "text": "Obtenir un devis gratuit",
+        "title": "Devis gratuit équipement de chauffage"
+      }
+    },
+    {
+      "linked": "/entretien",
+      "sticker": "",
+      "title": "Entretien et Maintenancede vos appareils de chauffageet climatisation",
+      "img": {
+        "src": "",
+        "alt": ""
+      },
+      "content": "L'entretien de vos appareils vous garantit la sécurité de votre installation et des économies d'énergie. Forfaitaire ou sous contrat, nous proposons des formules adaptées à vos besoins.",
+      "button": {
+        "text": "Entretenir un équipement",
+        "title": "Entretien équipement de chauffage"
+      }
+    },
+    {
+      "linked": "/depannage",
+      "sticker": "",
+      "title": "Dépannage et Réparationde vos équipements de chauffageet climatisation",
+      "img": {
+        "src": "",
+        "alt": ""
+      },
+      "content": "Votre appareil est en panne ? Nous dépannons et réparons votre chauffage ou votre climatisation à Saint-Laurent-du-Var, Nice et dans toutes les Alpes-Maritimes.",
+      "button": {
+        "text": "Être dépanné rapidement",
+        "title": "Dépannage équipement de chauffage"
+      }
+    }
+  ],
+  "certification": {
+    "title": "Professionnel RGE, nous disposons des certifications nécessaires pour intervenir sur vos équipements",
+    "content": "Choisir un professionnel certifié est essentiel. C'est un gage d'expertise et de confiance. EGS Energies est reconnu garant de l'environnement (RGE), QualiBat, QualiPAC, QualiPV, Professionnel du Gaz, QualiSAV et Synasav. Nous sommes également partenaires de GRDF. Chacune de nos interventions respecte les normes en vigueur et vous êtes ainsi éligibles aux aides financières publiques. Nous nous appuyons sur nos presque soixante-dix années d'expérience dans les Alpes-Maritimes pour vous délivrer un service de qualité, à chaque intervention, dans les plus brefs délais. <a href=\"/qui-sommes-nous/certifications-et-marques\" title=\"Certifications EGS Energies (ex Electrogaz)\">En savoir plus sur nos certifications: RGE, QualiSAV, QualiPAC, partenaire GRDF,  ...</a>",
+    "logos": [
+      {
+        "src": "/build/images/professionnel-du-gaz.a8248034.png",
+        "alt": "Professionnel du gaz"
+      },
+      {
+        "src": "/build/images/qualisav.c816449b.jpg",
+        "alt": "Qualisav"
+      },
+      {
+        "src": "/build/images/qualibat-rge.5c690eba.jpg",
+        "alt": "Qualibat RGE"
+      },
+      {
+        "src": "/build/images/synasav.35e5f7f3.jpg",
+        "alt": "Synasav"
+      },
+      {
+        "src": "/build/images/GRDF.2a75975c.jpg",
+        "alt": "GRDF"
+      }
+    ]
+  },
+  "partner": {
+    "title": "Nos partenaires fabricants d'équipements de chauffage, climatisation et production d'eau chaude",
+    "content": "Les techniciens d'EGS Energies sont formés aux dernières avancées technologiques et sont en capacité d'intervenir sur tout type de matériel et sur toutes les marques. Nous avons noué des liens étroits avec les marques référentes en matière de chauffage et de climatisation : Atlantic, Mitsubishi Electric, elm.leblanc, Frisquet, Chaffoteaux, Saunier Duval, mylight150, DualSun, De Dietrich, Viessmann, etc. Nous pouvons ainsi vous proposer un large choix de matériel, en fonction de vos contraintes, avec des offres compétitives.",
+    "logos": [
+      {
+        "src": "/build/images/chaffoteaux.6093bb5b.jpg",
+        "alt": "Chaffoteaux"
+      },
+      {
+        "src": "/build/images/chappee.e0d2d709.jpg",
+        "alt": "Chappee"
+      },
+      {
+        "src": "/build/images/elm-leblanc.ca5885b2.jpg",
+        "alt": "ELM LeBlanc"
+      },
+      {
+        "src": "/build/images/riello.2f0e155d.png",
+        "alt": "Riello"
+      },
+      {
+        "src": "/build/images/saunier-duval.da98463a.jpg",
+        "alt": "Saunier Duval"
+      },
+      {
+        "src": "/build/images/viessmann.bcbacc9a.png",
+        "alt": "Viessmann"
+      },
+      {
+        "src": "/build/images/auer.6a1ccc42.jpg",
+        "alt": "Auer"
+      },
+      {
+        "src": "/build/images/frisquet.761666dc.jpg",
+        "alt": "Frisquet"
+      },
+      {
+        "src": "/build/images/ferroli.97491259.png",
+        "alt": "Ferroli"
+      },
+      {
+        "src": "/build/images/de-dietrich.83341f62.jpg",
+        "alt": "De Dietrich"
+      }
+    ]
+  },
+  "map": {
+    "title": "Nos équipes interviennent dans toutes les Alpes-Maritimes et ses alentours",
+    "content": "<p>Implantés à <a href=\"https://www.egs-energies.fr/chauffage-saint-laurent-du-var\" title=\"Chauffage Saint Laurent Du Var\">Saint-Laurent-du-Var</a>, <a href=\"https://www.egs-energies.fr/chauffage-nice\" title=\"Chauffage Nice\">Nice</a>, <a href=\"https://www.egs-energies.fr/chauffage-vallauris\" title=\"Chauffage Vallauris\">Vallauris</a> et <a href=\"https://www.egs-energies.fr/chauffage-menton\" title=\"Chauffage Menton\">Menton</a>, nos techniciens experts EGS Energies interviennent dans tout le département des Alpes-Maritimes. Nos agences nous permettent de couvrir tout le territoire et d'être réactifs pour vous assurer une intervention rapide. Nous nous déplaçons à Saint-Laurent-du-Var, Nice, <a href=\"https://www.egs-energies.fr/chauffage-antibes\" title=\"Chauffage Antibes\">Antibes</a>, <a href=\"https://www.egs-energies.fr/chauffage-cannes\" title=\"Chauffage Cannes\">Cannes</a>, <a href=\"https://www.egs-energies.fr/chauffage-grasse\" title=\"Chauffage Grasse\">Grasse</a>, <a href=\"https://www.egs-energies.fr/chauffage-cagnes-sur-mer\" title=\"Chauffage Cagnes Sur Mer\">Cagnes-sur-Mer</a>, <a href=\"https://www.egs-energies.fr/chauffage-le-cannet\" title=\"Chauffage Le Cannet\">Le Cannet</a>, Saint-Laurent-du-Var, Menton, Vallauris, Mandelieu-la-Napoule, Vence, Mougins, Villeneuve-Loubet, Beausoleil, Valbonne, Roquebrune-Cap-Martin, ... <a href=\"/qui-sommes-nous/zones-intervention\" title=\"Zone d'intervention d'EGS Energies (anciennement Electrogaz)\">Nos techniciens interviennent dans toutes les Alpes-Maritimes, cliquez ici pour découvrir nos zones d'intervention</a></p><br>",
+    "map": {
+      "lat": null,
+      "lng": null,
+      "zoom": 10,
+      "title": "EGS Energies - Nice",
+      "content": "<h3 style=\"font-size:1.1em\">EGS Energies - Nice</h3><p>15 Rue Bavastro<br/>06300 Nice</p><p>Adresse email : sav@egs-energies.fr</p><p>Téléphone : 04 92 00 00 10</p>"
+    }
+  },
+  "presentation": {
+    "title": "Chauffagiste depuis plus de 60 ans dans les Alpes-Maritimes",
+    "content": "<p>EGS Energies, c'est une histoire riche et forte depuis 1958. Elle est faite des femmes et des hommes qui ont bâti notre savoir-faire sur plusieurs décennies, qui ont rejoint au fur et à mesure notre entreprise et l'ont fait grandir.</p> <p>EGS Energies, c'est aussi le regroupement de quatre chauffagistes reconnus de la région : Electrogaz <a href=\"https://www.egs-energies.fr/chauffage-nice\" title=\"Chauffage Nice\">Nice</a>, AD Services Gaz <a href=\"https://www.egs-energies.fr/chauffage-vallauris\" title=\"Chauffage Vallauris\">Vallauris</a>, Depan'Gaz <a href=\"https://www.egs-energies.fr/chauffage-menton\" title=\"Chauffage Menton\">Menton</a> et Descamps Vence. Si vous avez connu l'une de ces quatre marques, alors vous connaissez déjà EGS Energies. Même si notre nom a évolué vers cette marque commune, nos engagements restent inchangés : vous fournir des équipements et des services de qualité dans les Alpes-Maritimes.</p> <p>EGS Energies, c'est donc votre chauffagiste, frigoriste et installateur solaire local, disponible et qualifié dans le 06. Ainsi, nos agences de <a href=\"https://www.egs-energies.fr/chauffage-saint-laurent-du-var\" title=\"Chauffage Saint Laurent Du Var\">Saint-Laurent-du-Var</a>, Nice, Vallauris et Menton sont à votre service toute l'année pour tous vos besoins en installation, entretien et dépannage :</p> <ul> <li>Chaudière gaz</li> <li>Chaudière fioul</li> <li>Pompe à chaleur</li> <li>Climatisation réversible</li> <li>Chauffe-eau électrique, gaz ou thermodynamique</li> <li>Panneaux solaires</li> </ul> <h3>Des contrats d'entretien pour vos appareils de chauffage et de climatisation</h3> <p>En plus des visites d'entretien forfaitaires, EGS Energies vous propose des contrats d'entretien pour vos équipements de chauffage et de climatisation. Un contrat d'entretien annuel vous permet de bénéficier d'une intervention rapide et programmé, de rappels pour votre planification ainsi que d'un suivi personnalisé dans la durée pour votre chaudière, votre pompe à chaleur, votre chauffe-eau ou votre climatisation.</p> <p>Selon la formule choisie, vous pouvez aussi bénéficier d'une intervention prioritaire en cas de panne totale de votre appareil et de dépannages illimités (hors pièces) avec déplacement et main d'œuvre inclus.</p> <p>Quelle que soit votre formule de contrat d'entretien, nos techniciens réalisent tous les contrôles et gestes pour assurer le bon fonctionnement te la sécurité de votre appareil. À l'issue de chaque visite, votre attestation d'entretien vous est remise, gage de conformité avec la législation en vigueur.</p> <h3>Le partenaire de votre rénovation énergétique autour de Saint-Laurent-du-Var, Nice, Menton</h3> <p>EGS Energies (anciennement Electrogaz) est également votre partenaire pour vos travaux de rénovation énergétique. Nos qualifications RGE et notre accompagnement administratifs vous permettent de bénéficier des aides de l'Etat (MaPrimeRénov', CEE, Eco-PTZ, etc.) sans tracas. Pour tous travaux de changement de système de chauffage et d'amélioration de votre habitat, EGS Energies est votre interlocuteur privilégié dans les Alpes-Maritimes. En tant qu'entreprise de proximité, nos équipes sont à votre disposition pour vous accompagner en fonction des spécificités de notre climat et du bâti dans les Alpes-Maritimes.</p>"
+  }
+}

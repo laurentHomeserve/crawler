@@ -1,0 +1,31 @@
+{
+  "name": "SBF Energies",
+  "description": "SBF Energies, frigoriste depuis 20 ans à Chambéry et dans toute la Savoie. Dépannage, entretien et installation de vos équipements de chauffage réversible (pompe à chaleur) et climatisation",
+  "map_url": "https://goo.gl/maps/NBFFJP76R5UscPke7",
+  "website_url": "https://www.sbf-energies.com",
+  "phone": "(33 4)79621780",
+  "streetAddress": "401 rue des Champagnes",
+  "addressLocality": "La Motte Servolex, France",
+  "postalCode": "F-73290",
+  "addressCountry": "France",
+  "geo": {
+    "lat": "45.5903682",
+    "lng": "5.8863598"
+  },
+  "favicon": "https://www.sbf-energies.com/asset/SBF/favicon/favicon-32x32.png",
+  "logo": "https://www.sbf-energies.com/asset/img/organisation/logo/sbf/logo-sbf-energies.jpg",
+  "image": "https://www.sbf-energies.com/asset/img/organisation/corporate/sbf/climatisation-sbf-energies.jpg",
+  "avis_verifies": "",
+  "piwik_token": "d8a4d9e3-84f4-45d9-8581-0d733970f5f8",
+  "opening_hours": [
+    "Mo, Tu, We, Th 08:00-18:00",
+    "Fr 08:00-17:00"
+  ],
+  "footer_links": [],
+  "socials": [],
+  "sameAs": [
+    "https://www.pagesjaunes.fr/pros/08884643",
+    "https://www.societe.com/societe/sylvain-brun-froid-452942378.html",
+    "https://www.facebook.com/sbf73000/"
+  ]
+}

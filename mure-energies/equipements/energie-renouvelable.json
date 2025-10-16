@@ -1,0 +1,46 @@
+{
+  "breadcrumb": "Energie renouvelable",
+  "seo": {
+    "title": "Mure Energies : votre expert en énergies renouvelables de l'ouest Lyonnais",
+    "description": "Choisissez les énergies renouvelables en faisant poser votre pompe à chaleur ou chauffe-eau thermodynamique par Mure Energies, votre expert chauffagiste à Lyon",
+    "opengraph": {
+      "site_name": "Mure Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Mure Energies : votre expert en énergies renouvelables de l'ouest Lyonnais",
+      "description": "Choisissez les énergies renouvelables en faisant poser votre pompe à chaleur ou chauffe-eau thermodynamique par Mure Energies, votre expert chauffagiste à Lyon",
+      "image": {
+        "src": "https://www.mure-energies.fr/build/images/mure-energies-equipements-energie-renouvelable-456x334.58e9f131.jpg",
+        "alt": "Nos solutions énergétiques performantes et écologiques à Lyon"
+      }
+    }
+  },
+  "hero": {
+    "title": "Mure Energies, votre chauffagiste expert des solutions énergétiques performantes et écologiques en région Lyonnaise",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.mure-energies.fr/build/images/mure-energies-equipements-energie-renouvelable-456x334.58e9f131.jpg",
+      "alt": "Nos solutions énergétiques performantes et écologiques à Lyon"
+    },
+    "text": "<p>Vous envisagez l'installation d'une pompe à chaleur aérodynamique ou d'un chauffe-eau thermodynamique performant et peu énergivore ? Le savoir-faire Mure Energies est à votre disposition.</p> <p>Implantée au cœur de l'ouest lyonnais, notre société de génie climatique répond à toute problématique de chauffage et de climatisation en tenant compte des contraintes techniques et des normes de sécurité. Nos techniciens vous offrent une expertise professionnelle, de la réalisation de l'étude préalable au service après-vente. Un simple coup de fil et nous intervenons dans tout l'Ouest lyonnais (et notamment dans les villes de Saint-Genis-les-Ollières, <a href=\"https://www.mure-energies.fr/chauffage-craponne\" title=\"Chauffage Craponne\">Craponne</a>, Charbonnières, <a href=\"https://www.mure-energies.fr/chauffage-dardilly\" title=\"Chauffage Dardilly\">Dardilly</a>, <a href=\"https://www.mure-energies.fr/chauffage-tassin-la-demi-lune\" title=\"Chauffage Tassin La Demi Lune\">Tassin-la-Demi-Lune</a>, <a href=\"https://www.mure-energies.fr/chauffage-chaponost\" title=\"Chauffage Chaponost\">Chaponost</a>, <a href=\"https://www.mure-energies.fr/chauffage-brignais\" title=\"Chauffage Brignais\">Brignais</a>, <a href=\"https://www.mure-energies.fr/chauffage-oullins\" title=\"Chauffage Oullins\">Oullins</a> ou encore <a href=\"https://www.mure-energies.fr/chauffage-ecully\" title=\"Chauffage Ecully\">Ecully</a>, etc...).</p> <p>Entre écologie et économie, définissons ensemble les priorités !</p>"
+  },
+  "contents": [
+    {
+      "title": "Pompes à chaleur air/eau pour un chauffage central économique",
+      "text": "<p><a href=\"https://www.mure-energies.fr/installation/pompe-a-chaleur\" title=\"Installation PAC (Pompe à Chaleur) dans la région Lyonnaise\">Mure Energies assure l'installation</a>, le dépannage et l'entretien des pompes à chaleur air/eau.</p> <a href=\"https://www.mure-energies.fr/installation/pompe-a-chaleur\" title=\"Installation PAC (Pompe à Chaleur) dans la région Lyonnaise\">Mure Energies assure l'installation</a> <p>La PAC air/eau capte les calories de l'air ambiant, les traite et utilise l'eau pour le transport de la chaleur à travers les différentes pièces de l'habitation.</p> <p>Dans le cadre de l'installation d'une PAC air/eau, certaines aides sont possibles. Parlez-en à votre technicien : il vous indiquera si vous êtes éligible à MaPrimeRenov', à l'éco-prime ou aux aides de l'Anah. Donnez de la plus-value à votre patrimoine en améliorant votre confort énergétique !</p> <p>Professionnels du gaz, certifiés RGE Qualibat et QualiPAC, nos techniciens disposent du savoir-faire nécessaire à la manipulation du fluide frigorigène et à la réalisation des réglages essentiels aux économies.</p> <p><i></i> <a href=\"https://www.mure-energies.fr/equipements/energie-renouvelable/pompe-a-chaleur\" title=\"En savoir plus sur les pompes à chaleur - PAC\">En savoir plus sur les pompes à chaleur air/eau (PAC air/eau)</a></p> <i></i> <a href=\"https://www.mure-energies.fr/equipements/energie-renouvelable/pompe-a-chaleur\" title=\"En savoir plus sur les pompes à chaleur - PAC\">En savoir plus sur les pompes à chaleur air/eau (PAC air/eau)</a>"
+    }
+  ],
+  "related": {
+    "title": "Chauffe-eau thermodynamique : la production d'eau chaude sanitaire écologique",
+    "links": [
+      {
+        "text": "En savoir plus sur les chauffe-eaux thermodynamiques",
+        "href": "https://www.mure-energies.fr/equipements/energie-renouvelable/chauffe-eau-thermodynamique",
+        "title": "En savoir plus sur les chauffe-eaux thermodynamiques "
+      }
+    ]
+  },
+  "url": "https://www.mure-energies.fr/equipements/energie-renouvelable"
+}

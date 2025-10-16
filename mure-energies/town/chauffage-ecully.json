@@ -1,0 +1,40 @@
+{
+  "breadcrumb": "Chauffage Ecully",
+  "hero": {
+    "title": "Mure Energies intervient à Ecully pour votre système de chauffage",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/mure-energies-qui-sommes-nous-456x334.f303774e.jpg",
+      "alt": "Mure Energies intervient à Ecully pour votre système de chauffage"
+    },
+    "text": "<p>Les équipes Mure Energies interviennent à Ecully et dans l'Ouest Lyonnais pour installer, réparer et entretenir vos différents appareils de chauffage et de climatisations.</p> <p>Nos équipes sont formées pour intervenir sur :</p> <ul>\n<li><a title=\"Equipement PAC\" href=\"/equipements/energie-renouvelable/pompe-a-chaleur\">les pompes à chaleur</a></li>\n<li><a title=\"Equipement climatisation\" href=\"/equipements/climatisation\">les climatisations</a></li>\n<li><a title=\"Equipement chaudière\" href=\"/equipements/chaudieres\">les chaudières</a></li>\n<li><a title=\"Equipement plancher chauffant\" href=\"/equipements/plancher-chauffant\">les planchers chauffants</a></li>\n<li><a title=\"Equipement chauffe-eau\" href=\"/equipements/chauffe-eau-gaz-chauffe-bain\">les chauffe-eaux</a></li>\n</ul> <p>Vous avez un projet de chauffage ou de climatisations ? Contactez-nous au 04 78 59 83 88 pour obtenir un devis gratuit et personnalisé.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Les experts de la pompe à chaleur à Ecully",
+      "text": "<p><a title=\"Installation PAC\" href=\"/installation/pompe-a-chaleur\">Installer une pompe à chaleur</a> est le meilleur choix à faire pour bénéficier d'un air frais en été et d'une source de chaleur en hiver. De plus en plus de personnes décident de se tourner vers ce type d'équipement à la fois écologique et économique. En effet, la PAC utilise des énergies renouvelables tels que l'eau, le sol ou l'air pour puiser son énergie et la redistribuer au sein de votre logement.</p> <p>Nos équipes sont qualifiées pour l'installation, l'entretien et le dépannage des différents types de pompe à chaleur (géothermie et aérothermie).</p> <hr>"
+    },
+    {
+      "title": "Installer un plancher chauffant dans le Rhône",
+      "text": "<p>Le chauffage au sol possède de nombreux avantages dans les logements neufs, mais peut aussi être envisagé lors de travaux de rénovation énergétique. En effet, <a title=\"Installation chauffage au sol\" href=\"/installation/plancher-chauffant\">installer un plancher chauffant</a> permet de libérer de l'espace au mur en supprimant les radiateurs. Vous êtes ainsi plus libre d'aménager votre intérieur de la façon qui vous conviendra la mieux.</p> <p>L'eau chaude des planchers chauffants est alimentée par l'unité centrale d'une pompe à chaleur air/eau ou eau/eau. De plus, le réseau est généralement basse température (limité à 28°) ce qui en fait un équipement écologique et économique.</p> <hr>"
+    },
+    {
+      "title": "Profiter de sa chaudière en toute sérénité à Ecully",
+      "text": "<p>La chaudière est un équipement très apprécié pour chauffer son logement. Que ce soit dans sa version fonctionnant au fioul, au gaz ou au bois, les techniciens Mure Energies interviennent chez vous pour <a title=\"Installation chaudière\" href=\"/installation/chaudiere\">installer la chaudière de votre choix</a>.</p> <p>Nos équipes interviennent également pour réaliser l'entretien de votre appareil actuel. En effet, en souscrivant à l'un de nos contrats de maintenance, vous bénéficiez d'une visite de révision de votre chaudière, réalisée par un de nos techniciens chaque année.</p> <hr>"
+    },
+    {
+      "title": "Faire le choix d'une climatisation dans le 69",
+      "text": "<p>À Ecully aussi, les grandes chaleurs estivales peuvent rapidement devenir insupportables. C'est pourquoi les équipes de Mure Energies vous recommande de ne pas attendre plus longtemps et d'<a title=\"Installation climatisation\" href=\"/installation/climatisation\">installer dès maintenant une climatisation</a> à votre domicile.</p> <p>Les nouveaux modèles de climatisation sont en effet beaucoup plus performants et silencieux. Ils sont également réversibles et peuvent ainsi se substituer à votre moyen de chauffage en hiver.&nbsp;</p> <hr>"
+    },
+    {
+      "title": "Des chauffe-eaux à Ecully et ses alentours",
+      "text": "<p>Vous avez un projet d'installation de chauffe-eau dans l'Ouest Lyonnais ? Nos collaborateurs prennent le temps de découvrir vos besoins afin de mieux connaître vos envies et de vous proposer la solution la plus adaptée à votre situation.</p> <p>Et pour vous accompagner jusqu'au bout du processus, nous vous proposons également nos services pour l'entretien et <a title=\"Dépannage chauffe-eau\" href=\"/depannage/chauffe-eau\">le dépannage de votre chauffe-eau</a>. En effet, notre objectif est de devenir votre interlocuteur pour chacun de vos projets.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  }
+}

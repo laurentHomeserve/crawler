@@ -1,0 +1,48 @@
+{
+  "breadcrumb": "Climatisation",
+  "seo": {
+    "title": "La Climatisation en Seine-et-Marne (77) | Aujard",
+    "description": "Vous vous intéressez à la climatisation ? Depuis plus de 20 ans, Aujard est à votre disposition et vous guide dans le choix de votre installation de chauffage.",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "La Climatisation en Seine-et-Marne (77) | Aujard",
+      "description": "Vous vous intéressez à la climatisation ? Depuis plus de 20 ans, Aujard est à votre disposition et vous guide dans le choix de votre installation de chauffage.",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-clim-456x334.2e6830be.jpg",
+        "alt": "les différentes climatisations - Aujard"
+      }
+    }
+  },
+  "hero": {
+    "title": "Climatisation et systèmes réversibles en Seine-et-Marne",
+    "subtitle": "Faîtes appel aux experts Aujard pour le choix de votre climatisation"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.aujard.fr/build/images/aujard-clim-456x334.2e6830be.jpg",
+      "alt": "les différentes climatisations - Aujard"
+    },
+    "text": "<p>C'est toujours un plaisir de pouvoir profiter d'un peu de fraîcheur à la belle saison. Les systèmes de climatisation connaissent un succès croissant. Chez Aujard, nous vous proposons l'installation et la maintenance de vos climatisations et climatisations réversibles.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Les systèmes de climatisation",
+      "text": "<p><b>Les climatiseurs</b> produisent de la fraîcheur dans une ou plusieurs pièces de votre logement, comme vous le souhaitez. L'installation doit être adaptée pour répondre à vos besoins. Certaines personnes ne souhaitent une climatisation que dans les chambres à coucher, pour un sommeil plus agréable et plus réparateur, même durant les grosses chaleurs. D'autres veulent profiter de la fraîcheur partout dans leur maison ou leur appartement.</p> <p>Il existe différents systèmes de climatisation que nos spécialistes Aujard se feront un plaisir de vous présenter. Nous travaillons avec les meilleures marques de climatiseurs et cherchons toujours à vous satisfaire au mieux. Nous nous déplaçons chez vous pour pouvoir vous proposer des solutions adaptées. Choisissez entre une climatisation monobloc, des splits ou encore une climatisation à cassettes, intégrée dans les plafonds.</p> <hr>"
+    },
+    {
+      "title": "Les climatisations réversibles",
+      "text": "<p>Il existe aujourd'hui un système particulièrement intéressant : ce sont <b>les climatiseurs réversibles</b>. Ils vous permettent de profiter de la <b>fraîcheur en été</b> et de disposer d'un <b>chauffage d'appoint aux intersaisons</b>. Dans les maisons et les appartements bien isolés, il est même possible de s'en servir comme chauffage en hiver. Pratiques et polyvalents, les systèmes de climatisation réversible peuvent se présenter comme de gros radiateurs muraux, mais aussi être dissimulés dans les plafonds.</p> <p>On utilise aujourd'hui le principe de la pompe à chaleur pour puiser l'énergie nécessaire à la production du froid ou du chaud dans l'atmosphère extérieure au logement. Les principales climatisations réversibles fonctionnent comme des pompes à chaleur air - air. Elles soufflent de l'air chaud ou froid dans le logement. Elles sont programmables et facilement pilotables par télécommande, ou même grâce à une application sur votre smartphone.</p> <p>Vous aimeriez connaître les avantages de ce type de système ? N'hésitez pas à contacter notre service client Aujard. Nous vous informerons sur les solutions adaptées et nous déplacerons chez vous pour étudier les contraintes du chantier.</p> <hr>"
+    },
+    {
+      "title": "Nos services liés à la climatisation",
+      "text": "<p><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <a href=\"https://www.aujard.fr/depannage/climatisation\" title=\"Réparateur de climatisation en Seine-et-Marne\">Dépannage de système de climatisation</a> <br><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <a href=\"https://www.aujard.fr/entretien/climatisation\" title=\"Entretien climatisation en Seine-et-Marne\">Contrat d'entretien pour la climatisation</a> <br><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <a href=\"https://www.aujard.fr/installation/climatisation\" title=\"Installateur de climatisation en Seine-et-Marne\">Installation et remplacement de climatisation</a></p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  },
+  "url": "https://www.aujard.fr/equipements/climatisation"
+}

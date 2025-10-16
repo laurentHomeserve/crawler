@@ -1,0 +1,30 @@
+{
+  "name": "GD Energies",
+  "description": "GD Energies, chauffagiste et frigoriste à Nîmes depuis 1975, est spécialiste du chauffage, de la climatisation et des solutions à énergies renouvelables dans à Nîmes",
+  "map_url": "https://maps.app.goo.gl/gsA2a1nqVvYUGUox6",
+  "website_url": "https://www.gd-energies.fr",
+  "phone": "(33 4)66272222",
+  "streetAddress": "215 rue Nicolas Appert",
+  "addressLocality": "Nîmes, France",
+  "postalCode": "F-30000",
+  "addressCountry": "France",
+  "geo": {
+    "lat": "43.837667",
+    "lng": "4.424520"
+  },
+  "favicon": "https://www.gd-energies.fr/asset/GDENERGIES/favicon/favicon-32x32.png",
+  "logo": "https://www.gd-energies.fr/asset/img/organisation/logo/gdenergies/logo-gd-energies.jpg",
+  "image": "https://www.gd-energies.fr/asset/img/organisation/corporate/gdenergies/chauffagiste-gd-energies.jpg",
+  "avis_verifies": "",
+  "piwik_token": "2389a517-70ee-47cd-a298-802a5a6852f3",
+  "opening_hours": [
+    "Mo, Tu, We, Th, Fr, Sa 08:00-18:00"
+  ],
+  "footer_links": [],
+  "socials": [],
+  "sameAs": [
+    "https://www.pagesjaunes.fr/pros/05209306",
+    "https://www.facebook.com/GDEnergies.nimes/",
+    "https://www.linkedin.com/company/gd-energies-nimes/"
+  ]
+}

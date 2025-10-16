@@ -1,0 +1,249 @@
+[
+  {
+    "link": {
+      "text": "équipements",
+      "href": "https://www.aujard.fr/equipements",
+      "title": ""
+    },
+    "categories": [
+      {
+        "title": "Chaudières Gaz, Fioul et Bois",
+        "link": {
+          "text": "Chaudières Gaz, Fioul et Bois",
+          "href": "https://www.aujard.fr/equipements/chaudieres",
+          "title": ""
+        },
+        "subLinks": [
+          {
+            "text": "Chaudière Gaz",
+            "href": "https://www.aujard.fr/equipements/chaudieres/chaudiere-gaz",
+            "title": ""
+          },
+          {
+            "text": "Chaudière Fioul",
+            "href": "https://www.aujard.fr/equipements/chaudieres/chaudiere-fioul",
+            "title": ""
+          },
+          {
+            "text": "Chaudière Bois",
+            "href": "https://www.aujard.fr/equipements/chaudieres/chaudiere-bois",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Solutions à énergies renouvelables",
+        "link": {
+          "text": "Solutions à énergies renouvelables",
+          "href": "https://www.aujard.fr/equipements/energie-renouvelable",
+          "title": ""
+        },
+        "subLinks": [
+          {
+            "text": "Poêle",
+            "href": "https://www.aujard.fr/equipements/energie-renouvelable/poele",
+            "title": ""
+          },
+          {
+            "text": "Pompe à Chaleur",
+            "href": "https://www.aujard.fr/equipements/energie-renouvelable/pompe-a-chaleur",
+            "title": ""
+          },
+          {
+            "text": "Chauffe-eau Thermodynamique",
+            "href": "https://www.aujard.fr/equipements/energie-renouvelable/chauffe-eau-thermodynamique",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "link": {
+          "text": "Climatisations",
+          "href": "https://www.aujard.fr/equipements/climatisation",
+          "title": ""
+        }
+      },
+      {
+        "title": "Adoucisseurs d'eau",
+        "link": {
+          "text": "Adoucisseurs d'eau",
+          "href": "https://www.aujard.fr/equipements/adoucisseur-eau",
+          "title": ""
+        }
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Dépannage",
+      "href": "https://www.aujard.fr/depannage",
+      "title": ""
+    },
+    "categories": [
+      {
+        "title": "Chaudières Gaz, Fioul et Bois",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Chaudière",
+            "href": "https://www.aujard.fr/depannage/chaudiere",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Solutions à énergies renouvelables",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Pompe à Chaleur",
+            "href": "https://www.aujard.fr/depannage/pompe-a-chaleur",
+            "title": ""
+          },
+          {
+            "text": "Dépanner votre Poêle",
+            "href": "https://www.aujard.fr/depannage/poele",
+            "title": ""
+          },
+          {
+            "text": "Dépanner votre Chauffe-eau",
+            "href": "https://www.aujard.fr/depannage/chauffe-eau-thermodynamique",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Dépanner votre Climatisation",
+            "href": "https://www.aujard.fr/depannage/climatisation",
+            "title": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Entretien",
+      "href": "https://www.aujard.fr/entretien",
+      "title": ""
+    },
+    "categories": [
+      {
+        "title": "Chaudières Gaz, Fioul et Bois",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Chaudière",
+            "href": "https://www.aujard.fr/entretien/chaudiere",
+            "title": ""
+          },
+          {
+            "text": "Nos contrats d'entretien Chaudière",
+            "href": "https://www.aujard.fr/mon-contrat-entretien",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Solutions à énergies renouvelables",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Pompe à Chaleur",
+            "href": "https://www.aujard.fr/entretien/pompe-a-chaleur",
+            "title": ""
+          },
+          {
+            "text": "Entretenir votre Poêle",
+            "href": "https://www.aujard.fr/entretien/poele",
+            "title": ""
+          },
+          {
+            "text": "Entretenir votre Chauffe-eau",
+            "href": "https://www.aujard.fr/entretien/chauffe-eau-thermodynamique",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Climatisation",
+            "href": "https://www.aujard.fr/entretien/climatisation",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Adoucisseurs d'eau",
+        "subLinks": [
+          {
+            "text": "Entretenir votre Adoucisseur d'eau",
+            "href": "https://www.aujard.fr/entretien/adoucisseur-eau",
+            "title": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link": {
+      "text": "Installation",
+      "href": "https://www.aujard.fr/installation",
+      "title": ""
+    },
+    "categories": [
+      {
+        "title": "Chaudières Gaz, Fioul et Bois",
+        "subLinks": [
+          {
+            "text": "Installer une Chaudière",
+            "href": "https://www.aujard.fr/installation/chaudiere",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Solutions à énergies renouvelables",
+        "subLinks": [
+          {
+            "text": "Installer une Pompe à Chaleur",
+            "href": "https://www.aujard.fr/installation/pompe-a-chaleur",
+            "title": ""
+          },
+          {
+            "text": "Installer un Poêle",
+            "href": "https://www.aujard.fr/installation/poele",
+            "title": ""
+          },
+          {
+            "text": "Installer un Chauffe-eau",
+            "href": "https://www.aujard.fr/installation/chauffe-eau-thermodynamique",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Climatisations",
+        "subLinks": [
+          {
+            "text": "Installer une Climatisation",
+            "href": "https://www.aujard.fr/installation/climatisation",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "title": "Adoucisseurs d'eau",
+        "subLinks": [
+          {
+            "text": "Installer un Adoucisseur d'eau",
+            "href": "https://www.aujard.fr/installation/adoucisseur-eau",
+            "title": ""
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "breadcrumb": "Plancher chauffant",
+  "seo": {
+    "title": "Installation d'un plancher chauffant à Grenoble : choisissez Roussin Energies",
+    "description": "Plombier chauffagiste dans la région grenobloise, Roussin Energies est spécialisé dans les énergies renouvelables et vous propose l'installation de planchers chauffants en combinaison avec une pompe à chaleur.",
+    "opengraph": {
+      "site_name": "Roussin Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Installation d'un plancher chauffant à Grenoble : choisissez Roussin Energies",
+      "description": "Plombier chauffagiste dans la région grenobloise, Roussin Energies est spécialisé dans les énergies renouvelables et vous propose l'installation de planchers chauffants en combinaison avec une pompe à chaleur.",
+      "image": {
+        "src": "https://www.roussin-energies.fr/build/images/roussin-energies-installation-plancher-chauffant-456x334.1cf2226c.jpg",
+        "alt": "installation de plancher chauffant"
+      }
+    }
+  },
+  "hero": {
+    "title": "Roussin Energies installe votre plancher chauffant à Grenoble et environs",
+    "subtitle": "Plombier chauffagiste depuis 1969, nous installons votre plancher chauffant à Seyssinet, Seyssins, Meylan, Fontaine, ..."
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.roussin-energies.fr/build/images/roussin-energies-installation-plancher-chauffant-456x334.1cf2226c.jpg",
+      "alt": "installation de plancher chauffant"
+    },
+    "text": "<p>Que vous fassiez construire votre maison ou que soyez en rénovation totale d'un logement ancien, l'<b>installation d'un plancher chauffant dans la région de <a href=\"https://www.roussin-energies.fr/chauffage-grenoble\" title=\"Chauffage Grenoble\">Grenoble</a></b> constitue une excellente solution de chauffage confortable.</p> <p>C'est un équipement de chauffage fonctionnant sur le principe du rayonnement, vous apporte du confort au quotidien tout en vous permettant d'économiser de l'espace dans vos pièces puisque vous n'avez pas besoin de faire poser des radiateurs muraux.</p> <p>Nos planchers chauffants peuvent être couplés aussi bien à une chaudière classique qu'à une pompe à chaleur.</p> <p>Roussin Energies vous dit tout ce que vous devez savoir avant de vous décider pour l'<b>installation d'un plancher chauffant</b>.</p>"
+  },
+  "contents": [
+    {
+      "title": "Comment fonctionne un plancher chauffant ?",
+      "text": "<p>Un plancher chauffant se compose de tuyaux installés dans le sol, généralement entre une dalle en béton recouverte d'une couche d'isolant et la chape. Certains planchers chauffants sont directement coulés dans la chape. Roussin Energies effectue l'installation de planchers chauffants à Grenoble, <a href=\"https://www.roussin-energies.fr/chauffage-fontaine\" title=\"Chauffage Fontaine\">Fontaine</a>, <a href=\"https://www.roussin-energies.fr/chauffage-seyssins\" title=\"Chauffage Seyssins\">Seyssins</a> et d'autres localités de la région. Nous concevons des solutions entièrement sur mesure, pour répondre idéalement à vos besoins. Nos techniciens chauffagistes se déplacent toujours sur le chantier afin de mieux comprendre votre besoin et vous proposer un devis gratuit en adéquation avec votre projet.</p> <a href=\"https://www.roussin-energies.fr/chauffage-fontaine\" title=\"Chauffage Fontaine\">Fontaine</a> <a href=\"https://www.roussin-energies.fr/chauffage-seyssins\" title=\"Chauffage Seyssins\">Seyssins</a> <p>Le plancher chauffant peut être installé dans toutes les pièces de la maison. Parmi ses avantages, il faut signaler une chaleur douce, très agréable. Le plancher chauffant fonctionne en circuit fermé, comme un réseau de radiateurs. Il peut être couplé à une pompe à chaleur air/eau ou eau/eau avec une unité intérieure, ou encore à une chaudière au fioul ou une chaudière gaz à condensation.</p>"
+    },
+    {
+      "title": "Les utilisations et avantages d'un plancher chauffant",
+      "text": "<p>Un plancher chauffant est un équipement qui distribue la chaleur produite par un système de chauffage dans les pièces d'un logement. Les planchers actuels ne présentent plus les défauts des premiers modèles, qui utilisaient une eau trop chaude. Aujourd'hui, l'<b>installation d'un plancher chauffant</b> se fait toujours selon le principe de la basse température. Vous ne risquez donc plus d'inconfort ou de sensation de jambes lourdes. Ce système de chauffage au sol est sain et la chaleur se répand par rayonnement. Vous n'avez aucune émission de poussière dans le logement.</p> <b>installation d'un plancher chauffant</b> <p>L'<b>installation d'un plancher chauffant dans la région grenobloise</b> présente de nombreux avantages. Ainsi, la chaleur dont vous disposez au quotidien est bien répartie, la température dans le logement est homogène. Vous ne risquez pas de changement brutal de température. Vous pouvez par ailleurs gagner de la place dans les pièces, puisque ce chauffage n'utilise pas d'espace. C'est enfin un mode de chauffage économe, qui ne dépasse pas 30 ° dans le réseau d'eau chaude et ainsi optimise le rendement du chauffage.</p> <b>installation d'un plancher chauffant dans la région grenobloise</b>"
+    }
+  ],
+  "related": {
+    "title": "Nos autres services pour votre plancher chauffant",
+    "links": [
+      {
+        "text": "Votre plancher chauffant ne fonctionne plus ?",
+        "href": "/depannage/plancher-chauffant",
+        "title": "Dépannage plancher chauffant"
+      },
+      {
+        "text": "Vous souhaitez entretenir votre plancher chauffant ?",
+        "href": "/entretien/plancher-chauffant",
+        "title": "Entretien plancher chauffant"
+      }
+    ]
+  },
+  "url": "https://www.roussin-energies.fr/installation/plancher-chauffant"
+}

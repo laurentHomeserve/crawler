@@ -1,0 +1,52 @@
+{
+  "breadcrumb": "Adoucisseur eau",
+  "seo": {
+    "title": "Entretien de l'adoucisseur d'eau dans la Seine-et-Marne (77)",
+    "description": "Depuis plus de 20 ans, Aujard intervient rapidement dans toute la Seine-et-Marne pour entretenir votre adoucisseur d'eau.",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Entretien de l'adoucisseur d'eau dans la Seine-et-Marne (77)",
+      "description": "Depuis plus de 20 ans, Aujard intervient rapidement dans toute la Seine-et-Marne pour entretenir votre adoucisseur d'eau.",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-adoucisseur-eau-456x334.21325059.jpg",
+        "alt": "Entretien adoucisseur d'eau Seine-et-Marne"
+      }
+    }
+  },
+  "hero": {
+    "title": "L'entretien d'un adoucisseur d'eau en Seine-et-Marne",
+    "subtitle": "Aujard, votre spécialiste du traitement de l'eau dans le 77"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.aujard.fr/build/images/aujard-adoucisseur-eau-456x334.21325059.jpg",
+      "alt": "Entretien adoucisseur d'eau Seine-et-Marne"
+    },
+    "text": "<p>Suivant votre lieu d'habitation, <b>votre eau courante</b> (qui dépend de la composition des sols) <b>peut-être plus ou moins calcaire</b>. Et, ce n'est un secret pour personne, le calcaire est l'ennemi numéro 1 des canalisations et des appareils électroménagers utilisant de l'eau chauffée avec une résistance comme les cafetières, les bouilloires, mais aussi les machines à laver la vaisselle ou le linge.</p> <p>Si l'utilisation d'eau calcaire (aussi appelée eau dure par comparaison avec l'eau douce) devient trop problématique, l'installation d'un adoucisseur d'eau peut être la meilleure des solutions, surtout s'il est régulièrement entretenu par nos experts de l'entretien des adoucisseurs d'eau en Seine-et-Marne !<br>&nbsp;</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Fonctionnement des adoucisseurs d'eau",
+      "text": "<p>Il existe <b>2 grands types d'appareils</b>. <b>L'adoucisseur à résine</b> utilise une résine capable de capter les ions de calcium et de magnésium de l'eau dure, en libérant en échange des ions de sodium pour équilibrer la composition de l'eau douce. Lorsque la résine est saturée (trop d'ions de calcium et de magnésium et plus d'ions de sodium), il faut la régénérer afin de la recharger. L'autre famille d'adoucisseurs est celle des <b>appareils au CO2</b> fonctionnant selon un principe simple : l'injection de CO2 dans l'eau dure va transformer le calcaire en molécules de bicarbonates, soluble dans l'eau. Cet appareil permet à l'eau douce de garder ses minéraux, sans devoir y ajouter du sodium : c'est le modèle le plus plébiscité par les personnes suivant un régime pauvre en sel.</p> <hr>"
+    },
+    {
+      "title": "L'entretien d'un adoucisseur à résine",
+      "text": "<p>Il est conseillé de faire <b>vérifier votre installation</b> par l'un de nos spécialistes Aujard dans l'entretien d'adoucisseurs d'eau en Seine-et-Marne <b>au moins une fois par an</b>. Lors de sa visite, celui-ci réalisera toute une série d'opérations sur votre système dont les principales sont :</p> <ul><li>alimenter la machine en sel et nettoyer le bac correspondant</li><li>remplacer la cartouche de préfiltre</li><li>tester la teneur en calcaire de l'eau d'abord en amont de l'installation puis en aval afin de pouvoir ajuster précisément les indices de dureté</li><li>vérifier que tous les paramètres sont bien réglés pour éviter une surconsommation de sel et/ou d'électricité</li><li>régénérer les billes de résine (suivant les modèles)</li><li>désinfecter l'ensemble de la tuyauterie de la machine afin d'éviter le développement d'agents pathogènes dans l'eau, en utilisant des produits spécifiques à base de chlore</li></ul> <hr>"
+    },
+    {
+      "title": "L'entretien d'un adoucisseur au CO2",
+      "text": "<p>Pour garantir un fonctionnement optimal de votre adoucisseur, il convient de <b>le faire réviser 1 fois par an au minimum</b>, afin de vérifier qu'il n'y a pas d'avaries dans le système. Durant cette visite, une mesure du pH de l'eau sera effectuée pour régler la libération du volume de gaz. Il y aura également une vérification du manomètre, qui contrôle la pression du CO2. Votre technicien pourra aussi changer la bonbonne de CO2 si vous ne l'avez pas déjà fait. Pensez à nous au moment de faire l'entretien de votre adoucisseur d'eau dans le 77 ! Nous prendrons soin de votre installation afin qu'elle vous satisfasse le plus longtemps possible.</p> <hr>"
+    },
+    {
+      "title": "Nos services liés au traitement de l'eau",
+      "text": "<p><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <a href=\"https://www.aujard.fr/installation/adoucisseur-eau\" title=\"Pose d'adoucisseur d'eau en Seine-et-Marne\">Installation et remplacement d'un adoucisseur d'eau</a></p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  },
+  "url": "https://www.aujard.fr/entretien/adoucisseur-eau"
+}

@@ -1,0 +1,43 @@
+{
+  "breadcrumb": "Zones intervention",
+  "seo": {
+    "title": "Notre zone d'intervention | Aujard",
+    "description": "Notre entreprise de chauffagistes intervient dans tout le département de la Seine-et-Marne et ses environs: Melun, Savigny-le-Temple, Provins, Fontainebleau, Nemours, Dammarie-les-Lys, Montereau-Fault-Yonne, etc.",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Notre zone d'intervention | Aujard",
+      "description": "Notre entreprise de chauffagistes intervient dans tout le département de la Seine-et-Marne et ses environs: Melun, Savigny-le-Temple, Provins, Fontainebleau, Nemours, Dammarie-les-Lys, Montereau-Fault-Yonne, etc.",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-zone-intervention-456x334.e7c91ed7.jpg",
+        "alt": "Zones d'intervention Aujard"
+      }
+    }
+  },
+  "hero": {
+    "title": "L'entreprise Aujard à vos côtés en Seine-et-Marne",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/aujard-zone-intervention-456x334.e7c91ed7.jpg",
+      "alt": "Zones d'intervention Aujard"
+    },
+    "text": "<p>Vous cherchez un professionnel pour installer, réparer ou entretenir vos appareils de chauffage en Seine-et-Marne ? Nos professionnels Aujard se déplacent dans tout le département pour porter assistance à ses clients. Et ce, même si votre équipement de chauffage ne vient pas de chez nous !</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Aujard, votre expert chauffage et équipements de bien-être",
+      "text": "<p>Notre entreprise Aujard est spécialiste de la chaleur naturelle et écologique. Avec près de trente ans d'expérience dans l'univers du chauffage, Aujard a constitué un réseau d'experts nous permettant d'intervenir au cœur de chaque projet de travaux.</p> <h3>Nos domaines d'expertise :</h3> <ul> <li>L'installation, l'entretien et la réparation de vos équipements de chauffage : en passant un contrat avec Aujard, vous avez la certitude de bénéficier des services de notre équipe professionnelle à chaque étape de la vie de votre matériel. Révision annuelle, diagnostic, dépannage, nous nous occupons de la santé de votre chaudière à gaz ou de votre poêle de masse !</li> <li>Travaux de plomberie, de chauffage : Vous prévoyez des travaux de rénovation ? L'installation d'une nouvelle tuyauterie, d'une pompe à chaleur ou d'une chaudière à condensation ? Vous rêvez de cuisiner tout l'été sur votre terrasse dans un four à bois ? Aujard vous accompagne dans votre projet, vous met en contact avec son réseau de professionnels, et réalise chez vous toutes les interventions essentielles au bon fonctionnement de votre nouvel équipement.</li> </ul> <hr>"
+    },
+    {
+      "title": "Nous faire intervenir à votre domicile",
+      "text": "<p>Vous rencontrez un problème de chauffage ? Vous démarrez des travaux ? Nos techniciens Aujard restent à votre disposition pour vous assister.</p> <ul> <li>Par téléphone : Contactez-nous au 01 64 23 67 93 pour joindre au plus vite un spécialiste</li> <li>Via notre site web : <a href=\"/nous-contacter\">Rendez-vous dans notre rubrique de contact</a> ! Vous y trouverez un formulaire par lequel vous pourrez nous adresser vos questions ou une demande de rendez-vous.</li> <li>Vous souhaitez nous rencontrer au préalable ? Nous vous accueillons du lundi au samedi dans notre <a href=\"/showroom\">showroom</a> de l'agence de Vulaines-sur-Seine.</li> </ul> <hr>"
+    },
+    {
+      "title": "Notre zone d'intervention en Seine-et-Marne",
+      "text": "<p>Située entre <a href=\"https://www.aujard.fr/chauffage-fontainebleau\" title=\"Chauffage Fontainebleau\">Fontainebleau</a>, <a href=\"https://www.aujard.fr/chauffage-nangis\" title=\"Chauffage Nangis\">Nangis</a> et <a href=\"https://www.aujard.fr/chauffage-melun\" title=\"Chauffage Melun\">Melun</a>, l'entreprise Aujard intervient dans tout le département de la Seine-et-Marne et plus particulièrement dans les villes de :</p> <ul> <li>Melun,</li> <li><a href=\"https://www.aujard.fr/chauffage-savigny-le-temple\" title=\"Chauffage Savigny Le Temple\">Savigny-le-Temple</a>,</li> <li>Provins,</li> <li>Fontainebleau,</li> <li><a href=\"https://www.aujard.fr/chauffage-nemours\" title=\"Chauffage Nemours\">Nemours</a>,</li> <li><a href=\"https://www.aujard.fr/chauffage-dammarie-les-lys\" title=\"Chauffage Dammarie Les Lys\">Dammarie-les-Lys</a>,</li> <li><a href=\"https://www.aujard.fr/chauffage-montereau-fault-yonne\" title=\"Chauffage Montereau Fault Yonne\">Montereau-Fault-Yonne</a>,</li> <li>Nangis,</li> <li>Châtelet-en-Brie,</li> <li><a href=\"https://www.aujard.fr/chauffage-avon\" title=\"Chauffage Avon\">Avon</a>,</li> <li><a href=\"https://www.aujard.fr/chauffage-pont-sur-yonne\" title=\"Chauffage Pont Sur Yonne\">Pont-sur-Yonne</a>, ...</li> </ul> <p id=\"map\" style=\"height:500px; margin-top:30px;\"></p> <p><br>&nbsp;</p> <p>Vous habitez dans une autre commune ou un département limitrophe ? Nous pouvons peut-être vous aider ! Contactez-nous afin que nous puissions examiner votre situation géographique. Le cas échéant, nous pourrons vous conseiller sur les professionnels susceptibles de vous aider.</p>"
+    }
+  ]
+}

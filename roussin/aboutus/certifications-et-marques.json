@@ -1,0 +1,47 @@
+{
+  "breadcrumb": "Certifications et marques",
+  "seo": {
+    "title": "Tout savoir sur les certifications de Roussin Energies",
+    "description": "Roussin Energies, un plombier-chauffagiste certifié RGE et titulaire de nombreuses certifications, garanties de son savoir-faire dans le domaine des équipements de chauffage et sanitaires.",
+    "opengraph": {
+      "site_name": "Roussin Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Tout savoir sur les certifications de Roussin Energies",
+      "description": "Roussin Energies, un plombier-chauffagiste certifié RGE et titulaire de nombreuses certifications, garanties de son savoir-faire dans le domaine des équipements de chauffage et sanitaires.",
+      "image": {
+        "src": "https://www.roussin-energies.fr/build/images/roussin-energies-marques-partenaires-456x334.88859f6b.jpg",
+        "alt": "Certifications de chauffagistes"
+      }
+    }
+  },
+  "hero": {
+    "title": "Certifications et Marques pour votre chauffage et climatisation",
+    "subtitle": "Nos certifications, gage de qualité et de sérieux - Nos marques, gage de durabilité et d'économie d'énergie"
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/roussin-energies-marques-partenaires-456x334.88859f6b.jpg",
+      "alt": "Certifications de chauffagistes"
+    },
+    "text": "<p>Non content de bénéficier d'une expérience longue de cinq décennies, puisque ses débuts en tant que chauffagiste dans la région grenobloise remontent à 1969, Roussin Energies est fort de ses nombreuses qualifications professionnelles, qui en font une référence dans le domaine du chauffage.</p> <p>QualiBat, QualiPac, Qualibois Air/Eau mais aussi des certifications CAPEB et Professionnel du gaz sont la garantie d'un savoir-faire de qualité dans le domaine des différentes installations de chauffage ; mais ce n'est pas tout puisque Roussin Energies est également RGE, c'est-à-dire Reconnu Garant de l'Environnement.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Roussin Energies est Reconnu Garant de l'Environnement",
+      "text": "<p>Si vous devez remplacer votre système de chauffage obsolète par un concept économe en énergie et respectueux de la nature, vous avez frappé à la bonne porte. En effet, Roussin Energies est qualifié RGE, c'est-à-dire qu'il s'agit d'un chauffagiste habilité à la rénovation et à l'installation d'équipements destinés à assurer la transition énergétique.</p> <p>Recourir aux services d'un artisan RGE pour remplacer votre baignoire par une douche à l'italienne moins gourmande en eau ou pour l'installation d'une chaudière fonctionnant au fioul, est non seulement une garantie d'expertise, mais vous permettra également d'accéder aux aides financières offertes par l'Etat dans ce contexte. Pour les obtenir, la qualification RGE de l'artisan réalisant les travaux est une condition incontournable.</p> <hr>"
+    },
+    {
+      "title": "La Mention PAC Hybride",
+      "text": "<p>Décernée par l'Association PG - Professionnel du Gaz, cette mention atteste de notre savoir-faire et de notre expertise en matière d'installation et d'entretien de pompes à chaleur.</p> <hr>"
+    },
+    {
+      "title": "Les certifications QualiPac, QualiBois Air/Eau, QualiBat de Roussin Energies",
+      "text": "<p>Vous cherchez un chauffagiste compétent dans la région de <a href=\"https://www.roussin-energies.fr/chauffage-grenoble\" title=\"Chauffage Grenoble\">Grenoble</a> ? Roussin Energies possède toutes les qualifications nécessaires pour prouver son expertise dans l'installation, le dépannage et l'entretien :</p> <ul> <li>de chauffages au bois comme les poêles, les inserts et les cheminées (QualiBois Air/Eau)</li> <li>de pompes à chaleur air/air, air/eau, eau/air (QualiPac)</li> <li>de systèmes visant l'amélioration énergétique en général (QualiBat).</li> </ul> <p>En ce qui concerne les systèmes de climatisation, Roussin Energies est titulaire de l'attestation CAPEB, relative à la manipulation des fluides frigorigènes.</p> <hr>"
+    },
+    {
+      "title": "Les certifications de Roussin Energies pour l'installation et l'entretien des équipements au gaz",
+      "text": "<p>Roussin Energies est également un artisan chauffagiste qualifié pour l'installation, l'entretien et le dépannage des équipements au gaz (chauffe-eau et chaudières). En sont pour preuve la qualification de Professionnel du Gaz aussi bien que le partenariat GRDF de Roussin Energies, qui l'habilitent non seulement à installer des systèmes fonctionnant au gaz, mais aussi à jouer un rôle de conseiller pour tous les particuliers qui souhaitent relier leurs équipements au gaz de ville. Vous songez à investir dans une chaudière au gaz à basse température pour optimiser votre système de chauffage ?</p> <p>N'hésitez pas à poser toutes les questions qui vous viennent à l'esprit aux techniciens de Roussin Energies : ils sauront vous renseigner et vous conseiller.</p> <p><i></i> <a href=\"/nous-contacter\">Un conseil, une installation, un entretien, un dépannage ? Cliquez ici pour nous contacter !</a></p>"
+    }
+  ]
+}

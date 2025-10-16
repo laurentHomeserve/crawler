@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Recrutement",
+  "seo": {
+    "title": "Nous recrutons, participez à la vie de notre entreprise | Mure Energies",
+    "description": "Mure Energies recrute en CDI tout au long de l'année. Découvrez tous nos postes à pourvoir et rejoignez-nous !",
+    "opengraph": {
+      "site_name": "Mure Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Nous recrutons, participez à la vie de notre entreprise | Mure Energies",
+      "description": "Mure Energies recrute en CDI tout au long de l'année. Découvrez tous nos postes à pourvoir et rejoignez-nous !",
+      "image": {
+        "src": "https://www.mure-energies.fr/build/images/mure-energies-qui-sommes-nous-recrutement-456x334.bac5ee1b.jpg",
+        "alt": "Nous recrutons des techniciens chauffagiste en CDI sur Lyon"
+      }
+    }
+  },
+  "hero": {
+    "title": "Mure Energies : rejoignez une entreprise dynamique !",
+    "subtitle": "Notre entreprise en chauffage et climatisation recrute"
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/mure-energies-qui-sommes-nous-recrutement-456x334.bac5ee1b.jpg",
+      "alt": "Nous recrutons des techniciens chauffagiste en CDI sur Lyon"
+    },
+    "text": "<p>Vous êtes à la recherche d'un emploi stable ? Vous placez la satisfaction du client et le travail bien fait au coeur de vos préoccupations ? Dans ce cas, notre entreprise est faite pour vous !</p> <p>Mure Energies est un acteur reconnu pour son savoir-faire et la qualité de ses prestations proposées autour de <a href=\"https://www.mure-energies.fr/chauffage-lyon\" title=\"Chauffage Lyon\">Lyon</a>, c'est pour cela que nous sommes sans cesse en quête de nouveaux talents.</p> <p>Afin de répondre à une forte demande et offrir un service à haute valeur ajoutée à nos clients professionnels comme particuliers, nous tenons à développer l'expertise de nos collaborateurs. Ces derniers sont régulièrement formés aux dernières technologies et enjeux environnementaux. Notre équipe est notre force : spécialisée dans les chaudières gaz et fioul comme dans les climatisations et les pompes à chaleur, elle est également à l'écoute de nos clients pour leur venir en aide et leur délivrer de précieux conseils afin d'optimiser leurs consommations.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Ce que nous vous proposons",
+      "text": "<p>Mure Energies est une entreprise à taille humaine qui vous permet de conserver votre autonomie tout en profitant de la force du <a href=\"https://www.homeserve.fr/\" title=\"HomeServe\" target=\"_blank\" rel=\"noopener noreferrer\">groupe HomeServe</a>. Nous vous proposons un emploi riche et varié : en commercialisant des équipements de chauffage et de climatisation, en les installant, en les entretenant et en les réparant. Votre quotidien sera fait de technicité, de rigueur et de contact clients.</p> <p>N'attendez plus et rejoignez une équipe ambitieuse offrant des solutions innovantes et gagnez en compétences et en expérience !</p> <hr>"
+    },
+    {
+      "title": "CDI Technicien de maintenance, CDI Plombier chauffagiste, CDI Frigoriste, ... toutes nos offres d'emploi",
+      "text": "<p>Chez Mure Energies comme chez HomeServe, nous croyons au potentiel de chacun et à la force du collaboratif, à l'esprit d'entraide, à la prise d'initiative, à la diversité de nos talents comme clefs de notre performance. </p> <p><i></i> <a href=\"https://www.energies-services.homeserve.fr/recrutement-homeservehes\" title=\"HomeServe Energies Services - Offres d'emploi chauffage\" target=\"_blank\">Découvrir toutes nos offres d'emploi sur HomeServe Energies Services</a>\n        </p>"
+    }
+  ]
+}

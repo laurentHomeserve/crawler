@@ -1,0 +1,39 @@
+{
+  "breadcrumb": "Qui sommes nous",
+  "seo": {
+    "title": "PH Energies : Qui sommes-nous ? - Présentation de notre société",
+    "description": "Découvrez ici l'histoire, les missions et les valeurs de PH Energies, plombiers chauffagistes. Une équipe dynamique est à votre service à Caen.",
+    "opengraph": {
+      "site_name": "PH Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "PH Energies : Qui sommes-nous ? - Présentation de notre société",
+      "description": "Découvrez ici l'histoire, les missions et les valeurs de PH Energies, plombiers chauffagistes. Une équipe dynamique est à votre service à Caen.",
+      "image": {
+        "src": "https://www.ph-energies.fr/build/images/ph-energies-qui-sommes-nous-456x334.3c2112b3.jpg",
+        "alt": "Votre expert chauffagiste PH Energies"
+      }
+    }
+  },
+  "hero": {
+    "title": "PH Energies : votre plombier chauffagiste RGE à Caen",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/ph-energies-qui-sommes-nous-456x334.3c2112b3.jpg",
+      "alt": "Votre expert chauffagiste PH Energies"
+    },
+    "text": "<p>PH Energies est née en 2005 à l'initiative d'un plombier chauffagiste passionné par son métier, désirant faire connaître les nouvelles technologies et solutions de chauffage et climatisation dans sa région : autour de <a href=\"https://www.ph-energies.fr/chauffage-caen\" title=\"Chauffage Caen\">Caen</a>.</p> <p>L'entreprise emploie à présent près d'une cinquantaine de salariés formés en continu : des techniciens, des poseurs, des commerciaux et des personnes chargées de l'administratif.</p> <p>En mars 2021, nous avons décidé de rejoindre le groupe <a href=\"https://www.homeserve.fr/\" title=\"HomeServe\" target=\"_blank\" rel=\"noopener noreferrer\">HomeServe</a> France, et plus précisément Homeserve Energies Services, acteur incontournable du marché du chauffage et de la climatisation en France.</p> <p>Le rapprochement avec Homeserve contribue aujourd'hui au développement de l'entreprise tout en renforçant les valeurs de l'entreprise : le sens du service, la satisfaction du client, la mise à disposition d'un savoir-faire.</p> <p>Nous renouvelons notre engagement sur la transparence des devis et la qualité des prestations fournies.</p>"
+  },
+  "contents": [
+    {
+      "title": "Toute notre expertise dans le chauffage, la climatisation et les énergies renouvelables",
+      "text": "<p>PH Energies répond chaque jour à des enjeux environnementaux. <b><a href=\"/equipements\" title=\"Nos équipements de chauffage et climatisation\">Experts des solutions de chauffage</a></b> classiques (électrique, gaz...) et à énergies renouvelables ou encore des systèmes de climatisation et de refroidissement de l'air ambiant, nos techniciens mettent leur expertise au service des particuliers en veillant à la meilleure utilisation des énergies</p> <b><a href=\"/equipements\" title=\"Nos équipements de chauffage et climatisation\">Experts des solutions de chauffage</a></b> <a href=\"/equipements\" title=\"Nos équipements de chauffage et climatisation\">Experts des solutions de chauffage</a> <p>La société intervient pour des projets de remplacement d'appareils de chauffage mais aussi dans le cadre de constructions neuves avec une réelle expertise des appareils adaptés aux particularités des logements neufs. Cette activité, précédemment opérée sour la marque PH Neuf est aujourd'hui pleinement intégrée à PH Energies.</p> <p>C'est sous la marque <a href=\"/qui-sommes-nous/pack-sd\" title=\"Tout savoir sur Pack SD\">Pack SD</a> que nos équipes de techniciens spcialisés en SAV, entretien et dépannage interviennent sur les appareils de chauffage et climatisation.</p> <a href=\"/qui-sommes-nous/pack-sd\" title=\"Tout savoir sur Pack SD\">Pack SD</a>"
+    },
+    {
+      "title": "Un plombier d'expérience pour vos travaux dans les pièces d'eau et espaces balnéo",
+      "text": "<p>Plus qu'une société spécialisée dans le chauffage et les énergies renouvelables, PH Energies propose toute une gamme complète de services pour assurer le confort de votre habitation. Nous sommes qualifiés pour prendre en charge l'installation de tous vos sanitaires et de les raccorder à votre circuit de plomberie existant. Nous sommes également habilités à réaliser la configuration de votre système de plomberie de A à Z.</p>"
+    }
+  ]
+}

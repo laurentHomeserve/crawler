@@ -1,0 +1,43 @@
+{
+  "breadcrumb": "Marques",
+  "seo": {
+    "title": "Nos marques partenaires | SBF Energies",
+    "description": "Découvrez les marques qui font confiance à SBF Energies. Nous sélectionnons nos produits parmi les plus grandes marques : Mitsubishi Electric, De dietrich, Daikin...",
+    "opengraph": {
+      "site_name": "SBF Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Nos marques partenaires | SBF Energies",
+      "description": "Découvrez les marques qui font confiance à SBF Energies. Nous sélectionnons nos produits parmi les plus grandes marques : Mitsubishi Electric, De dietrich, Daikin...",
+      "image": {
+        "src": "https://www.sbf-energies.com/build/images/sbf-energies-marque-mitsubishi-456x334.d8f31590.jpg",
+        "alt": "Mitsubishi Electric clim - Partenaire SBF Energies"
+      }
+    }
+  },
+  "hero": {
+    "title": "Les marques sélectionnées par SBF Énergies",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/sbf-energies-marque-mitsubishi-456x334.d8f31590.jpg",
+      "alt": "Mitsubishi Electric clim - Partenaire SBF Energies"
+    },
+    "text": "<p>Afin de répondre aux exigences des particuliers aussi bien que des professionnels, SBF Énergies a sélectionné les meilleures marques d'<a href=\"/equipements\">équipements de chauffage</a> sur le marché.</p> <p>Qu'elles soient locales ou internationales, ces marques de chauffage sont reconnues comme des expertes dans leur domaine d'intervention, et sont capables d'apporter des solutions techniques fiables aux problématiques les plus complexes (Atlantic, DAIKIN, Mitsubishi Electric…).</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Les plus grandes marques dans le domaine de la climatisation et du chauffage",
+      "text": "<p>Dans le domaine de la climatisation, les marques avec lesquelles travaille SBF Énergies proposent des produits performants et pourtant économiques, aptes à rafraîchir votre intérieur par les journées les plus brûlantes avec une consommation d'énergie minimale. C'est ainsi que nous vous proposons ce qu'il se fait de mieux dans le domaine des chaudières et pompes à chaleur.</p> <hr>"
+    },
+    {
+      "title": "SBF Energies : revendeur agréé Mitsubishi Electric",
+      "text": "<p>Nous avons sélectionné cette marque, avec laquelle nous sommes d'ailleurs partenaire, car il s'agit sans nul doute de l'une des meilleures existant sur le marché. En effet, les produits commercialisés par la firme nippone ont fait leur preuve depuis des décennies ; aussi ce n'est pas pour rien qu'un climatiseur Mitsubishi Electric est vendu toutes les 15 secondes dans le monde... De même, notre entreprise est agréée Mitsubishi Electric, ce qui signifie que nous connaissons parfaitement ces produits et que nous sommes en mesure de vous conseiller au mieux en fonction de votre budget de vos besoins.</p> <hr>"
+    },
+    {
+      "title": "Pourquoi travaillons-nous avec DAIKIN ?",
+      "text": "<p>DAIKIN est le leader européen du marché du chauffage et de la climatisation. SBF Énergies intervient en Isère et en Savoie est met à votre disposition les meilleurs produit de la marque DAIKIN. Aujourd'hui, cette marque japonaise est reconnue mondialement pour ses pompes à chaleur ; son objectif ? L'amélioration de votre confort thermique dans  dans le domaine de l'industrie, du tertiaire et du résidentiel. Pour cela, elle mise sur l'innovation, la maîtrise totale de la production ainsi que préservation de l'environnement. En outre, DAIKIN est le seul acteur mondial à produire l'intégralité de ses composants dans ses propres centres de production, faisant l'objet de certifications qualité régulières et rigoureuses grâce à l'utilisation d'appareils respectueux de l'environnement.</p> <p>Sachez toutefois que nous travaillons également avec d'autres grandes marques afin de répondre pleinement à vos besoins.</p> <hr> <p>Vous pouvez télécharger des catalogues regroupant à titre d'exemple, les différents types d'équipements que nous proposons. L'ensemble de notre équipe SBF Energies vous accompagne dans le choix de la solution de chauffage qui correspondra le mieux à vos besoins.</p> <ul> <li><a href=\"https://www.sbf-energies.com/pdf/catalogue-produits/sbf/chauffe-eaux-thermodynamiques-sbf.pdf\" title=\"Chauffe-eaux thermodynamiques : Téléchargez notre catalogue produits\" target=\"_blank\">Nos Chauffe-eaux Thermodynamiques pour une eau chaude sanitaire de qualité tout au long de l'année</a></li> <li><a href=\"https://www.sbf-energies.com/pdf/catalogue-produits/sbf/pompes-a-chaleur-sbf.pdf\" title=\"Pompes à chaleur : Téléchargez notre catalogue produits\" target=\"_blank\">Nos Pompes à Chaleur pour un confort de chauffe écoresponsable</a></li> <li><a href=\"https://www.sbf-energies.com/pdf/catalogue-produits/sbf/systemes-de-climatisation-sbf.pdf\" title=\"Systèmes de climatisation : Téléchargez notre catalogue produits\" target=\"_blank\">Nos Systèmes de Climatisation pour une une température intérieure agréable même en plein été</a></li> </ul>"
+    }
+  ]
+}

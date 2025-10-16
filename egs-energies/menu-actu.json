@@ -1,0 +1,743 @@
+{
+  "breadcrumb": "Conseils et actualites",
+  "seo": {
+    "title": "Toute l'actualité chauffage à Nice et dans les Alpes-Maritimes",
+    "description": "Astuces, conseils d'EGS Energies : toute l'actualité du monde du chauffage et de la climatisation sur Nice, Cannes, Grasse et les Alpes-Maritimes",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "title": "Les astuces, conseils et actualités d'EGS Energies",
+  "subtitle": "Découvrez tous nos conseils et actualités !",
+  "content": "<p>Conseils, informations réglementaires, tutoriels, événements... Découvrez les dernières actualités du groupe EGS Energies. Régulièrement, nous partageons avec vous les temps forts de l'entreprise mais aussi nos astuces d'experts pour vous aider à entretenir vos installations de chauffage, d'eau chaude sanitaire et de climatisation. Depuis plus de 60 ans, dans les Alpes-Maritimes, nous avons acquis un savoir-faire reconnu en matière d'installation, d'entretien et de dépannage. Et nous savons que, parfois, des petits gestes peuvent permettre de faire durer vos équipements plus longtemps.</p> <p>Si, malgré nos conseils, votre chauffage, chauffe-eau ou climatisation reste défaillant, contactez nos techniciens EGS Energies. À <a href=\"https://www.egs-energies.fr/chauffage-nice\" title=\"Chauffage Nice\">Nice</a>, <a href=\"https://www.egs-energies.fr/chauffage-menton\" title=\"Chauffage Menton\">Menton</a>, <a href=\"https://www.egs-energies.fr/chauffage-vallauris\" title=\"Chauffage Vallauris\">Vallauris</a> et <a href=\"https://www.egs-energies.fr/chauffage-saint-laurent-du-var\" title=\"Chauffage Saint Laurent Du Var\">Saint-Laurent-du-Var</a>, nos équipes sont à vos côtés pour l'installation, l'entretien et le dépannage de votre chauffage et votre climatisation.</p>",
+  "news": [
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/cee-pac-air-eau-calcul",
+        "title": "Alpes-Maritimes : CEE PAC air-eau 2025, mode d’emploi",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-10-06T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/aide-cee-pac-air-eau-changements-3320d80da8.jpg",
+        "alt": "Alpes-Maritimes : CEE PAC air-eau 2025, mode d’emploi"
+      },
+      "title": "Alpes-Maritimes : CEE PAC air-eau 2025, mode d’emploi",
+      "text": "Ce qui change pour la prime CEE en PAC : le guide pour les Alpes-Maritimes (Zone H3)"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/suspension-maprimerenov-2025",
+        "title": "MaPrimeRénov' : Suspension temporaire expliquée",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-06-05T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/egs-energies-article-suspension-maprimerenov-2025-aef07f9d77.jpg",
+        "alt": "MaPrimeRénov' : Suspension temporaire expliquée"
+      },
+      "title": "MaPrimeRénov' : Suspension temporaire expliquée",
+      "text": "Pourquoi MaPrimeRénov' est-elle suspendue cet été 2025 ? On vous explique tout !"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/climatisation-consommation-electricite",
+        "title": "Consommation électrique d’une climatisation : tout savoir",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2025-05-25T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/egs-energies-article-climatisation-facture-electricite1-354043eaad.jpg",
+        "alt": "Consommation électrique d’une climatisation : tout savoir"
+      },
+      "title": "Consommation électrique d’une climatisation : tout savoir",
+      "text": "Est-ce que la climatisation fait vraiment exploser la facture d’énergie ?"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/journees-portes-ouvertes-mai-2025",
+        "title": "2 Jours d’échanges avec EGS Energies : 16 & 17 mai 2025 à Nice",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-04-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/journees-portes-ouvertes-mai-2025-1a9f75211f.jpg",
+        "alt": "2 Jours d’échanges avec EGS Energies : 16 & 17 mai 2025 à Nice"
+      },
+      "title": "2 Jours d’échanges avec EGS Energies : 16 & 17 mai 2025 à Nice",
+      "text": "EGS Energies vous invite à deux journées d’échanges, de conseils et d’offres spéciales"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/prix-installateur-climatisation-a-nice-cannes-grasse-2025",
+        "title": "Prix installateur climatisation à Nice, Cannes, Grasse en 2025",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2025-04-17T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/egs-energies-article-offre-climatisation-2025-456x334-88abf7af95.jpg",
+        "alt": "Prix installateur climatisation à Nice, Cannes, Grasse en 2025"
+      },
+      "title": "Prix installateur climatisation à Nice, Cannes, Grasse en 2025",
+      "text": "Préparez votre confort d’été avec une climatisation sur-mesure et connectée"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/panneau-solaire-batterie-virtuelle-fonctionnement",
+        "title": "Batterie virtuelle : stockage, fonctionnement, avantages",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-12-26T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/egs-energies-article-batterie-virtuelle-panneaux-solaires-298689e300.jpg",
+        "alt": "Batterie virtuelle : stockage, fonctionnement, avantages"
+      },
+      "title": "Batterie virtuelle : stockage, fonctionnement, avantages",
+      "text": "Comment fonctionne le stockage virtuel d’énergie solaire et pourquoi le choisir autour de Nice ?"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/chauffage-en-panne-solutions",
+        "title": "Chauffage en panne : causes fréquentes et solutions",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-11-12T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/egs-energies-article-chauffage-en-panne-solutions-2d3e84657f.jpg",
+        "alt": "Chauffage en panne : causes fréquentes et solutions"
+      },
+      "title": "Chauffage en panne : causes fréquentes et solutions",
+      "text": "Comment résoudre une panne de chauffage en automne ? Les causes fréquentes et les solutions\n"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/journees-portes-ouvertes-novembre-2024",
+        "title": "Journées Portes Ouvertes EGS Energies 22-23 novembre 2024",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-11-03T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/egs-article-journees-portes-ouvertes-novembre-2024-f24b13a758.jpg",
+        "alt": "Journées Portes Ouvertes EGS Energies 22-23 novembre 2024"
+      },
+      "title": "Journées Portes Ouvertes EGS Energies 22-23 novembre 2024",
+      "text": "Offres exceptionnelles sur les chaudières, climatisations, pompes à chaleur et panneaux photovoltaïques avec EGS Energies"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/dpe-changements-2025",
+        "title": "DPE : ce qui change en 2025",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-10-28T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/egs-energies-article-dpe-2025-changements-f7867af9d5.jpg",
+        "alt": "DPE : ce qui change en 2025"
+      },
+      "title": "DPE : ce qui change en 2025",
+      "text": "Fin des anciens diagnostics et nouvelles règles : tout ce que vous devez savoir pour optimiser votre logement en 2025"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/chaudieres-gaz-hausse-probable-tva-2025",
+        "title": "Chaudières gaz : vers une hausse de la TVA à 20% en 2025 ?",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-10-21T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/egs-energies-article-possible-hausse-tva-chaudieres-gaz-2025-0176f84ddb.jpg",
+        "alt": "Chaudières gaz : vers une hausse de la TVA à 20% en 2025 ?"
+      },
+      "title": "Chaudières gaz : vers une hausse de la TVA à 20% en 2025 ?",
+      "text": "Projet de loi : en 2025, la TVA sur les chaudières à gaz pourrait passer à 20 %. Comment anticiper cette possible hausse des coûts ?"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/coup-de-pouce-chauffage-augmentation-pompe-a-chaleur",
+        "title": "Coup de Pouce Chauffage : augmentation pour la pompe à chaleur !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-09-29T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/egs-energies-article-coup-de-pouce-pac-2024-5be8393631.jpg",
+        "alt": "Coup de Pouce Chauffage : augmentation pour la pompe à chaleur !"
+      },
+      "title": "Coup de Pouce Chauffage : augmentation pour la pompe à chaleur !",
+      "text": "Coup de Pouce Chauffage, une aide précieuse pour l'installation d'une pompe à chaleur"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/photovoltaique-dans-les-alpes-maritimes-les-chiffres-cles",
+        "title": "Photovoltaïque dans les Alpes-Maritimes : les chiffres clés",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-09-03T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/egs-energies-article-chiffres-photovoltaiques-juin2024-456x334-e4b2da2803.jpg",
+        "alt": "Photovoltaïque dans les Alpes-Maritimes : les chiffres clés"
+      },
+      "title": "Photovoltaïque dans les Alpes-Maritimes : les chiffres clés",
+      "text": "L'autoconsommation solaire a le vent en poupe dans le 06 : découvrez les chiffres clés de notre département"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/qualite-air-interieur-climatisation",
+        "title": "Comment la climatisation améliore la qualité de l'air intérieur",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-08-26T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/electrogaz-article-climatisation-qualite-air-456x334-4e9362fb78.jpg",
+        "alt": "Comment la climatisation améliore la qualité de l'air intérieur"
+      },
+      "title": "Comment la climatisation améliore la qualité de l'air intérieur",
+      "text": "La climatisation réversible améliore la qualité de l'air intérieur en filtrant les polluants et en régulant l'humidité. "
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/electrogaz-devient-egs-energies",
+        "title": "Electrogaz, Descamps, ADServices & Depan’Gaz deviennent EGS Energies",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-08-06T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/egs-energies-article-electrogaz-devient-egs-energies-456x334-d846b467be.jpg",
+        "alt": "Electrogaz, Descamps, ADServices & Depan’Gaz deviennent EGS Energies"
+      },
+      "title": "Electrogaz, Descamps, ADServices & Depan’Gaz deviennent EGS Energies",
+      "text": "Nos 4 agences changent de nom et s'unissent sous une même marque : EGS Energies !"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/renovation-energetique-aides-ete-2024",
+        "title": "Rénovation énergétique & aides : quoi de neuf à l'été 2024 ?",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-08-04T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/egs-energies-article-aides-renovation-energetique-2024-4f52274098.jpg",
+        "alt": "Rénovation énergétique & aides : quoi de neuf à l'été 2024 ?"
+      },
+      "title": "Rénovation énergétique & aides : quoi de neuf à l'été 2024 ?",
+      "text": "Déblocage du PEE, MaPrimeRénov', et propriétaires bailleurs, ajustement du DPE : qu'est-ce qui a changé cet été ?"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/climatisation-thermor-avis-complet-nice",
+        "title": "Climatisation Thermor Niseko : l'avis complet d'EGS Energies à Nice",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2024-07-24T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/egs-energies-article-thermor-niseko-avis-6506b527b9.jpg",
+        "alt": "Climatisation Thermor Niseko : l'avis complet d'EGS Energies à Nice"
+      },
+      "title": "Climatisation Thermor Niseko : l'avis complet d'EGS Energies à Nice",
+      "text": "Une PAC air-air au design soigné et discret, avec un bon rapport qualité-prix et efficace en mode chaud comme en mode froid"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/portes-ouvertes-offres-speciales-mai-2024",
+        "title": "Portes ouvertes et offres spéciales : RDV les 24-25 mai 2024 !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-05-05T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/visuel-jpo-mai-2024-456x334-ffeeb38606.jpg",
+        "alt": "Portes ouvertes et offres spéciales : RDV les 24-25 mai 2024 !"
+      },
+      "title": "Portes ouvertes et offres spéciales : RDV les 24-25 mai 2024 !",
+      "text": "Climatisation, chaudières gaz, équipements à énergies renouvelables : découvrez nos offres exceptionnelles"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/offre-speciale-votre-climatisation-a-partir-de-45eur-mois-a-nice",
+        "title": "Offre spéciale : votre climatisation à partir de 45€ par mois à Nice !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-04-22T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/electrogaz-offre-clim-2024-456x334-55cca40d3c.jpg",
+        "alt": "Offre spéciale : votre climatisation à partir de 45€ par mois à Nice !"
+      },
+      "title": "Offre spéciale : votre climatisation à partir de 45€ par mois à Nice !",
+      "text": "Profitez de notre offre exceptionnelle sur la climatisation avant le 30 septembre 2024"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/promotion-exceptionelle-pac-climatisation-offerte",
+        "title": "Promotion: une PAC air/air avec votre PAC air/eau !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2024-04-21T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/electrogaz-offre-climatisation-2024-456x334-2c25bde3f2.jpg",
+        "alt": "Promotion: une PAC air/air avec votre PAC air/eau !"
+      },
+      "title": "Promotion: une PAC air/air avec votre PAC air/eau !",
+      "text": "Profitez de l'offre Electrogaz : une pompe à chaleur air/air offerte pour une air/eau installée"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/fin-des-chaudieres-au-fioul-depuis-juillet-2022",
+        "title": "Fin des chaudières au fioul depuis juillet 2022",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2022-09-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/Visuel_Fioul_456x334–5-2d7a53dc54.png",
+        "alt": "Fin des chaudières au fioul depuis juillet 2022"
+      },
+      "title": "Fin des chaudières au fioul depuis juillet 2022",
+      "text": "Nous vous expliquons le nouveau décret du 1er juillet 2022 et les solutions qui s’offrent à vous."
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/aides-a-la-renovation-energetique-2022-dans-les-alpes-maritimes",
+        "title": "Rénovation énergétique : les aides 2022 dans les Alpes-Maritimes",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2022-05-04T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/aides-renovations-energetiques-4cb3b53b9e.jpg",
+        "alt": "Rénovation énergétique : les aides 2022 dans les Alpes-Maritimes"
+      },
+      "title": "Rénovation énergétique : les aides 2022 dans les Alpes-Maritimes",
+      "text": "Electrogaz décrypte toutes les aides financières auxquelles vous pouvez prétendre pour vos travaux de rénovation énergétique"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/hausse-du-prix-du-gaz-mythe-ou-realite",
+        "title": "Hausse du prix du gaz : mythe ou réalité ?",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2022-03-24T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/hausse-prix-du-gaz-67025a0922.jpg",
+        "alt": "Hausse du prix du gaz : mythe ou réalité ?"
+      },
+      "title": "Hausse du prix du gaz : mythe ou réalité ?",
+      "text": "Electrogaz répond à toutes les questions que vous pourriez vous poser sur la hausse des prix du gaz."
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/tout-savoir-sur-la-pac-hybride",
+        "title": "Tout savoir sur la PAC Hybride",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2022-03-21T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/PAC-Hybride-50c3233cba.jpg",
+        "alt": "Tout savoir sur la PAC Hybride"
+      },
+      "title": "Tout savoir sur la PAC Hybride",
+      "text": "Faites confiance à Electrogaz pour l'installation et l'entretien de votre PAC Hybride"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/tout-savoir-sur-la-climatisation-pour-pouvoir-en-profiter-au-maximum",
+        "title": "Tout savoir sur la climatisation pour pouvoir en profiter au maximum",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2022-03-06T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/climatisation_2022-ab9978b55e.jpg",
+        "alt": "Tout savoir sur la climatisation pour pouvoir en profiter au maximum"
+      },
+      "title": "Tout savoir sur la climatisation pour pouvoir en profiter au maximum",
+      "text": "Electrogaz vous accompagne dans l'installation de votre nouvelle climatisation"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/foire-de-nice-2022",
+        "title": "Electrogaz à la Foire de Nice 2022",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2022-03-03T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/foire_de_nice_2022-ec75367dc3.jpg",
+        "alt": "Electrogaz à la Foire de Nice 2022"
+      },
+      "title": "Electrogaz à la Foire de Nice 2022",
+      "text": "Venez nous rencontrer pour bénéficier de nos offres spéciales et tenter de remporter une climatisation"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/la-quinzaine-du-gaz-devient-le-mois-du-gaz",
+        "title": "La quinzaine du gaz devient le mois du gaz",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2022-02-28T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/mois_du_gaz_2022-54de82214c.jpg",
+        "alt": "La quinzaine du gaz devient le mois du gaz"
+      },
+      "title": "La quinzaine du gaz devient le mois du gaz",
+      "text": "Electrogaz vous accompagne dans toutes vos démarches de rénovation énergétique pendant le mois du gaz."
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/tout-savoir-sur-maprimerenov",
+        "title": "Tout savoir sur MaPrimeRenov",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2021-12-15T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/61bb0c455b8f3652257501.jpg",
+        "alt": "Tout savoir sur MaPrimeRenov"
+      },
+      "title": "Tout savoir sur MaPrimeRenov",
+      "text": "Une aide maintenue en 2023 pour des logements de plus de 15 ans. Soyez accompagnés par Electrogaz !"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/les-journees-portes-ouvertes-electrogaz-du-15-au-16-10-21-a-vallauris",
+        "title": "Votre chauffagiste Electrogaz vous accueille à Vallauris",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2021-09-27T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/61645ac810562229082294.jpg",
+        "alt": "Votre chauffagiste Electrogaz vous accueille à Vallauris"
+      },
+      "title": "Votre chauffagiste Electrogaz vous accueille à Vallauris",
+      "text": "Du 15 au 16/10/21 profitez de 200€ de réduction sur tout nouvel appareil acheté au cours de ces journées !"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/quelle-climatisation-choisir-pour-sa-maison",
+        "title": "Comment choisir le système de climatisation adapté à vos besoins ?",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2021-07-26T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/60ffb5027a5d9699130217.jpg",
+        "alt": "Comment choisir le système de climatisation adapté à vos besoins ?"
+      },
+      "title": "Comment choisir le système de climatisation adapté à vos besoins ?",
+      "text": "Electrogaz vous aide à choisir le climatiseur adapté à votre intérieur."
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/remplacez-votre-chaudiere-avant-larret-des-aides",
+        "title": "Profitez des derniers instants du Coup de Pouce Chauffage !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2021-05-25T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/60ae17cf7373e914011325.jpg",
+        "alt": "Profitez des derniers instants du Coup de Pouce Chauffage !"
+      },
+      "title": "Profitez des derniers instants du Coup de Pouce Chauffage !",
+      "text": "Il est encore temps de remplacer votre chaudière pour profiter des aides Coup de Pouce."
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/la-quinzaine-du-gaz-2021",
+        "title": "Du 13 au 28 mars c'est la Quinzaine du Gaz chez Electrogaz !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2021-03-07T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/6045e38b5e550439311812.png",
+        "alt": "Du 13 au 28 mars c'est la Quinzaine du Gaz chez Electrogaz !"
+      },
+      "title": "Du 13 au 28 mars c'est la Quinzaine du Gaz chez Electrogaz !",
+      "text": "Electrogaz et GRDF vous accompagnent dans vos projets de chauffage et vous font profiter d’avantages dédiés."
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/meilleurs-voeux-pour-2021",
+        "title": "Meilleurs voeux pour 2021",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2021-01-05T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5ff5de4bc1ddc268450402.jpg",
+        "alt": "Meilleurs voeux pour 2021"
+      },
+      "title": "Meilleurs voeux pour 2021",
+      "text": "Votre équipe Electrogaz continue à vous faire profiter d’un confort optimal en 2021 !"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/tout-savoir-sur-la-pompe-a-chaleur",
+        "title": "Les avantages d’une pompe à chaleur air-eau",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-11-18T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5fb6a0025a9d0938404724.jpg",
+        "alt": "Les avantages d’une pompe à chaleur air-eau"
+      },
+      "title": "Les avantages d’une pompe à chaleur air-eau",
+      "text": "Découvrez pourquoi l'entretien régulier de votre PAC est important."
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/maprimerenov-le-dispositif-daide-a-la-renovation-energetique",
+        "title": "MaPrimeRenov' : le dispositif d'aide à la rénovation énergétique",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2020-11-02T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5fa163e77a16e858293592.jpg",
+        "alt": "MaPrimeRenov' : le dispositif d'aide à la rénovation énergétique"
+      },
+      "title": "MaPrimeRenov' : le dispositif d'aide à la rénovation énergétique",
+      "text": "Electrogaz vous explique en détails le fonctionnement de cette aide."
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/chauffagiste-un-metier-en-permanente-evolution",
+        "title": "Tout savoir sur l'évolution du métier de chauffagiste",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-09-30T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5f759a104a0df872275808.jpg",
+        "alt": "Tout savoir sur l'évolution du métier de chauffagiste"
+      },
+      "title": "Tout savoir sur l'évolution du métier de chauffagiste",
+      "text": "Découvrez le métier de vos chauffagistes professionnels Electrogaz."
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/en-septembre-les-ventes-privees-debarquent-chez-electrogaz",
+        "title": "Ventes Privées du 25/09/2020 au 05/10/2020",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2020-09-14T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5f6cad4d8ae48717230236.png",
+        "alt": "Ventes Privées du 25/09/2020 au 05/10/2020"
+      },
+      "title": "Ventes Privées du 25/09/2020 au 05/10/2020",
+      "text": "Du 25/09 au 05/10 bénéficiez de remises exceptionnelles sur votre nouvel appareil !"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/quelle-climatisation-choisir",
+        "title": "Les critères pour choisir sa climatisation : tous nos conseils !",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2020-03-23T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5e7a2ec83e846168621509.jpg",
+        "alt": "Les critères pour choisir sa climatisation : tous nos conseils !"
+      },
+      "title": "Les critères pour choisir sa climatisation : tous nos conseils !",
+      "text": "Faites confiance à Electrogaz et découvrez nos conseils d'experts pour choisir votre système de climatisation"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/coronavirus-information",
+        "title": "Electrogaz - dernières informations sur le Coronavirus",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2020-03-15T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5e6f6a4f73745898489964.jpg",
+        "alt": "Electrogaz - dernières informations sur le Coronavirus"
+      },
+      "title": "Electrogaz - dernières informations sur le Coronavirus",
+      "text": "Electrogaz reprend l'ensemble de ses activités et se mobilise pour ses clients et collaborateurs"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/electrogaz-recrute-un-e-technicien-ne-en-genie-climatique",
+        "title": "Electrogaz recrute un(e) technicien(ne) en génie climatique",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2019-12-12T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5df3966b6da25228374762.jpeg",
+        "alt": "Electrogaz recrute un(e) technicien(ne) en génie climatique"
+      },
+      "title": "Electrogaz recrute un(e) technicien(ne) en génie climatique",
+      "text": "Envie de dynamiser votre carrière et de rejoindre une entreprise en pleine croissance, reconnue et à taille humaine ?"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/aides-au-remplacement-de-chaudiere-2019",
+        "title": "Votre chaudière faiblit et vous souhaitez la changer ?",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2019-08-13T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5d5401508d3f9551066820.jpg",
+        "alt": "Votre chaudière faiblit et vous souhaitez la changer ?"
+      },
+      "title": "Votre chaudière faiblit et vous souhaitez la changer ?",
+      "text": "C’est l’occasion de profiter des aides pour le changement de chaudière : on vous accompagne"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/electrogaz-cest-aussi-votre-expert-climatisation",
+        "title": "Electrogaz, c’est aussi votre expert pour votre climatisation !",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2019-06-16T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5d0797ca307af038145366.png",
+        "alt": "Electrogaz, c’est aussi votre expert pour votre climatisation !"
+      },
+      "title": "Electrogaz, c’est aussi votre expert pour votre climatisation !",
+      "text": "Nos techniciens experts sauront vous conseiller la solution de climatisation adaptée à vos besoins"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/electrogaz-vous-attend-a-la-foire-de-nice-du-09-au-18-mars-2019",
+        "title": "Rendez-vous sur notre stand pour des conseils et offres spéciales",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2019-01-23T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5c753e14e46df794401070.png",
+        "alt": "Rendez-vous sur notre stand pour des conseils et offres spéciales"
+      },
+      "title": "Rendez-vous sur notre stand pour des conseils et offres spéciales",
+      "text": "Offres spéciales foire et aussi pour tenter de gagner une chaudière ou une climatisation !      Salon bâtir, stand 36/38 ..."
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/lentretien-des-chaudieres-point-sur-la-reglementation-avec-lademe",
+        "title": "Entretien de chaudière  : Point sur la réglementation avec l'ADEME",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2018-12-26T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5c24cfe4b3a5b660960663.jpg",
+        "alt": "Entretien de chaudière  : Point sur la réglementation avec l'ADEME"
+      },
+      "title": "Entretien de chaudière  : Point sur la réglementation avec l'ADEME",
+      "text": "Entretien chaudières : quelles obligations pour le particulier et le professionnel ?"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/conseils-pour-bien-utiliser-votre-chaudiere-et-ameliorer-lensemble-de-votre-installation-de-chauffage",
+        "title": "Bien utiliser votre chaudière et l'ensemble de votre installation de chauffage",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2018-12-18T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5c1a14d49ae90838059423.jpg",
+        "alt": "Bien utiliser votre chaudière et l'ensemble de votre installation de chauffage"
+      },
+      "title": "Bien utiliser votre chaudière et l'ensemble de votre installation de chauffage",
+      "text": "Les conseils des professionnels de la maintenance et des services après-vente en chauffage"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/electrogaz-recrute-un-technicien-de-maintenance-chauffage",
+        "title": "Electrogaz recrute un technicien de maintenance chauffage",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2018-06-11T22:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5b1f9ce471b87180133479.jpeg",
+        "alt": "Electrogaz recrute un technicien de maintenance chauffage"
+      },
+      "title": "Electrogaz recrute un technicien de maintenance chauffage",
+      "text": "Envie de dynamiser votre carrière et de rejoindre une entreprise en pleine croissance, reconnue et à taille humaine ?"
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/le-credit-dimpot-pour-la-transition-energetique-nouveautes-2018",
+        "title": "Astuce Crédit D'impôt | Quel équipement choisir au moment de changer ?",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2018-01-18T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5a61ef1a3a3ad417815018.jpg",
+        "alt": "Astuce Crédit D'impôt | Quel équipement choisir au moment de changer ?"
+      },
+      "title": "Astuce Crédit D'impôt | Quel équipement choisir au moment de changer ?",
+      "text": "Quels équipements de chauffage donnent droit à un crédit d'impôt? Quel rôle du professionnel RGE ? Découvrez les nouveautés pour 2018..."
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/nous-serons-presents-a-la-foire-de-nice-au-palais-des-expositions",
+        "title": "Mars 2018 | ElectroGaz vous attend à la Foire Internationale de Nice",
+        "text": "no text"
+      },
+      "type": "Actualité",
+      "date": "2018-01-18T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5a61bafc23d80012489195.jpg",
+        "alt": "Mars 2018 | ElectroGaz vous attend à la Foire Internationale de Nice"
+      },
+      "title": "Mars 2018 | ElectroGaz vous attend à la Foire Internationale de Nice",
+      "text": "Retrouvez nous du 17 au 26 mars pour découvrir nos solutions de chauffage : chaudières, chauffe-eaux, pompes à chaleur, poêles à granulés..."
+    },
+    {
+      "url": {
+        "href": "https://www.egs-energies.fr/conseils-et-actualites/monoxyde-de-carbone-un-danger-sournois-facile-a-eviter",
+        "title": "Chauffage, Chaudière, Poêle, ATTENTION au Monoxyde de Carbone",
+        "text": "no text"
+      },
+      "type": "Conseil",
+      "date": "2018-01-18T23:00:00.000Z",
+      "image": {
+        "src": "/upload/files/5a61ba7d9c82b080946856.jpg",
+        "alt": "Chauffage, Chaudière, Poêle, ATTENTION au Monoxyde de Carbone"
+      },
+      "title": "Chauffage, Chaudière, Poêle, ATTENTION au Monoxyde de Carbone",
+      "text": "Le Monoxyde de carbone (CO) est un gaz toxique mortel, inodore, invisible et insipide. Il est produit par des appareils non entretenus, défectueux, mal réglés ou mal utilisés."
+    }
+  ]
+}

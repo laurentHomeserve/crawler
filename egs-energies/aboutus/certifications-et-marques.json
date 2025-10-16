@@ -1,0 +1,63 @@
+{
+  "breadcrumb": "Certifications et marques",
+  "seo": {
+    "title": "Nos certifications chauffage et climatisation | EGS Energies",
+    "description": "Chauffagiste certifié (RGE, Qualisav, Synasav, GRDF) et partenaire des plus grandes marques du marché sur Nice et dans les Alpes-Maritimes",
+    "opengraph": {
+      "site_name": "EGS Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Nos certifications chauffage et climatisation | EGS Energies",
+      "description": "Chauffagiste certifié (RGE, Qualisav, Synasav, GRDF) et partenaire des plus grandes marques du marché sur Nice et dans les Alpes-Maritimes",
+      "image": {
+        "src": "https://www.egs-energies.fr/build/images/egs-energies-certifications-marques.456x334.e4991a66.jpg",
+        "alt": "Tous nos certification et partenaires | EGS Energies"
+      }
+    }
+  },
+  "hero": {
+    "title": "EGS Energies, un expert certifié et partenaire des plus grandes marques",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/egs-energies-certifications-marques.456x334.e4991a66.jpg",
+      "alt": "Tous nos certification et partenaires | EGS Energies"
+    },
+    "text": "<p>Avant de choisir un professionnel pour réaliser vos travaux ou entretenir vos installations, vérifiez ses qualifications et certifications. Ces éléments vous garantissent un service de qualité réalisé dans le plus grand respect des règles de sécurité et des contraintes environnementales. C'est un facteur de confiance primordial, d'autant que certaines certifications sont obligatoires en fonction des équipements.</p> <p>Chez EGS Energies et nos agences, nous formons chaque année nos techniciens aux avancées technologiques et aux contraintes en vigueur. Ils sont au fait des normes et des innovations et peuvent ainsi être force de proposition pour vous guider vers des solutions toujours plus performantes et économiques. Notre savoir-faire est reconnu par la profession et confirmé par plusieurs agréments. Et les maques nous font confiance.</p> <p><strong>Nos marques partenaires</strong> : Atlantic, Mitsubishi Electric, elm.leblanc, Saunier-Duval, Frisquet, Vaillant, Chaffoteaux, De Dietrich, Chappée, Viessmann, Ariston, Geminox, Deville, Buderus, Styx, Vergne, mylight150, DualSun...</p> <p><strong>Nos certifications professionnelles</strong> : RGE QualiBAT, RGE QualiPAC, RGE QualiSAV, RGE QualiPV, Professionnel du Gaz Mention PAC Hybride, Partenaire GRDF, membre du SYNASAV.</p> <p><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <span class=\"obflink obflink-text\" data-o=\"L25vdXMtY29udGFjdGVy\">Une question ? Une information ? Contactez les équipes d'EGS Energies</span><br>&nbsp;</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Nous sommes certifiés RGE \"Reconnu Garant de l'Environnement\"",
+      "text": "<p>C'est indispensable pour réaliser des travaux d'économie d'énergie et pour vous permettre de bénéficier des aides financières et incitations fiscales en vigueur. Être certifié RGE nous permet d'être au fait de toutes les possibilités qui s'offrent aux professionnels et aux particuliers pour réduire leur impact écologique. Nos techniciens sont sensibilisés aux enjeux environnementaux et participent, à leur échelle, à la transition énergétique du territoire. Ils peuvent ainsi vous conseiller et vous guider vers des équipements basse consommation.</p> <hr>"
+    },
+    {
+      "title": "QualiSAV",
+      "text": "<p>Cette qualification professionnelle est réservée aux entreprises de maintenance et de services après-vente en chauffage (gaz et fioul) et multiservices. Elle est attribuée par le Syndicat national de la maintenance et des services en efficacité énergétique (SYNASAV). C'est une certification exigeante puisqu'elle est attribuée par une commission nationale mixte constituée de professionnels et de représentants des pouvoirs publics.</p> <hr>"
+    },
+    {
+      "title": "QualiPAC",
+      "text": "<p>Cette reconnaissance atteste de notre expertise en matière d'installation et d'entretien de pompes à chaleur et de chauffe-eaux thermodynamiques. Ce secteur d'activité est exigeant et nécessite une véritable expertise. Il est primordial, pour installer une pompe à chaleur ou l'entretenir, de se tourner vers un professionnel reconnu QualiPAC comme EGS Energies. En plus de pouvoir obtenir des aides financières, vous vous assurez aussi qu'il est bien assuré et qu'il dispose des compétences et des formations nécessaires à la manipulation de ce type d'équipement.</p> <hr>"
+    },
+    {
+      "title": "QualiBAT",
+      "text": "<p>La certification Qualibat confirme nos compétences techniques et professionnelles en matière de travaux. Ce label valide que nous respectons les normes de construction en vigueur. Pour l'obtenir, EGS Energies (anciennement  Electrogaz) a présenté un dossier à une commission où siègent des professionnels du bâtiment : architectes, entrepreneurs, maîtres d'ouvrage, acteurs publics... Ce jury s'assure également de la bonne santé économique de notre entreprise. Nos clients sont ainsi rassurés et peuvent se lancer, à nos côtés, dans des projets sur le long terme.</p> <hr>"
+    },
+    {
+      "title": "QualiPV",
+      "text": "<p>Le label QualiPV porte sur notre savoir-faire acquis sur les installations solaires photovoltaïques. Elle vous garantit notre savoir-faire et notre maîtrise dans la pose de vos panneaux photovoltaïques dans les Alpes-Maritimes. Ces équipements technologiques sont pointus. Leur performance est soumise à leur bonne installation. Chez EGS Energies , nous veillons au respect des règles en vigueur et à l'utilisation de matériels de qualité. Nos clients peuvent ainsi profiter d'une électricité d'origine renouvelable, issue du soleil et faire des économies sur le long terme.</p> <hr>"
+    },
+    {
+      "title": "Mention PAC Hybride",
+      "text": "<p>Décernée par l'Association PG - Professionnel du Gaz, cette mention atteste de notre savoir-faire et de notre expertise en matière d'installation et d'entretien de pompes à chaleur.</p> <hr>"
+    },
+    {
+      "title": "EGS Energies, partenaire des plus grands fabricants",
+      "text": "<p>Pour répondre aux différents besoins de nos clients, nous sommes agréés par les plus grandes marques du marché pour commercialiser, installer, entretenir et réparer leurs gammes de produits. Ces partenariats nous permettent d'être au fait des dernières innovations et de pouvoir vous proposer une gamme large et compétitive de chaudières, chauffe-eaux, climatisations et pompes à chaleur.</p> <p>Travailler auprès de marques leaders est aussi un gage de confiance pour nos clients. Nous nous entourons des meilleurs et sommes en capacité d'intervenir sur tous les modèles. Nos installations sont performantes dans le temps et participent au bien-vivre dans votre logement.</p> <hr>"
+    },
+    {
+      "title": "Plus de 60 ans de savoir-faire reconnus dans les Alpes-Maritimes",
+      "text": "<p>Depuis 1958, notre entreprise n'a cessé de démontrer son savoir-faire en matière de chauffage, de climatisation, de ventilation et d'énergies renouvelables. Vous nous avez sans doute connus sous d'autres marques :</p> <ul> <li>Electrogaz à <a href=\"https://www.egs-energies.fr/chauffage-nice\" title=\"Chauffage Nice\">Nice</a>,</li> <li>ADServices gaz à <a href=\"https://www.egs-energies.fr/chauffage-vallauris\" title=\"Chauffage Vallauris\">Vallauris</a></li> <li>Depan'Gaz à <a href=\"https://www.egs-energies.fr/chauffage-menton\" title=\"Chauffage Menton\">Menton</a></li> <li>Descamps à Vence puis <a href=\"https://www.egs-energies.fr/chauffage-saint-laurent-du-var\" title=\"Chauffage Saint Laurent Du Var\">Saint-Laurent-du-Var</a></li> </ul> <p>Toutes ces agences, désormais regroupées sous le nom unique EGS Energies bénéficient de décennies d'expérience dans notre département. Ce savoir-faire est ainsi souligné tant par nos nombreuses qualifications professionnelles que par notre capacité à nouer des partenariats avec des marques reconnues et fiables dans le domaine du chauffage, de la climatisation, de la ventilation, de la production d'eau chaude sanitaire et de l'énergie solaire.</p>"
+    }
+  ]
+}

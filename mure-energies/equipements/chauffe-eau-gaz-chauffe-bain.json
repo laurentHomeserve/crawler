@@ -1,0 +1,60 @@
+{
+  "breadcrumb": "Chauffe eau gaz chauffe bain",
+  "seo": {
+    "title": "Mure Energies installe et entretient votre chauffe-eau gaz à Lyon",
+    "description": "Mure Energies, plombier chauffagiste qualifié, installe, entretient et dépanne votre chauffe-eau au gaz dans la région lyonnaise. Contactez notre service client pour un devis chauffe-eau à Lyon.",
+    "opengraph": {
+      "site_name": "Mure Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Mure Energies installe et entretient votre chauffe-eau gaz à Lyon",
+      "description": "Mure Energies, plombier chauffagiste qualifié, installe, entretient et dépanne votre chauffe-eau au gaz dans la région lyonnaise. Contactez notre service client pour un devis chauffe-eau à Lyon.",
+      "image": {
+        "src": "https://www.mure-energies.fr/build/images/mure-energies-equipements-chauffe-eaux-456x334.dfee58a1.jpg",
+        "alt": "Découvrez notre gammes de chauffe-eaux gaz et les chauffes-bains à Lyon"
+      }
+    }
+  },
+  "hero": {
+    "title": "Confort et bien-être avec les chauffe-eaux gaz et les chauffe-bains",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.mure-energies.fr/build/images/mure-energies-equipements-chauffe-eaux-456x334.dfee58a1.jpg",
+      "alt": "Découvrez notre gammes de chauffe-eaux gaz et les chauffes-bains à Lyon"
+    },
+    "text": "<p>Pas question de se passer d'eau chaude sanitaire et d'une bonne douche chaude ! Il existe aujourd'hui plusieurs systèmes permettant de produire de l'ECS. Le cumulus électrique, encore très répandu, est en passe d'être supplanté par les <b>chauffe-eaux thermodynamiques</b>, plus écologiques.</p> <p>Mais on peut aussi produire son eau chaude sanitaire à l'aide d'une chaudière équipée d'un ballon ou encore faire installer un chauffe-eau au gaz, un équipement encore appelé <b>chauffe-bain</b>. Mure Energies vous propose l'installation de différents chauffe-eaux à <a href=\"https://www.mure-energies.fr/chauffage-lyon\" title=\"Chauffage Lyon\">Lyon</a>. Nos équipes de techniciens qualifiés effectuent aussi la maintenance et le dépannage de ces systèmes de production d'ECS.</p>"
+  },
+  "contents": [
+    {
+      "title": "Les différents chauffe-eaux et leur fonctionnement",
+      "text": "<p>Alors que le chauffe-eau électrique, ou cumulus, produit de l'eau chaude sanitaire à l'aide d'une résistance, le <b>chauffe-bain</b> dispose d'un brûleur au gaz. Le chauffe-bain peut disposer, pour plus de confort, d'une réserve d'eau chaude sous forme d'un ballon. Il existe aussi des <b>chauffe-bains gaz</b> à production instantanée. La présence d'un ballon vous permet de disposer d'eau chaude sanitaire à tout moment, sans avoir à attendre que l'eau soit réchauffée par le brûleur gaz. Selon vos besoins, Mure Energies vous conseillera un modèle spécifique. Ainsi, les chauffe-bains gaz à Lyon conviennent bien à des usages limités. Si les besoins sont plus importants, il peut être intéressant de prévoir un ballon d'eau chaude.</p> <b>chauffe-bain</b> <b>chauffe-bains gaz</b>"
+    },
+    {
+      "title": "Pourquoi confier l'installation de votre chauffe-eau au gaz à Lyon à Mure Energies ?",
+      "text": "<p>L'installation d'un <b>chauffe-bain au gaz</b> à Lyon doit suivre les normes relatives à tous les systèmes au gaz. Ainsi, Il est indispensable de mettre en place une évacuation des fumées de combustion. L'installation doit aussi être régulièrement entretenue, pour réduire les risques liés au monoxyde de carbone. Mure Energies est partenaire GRDF. Nos techniciens qualifiés assurent votre sécurité et le bon fonctionnement de votre installation. Vous souhaitez faire installer un <b>chauffe-bain</b> ? N'hésitez pas à nous demander un devis pour un chauffe-eau gaz à Lyon. Nous vous proposons aussi des <a href=\"https://www.mure-energies.fr/entretien/chauffe-eau\" title=\"Contrat entretien chauffe-eaux\">contrats d'entretien</a>.</p> <b>chauffe-bain au gaz</b> <b>chauffe-bain</b> <a href=\"https://www.mure-energies.fr/entretien/chauffe-eau\" title=\"Contrat entretien chauffe-eaux\">contrats d'entretien</a> <p>Parmi les avantages du <b>chauffe-eau au gaz</b>, il faut signaler que cet équipement est plus économique que les cumulus électriques. Il s'entartre peu et pourra alimenter plusieurs points d'eau dès lors que nos équipes techniques auront conçu un réseau complet. Mure Energies pourra aussi vous conseiller l'installation d'un <b>chauffe-eau thermodynamique</b> à Lyon et vous proposer un devis pour cet équipement. Ce système novateur fonctionne sur le principe de la pompe à chaleur, mais ne nécessite pas d'unité extérieure. Il vous permet de chauffer votre eau chaude sanitaire en utilisant l'énergie extraite de l'air ambiant. Ce dispositif est éligible à MaPrimeRenov.</p> <b>chauffe-eau au gaz</b> <b>chauffe-eau thermodynamique</b> <p>Notre service client se tient à votre disposition pour vous conseiller un système de production d'eau chaude sanitaire adapté à vos besoins et à votre logement. Lors de l'installation, nos équipes respectent toujours votre domicile et laissent un chantier propre.</p>"
+    }
+  ],
+  "related": {
+    "title": "Consultez nos services liés au chauffe-bain",
+    "links": [
+      {
+        "text": "Installation ou remplacement d'un chauffe-bain",
+        "href": "https://www.mure-energies.fr/installation/chauffe-eau",
+        "title": "Installation d'un Chauffe-bain"
+      },
+      {
+        "text": "Contrat d'entretien et maintenance du chauffe-bain",
+        "href": "https://www.mure-energies.fr/entretien/chauffe-eau",
+        "title": "Entretien d'un Chauffe-bain"
+      },
+      {
+        "text": "Dépannage / réparation du chauffe-bain",
+        "href": "https://www.mure-energies.fr/depannage/chauffe-eau",
+        "title": "Entretien d'un Chauffe-bain"
+      }
+    ]
+  },
+  "url": "https://www.mure-energies.fr/equipements/chauffe-eau-gaz-chauffe-bain"
+}

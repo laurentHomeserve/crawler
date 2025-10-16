@@ -1,0 +1,43 @@
+{
+  "breadcrumb": "Certification rge qualipac",
+  "seo": {
+    "title": "Certification RGE Qualipac | SBF Energies",
+    "description": "QualiPAC est la marque de qualité RGE en France qui rassemble les professionnels qualifiés pour installer des pompes à chaleur. Faites confiance à la qualité.",
+    "opengraph": {
+      "site_name": "SBF Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Certification RGE Qualipac | SBF Energies",
+      "description": "QualiPAC est la marque de qualité RGE en France qui rassemble les professionnels qualifiés pour installer des pompes à chaleur. Faites confiance à la qualité.",
+      "image": {
+        "src": "https://www.sbf-energies.com/build/images/sbf-energies-certification-qualipac-456x334.0e2a3306.jpg",
+        "alt": "Logo certification QualiPAC"
+      }
+    }
+  },
+  "hero": {
+    "title": "Faites appel à un professionnel certifié Qualipac",
+    "subtitle": "Faîtes appel à des experts certifiés pour votre chauffage"
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/sbf-energies-certification-qualipac-456x334.0e2a3306.jpg",
+      "alt": "Logo certification QualiPAC"
+    },
+    "text": "<p>Cette certification spécifique s'adresse aux professionnels installant des <a href=\"/equipements/pompe-a-chaleur\">pompes à chaleur</a> ainsi que des <a href=\"/equipements/chauffe-eau-thermodynamique\">chauffe-eaux thermodynamiques</a>. Que signifie ce label de qualité RGE ? RGE est l'acronyme de “Reconnu Garant de l'Environnement” alors que QualiPAC signifie que vous vous adressez à un professionnel spécialisé dans l'installation de pompes à chaleur.</p> <p>Toutes les entreprise ne disposent pas de ce label spécifique. Que recouvre-t-il ? Pourquoi préférer un professionnel RGE QualiPAC à un autre ?</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Qu'est-ce que la certification QualiPAC RGE ?",
+      "text": "<p>Cette certification est donnée par l'AFPAC (Association Française pour la Pompe à Chaleur) ; il faut savoir que cette agence est gérée depuis une dizaine d'années par l'association Qualit'enr (un organisme créé par l'Ademe). Une entreprise est qualifiée RGE QualiPAC lorsqu'elle est en mesure d'assurer à ses clients un chantier qui répond aux normes en vigueur et à des exigences de qualité très précises.</p> <p>Ainsi, toutes les entreprises ne disposent pas de cette qualification RGE adaptée ; il faut en faire la demande auprès de l'organisme certificateur et démontrer que l'on possède une expertise professionnelle reconnue et éprouvée. De même, afin de pouvoir déposer un dossier de demande de qualification, il faut que l'entreprise dispose déjà d'une autre certification professionnelle (par exemple Qualibat).</p> <p>Comment l'AFPAC procède-t-elle ? Pour s'assurer du suivi de ce cahier des charges précis, Quali'enr fait signer aux artisans et professionnels désirant obtenir ce label une charte dans laquelle ces derniers s'engagent à respecter certaines procédures et à réaliser scrupuleuse les différentes opérations en vigueur dans le domaine de l'installation et de la maintenance des pompes à chaleur. C'est ainsi que SBF Energies bénéficie des qualifications RGE délivrées par cet organisme officiel ; en somme, ce label atteste de l'aptitude certaine de nos collaborateurs.</p> <hr>"
+    },
+    {
+      "title": "Pourquoi est-il préférable de faire confiance à une entreprise certifiée RGE QualiPAC ?",
+      "text": "<p>En faisant appel à sbf-Énergies, entreprise certifiée RGE QualiPAC, vous serez certains de bénéficier des meilleurs conseils en termes de travaux de rénovation énergétique à faire chez vous, des derniers produits disponibles sur le marché ainsi qu'un savoir-faire de qualité pour l'<a href=\"/installation/pompe-a-chaleur\">installation de votre pompe à chaleur</a> pour logement individuel ; comme son nom le laisse entendre, cette certification RGE QualiPAC, c'est faire le choix de la qualité et du professionnalisme. En effet, le secteur de la pompe à chaleur est particulièrement porteur et jeune, aussi il attire beaucoup et notamment des personnes malhonnêtes ; or en choisissant de s'adresser à une entreprise reconnue par Quali'enr, vous ne vous tromperez pas.</p> <p>Pour résumer, en faisant confiance à sbf-Énergies pour l'installation et l'entretien de votre pompe à chaleur, vous vous inscrirez dans la démarche de qualité que Qualit'enr défend et cherche à promouvoir. Outre, la réalisation de travaux en énergies renouvelables la plus soigneuse qui soit, vous réduirez votre consommation d'énergie et réaliserez par la même occasion d'importantes économies. Pour conclure, un professionnel RGE QualiPAC s'inscrit dans une démarche de totale transparence et vous donnera toutes les informations nécessaire à connaître.</p> <p>Vous êtes convaincu ? Alors n'hésitez-pas à contacter le service clients sbf-Énergies pour prendre rendez-vous pour l'installation de votre pompe à chaleur.</p>"
+    },
+    {
+      "title": "Nos autres certifications :",
+      "text": "<p><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <a href=\"/qui-sommes-nous/certification-qualiclimafroid\">Certification Qualiclimafroid</a></p> <p><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <a href=\"/qui-sommes-nous/certification-mitsubishi-electric\">Certification Mitsubishi Electric</a></p>"
+    }
+  ]
+}

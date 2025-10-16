@@ -43,7 +43,39 @@ export const config: SiteConfig[] = [
   {
     dir: './conviflamme',
     url: 'https://www.conviflamme.fr/'
+  },
+  {
+    dir: './mure-energies',
+    url: 'https://www.mure-energies.fr/'
+  },
+  {
+    dir: './aujard',
+    url: 'https://www.aujard.fr/'
+  },
+  {
+    dir: './roussin',
+    url: 'https://www.roussin-energies.fr/'
+  },
+  {
+    dir: './ph-energies',
+    url: 'https://www.ph-energies.fr/'
+  },
+  {
+    dir: './sbf-energies',
+    url: 'https://www.sbf-energies.fr/'
+  },
+  {
+    dir: './sbf-energies',
+    url: 'https://www.sbf-energies.fr/'
+  },
+  {
+    dir: './gd-energies',
+    url: 'https://www.gd-energies.fr/'
+  },  
+  {
+    dir: './egs-energies',
+    url: 'https://www.egs-energies.fr/'
   }
 ];
 
-export const valueConfig = 9; 
+export const valueConfig = 17; 

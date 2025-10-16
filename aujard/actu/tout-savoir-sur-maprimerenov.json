@@ -1,0 +1,31 @@
+{
+  "breadcrumb": "Tout savoir sur MaPrimeRenov",
+  "seo": {
+    "title": "Tout savoir sur MaPrimeRenov",
+    "description": "On vous dit tout sur MaPrimeRénov' : une aide maintenue en 2023 pour des logements de plus de 15 ans !",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "title": " Tout savoir sur MaPrimeRenov ",
+  "chapo": "Une aide maintenue en 2023 pour des logements de plus de 15 ans. Soyez accompagnés par Aujard !",
+  "image": {
+    "src": "/upload/files/61bb1ad95a6bb976250295.jpg",
+    "alt": "Tout savoir sur MaPrimeRenov"
+  },
+  "intro": "<p><em>\"Parce que beaucoup de chauffages sont encore au fioul ou au gaz, parce que beaucoup de logements sont encore mal isolés, la rénovation est en effet un enjeu prioritaire pour le combat climatique, mais aussi tout simplement pour le confort et le pouvoir d'achat des Français.\"</em> Extrait du dossier de présentation du nouveau dispositif lancé par le ministère du Logement afin d'accélérer la rénovation énergétique.</p> <p>Avec Aujard, vérifiez si vous êtes éligibles et montez votre dossier directement sur la plateforme de l’ANAH en suivant les étapes décrites ici dans notre guide pas à pas. Rien de trop compliqué mais un parcours et des étapes à respecter, votre chauffagiste vous accompagne dans vos démarches.</p> <hr> <p><strong>*Mise à jour 2024</strong><strong>&nbsp;</strong>: changements de certains montants et des barèmes de revenus, conditions d'éligibilité... découvrez toutes les nouveautés dans <a title=\"Les changements MaPrimeRenov' en 2024\" href=\"../../conseils-et-actualites/ma-prime-renov-2024-nouveautes\">notre article MaPrimeRenov 2024</a>.</p> <hr>",
+  "paragraphs": [
+    {
+      "title": "Vous souhaitez en savoir plus ?",
+      "text": "<p><strong><a href=\"../../pdf/maprimerenov/MaPrimeRenov_AUJARD.pdf\" target=\"_blank\" rel=\"noopener\">Cliquez ici pour télécharger notre guide complet pour tout savoir sur MaPrimeRenov'</a> 2023 !</strong></p>"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "breadcrumb": "Entretien",
+  "seo": {
+    "title": "Entretien de votre chauffage en Savoie | SBF Energies",
+    "description": "Un chauffage s'entretient ! SBF Energies est spécialiste de l'entretien de chauffages à Chambery et en Savoie - Rhône-Alpes. Optez pour un contrat d'entretien !",
+    "opengraph": {
+      "site_name": "SBF Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Entretien de votre chauffage en Savoie | SBF Energies",
+      "description": "Un chauffage s'entretient ! SBF Energies est spécialiste de l'entretien de chauffages à Chambery et en Savoie - Rhône-Alpes. Optez pour un contrat d'entretien !",
+      "image": {
+        "src": "https://www.sbf-energies.com/build/images/sbf-energies-prestation-entretien-339x249.fe28bd67.jpg",
+        "alt": "Entretien de votre chauffage et climatisation en Savoie"
+      }
+    }
+  },
+  "hero": {
+    "title": "L'entretien de votre chauffage en Savoie",
+    "subtitle": "Faîtes appel à des experts pour l'entretien de votre chauffage"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.sbf-energies.com/build/images/sbf-energies-prestation-entretien-339x249.fe28bd67.jpg",
+      "alt": "Entretien de votre chauffage et climatisation en Savoie"
+    },
+    "text": "<p>L'entretien de son chauffage est une obligation légale. Un <a href=\"/entretien/pompe-a-chaleur\">entretien annuel de votre pompe à chaleur</a> est nécessaire. L'objectif de la procédure est d'optimiser les performances de l'installation, mais aussi de déceler d'éventuelles faiblesses du système, qui annonceraient une future panne.</p><p>En faisant effectuer un entretien régulier de votre chauffage par des <a href=\"https://www.sbf-energies.com\">chauffagistes professionnels</a> comme les spécialistes de SBF Energies, vous mettez toutes les chances de votre côté afin de ne pas tomber en panne de chauffage en plein hiver.</p><p>Nous proposons des contrats de maintenance annuels permettant le suivi et l'entretien du matériel que nous garantissons. Profitez d'une extension de garantie de 5 ans sous condition que l'installation soit réalisée par SBF Energies et qu'un contrat d'entretien soit souscrit.</p>"
+  },
+  "teasers": [
+    {
+      "title": "Quels équipements faut-il faire entretenir ?",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Des solutions sur mesure en Savoie pour l'entretien de votre chauffage",
+      "text": "",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "L'avis de nos clients sur nos prestations d'entretien",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/5cfd52c8-0b49-c374-b5f6-0e012ecbc665/0cff2c22-af52-4b0a-9ef2-61b6ebc786aa.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

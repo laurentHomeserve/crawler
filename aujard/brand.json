@@ -1,0 +1,32 @@
+{
+  "name": "Aujard",
+  "description": "Chauffagiste en Seine-et-Marne, experts Chaudières, Poêles, Pompes à Chaleur et Climatisations.",
+  "map_url": "https://goo.gl/maps/M42fbek69EeVow4v9",
+  "website_url": "https://www.aujard.fr",
+  "phone": "(33 1)64236793",
+  "streetAddress": "12 Avenue du Président Paul SERAMY",
+  "addressLocality": "Vulaines-sur-Seine, France",
+  "postalCode": "F-77870",
+  "addressCountry": "France",
+  "geo": {
+    "lat": "48.4256249",
+    "lng": "2.7697473"
+  },
+  "favicon": "https://www.aujard.fr/asset/AUJARD/favicon/favicon-32x32.png",
+  "logo": "https://www.aujard.fr/asset/img/organisation/logo/aujard/logo-aujard.jpg",
+  "image": "https://www.aujard.fr/asset/img/organisation/corporate/aujard/chauffagiste-aujard.jpg",
+  "avis_verifies": "",
+  "piwik_token": "76cb2195-ba64-469e-81f4-d96d0146af28",
+  "opening_hours": [
+    "Mo, Tu, We, Th, Fr 09:00-18:00",
+    "Sa 14:30-18:00"
+  ],
+  "footer_links": [],
+  "socials": [],
+  "sameAs": [
+    "https://www.facebook.com/aujardexpo",
+    "https://www.linkedin.com/company/aujard",
+    "https://www.societe.com/societe/aujard-383128139.html",
+    "https://www.pagesjaunes.fr/pros/04482918"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "breadcrumb": "Marques",
+  "seo": {
+    "title": "Nos Marques | Aujard",
+    "description": "Afin de toujours plus vous satisfaire, Aujard travaille et collabore avec les meilleures marques pour être au service de votre confort.",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Nos Marques | Aujard",
+      "description": "Afin de toujours plus vous satisfaire, Aujard travaille et collabore avec les meilleures marques pour être au service de votre confort.",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-marques-partenaires-456x334.8d7663b2.jpg",
+        "alt": "Les marques partenaires d'Aujard"
+      }
+    }
+  },
+  "hero": {
+    "title": "Viessmann, Mitsubishi,... les plus grandes marques pour votre confort",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/aujard-marques-partenaires-456x334.8d7663b2.jpg",
+      "alt": "Les marques partenaires d'Aujard"
+    },
+    "text": "<p>Aujard sélectionne pour vous les meilleurs appareils de chauffage, climatisation, pompes à chaleur et traitement de l'eau. Pour vous garantir la meilleure qualité d'équipement possible, nous travaillons exclusivement avec les plus grandes marques du marché. De véritables experts de la chaleur écologique et naturelle, qui ont fait du bien-être de leurs clients leur priorité.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Les meilleures marques d'équipements de chaudières sont chez Aujard",
+      "text": "<p>Chaudières à gaz, au fioul ou à bois, poêles à bois, pompes à chaleur, systèmes de chauffage solaire… Vous cherchez un appareil de chauffage qui combine performance énergétique et pertinence écologique</p> <h3>Découvrez quelques-unes de nos marques d'appareils de chauffage</h3> <ul> <li><b>Viessmann</b>: marque de pompes à chaleur, de ballons d'eau chaude, de chaudières et de systèmes solaires, ce fabricant plus que centenaire doit sa longévité à son sens de l'innovation. Viessmann s'engage chaque jour pour le développement durable avec des produits toujours plus fiables et efficaces. Une marque récompensée en plusieurs occasions pour sa détermination en faveur de l'environnement.</li> <li><b>Saunier Duval</b>: spécialiste dans la production d'eau chaude et de chauffage saura répondre à vos besoins avec ses équipements toujours plus innovants et qualitatifs. Par exemple, la pompe à chaleur \"GeniaSet\" est la plus silencieuse du marché. En 2020, Saunier DUval a lancé la chaudière à mini-accumulation ThermaPlus, version Bas-NOx pour laquelle les émissions d'oxydes d'azote sont limitées afin de préserver l'environnement.</li> <li><b>Mitsubishi Electric</b>: le leader technologique mondial bientôt centenaire vous propose une large gamme d'équipements de pompes à chaleur, climatisation et chauffe-eau thermondynamique éco-conçus à toute les étapes de leur cycle d'existence  et, dont le processus de fabrication vous assure un équipement performant, fiable et respectueux de l'environnement.</li> <li><b>Frisquet</b>: marque 100% made in France de chaudières, pompes à chaleur, systèmes solaires... Frisquet vous propose des équipements sûrs, performants et qui vous permettront de profiter d'un confort durable tout en maîtrisant mieux vos consommations.</li> <li><b>Hitachi</b>: expert dans la création d'intérieurs confortables grâce à la conception d'équipements de chauffage et de climatisation hauts de gamme qui vous procureront un confort optimal de par leur très grande efficacité.</li> </ul>"
+    }
+  ]
+}

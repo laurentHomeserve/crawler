@@ -3,6 +3,7 @@ import * as fs from 'node:fs/promises';
 import * as path from 'path';
 
 export async function fetchUrl(url: string): Promise<string> {
+  url = url.replace(/([^:]\/)\/+/g, "$1");
   try {
     const response = await axios.get(url);
     return response.data;

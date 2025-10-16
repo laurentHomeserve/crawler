@@ -1,0 +1,52 @@
+{
+  "breadcrumb": "Poele",
+  "seo": {
+    "title": "Dépannage et Réparation de Poêles à bois, pellets dans la Seine-et-Marne",
+    "description": "Depuis plus de 20 ans, Aujard intervient rapidement pour dépanner et réparer votre poêle de chauffage dans la Seine-et-Marne",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Dépannage et Réparation de Poêles à bois, pellets dans la Seine-et-Marne",
+      "description": "Depuis plus de 20 ans, Aujard intervient rapidement pour dépanner et réparer votre poêle de chauffage dans la Seine-et-Marne",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-poele-456x334.4dc47894.jpg",
+        "alt": "Dépannage d'un poele par Aujard"
+      }
+    }
+  },
+  "hero": {
+    "title": "Le dépannage des poêles (bois, granulés, de masse avec ou sans four)",
+    "subtitle": "Aujard intervient rapidement pour la réparation de votre poêle"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.aujard.fr/build/images/aujard-poele-456x334.4dc47894.jpg",
+      "alt": "Dépannage d'un poele par Aujard"
+    },
+    "text": "<p>Depuis de nombreuses années, notre entreprise intervient pour des dépannages de <b>poêles à pellets, à bois ou de masse</b>.</p> <p>Soucieux de la satisfaction de nos clients, nous avons constitué une équipe d'experts, régulièrement formés sur les nouveaux modèles de poêle, afin d'être capables d'intervenir sur des appareils de n'importe quelle marque.</p> <p>Notre équipe intervient dans les villes de <b>Meluns, Provins, <a href=\"https://www.aujard.fr/chauffage-fontainebleau\" title=\"Chauffage Fontainebleau\">Fontainebleau</a></b> et alentours pour répondre aux mieux à vos besoins et revient sur les spécifités des dépannages liéés aux différents types de poêles existants (poêle à bois, poêle à granulés, poêle de masse).<br><br><br>&nbsp;</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Le dépannage d'un poêle à bois",
+      "text": "<p>Même si <b>son maniement est simple</b>, le poêle à bois n'est <b>pas épargné par les pannes</b>. Si, par exemple, il produit beaucoup de fumée, si les bûches ne se consument pas aussi vite qu'à l'accoutumée, si le thermostat est déréglé, ou si les flammes sont bien plus grandes que d'habitude, c'est que votre appareil a un problème.</p> <p>Avant de nous appeler, vous pouvez vérifier que vous avez bien éliminé les cendres à l'intérieur de la cuve à bois, et que rien n'empêche les ouvertures de ventilation de fonctionner correctement. Assurez-vous également que le ramonage a bien été effectué en temps et en heure. Le cas échéant, le passage d'un ramoneur peut solutionner votre problème. Si rien ne s'améliore après ces vérifications, il est nécessaire de contacter un réparateur.</p> <hr>"
+    },
+    {
+      "title": "Le dépannage d'un poêle à granulés",
+      "text": "<p>Grâce à son <b>très bon rendement</b>, à son autonomie et à sa facilité d'utilisation, le poêle à granulés trouve sa place dans un nombre croissant de foyers. S'il arrive parfois que cet appareil tombe en panne, ce n'est pas grave puisque nous avons toujours dans notre équipe un réparateur de poêle à granulés prêt à venir à votre secours !</p> <p>Ce type de poêle est complètement automatisé, ce qui est un avantage, mais aussi un inconvénient : quand l'un des composants a une défaillance, c'est tout le système qui s'arrête. Si vous remarquez que votre poêle à pellets ne fonctionne plus comme avant, commencez par un nettoyage approfondi de l'appareil en vous référant à la notice d'utilisation. Si malgré cela, il n'y a pas de changements, appelez nous : nous vous enverrons au plus vite un réparateur de poêle à pellets.</p> <hr>"
+    },
+    {
+      "title": "Le dépannage d'un poêle de masse",
+      "text": "<p>Malgré son excellent rendement, le poêle de masse est le moins connu de la famille des poêles. Comme eux, il lui arrive parfois de ne pas fonctionner correctement, mais, comme toujours, nous avons l'expert qu'il vous faut en cas de panne !Si votre détecteur de monoxyde de carbone se déclenche pendant ou après la flambée, ou si votre poêle fume anormalement, c'est qu'il a un problème. Avant de nous contacter, assurez-vous que son entretien a été bien fait et que le passage d'un ramoneur est récent. Si tout est en ordre de ce côté-là, il est préférable d'appeler un réparateur qui vérifiera le système de tirage de l'appareil, souvent à l'origine de ce type de dysfonctionnement.</p> <p>N'attendez pas que votre poêle vous lâche en pleine période de chauffe ! <b>Pensez à le faire réviser régulièrement par nos techniciens spécialisés</b> en poêle à pellets, au bois ou de masse. Nous pouvons vous proposer des contrats d'entretien très avantageux qui minimiseront le risque de panne. <a href=\"/nous-contacter?type=1&amp;categorie=renewable_energy_solutions\" title=\"contactez-nous pour dépanner votre poêle\">Appelez-nous</a> ou <a href=\"/showroom\">passez nous voir</a> : l'un de nos collaborateurs sera toujours disponible pour répondre à vos questions.</p> <hr>"
+    },
+    {
+      "title": "Nos autres services liés aux poêles",
+      "text": "<p><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <a href=\"https://www.aujard.fr/installation/poele\" title=\"Installateur poêle à bois en Seine-et-Marne\">Installation ou remplacement d'un poêle</a> <br><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <a href=\"https://www.aujard.fr/entretien/poele\" title=\"Entretien poêle à bois ou à granulés en Seine-et-Marne\">Entretien du poêle et des conduits</a></p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  },
+  "url": "https://www.aujard.fr/depannage/poele"
+}

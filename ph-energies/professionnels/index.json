@@ -1,0 +1,58 @@
+{
+  "breadcrumb": "Professionnels",
+  "seo": {
+    "title": "PH Energies, nos prestations chauffage et climatisation pour les professionnels",
+    "description": "Depuis 2005, PH Energies accompagne les professionnels de la construction dans l'installation de chauffage et de climatisation dans l'Orne et le Calvados.",
+    "opengraph": {
+      "site_name": "PH Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "PH Energies, nos prestations chauffage et climatisation pour les professionnels",
+      "description": "Depuis 2005, PH Energies accompagne les professionnels de la construction dans l'installation de chauffage et de climatisation dans l'Orne et le Calvados.",
+      "image": {
+        "src": "https://www.ph-energies.fr/build/images/ph-energies-professionnels-456x334.668d4450.jpg",
+        "alt": "PH Energies pour accompagner les professionnels de la construction"
+      }
+    }
+  },
+  "hero": {
+    "title": "Faites appel à PH Energies, expert chauffagiste, pour vos projets de construction dans le Calvados et l'Orne",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.ph-energies.fr/build/images/ph-energies-professionnels-456x334.668d4450.jpg",
+      "alt": "PH Energies pour accompagner les professionnels de la construction"
+    },
+    "text": ""
+  },
+  "teasers": [
+    {
+      "title": "PH Energies vous accompagne dans le choix de votre équipement de chauffage à Caen",
+      "text": "<p>Chez PH Energies, nous sommes convaincus que chaque projet immobilier est unique. C'est pourquoi nous souhaitons accompagner les professionnels de la construction dans le processus de choix de leurs équipements de chauffage et de climatisation. Les critères de confort, de typologie d'occupation et de pilotage à distance d'un parc de logement peuvent également conditionner les solutions proposées : optimisation de la consommation d'énergie par les occupants, réglage du confort à distance par les occupants, suivi à distance des pannes ou défauts avant même que l'occupant ne soit gêné peuvent orienter les solutions proposées au delà du critère souvent incontournable du ratio coût de l'installation / coût d'exploitation.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Installation de chauffage et de climatisation dans des logements neufs dans le Calvados et l'Orne",
+      "text": "<p>Vous êtes un professionnel de la construction et vous recherchez un spécialiste pour <a href=\"https://www.ph-energies.fr/logements-neufs\" title=\"Chauffage et climatisation pour logement neuf\">équiper votre bâtiment neuf en chauffage et climatisation</a> ? Les techniciens PH Energies sont formés pour installer :</p><ul><li>des pompes à chaleur air/eau, eau/eau ou pompe à chaleur hybride gaz</li><li>des chauffe-eaux et chauffe-bains</li><li>des planchers chauffants</li><li>des climatisations air / air réversibles de type gainable avec zoning ou multisplit</li><li>des chaudières à gaz, à bois ou à granulés</li></ul><p>Vous pouvez également faire appel à nos équipes pour des travaux de plomberie et sanitaires. En effet, nous nous occupons des poses de baignoire, douche, WC et sèche serviette ainsi que des circuits d'alimentation en eau sanitaire.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "PH Energies travaille dans le respect des normes en matière de constructions neuves",
+      "text": "<p>Les différentes certifications et labels que nous possédons nous permettent de vous garantir un total respect des normes et des réglementations actuellement en vigueur pour la construction de logement neuf.</p><p>Depuis le 1er janvier 2022, c'est la <a href=\"../../conseils-et-actualites/re-2020-tout-savoir-reglementation-thermique\" title=\"RE 2020 : tout savoir\">Réglementation Environnementale 2020</a> qui s'applique aux constructions neuves afin de les rendre plus respectueuses de l'environnement. Prévue par la loi ELAN (Evolution du Logement, de l'Aménagement et du Numérique), elle remplace désormais la Réglementation Thermique 2012 pour tout nouveau dépôt de permis de construire. Les maîtres-mots de cette nouvelle réglementation sont le confort d'été, l'empreinte carbone et l'énergie convertie en énergie primaire.</p><p>Pour respecter cette nouvelle réglementation plus ambitieuse et plus exigeante que la précédente, PH Energies vous propose d'installer des équipements plus économiques et plus écologiques tels que les pompes à chaleur air / eau sur plancher chauffant / rafraîchissant, les chaudières granulés ou encore d'utiliser la géothermie et les systèmes thermodynamiques. Cette nouvelle réglementation thermique, en poussant encore un peu plus la qualité et l'isolation du bâti permet de réduire les besoins en chauffage mais peut accentuer les besoins en amélioration de la qualité d'air intérieure en rendant la VMC double flux très importante et des besoins de rafraîchissements aux périodes les plus chaudes.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

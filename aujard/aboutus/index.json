@@ -1,0 +1,47 @@
+{
+  "breadcrumb": "Qui sommes nous",
+  "seo": {
+    "title": "Qui sommes-nous ? Aujard - Agence de Vulaines-sur-Seine",
+    "description": "Forte de son expérience en chauffage et plomberie, Aujard Entreprise est aussi revendeur et installateur de poêles, chaudières, ...",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Qui sommes-nous ? Aujard - Agence de Vulaines-sur-Seine",
+      "description": "Forte de son expérience en chauffage et plomberie, Aujard Entreprise est aussi revendeur et installateur de poêles, chaudières, ...",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-qui-sommes-nous-456x334.e911da09.jpg",
+        "alt": "L'entreprise Aujard"
+      }
+    }
+  },
+  "hero": {
+    "title": "Aujard, votre spécialiste chaleur et bien-être en Seine-et-Marne",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/aujard-qui-sommes-nous-456x334.e911da09.jpg",
+      "alt": "L'entreprise Aujard"
+    },
+    "text": "<p>Notre entreprise Aujard vous accueille du lundi au samedi dans son agence de Vulaines-sur-Seine en Seine-et-Marne. Chauffagiste expert en chaleur naturelle et écologique depuis 1991, notre équipe Aujard vous conseille également sur les meilleurs produits pour votre équipement de bien-être.</p> <p>En 2020, nous avons choisi de rejoindre le groupe HomeServe, une société spécialisée dans les travaux d'installation et de rénovation mais également dans les prestations d’assistance et de dépannage.</p> <p>Depuis 20 ans en France, l'objectif d'HomeServe est d'apporter toujours plus de sérénité à ses clients pour faire de leur Maison le lieu clé de leur bien être. Forte de son réseau de 4 000 professionnels présents partout en France métropolitaine, HomeServe compte aujourd’hui plus d’un million de clients, et depuis 4 années consécutives remporte la distinction \"Elu service client de l’année 2020\" dans sa catégorie.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "3 domaines d'expertise pour votre confort au quotidien",
+      "text": "<p>Toute l'équipe Aujard vous attend dans son agence de Vulaines-sur-Seine. Notre expérience de l'univers du chauffage et de ses équipements nous permet de :</p> <ul> <li>Vous orienter dans notre service de dépannage, d'entretien et d'installation de vos équipements sanitaires et appareils de chauffage</li> <li>Vous conseiller sur le choix de votre nouvel équipement de chauffage. Poêle à bois, à pellets, poêle de masse, chaudière au gaz ou au fioul, pompe à chaleur, système solaire... Nous avons développé une offre complète d'appareils fiables, économiques, écologiques</li> </ul> <hr>"
+    },
+    {
+      "title": "Aujard, société engagée pour une chaleur plus verte",
+      "text": "<p>En 1991, Jean-Paul Aujard fonde la société Aujard. Elle se spécialise en premier lieu dans l'installation, l'entretien et la réparation d'équipements de chauffage et de sanitaires.Avec le temps, Aujard se forge une solide expérience dans le domaine de la chaleur et diversifie son activité. L'entreprise travaille désormais avec des marques reconnues en France comme à l'étranger. Elle propose son catalogue et se spécialise dans le chauffage à bois. Notre agence de Seine-et-Marne vous accueille pour tous vos besoins liés au choix, l'installation, la réparation ou l'alimentation de vos appareils.</p> <hr>"
+    },
+    {
+      "title": "L'agence Aujard de Vulaines-sur-Seine à votre écoute",
+      "text": "<p>Vous avez un projet de travaux en vue de l'installation d'un nouvel appareil de chauffage ? Rencontrons-nous à l'agence pour en discuter ! Nous pouvons mobiliser pour vous un réseau d'experts dédiés à l'étude et la mise en œuvre de votre projet d'installation. Nous sollicitons ces partenaires techniques et fournisseurs de haute qualité et étudions avec vous votre projet :</p> <ul> <li>Ses objectifs et ses contraintes</li> <li>Ses difficultés techniques et les modes constructifs à mettre en œuvre</li> <li>Le chiffrage de son budget.</li> </ul> <p>Vous ne vous engagez jamais à l'aveugle et menez vos travaux en toute confiance.</p> <hr>"
+    },
+    {
+      "title": "Nous rencontrer dans la boutique Aujard",
+      "text": "<p>Notre agence de Vulaines-sur-Seine se situe à 7 km de <a href=\"https://www.aujard.fr/chauffage-fontainebleau\" title=\"Chauffage Fontainebleau\">Fontainebleau</a>, 20 km de <a href=\"https://www.aujard.fr/chauffage-melun\" title=\"Chauffage Melun\">Melun</a> et 25 km de <a href=\"https://www.aujard.fr/chauffage-nangis\" title=\"Chauffage Nangis\">Nangis</a>. <br>Nous sommes ouverts du lundi au vendredi de 8h à 12h et de 13h à 17h30 <br> <br>A l'adresse suivante : <br>12 Avenue du Président Paul SERAMY, 77870 VULAINES SUR SEINE <br> <br>Tél : 01 64 23 67 93 <br>Fax : 01 64 23 68 40 <br> <br>Coordonnées GPS : 48.4256249, 2.7697473\n        </p>"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "breadcrumb": "",
+  "seo": {
+    "title": "Roussin Energies, plombier chauffagiste à Grenoble et son agglomération",
+    "description": "Plombier Chauffagiste à Grenoble, Roussin Energies intervient pour l'installation d'équipements de chauffage et climatisation, l'entretien et le dépannage, ainsi que pour vos travaux de plomberie sanitaire. Contactez-nous !",
+    "opengraph": {
+      "site_name": "Roussin Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Roussin Energies, plombier chauffagiste à Grenoble et son agglomération",
+      "description": "Plombier Chauffagiste à Grenoble, Roussin Energies intervient pour l'installation d'équipements de chauffage et climatisation, l'entretien et le dépannage, ainsi que pour vos travaux de plomberie sanitaire. Contactez-nous !",
+      "image": {
+        "src": "https://www.roussin-energies.fr/asset/img/organisation/corporate/roussin/chauffagiste-roussin-energies.jpg",
+        "alt": ""
+      }
+    }
+  },
+  "hero": {
+    "title": "Votre plombier chauffagiste dans l'agglomération Grenobloise",
+    "subtitle": "Entretenir, installer et dépanner vos solutions de chauffage et climatisation à Grenoble et villes limitrophes"
+  },
+  "expertises": [
+    {
+      "linked": "/installation",
+      "sticker": "Installation & Remplacement",
+      "title": "Remplacement et installation des équipements de chauffage",
+      "img": {
+        "src": "/build/images/roussin-energies-accueil-installation-remplacement-456x334.9fe3b403.jpg",
+        "alt": "Installation & Remplacement"
+      },
+      "content": "Vous souhaitez installer ou remplacer votre ancien système de chauffage par un équipement performant et moins énergivore ? Nos plombiers chauffagistes sont disponibles pour réaliser l'étude de votre projet et vous proposer l'équipement de chauffage ou de climatisation adapté au besoin de votre foyer.",
+      "button": {
+        "text": "Installation et Remplacement",
+        "title": "Installer un équipement de chauffage ou climatisation"
+      }
+    },
+    {
+      "linked": "/entretien",
+      "sticker": "Entretien & Maintenance",
+      "title": "Entretien de tous vos systèmes de chauffage et climatisation",
+      "img": {
+        "src": "/build/images/roussin-energies-accueil-maintenance-entretien-456x334.22031e76.jpg",
+        "alt": "Entretien & Maintenance"
+      },
+      "content": "Vous souhaitez entretenir un équipement de chauffage ou climatisation ? Forfaitaire ou sous contrat nous réalisons l'entretien de chaudières, pompes à chaleur, climatisations, poêles à granulés et chauffe-eaux dans toute l'agglomération Grenobloise. Choisissez la qualité au meilleur prix !",
+      "button": {
+        "text": "Entretien et Maintenance",
+        "title": "Entretenir un équipement de chauffage ou climatisation"
+      }
+    },
+    {
+      "linked": "/depannage",
+      "sticker": "Réparation & Dépannage",
+      "title": "Réparation et dépannage d'appareils de chauffage (expertise multimarque)",
+      "img": {
+        "src": "/build/images/roussin-energies-accueil-depannage-reparation-456x334.34872c5f.jpg",
+        "alt": "Réparation & Dépannage"
+      },
+      "content": "Votre équipement de chauffage ne fonctionne plus ? Vous constatez une baisse de rendement ? Une surconsommation énergétique (gaz, fioul, bois, électricité, ...) ? Nous intervenons auprès des particuliers et des entreprises pour dépanner et réparer vos appareils de chauffage et climatisation.",
+      "button": {
+        "text": "Réparation et Dépannage",
+        "title": "Dépanner un équipement de chauffage ou climatisation"
+      }
+    }
+  ],
+  "certification": {
+    "title": "",
+    "content": "*Du lundi au vendredi aux heures&nbsp;ouvrables de la Société.",
+    "logos": [
+      {
+        "src": "/build/images/contract.bc1ea87c.png",
+        "alt": "Contrat d'entretien"
+      }
+    ]
+  },
+  "partner": {
+    "title": "Nos partenaires fabricants d'équipements de chauffage, climatisation et production d'eau chaude",
+    "content": "Chauffagiste à <a href=\"https://www.roussin-energies.fr/chauffage-grenoble\" title=\"Chauffage Grenoble\">Grenoble</a>, Roussin Energies est spécialisé dans les <a href=\"/qui-sommes-nous/certifications-et-marques\" title=\"Toutes nos marques de chauffage et climatisation\">grandes marques de chauffage et climatisation</a> suivantes : Frisquet, Saunier Duval, De Dietrich, Froling pour les chaudières, Daikin, Mitsubishi et Atlantic pour les pompes à chaleur air/eau et pompes à chaleur eau/eau. Pour l'<a href=\"/installation/plancher-chauffant\" title=\"Installer un plancher chauffant\">installation de plancher chauffant</a>, nous faisons confiance aux équipements Acome. Nos systèmes de production d'eau chaude sanitaire reposent sur des <a href=\"/equipements/chauffe-eau\" title=\"En savoir plus sur les chauffe-eaux\">chauffe-eaux thermodynamiques</a> Thermor. Nous pouvons ainsi vous proposer un large choix de matériel en fonction de vos besoins.<br>&nbsp;",
+    "logos": [
+      {
+        "src": "/build/images/atlantic_v2.2245d704.jpg",
+        "alt": "Atlantic"
+      },
+      {
+        "src": "/build/images/viessmann_v2.6046242f.png",
+        "alt": "Viessmann"
+      },
+      {
+        "src": "/build/images/froling.8e592a62.png",
+        "alt": "Froling"
+      },
+      {
+        "src": "/build/images/acome.1240b69d.png",
+        "alt": "Acome"
+      },
+      {
+        "src": "/build/images/saunier-duval.da98463a.jpg",
+        "alt": "Saunier Duval"
+      },
+      {
+        "src": "/build/images/mitsubishi-electric-partner.4a0a55b1.jpg",
+        "alt": "Mitsubishi Electric"
+      },
+      {
+        "src": "/build/images/daikin.b596ffed.jpg",
+        "alt": "Daikin"
+      },
+      {
+        "src": "/build/images/frisquet.761666dc.jpg",
+        "alt": "Frisquet"
+      },
+      {
+        "src": "/build/images/thermor.ebca3d3f.jpg",
+        "alt": "Thermor"
+      },
+      {
+        "src": "/build/images/de-dietrich.83341f62.jpg",
+        "alt": "De Dietrich"
+      }
+    ]
+  },
+  "map": {
+    "title": "Entreprise locale, nos équipes interviennent à Grenoble et ses alentours",
+    "content": "Votre chauffagiste Roussin Energies intervient dans la région grenobloise. Nous desservons l'agglomération de <a href=\"https://www.roussin-energies.fr/chauffage-grenoble\" title=\"Chauffage Grenoble\">Grenoble</a> ainsi que les environs, dans un rayon de 50 km. Pour toute demande au-delà de cette zone, nous vous conseillons de prendre contact avec notre société.<br><br> L'adresse historique de Roussin Energies se situe à <a href=\"https://www.roussin-energies.fr/chauffage-fontaine\" title=\"Chauffage Fontaine\">Fontaine</a>, où nous continuons d'intervenir pour des <a href=\"/entretien\" title=\"Entretien et maintenance de vos équipements de chauffage\">visites d'entretien</a>, du dépannage ou l'installation de systèmes de chauffage. Nos plombiers qualifiés effectuent de nombreuses interventions dans l'agglomération grenobloise, qu'il s'agisse d'une recherche et d'une réparation de fuite ou du remplacement d'un système de production d'eau chaude sanitaire. Nous effectuons aussi des interventions sur les communes de : Seyssinet, <a href=\"https://www.roussin-energies.fr/chauffage-seyssins\" title=\"Chauffage Seyssins\">Seyssins</a>, Montbonnot, <a href=\"https://www.roussin-energies.fr/chauffage-voiron\" title=\"Chauffage Voiron\">Voiron</a>, Coublevie et les différentes communes <a href=\"/qui-sommes-nous/zones-intervention\" title=\"Notre zone d'intervention autour de Grenoble\">dans notre rayon d'intervention</a>.<br><br>  Dans toutes ces zones, vous pouvez également nous solliciter pour des <a href=\"/plomberie-sanitaire\" title=\"Tous nos travaux de plomberie sanitaire à Grenoble\">travaux de plomberie sanitaire</a> dont l'installation, le remplacement et le dépannage de robinetterie, la réparation ou le remplacement de vos chasses d'eau de WC, la rénovation de votre salle de bain, avec, si vous le souhaitez, le remplacement de la baignoire par une douche à l'italienne. Nous assurons aussi la pose ou le remplacement des radiateurs à eau. Nous sommes spécialisés dans les chauffages respectueux de l'environnement et vous proposerons des pompes à chaleur et chaudières à condensation de dernière génération. N'hésitez pas à nous contacter <a href=\"/nous-contacter\" title=\"Contacter Roussin Energies\">via notre formulaire en ligne</a>.<br>&nbsp;",
+    "map": {
+      "lat": 45.18733,
+      "lng": 5.69576,
+      "zoom": 12,
+      "title": "Roussin Energies",
+      "content": "<h3 style=\"font-size:1.1em\">Roussin Energies</h3><p>34 allée des Balmes,<br/>38600 Fontaine</p><p>Adresse email : contact@roussin-energies.fr</p><p>Téléphone : 04 76 26 07 65</p>"
+    }
+  },
+  "presentation": {
+    "title": "Un plombier chauffagiste à votre service jusqu'à 50 Km autour de Grenoble",
+    "content": "<p>Notre entreprise de plombier chauffagiste est spécialisée dans la vente et l'<a href=\"/installation\" title=\"Installer un équipement de chauffage dans la région de Grenoble\">installation des équipements de chauffage</a> ou de production d'eau chaude sanitaire. Nos techniciens expérimentés effectuent aussi la maintenance et le dépannage des différents équipements. Nous proposons la rénovation de salles de bain ou leur création clé en main. Nous nous déplaçons dans la région de <a href=\"https://www.roussin-energies.fr/chauffage-grenoble\" title=\"Chauffage Grenoble\">Grenoble</a> pour des dépannages de plomberie.</p> <h3>Installation d'équipements de chauffage et de climatisation</h3> <p>Nos techniciens spécialisés sont régulièrement formés à l'installation des <a href=\"/equipements/chaudieres\" title=\"En savoir plus sur les chaudières\">chaudières gaz à condensation</a>, pompes à chaleur, ballons d'eau chaude, chauffe-eaux thermodynamiques et climatisations. Nous installons également les chaudières à bois ou à granulés. Vous avez besoin d'une nouvelle chaudière ou d'un plancher chauffant ? Vous voulez faire <a href=\"/installation/pompe-a-chaleur\" title=\"Installer une pompe à chaleur\">installer une pompe à chaleur</a> air/eau, eau/eau ou hybride ? Roussin Energies intervient à Grenoble et villes limitrophes: <a href=\"https://www.roussin-energies.fr/chauffage-seyssins\" title=\"Chauffage Seyssins\">Seyssins</a>, Montbonnot, <a href=\"https://www.roussin-energies.fr/chauffage-meylan\" title=\"Chauffage Meylan\">Meylan</a>, <a href=\"https://www.roussin-energies.fr/chauffage-voiron\" title=\"Chauffage Voiron\">Voiron</a>, ...</p> <h3>Dépannage, entretien forfaitaire ou contrat de maintenance pour votre chaudière, pompe à chaleur, climatisation, ...</h3> <p>Nous proposons des contrats d'entretien pour vos équipements de chauffage ou de production d'eau chaude sanitaire, sur Grenoble et agglomération dans un rayon de 50 km environ. Vous habitez le Versoud, <a href=\"https://www.roussin-energies.fr/chauffage-crolles\" title=\"Chauffage Crolles\">Crolles</a> ou Le Touvet ? N'hésitez pas à contacter notre entreprise. Nos prestations comportent les entretiens forfaitaires sans contrat ou les visites d'entretien sous <a href=\"/entretien/chaudiere\" title=\"Contrat d'entretien pour chaudières\">contrat pour les chaudières gaz et fioul</a>, les pompes à chaleur air/air (climatisations), air/eau et eau/eau. Nos techniciens se déplacent aussi pour <a href=\"/entretien/chauffe-eau\" title=\"Contrat d'entretien chauffe-eaux\">entretenir vos chauffe-eaux thermodynamiques et chauffe-bains</a>.</p> <p>Pour le <a href=\"/depannage/chaudiere\" title=\"Dépanner une chaudière\">dépannage de votre chaudière</a> ou le <a href=\"/depannage/climatisation\" title=\"Dépanner une climatisation\">dépannage de votre climatisation</a> nous disposons de techniciens formés aux interventions sur les plus grandes marques. Nos interventions dans le cadre des contrats de maintenance sont traités en priorité : pas question de vous laisser sans eau chaude ou sans chauffage !</p>"
+  }
+}

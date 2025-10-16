@@ -1,0 +1,47 @@
+{
+  "breadcrumb": "Choisir une installation de chauffage réversible adaptée à ses besoins",
+  "seo": {
+    "title": "Un chauffage réversible adapté à ses besoins",
+    "description": "SBF Climatisation propose un large éventail de possibilités pour vous aider à choisir votre système de chauffage réversible",
+    "opengraph": {
+      "site_name": "",
+      "type": "",
+      "locale": "",
+      "title": "",
+      "description": "",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "title": " Choisir une installation de chauffage réversible adaptée à ses besoins ",
+  "chapo": "SBF Energies propose un large éventail de possibilités.",
+  "image": {
+    "src": "/upload/files/5ebd4f1e0a26a151022765.jpg",
+    "alt": "Choisir une installation de chauffage réversible adaptée à ses besoins"
+  },
+  "intro": "<p>Un large éventail de possibilités se présente au moment de choisir son système de chauffage réversible. Toute une série de facteurs entre en compte, tels que la qualité de l’air pulsé, le nombre de pièces et leurs dimensions, ou encore la décoration de son intérieur. Il conviendra ainsi de se décider en parfaite connaissance de cause : le choix de l’appareil adéquat est l’assurance d’améliorer grandement le confort de l’habitat.</p>",
+  "paragraphs": [
+    {
+      "title": "CHAUFFAGE RÉVERSIBLE AIR/AIR OU AIR/EAU",
+      "text": "<p>Il existe deux types de chauffages réversibles : les systèmes air/air et air/eau. Si les deux utilisent les calories présentes dans l’air extérieur, le premier diffuse directement de l’air chauffé dans le logement, tandis que le second réchauffe un circuit d’eau circulant dans l’habitation (radiateurs ou plancher chauffant).</p> <p>&nbsp;</p>"
+    },
+    {
+      "title": "SOLUTIONS DE CHAUFFAGE MULTI-SPLIT OU MONO-SPLIT",
+      "text": "<p>En ce qui concerne les systèmes air/air, le premier critère de sélection dépend du nombre de pièces à chauffer et climatiser. Destinés à contrôler la température d’une seule pièce, les systèmes mono-split se composent de deux unités : une placée à l’extérieur dont le rôle est de puiser les calories dans l’air, et une placée à l’intérieur, qui chauffe une chambre par exemple. Les systèmes multi-split associent à une unité extérieure plusieurs unités intérieures, à disposer dans les pièces choisies. La température de chacune d’elles peut être régulée de manière indépendante. Avec certains systèmes, jusqu’à 11 unités intérieures sont connectables sur un même groupe extérieur.</p>"
+    },
+    {
+      "title": "DES SOLUTIONS ADAPTÉES POUR CHAQUE USAGE",
+      "text": "<p>Les besoins ne sont évidemment pas les mêmes que l’on veuille réguler la température d’une maison, les locaux d’une entreprise ou d'un commerce. Certaines gammes sont conçues pour une distribution optimisée de l’air, parfaitement adaptée aux pièces hautes sous plafond. De même, il est aisé de chauffer/rafraîchir de grandes surfaces en utilisant des appareils conçus de manière à assurer une répartition uniforme de l’air. Enfin, certaines unités sont fabriquées spécifiquement pour les commerces, caractérisés par leurs grandes hauteurs sous plafond et leurs espaces ouverts.</p>"
+    },
+    {
+      "title": "DEMANDER CONSEIL À UN SPÉCIALISTE",
+      "text": "<p>Quelle puissance est nécessaire pour chauffer les quatre pièces de sa maison ? Quel appareil propose les meilleurs rendements ?&nbsp;SBF Energies est là pour répondre à ces questions. Ces professionnels mettent leurs compétences au service des futurs utilisateurs pour les accompagner dans leur achat : définir leurs besoins, étudier la solution qui y correspond précisément, et enfin procéder à l’installation du système. Cette expertise est déterminante pour sélectionner le matériel adapté en fonction de ses envies et des spécificités de son intérieur.</p>"
+    },
+    {
+      "title": "BON À SAVOIR",
+      "text": "<p>Les solutions multi-split sont évolutives. Rien n’empêche d’installer, dans un premier temps, une unité intérieure dans la chambre parentale et une autre dans le salon, puis, un an plus tard, de mettre une nouvelle unité dans la chambre du bébé. Il suffira d’avoir prévu, en amont, un groupe extérieur adapté pour alimenter l’installation à terme.</p>"
+    }
+  ]
+}

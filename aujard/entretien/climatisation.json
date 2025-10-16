@@ -1,0 +1,52 @@
+{
+  "breadcrumb": "Climatisation",
+  "seo": {
+    "title": "Entretien de la Climatisation dans la Seine-et-Marne (77)",
+    "description": "Depuis plus de 20 ans, Aujard intervient rapidement dans toute la Seine-et-Marne pour entretenir votre climatisation. Optez pour un contrat d'entretien !",
+    "opengraph": {
+      "site_name": "Aujard",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Entretien de la Climatisation dans la Seine-et-Marne (77)",
+      "description": "Depuis plus de 20 ans, Aujard intervient rapidement dans toute la Seine-et-Marne pour entretenir votre climatisation. Optez pour un contrat d'entretien !",
+      "image": {
+        "src": "https://www.aujard.fr/build/images/aujard-clim-456x334.2e6830be.jpg",
+        "alt": "Entretien climatisation Aujard"
+      }
+    }
+  },
+  "hero": {
+    "title": "L'entretien de votre climatisation en Seine-et-Marne (77)",
+    "subtitle": "Nos contrats d'entretien Aujard pour votre climatisation"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.aujard.fr/build/images/aujard-clim-456x334.2e6830be.jpg",
+      "alt": "Entretien climatisation Aujard"
+    },
+    "text": "<p>Nos contrées connaissent depuis quelques années des étés très chauds, ponctués de vagues de chaleur extrêmes, et des hivers plutôt doux. Rien de très étonnant donc à ce que ce changement de temps ait donné l'envie à de nombreux particuliers de faire installer une <b>climatisation</b> chez eux, afin de garder une température agréable dans leurs pièces de vie même si le mercure grimpe en flèche à l'extérieur.</p> <p>Pour que tout fonctionne au mieux, il est très important de faire régulièrement l'entretien de votre climatisation réversible ou simple.</p> <p>Nos équipes de techniciens interviennent chez vous à <b><a href=\"https://www.aujard.fr/chauffage-melun\" title=\"Chauffage Melun\">Melun</a></b>, <b><a href=\"https://www.aujard.fr/chauffage-nangis\" title=\"Chauffage Nangis\">Nangis</a></b>, <b>Provins</b>, <b><a href=\"https://www.aujard.fr/chauffage-nemours\" title=\"Chauffage Nemours\">Nemours</a></b>, <b><a href=\"https://www.aujard.fr/chauffage-fontainebleau\" title=\"Chauffage Fontainebleau\">Fontainebleau</a></b> et dans les alentours.<br><br>&nbsp;</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "Le fonctionnement d'une climatisation",
+      "text": "<p>Une climatisation <b>fonctionne de manière assez simple</b>: les calories présentent dans la pièce sont captées pour être emprisonnées dans un fluide frigorigène qui va les conduire vers l'extérieur, pour les évacuer. C'est le même principe de fonctionnement que le réfrigérateur, froid à l'intérieur et chaud à l'extérieur. Il existe également des climatisations dites réversibles qui peuvent en plus fonctionner de la manière inverse (capture des calories à l'extérieur pour une restitution des calories à l'intérieur de la pièce), pouvant ainsi faire également office d'appareils de chauffage.</p> <hr>"
+    },
+    {
+      "title": "L'entretien d'une climatisation",
+      "text": "<p>Pour parvenir à fonctionner au mieux, une climatisation a besoin d'être entretenue. Une bonne maintenance de climatisation réversible ou simple, peut éviter des pannes bien sûr, mais aussi une surconsommation énergétique ou la diffusion d'un air vicié, déclencheur d'allergies. Lors de la maintenance d'une climatisation dans le 77, notre expert effectuera plusieurs actions sur le climatiseur :</p> <ul><li>nettoyage des filtres et changement des filtres défectueux si besoin</li><li>nettoyage des grilles d'aération dans le cas d'appareils avec unités extérieures</li><li>vérification de la bonne étanchéité du dispositif notamment au niveau du liquide frigorigène</li><li>vaporisation d'un désinfectant à longue durée (sur les filtres et dans les bacs de récupération) aux vertus bactéricides et fongicides</li></ul> <hr>"
+    },
+    {
+      "title": "Combien de fois par an faut-il faire réviser une climatisation ?",
+      "text": "<p>Certains appareils sont équipés d'un témoin lumineux qui s'allume lorsque le climatiseur a besoin d'une révision. Sinon, nos agents de maintenance de la climatisation en Seine-et-Marne vous conseillent de <b>faire revoir votre système au minimum 2 fois par an</b>: une fois <b>au printemps</b> (plus besoin de chauffage et pas encore besoin de climatisation) et une fois <b>au début de l'automne</b> (plus besoin de la climatisation et pas encore besoin de chauffage). Ensuite, si les besoins en climatisation sont intenses, il est judicieux de faire une révision supplémentaire durant la période d'utilisation.</p> <p><b>Bon à savoir</b> : certaines climatisations sont garanties uniquement si l'appareil est entretenu par un professionnel. Un dispositif contenant plus de 2 kg de liquide frigorigène doit obligatoirement être contrôlé plusieurs fois par an.</p> <p>Pour l'entretien d'une climatisation dans le 77, vous pouvez nous faire confiance ! Appelez-nous ou passez nous voir, afin que nous puissions réfléchir à un contrat d'entretien qui répondra au mieux à vos attentes. N'oubliez pas qu'une climatisation bien entretenue est un appareil qui pourra vous rafraîchir et vous réchauffez (cas d'une climatisation réversible) en toute sécurité durant de nombreuses années !</p> <hr>"
+    },
+    {
+      "title": "Nos services liés à la climatisation",
+      "text": "<p><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <a href=\"https://www.aujard.fr/depannage/climatisation\" title=\"Réparateur climatisation en Seine-et-Marne\">Dépannage et réparation de la climatisation</a> <br><i class=\"fa fa-angle-double-right\" style=\"color: #337ab7;\"></i> <a href=\"https://www.aujard.fr/installation/climatisation\" title=\"Installateur de climatisation en Seine-et-Marne\">Installation et remplacement d'un climatiseur</a></p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  },
+  "url": "https://www.aujard.fr/entretien/climatisation"
+}

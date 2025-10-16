@@ -1,0 +1,60 @@
+{
+  "breadcrumb": "Pompe a chaleur",
+  "seo": {
+    "title": "Pompe à chaleur (PAC) air/eau et Pompe à chaleur (PAC) eau/eau à Lyon | Mure Energies",
+    "description": "Profitez d'un chauffage écologique et économique avec une pompe à chaleur. Mure Energies est spécialisé dans les équipements de chauffage à Lyon.",
+    "opengraph": {
+      "site_name": "Mure Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Pompe à chaleur (PAC) air/eau et Pompe à chaleur (PAC) eau/eau à Lyon | Mure Energies",
+      "description": "Profitez d'un chauffage écologique et économique avec une pompe à chaleur. Mure Energies est spécialisé dans les équipements de chauffage à Lyon.",
+      "image": {
+        "src": "https://www.mure-energies.fr/build/images/mure-energies-equipements-pompe-a-chaleur-456x334.691a990b.jpg",
+        "alt": "Découvrez notre large gamme de pompe à chaleur à Lyon"
+      }
+    }
+  },
+  "hero": {
+    "title": "Equipements de chauffage : bien choisir sa pompe à chaleur à Lyon",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.mure-energies.fr/build/images/mure-energies-equipements-pompe-a-chaleur-456x334.691a990b.jpg",
+      "alt": "Découvrez notre large gamme de pompe à chaleur à Lyon"
+    },
+    "text": "<p>Vous aimeriez faire installer un nouvel équipement de chauffage dans la région lyonnaise ? <a href=\"/qui-sommes-nous/certifications-et-marques\" title=\"Chauffagistes Mure Energies\">Mure Energies est chauffagiste à Lyon</a> et spécialisé dans l'installation, l'entretien et le dépannage des pompes à chaleur air / eau et eau / eau des plus grandes marques.</p> <p>Vous souhaitez un devis pour une pompe à chaleur à <a href=\"https://www.mure-energies.fr/chauffage-lyon\" title=\"Chauffage Lyon\">Lyon</a> ? N'hésitez pas à contacter notre service client. Nos techniciens se déplacent chez vous pour étudier les contraintes du chantier et vous proposer un équipement adapté.</p>"
+  },
+  "contents": [
+    {
+      "title": "Pourquoi choisir une PAC comme chauffage à Lyon ?",
+      "text": "<p>Les <b>pompes à chaleur</b> constituent un moyen de chauffage économique et écologique. Les PAC à Lyon sont de plus éligibles à MaPrimeRenov. Vous pouvez ainsi bénéficier d'aides pour procéder au remplacement de votre ancienne chaudière au fioul ou au gaz devenue obsolète. Les <b>pompes à chaleur</b> utilisent l'énergie présente dans l'air extérieur ou dans l'eau de la nappe phréatique pour produire les calories nécessaires au réchauffement d'un circuit de chauffage, qu'il s'agisse de radiateurs ou d'un plancher chauffant.</p> <b>pompes à chaleur</b> <b>pompes à chaleur</b> <p>Les techniciens spécialisés Mure Energies vous conseillent le meilleur équipement selon les besoins de votre logement. Ainsi, lors d'une rénovation, s'il existe déjà un circuit de radiateurs à eau, il sera plus intéressant d'opter pour une pompe à chaleur moyenne ou haute température, pour que vos radiateurs puissent fournir suffisamment de chaleur. Sur un chantier de construction, dans le neuf, on conseille des radiateurs basse température ou un plancher chauffant, qui vous permet d'économiser de la place. Différentes technologies sont donc disponibles et permettent de répondre précisément aux contraintes de votre chantier lors de l'installation d'une PAC air / eau ou eau / eau à Lyon.</p>"
+    },
+    {
+      "title": "Pourquoi choisir Mure Energies pour l'installation ou l'entretien de votre PAC en région lyonnaise ?",
+      "text": "<p>Mure Energies dispose de la certification QualiPAC. L'entreprise a le label RGE Qualibat et s'engage pour les économies d'énergie et l'installation de votre pompe à chaleur à Lyon conformément aux normes donnant accès à MaPrimeRenov. Nos techniciens qualifiés sont formés sur les plus grandes marques de PAC, comme Hitachi, Viessmann et Atlantic. Nous choisissons pour votre logement des équipements de qualité.</p> <p>Mure Energies installe des <b>PAC air / eau</b> : c'est le système le plus courant, avec une unité extérieure qui puise l'énergie dans l'air pour le transmettre à une unité intérieure produisant de l'eau chaude pour le chauffage et selon les cas, pour l'eau chaude sanitaire. La <b>PAC</b> doit être bien dimensionnée pour vos besoins et c'est pourquoi il est important de s'adresser pour vos équipements à Lyon à des professionnels expérimentés. Si vous disposez de suffisamment de place pour les forages, vous pouvez aussi faire installer une <b>PAC eau / eau</b>. L'énergie est puisée dans la nappe phréatique. Cette technologie convient à une maison disposant de suffisamment de terrain sur lequel les forages sont autorisés. Vous aimeriez installer une PAC dans la région lyonnaise ? <a href=\"/nous-contacter\" title=\"Devis gratuit pompe à chaleur Lyon\">Demandez-nous un devis pour votre PAC à Lyon</a>.</p> <b>PAC air / eau</b> <b>PAC</b> <b>PAC eau / eau</b> <a href=\"/nous-contacter\" title=\"Devis gratuit pompe à chaleur Lyon\">Demandez-nous un devis pour votre PAC à Lyon</a>"
+    }
+  ],
+  "related": {
+    "title": "Consultez nos services liés aux pompes à chaleur",
+    "links": [
+      {
+        "text": "Installation ou remplacement d'une pompe à chaleur",
+        "href": "https://www.mure-energies.fr/installation/pompe-a-chaleur",
+        "title": "Installation d'une PAC"
+      },
+      {
+        "text": "Contrat d'entretien et maintenance de la pompe à chaleur",
+        "href": "https://www.mure-energies.fr/entretien/pompe-a-chaleur",
+        "title": "Entretien d'une PAC"
+      },
+      {
+        "text": "Dépannage pompe à chaleur",
+        "href": "https://www.mure-energies.fr/depannage/pompe-a-chaleur",
+        "title": "Entretien d'une PAC"
+      }
+    ]
+  },
+  "url": "https://www.mure-energies.fr/equipements/energie-renouvelable/pompe-a-chaleur"
+}

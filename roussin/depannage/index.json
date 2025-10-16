@@ -1,0 +1,67 @@
+{
+  "breadcrumb": "Depannage",
+  "seo": {
+    "title": "Dépannage chauffage Grenoble : L'expertise Roussin Energies",
+    "description": "Accédez aux meilleurs services pour l'entretien et le dépannage de votre chauffage dans la région de Grenoble en appelant Roussin Energies !",
+    "opengraph": {
+      "site_name": "Roussin Energies",
+      "type": "website",
+      "locale": "fr_FR",
+      "title": "Dépannage chauffage Grenoble : L'expertise Roussin Energies",
+      "description": "Accédez aux meilleurs services pour l'entretien et le dépannage de votre chauffage dans la région de Grenoble en appelant Roussin Energies !",
+      "image": {
+        "src": "https://www.roussin-energies.fr/build/images/roussin-energies-depannage-456x334.dff578e3.jpg",
+        "alt": "dépannage de chauffage"
+      }
+    }
+  },
+  "hero": {
+    "title": "Dépanner chauffage et climatisation à Grenoble et son agglomération",
+    "subtitle": "Plus de 60 ans d'expérience à Grenoble pour dépanner et réparer vos équipements de chauffage et climatisation !"
+  },
+  "intro": {
+    "image": {
+      "src": "https://www.roussin-energies.fr/build/images/roussin-energies-depannage-456x334.dff578e3.jpg",
+      "alt": "dépannage de chauffage"
+    },
+    "text": "<p><a href=\"https://www.roussin-energies.fr\" title=\"Roussin, chauffagiste à Grenoble\">Chauffagistes RGE</a> sur <a href=\"https://www.roussin-energies.fr/chauffage-fontaine\" title=\"Chauffage Fontaine\">Fontaine</a> (à côté de <a href=\"https://www.roussin-energies.fr/chauffage-grenoble\" title=\"Chauffage Grenoble\">Grenoble</a>), nous sommes habilités à intervenir sur tous systèmes de chauffage, y compris à énergie renouvelable.</p><p>Si notre coeur de métier est l'installation, l'entretien et le dépannage de chaudières, pompes à chaleur, chauffe-eau... nous accordons une grande importance à l'entretien et à l'optimisation des performances des différents appareils présents sur le marché.</p><p>Notre équipe de techniciens qualifiés assure le <b>dépannage de chauffage sur Grenoble</b> et dans les environs, notamment dans les communes de <a href=\"https://www.roussin-energies.fr/chauffage-seyssins\" title=\"Chauffage Seyssins\">Seyssins</a>, <a href=\"https://www.roussin-energies.fr/chauffage-meylan\" title=\"Chauffage Meylan\">Meylan</a>, Montbonnot, Saint Ismier, <a href=\"https://www.roussin-energies.fr/chauffage-voiron\" title=\"Chauffage Voiron\">Voiron</a>, Coublevie et villes limitrophes. N'hésitez pas à nous contacter pour obtenir des conseils ou des informations sur les systèmes de chauffage et leur réparation !</p>"
+  },
+  "teasers": [
+    {
+      "title": "Une prise en charge adaptée pour chaque appareil",
+      "text": "<p>Expert dans le <b>dépannage de votre chauffage et climatisation dans la région Grenobloise</b>, l'entreprise Roussin Energies intervient sur :</p><ul><li><a href=\"/depannage/chaudiere\" title=\"Dépanner chaudière gaz\">Le dépannage des chaudières (à condensation) gaz, fioul, bois et granulés</a>;</li><li><a href=\"/depannage/pompe-a-chaleur\" title=\"Dépanner pompe à chaleur\">Le dépannage des pompes à chaleur (PAC) air/eau et pompe à chaleur eau/eau</a>;</li><li><a href=\"/depannage/plancher-chauffant\" title=\"Dépanner plancher chauffant\">Le dépannage de votre chauffage au sol (plancher chauffant)</a>;</li><li><a href=\"/depannage/climatisation\" title=\"Dépanner climatisation\">Le dépannage des climatisation (réversible) ou PAC air/air</a>;</li><li><a href=\"/depannage/poele\" title=\"Dépanner poêle\">Le dépannage des poêles à granulés et poêles à bois</a>;</li><li><a href=\"/depannage/chauffe-eau\" title=\"Dépanner chauffe-eau\">Le dépannage des chauffe-eaux (thermodynamiques), chauffe-bains (gaz), cumulus.</a></li></ul>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Nos garanties dans le cadre de l'installation d'un nouvel appareil",
+      "text": "<p>Si votre appareil est très ancien et ne peut être réparé, nous pouvons, en tant que <b>dépanneur de chauffage à Grenoble</b> certifié, vous proposer son remplacement par un modèle basse consommation : chaudière THPE, pompe à chaleur, ... Notre certification professionnel du gaz nous permet la pose de chaudières dernière génération, économiques et écologiques.</p>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    },
+    {
+      "title": "Si vous avez souscrit un contrat d'entretien avec Roussin Energies...",
+      "text": "<p>Le <b>dépannage de chauffage à Grenoble</b> est pris en charge dans les 24 à 48 heures suivant votre appel si vous avez souscrit un contrat d'entretien avec notre société. Ce contrat, conclu le plus souvent suite à l'installation d'un appareil de chauffage, intégre une visite d'entretien annuelle durant laquelle un technicien vérifie le bon fonctionnement de votre équipement et effectue les réglages nécessaires pour optimiser les performances de celui-ci.</p><p>Quelle que soit la formule choisie, nous intervenons rapidement afin que vous retrouviez le plus vite possible tout le confort de votre habitat. Vous pouvez nous appeler au 04 76 26 07 65 du lundi au vendredi entre 8 h et 18 h. Selon la formule choisie, la main d'oeuvre, le déplacement et les pièces seront prises en charge lors de l'entretien.</p>",
+      "link": {
+        "href": "/entretien",
+        "text": "En savoir plus sur nos prestations d'entretien",
+        "title": "Entretien d'un équipement de chauffage"
+      }
+    },
+    {
+      "title": "Ce que nos clients pensent de nos prestations de dépannage",
+      "text": "<div class=\"skeepers_carousel_container\" data-slides-count=\"4\"></div><script defer=\"defer\" charset=\"utf-8\" src=\"//widgets.rr.skeepers.io/carousel/5b276559-786c-6ee4-7ded-ff7f1d64c0e5/416e5706-3570-4570-a40f-5c6f0cf93053.js\"></script>",
+      "link": {
+        "href": "",
+        "text": "",
+        "title": ""
+      }
+    }
+  ]
+}

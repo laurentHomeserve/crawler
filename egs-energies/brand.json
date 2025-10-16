@@ -1,0 +1,31 @@
+{
+  "name": "EGS Energies",
+  "description": "Artisan chauffagiste depuis 60 ans dans les Alpes-Maritimes. Les techniciens RGE d'EGS Energies entretiennent, installent et dépannent vos solutions de chauffages et climatisations sur Nice, Antibes, Cannes, Grasse, Cagnes-sur-Mer, Le Cannet, Saint-Laurent-du-Var, Menton, Vallauris, Vence et ses environs.",
+  "map_url": "https://goo.gl/maps/dojHFc1qEdo9wQvS8",
+  "website_url": "https://www.egs-energies.fr",
+  "phone": "(33 4)92000010",
+  "streetAddress": "15 Rue Bavastro",
+  "addressLocality": "Nice, France",
+  "postalCode": "F-06300",
+  "addressCountry": "France",
+  "geo": {
+    "lat": "43.69984817504883",
+    "lng": "7.2853546142578125"
+  },
+  "favicon": "https://www.egs-energies.fr/asset/EGS/favicon/favicon-32x32.png",
+  "logo": "https://www.egs-energies.fr/asset/img/organisation/logo/egs/logo-egs-energies.jpg",
+  "image": "https://www.egs-energies.fr/asset/img/organisation/corporate/egs/chauffagiste-egs-energies.jpg",
+  "avis_verifies": "",
+  "piwik_token": "3bcad6f5-c750-4225-a676-da4884dd1cfc",
+  "opening_hours": [
+    "Mo, Tu, We, Th, Fr 08:00-18:00",
+    "Sa 08:00-12:00"
+  ],
+  "footer_links": [],
+  "socials": [],
+  "sameAs": [
+    "https://www.societe.com/societe/egs-energies-424588952.html",
+    "https://www.facebook.com/egsenergies/",
+    "https://www.pagesjaunes.fr/pros/00167557"
+  ]
+}

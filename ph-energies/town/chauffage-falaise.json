@@ -1,0 +1,40 @@
+{
+  "breadcrumb": "Chauffage Falaise",
+  "hero": {
+    "title": "Votre expert chauffant et climatisation à Falaise",
+    "subtitle": ""
+  },
+  "intro": {
+    "image": {
+      "src": "/build/images/ph-energies-qui-sommes-nous-456x334.3c2112b3.jpg",
+      "alt": "Votre expert chauffant et climatisation à Falaise"
+    },
+    "text": "<p>À Falaise, PH Energies intervient chez vous pour installer, entretenir et dépanner vos équipements de chauffage et de climatisation. Vous pouvez faire appel à nos services pour :</p> <ul>\n<li><a title=\"Equipement PAC\" href=\"/equipements/pompe-a-chaleur\">les pompes à chaleur</a></li>\n<li><a title=\"Equipement climatisation\" href=\"/equipements/climatisation\">les climatisations</a></li>\n<li><a title=\"Equipement chaudière\" href=\"/equipements/chaudieres\">les chaudières</a></li>\n<li><a title=\"Equipement chauffe-eau\" href=\"/equipements/chauffe-eau\">les chauffe-eaux</a></li>\n<li><a title=\"Equipement plancher chauffant\" href=\"/equipements/plancher-chauffant\">les planchers chauffants</a></li>\n</ul> <p>Vous avez un projet d'installation, de maintenance ou de réparation de l'un de ces appareils ? Faites appel à nos experts en téléphonant au 02 31 82 69 33 pour obtenir un devis gratuit et personnalisé.</p> <hr>"
+  },
+  "contents": [
+    {
+      "title": "À Falaise, profitez de votre pompe à chaleur en toute sérénité",
+      "text": "<p>Vous êtes à la recherche d'un seul équipement qui pourra chauffer votre logement en hiver mais aussi rafraîchir votre intérieur en été ? Les équipes PH Energies vous recommandent d'<a title=\"Installation PAC\" href=\"/installation/pompe-a-chaleur\">installer une pompe à chaleur à votre domicile</a>.</p> <p>En effet, nos équipes sont formées pour réaliser l'installation mais aussi l'entretien et le dépannage de votre PAC. Pour rappel, ce type d'équipement écologique avec un haut rendement puise son énergie de l'environnement (eau, air, terre) pour la restituer sous forme de chaleur ou de fraîcheur à l'intérieur du logement.</p> <hr>"
+    },
+    {
+      "title": "Installation, entretien et dépannage de chaudière dans la ville de Falaise",
+      "text": "<p>La chaudière, qu'elle soit à gaz, à fioul ou à bois, elle l'un des équipements de chauffage préféré des Français. En effet, de nombreuses personnes décident d'<a title=\"Installation chaudière\" href=\"/installation/chaudiere\">installer une chaudière</a> chez eux, notamment pour son rendement important et sa fiabilité.</p> <p>Vous avez un projet d'installation, d'entretien ou de réparation de chaudière ? Nos collaborateurs prennent le temps de découvrir votre projet afin de vous proposer la solution la plus adaptée pour votre logement et votre budget.</p> <hr>"
+    },
+    {
+      "title": "À Falaise, PH Energies s'occupe de votre climatisation",
+      "text": "<p>Vous ne supportez plus les grandes chaleurs estivales ? Vous souhaitez gagner en confort thermique pour vous sentir mieux chez vous ? <a title=\"Installation climatisation\" href=\"/installation/climatisation\">Faites installer une climatisation</a> ! Les nouveaux modèles sont beaucoup plus silencieux, performants et respectueux de l'environnement.</p> <p>Vous possédez déjà une climatisation chez vous ? Les experts PH Energies interviennent également chez vous pour réaliser l'entretien et le dépannage de votre équipement actuel. Vous savez ainsi que, quels que soient vos besoins, vous pouvez faire appel à nos services.</p> <hr>"
+    },
+    {
+      "title": "Pour votre chauffe-eau à Falaise, faites confiance à nos experts",
+      "text": "<p><a title=\"Installation chauffe-eau\" href=\"/installation/chauffe-eau\">Faire installer un chauffe-eau</a> à son domicile permet de profiter d'une eau chaude sanitaire dans son logement tout au long de l'année. Il en existe différents modèles, selon l'utilisation que vous souhaitez en faire.</p> <p>Néanmoins, pour que votre appareil reste fonctionnel plus longtemps, il est nécessaire de faire réaliser une visite d'entretien annuelle par un professionnel. C'est pourquoi nous vous recommandons de souscrire au contrat d'entretien que nous proposons. Vous bénéficierez ainsi d'une visite de maintenance faite une fois par un par l'un de nos experts. En plus de vous permettre d'anticiper de nombreuses pannes, vous augmenterez également la durée de vie de votre appareil.</p> <hr>"
+    },
+    {
+      "title": "Envie d'installer un plancher chauffant à Falaise ?",
+      "text": "<p>Vous réfléchissez à <a title=\"Installation chauffage au sol\" href=\"/installation/plancher-chauffant\">faire installer un plancher chauffant</a> chez vous mais vous hésitez encore ? Téléphonez-nous au 02 31 82 69 33. Nos experts examineront votre projet afin de vous conseiller au mieux. En effet, la pose de chauffage au sol est conseillée dans un logement neuf mais peut aussi être envisagée en cas d'importants travaux de rénovation énergétique.</p> <p>Une fois votre équipement installé, nous restons à votre service pour réaliser l'entretien et/ou le dépannage de votre plancher chauffant. Notre objectif est ainsi de devenir votre interlocuteur privilégié pour chacun de vos besoins.</p>"
+    }
+  ],
+  "related": {
+    "title": "",
+    "links": []
+  }
+}
